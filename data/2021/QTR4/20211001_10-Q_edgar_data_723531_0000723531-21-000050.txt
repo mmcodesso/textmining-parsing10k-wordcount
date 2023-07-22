@@ -1,0 +1,507 @@
+<Header>
+<FileStats>
+    <FileName>20211001_10-Q_edgar_data_723531_0000723531-21-000050.txt</FileName>
+    <GrossFileSize>11613079</GrossFileSize>
+    <NetFileSize>93328</NetFileSize>
+    <NonText_DocumentType_Chars>843359</NonText_DocumentType_Chars>
+    <HTML_Chars>6650551</HTML_Chars>
+    <XBRL_Chars>1251714</XBRL_Chars>
+    <XML_Chars>2546666</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000723531-21-000050.hdr.sgml : 20211001
+<ACCEPTANCE-DATETIME>20211001160646
+ACCESSION NUMBER:		0000723531-21-000050
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		58
+CONFORMED PERIOD OF REPORT:	20210831
+FILED AS OF DATE:		20211001
+DATE AS OF CHANGE:		20211001
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAYCHEX INC
+		CENTRAL INDEX KEY:			0000723531
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT [8700]
+		IRS NUMBER:				161124166
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-11330
+		FILM NUMBER:		211298929
+
+	BUSINESS ADDRESS:	
+		STREET 1:		911 PANORAMA TRAIL S
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14625-0397
+		BUSINESS PHONE:		5853856666
+
+	MAIL ADDRESS:	
+		STREET 1:		911 PANORAMA TRAIL SOUTH
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14625-0397
+
+</SEC-Header>
+</Header>
+
+ 0000723531-21-000050.txt : 20211001
+
+10-Q
+ 1
+ payx-20210831x10q.htm
+ 10-Q
+
+payx-20210831x10q 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 _________________________________________ FORM _________________________________________ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended OR TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the Transition Period from __________to __________ Commission file number __________________________________________________ (Exact name of registrant as specified in its charter) (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) , (Address of principal executive offices) (Zip Code) 
+ Registrant s telephone number, including area code: Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Global Select Market 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes No Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No As of August 31, 2021, shares of the registrant s common stock, .01 par value, were outstanding. 
+
+PAYCHEX, INC. Ta ble of Contents Page PART I. FINANCIAL INFORMATION Item 1. Financial Statements (Unaudited) 1 Consolidated Statements of Income and Comprehensive Income 1 Consolidated Balance Sheets 2 Consolidated Statements of Stockholders Equity 3 Consolidated Statements of Cash Flows 4 Notes to Consolidated Financial Statements 5 Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 16 Item 3. Quantitative and Qualitative Disclosures of Market Risk 28 Item 4. Controls and Procedures 28 PART II. OTHER INFORMATION 29 Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 29 Item 6. Exhibits 29 Signatures 30 
+
+Table of Contents 
+
+PART I. FI NAN CIAL INFORMATION Item 1. Financial Statements PAYCHEX, INC. CONSOLIDATED STATEMENTS OF INCOME AND COMPREHENSIVE INCOME (UNAUDITED) In millions, except per share amounts For the three months ended August 31, 2021 2020 Revenue: Management Solutions PEO and Insurance Solutions Total service revenue Interest on funds held for clients Total revenue Expenses: Cost of service revenue Selling, general and administrative expenses Total expenses Operating income Other income/(expense), net Income before income taxes Income taxes Net income Other comprehensive (loss)/income, net of tax Comprehensive income Basic earnings per share Diluted earnings per share Weighted-average common shares outstanding Weighted-average common shares outstanding, assuming dilution 
+ See Notes to Consolidated Financial Statements. 
+
+ 1 
+ Table of Contents 
+
+PA YCHEX, INC. CONSOLIDATED BALANCE SHEETS (UNAUDITED) In millions, except per share amounts August 31, May 31, 2021 2021 Assets Cash and cash equivalents Restricted cash Corporate investments Interest receivable Accounts receivable, net of allowance for doubtful accounts PEO unbilled receivables, net of advance collections Prepaid income taxes Prepaid expenses and other current assets Current assets before funds held for clients Funds held for clients Total current assets Long-term restricted cash Long-term corporate investments Property and equipment, net of accumulated depreciation Operating lease right-of-use assets, net of accumulated amortization Intangible assets, net of accumulated amortization Goodwill Long-term deferred costs Other long-term assets Total assets Liabilities Accounts payable Accrued corporate compensation and related items Accrued worksite employee compensation and related items Short-term borrowings Accrued income taxes Deferred revenue Other current liabilities Current liabilities before client fund obligations Client fund obligations Total current liabilities Accrued income taxes Deferred income taxes Long-term borrowings, net of debt issuance costs Operating lease liabilities Other long-term liabilities Total liabilities Commitments and contingencies Note H Stockholders equity Common stock, par value; Authorized: shares; Issued and outstanding: shares as of August 31, 2021 and shares as of May 31, 2021 Additional paid-in capital Retained earnings Accumulated other comprehensive income Total stockholders equity Total liabilities and stockholders equity 
+ See Notes to Consolidated Financial Statements. 
+
+ 2 
+ Table of Contents 
+
+P AYCHEX, INC. CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY (UNAUDITED) In millions, except per share amounts For the three months ended August 31, 2021 Accumulated Additional other Common stock paid-in Retained comprehensive Shares Amount capital earnings income Total Balance as of May 31, 2021 Net income Unrealized losses on securities, net of million in tax benefit Reclassification adjustment for realized gains on securities, net of - million in tax expense (1) Cash dividends declared per share) Repurchases of common shares (2) Stock-based compensation costs Foreign currency translation adjustment Activity related to equity-based plans Balance as of August 31, 2021 
+ For the three months ended August 31, 2020 Accumulated Additional other Common stock paid-in Retained comprehensive Shares Amount capital earnings income Total Balance as of May 31, 2020 Net income Unrealized gains on securities, net of million in tax expense Reclassification adjustment for realized gains on securities, net of million in tax expense (1) Cash dividends declared per share) Repurchases of common shares (2) Stock-based compensation costs Foreign currency translation adjustment Activity related to equity-based plans Balance as of August 31, 2020 
+ (1) (2) million of its common stock under each program, with authorization expiring on and , respectively. The purpose of these programs is to manage common stock dilution. All shares of common stock repurchased were retired. See Notes to Consolidated Financial Statements. 
+
+ 3 
+ Table of Contents 
+
+P AYCHEX, INC. CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED) In millions For the three months ended August 31, 2021 2020 Operating activities Net income Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization Amortization of premiums and discounts on AFS securities, net Amortization of deferred contract costs Stock-based compensation costs Provision for/(benefit) from deferred income taxes Provision for allowance for doubtful accounts Net realized gains on sales of AFS securities Changes in operating assets and liabilities: Interest receivable Accounts receivable and PEO unbilled receivables, net Prepaid expenses and other current assets Accounts payable and other current liabilities Deferred costs Net change in other long-term assets and liabilities Net change in operating lease right-of-use assets and liabilities Net cash provided by operating activities Investing activities Purchases of AFS securities Proceeds from sales and maturities of AFS securities Purchases of property and equipment Purchases of other assets Net cash used in investing activities Financing activities Net change in client fund obligations Net change in short-term borrowings Dividends paid Repurchases of common shares Activity related to equity-based plans Net cash used in financing activities Net change in cash, restricted cash, and equivalents Cash, restricted cash, and equivalents, beginning of period Cash, restricted cash, and equivalents, end of period Reconciliation of cash, restricted cash, and equivalents Cash and cash equivalents Restricted cash Restricted cash and restricted cash equivalents included in funds held for clients Total cash, restricted cash, and equivalents 
+ See Notes to Consolidated Financial Statements . 
+
+ 4 
+ Table of Contents 
+
+PAY CHEX, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) August 31, 2021 segment. million and million as of August 31, 2021 and May 31, 2021, respectively. These balances include trade receivables for services provided to clients and purchased receivables related to payroll funding arrangements with clients in the temporary staffing industry. Trade receivables were million and million as of August 31, 2021 and May 31, 2021, respectively. Purchased receivables were million and million as of August 31, 2021 and May 31, 2021, respectively. single client had a material impact on total accounts receivable as of August 31, 2021 and May 31, 2021 or service revenue and results of operations for the three months ended August 31, 2021 and August 31, 2020. million and million, respectively. 
+
+ 5 
+ Table of Contents 
+
+million for both fiscal 2022 and fiscal 2021. For fiscal 2022, the Company also has an aggregate maximum liability of million for claims exceeding million. million and million under its policies during fiscal 2022 and fiscal 2021, respectively. Estimating the ultimate cost of future claims is an uncertain and complex process based upon historical loss experience and independent actuarial loss projections, and is subject to change due to multiple factors, including economic trends, changes in legal liability law, and damage awards, all of which could materially impact the reserves as reported in the consolidated financial statements. Accordingly, final claim settlements may vary from the present estimates, particularly with workers compensation insurance where those payments may not occur until well into the future. The Company regularly reviews the adequacy of its estimated insurance reserves. Adjustments to previously established reserves are reflected in the results of operations for the period in which the adjustment is identified. Such adjustments could be significant, reflecting any combination of new and adverse or favorable trends. million for the three months ended August 31, 2021 as compared with million for the three months ended August 31, 2020. The methods and assumptions used in the determination of the fair value of stock-based awards are consistent with those described in the Company s Form 10-K for fiscal 2021. 
+
+ 6 
+ Table of Contents 
+
+days notice of termination. Sales and other applicable non-payroll related taxes are excluded from service revenue. Based upon similar operational and economic characteristics, the Company s service revenue is disaggregated by Management Solutions and PEO and Insurance Solutions as reported in the Company s Consolidated Statements of Income and Comprehensive Income. The Company believes these revenue categories depict how the nature, amount, timing, and uncertainty of its revenue and cash flows are affected by economic factors. Management Solutions Revenue Management Solutions revenue is primarily derived from the Company s payroll processing, payroll-related ancillary services, and HR outsourcing solutions. Clients can select services on an la carte basis or as part of various product bundles. The Company s offerings often leverage the information gathered in its base payroll processing service, allowing it to provide comprehensive outsourcing services covering the HCM spectrum. Management Solutions revenue is generally recognized over time as services are performed and the client simultaneously receives and controls the benefits from these services. Revenue earned from delivery service for the distribution of certain client payroll checks and reports is also included in Management Solutions revenue in the Company s Consolidated Statements of Income and Comprehensive Income. Delivery service revenue is recognized at a point in time following the delivery of payroll checks, reports, quarter-end packages, and tax returns to the Company s clients. PEO and Insurance Solutions Revenue PEO solutions are sold through the Company s registered and licensed subsidiaries and offer businesses a combined package of services that includes payroll, employer compliance, HR and employee benefits administration, risk management outsourcing, and the on-site availability of a professionally trained HR representative, among other services. The Company serves as a co-employer of its clients employees, offers health insurance coverage to client employees, and assumes the risks and rewards of workers compensation insurance and certain health insurance offerings. PEO Solutions revenue is recognized over time as the services are performed and the client simultaneously receives and controls the benefits from these services. PEO Solutions revenue is reported net of certain pass-through costs billed and incurred, which include payroll wages, payroll taxes, including federal and state unemployment insurance, and health insurance premiums on guaranteed cost benefit plans. For workers compensation and health insurance plans where the Company retains risk, revenues and costs are recorded on a gross basis. PEO pass-through costs netted within the PEO and Insurance Solutions revenue are as follows: In millions State unemployment insurance (included in payroll wages and payroll taxes) Guaranteed cost benefit plans 
+ Insurance solutions are sold through the Company s licensed insurance agency, Paychex Insurance Agency, Inc., which provides insurance through a variety of carriers, allowing companies to expand their employee benefit offerings at an affordable cost. Insurance offerings include property and casualty coverage such as workers compensation, business-owner policies, commercial auto, cybersecurity, and health and benefits coverage, including health, dental, vision, and life. Insurance Solutions revenue reflects commissions earned on remitted insurance services premiums billed and is recognized over time as services are performed and the client simultaneously receives and controls the benefits from these services. Contract Balances The timing of revenue recognition for Management Solutions and PEO and Insurance Solutions is consistent with the invoicing of clients as they both occur during the respective client payroll period for which the services are provided. Therefore, the Company does not recognize a contract asset or liability resulting from the timing of revenue recognition and invoicing. 
+
+ 7 
+ Table of Contents 
+
+. Changes in deferred revenue related to set-up fees are as follows: Deferral of revenue Recognition of unearned revenue Balance, end of period 
+ Deferred revenue related to material rights is reported in the deferred revenue and other long-term liabilities line items on the Company s Consolidated Balance Sheets. As of August 31, 2021, the Company expects to recognize deferred revenue related to these material rights for the remainder of fiscal 2022 and subsequent fiscal years as follows: 2023 Thereafter 
+ Assets Recognized from the Costs to Obtain and Fulfill Contracts The Company recognizes an asset for the incremental costs of obtaining a contract with a client if it is expected that the economic benefit and amortization period will be longer than one year. Incremental costs of obtaining a contract include only those costs that are directly related to the acquisition of new contracts and that would not have been incurred if the contract had not been obtained. The Company does not incur incremental costs to obtain a contract renewal. The Company determined that certain sales commissions and bonuses, including related fringe benefits, meet the capitalization criteria under ASC Subtopic 340-40, Other Assets and Deferred Costs: Contracts with Customers. The Company also recognizes an asset for the costs to fulfill a contract with a client if the costs are specifically identifiable, generate or enhance resources used to satisfy future performance obligations, and are expected to be recovered. Deferred costs to obtain and fulfill contracts are reported in the prepaid expenses and other current assets and long-term deferred costs line items on the Company s Consolidated Balance Sheets. Amortization expense related to costs to obtain and fulfill a contract are included in cost of service revenue and selling, general and administrative expenses in the Company s Consolidated Statements of Income and Comprehensive Income. The Company regularly reviews its deferred costs for potential impairment and did t recognize an impairment loss during the three months ended August 31, 2021 or August 31, 2020. 
+ 
+ 8 
+ Table of Contents 
+
+Capitalization of costs Amortization Balance, end of period 
+ Costs to fulfill contracts: For the three months ended August 31, In millions 2021 2020 Balance, beginning of period Capitalization of costs Amortization Balance, end of period 
+ Weighted-average common shares outstanding Basic earnings per share Diluted earnings per share: Net income Weighted-average common shares outstanding Dilutive effect of common share equivalents Weighted-average common shares outstanding, assuming dilution Diluted earnings per share Weighted-average anti-dilutive common share equivalents 
+ Weighted-average common share equivalents that have an anti-dilutive impact are excluded from the computation of diluted earnings per share. Interest expense Other Other income/(expense), net 
+
+9 
+ Table of Contents 
+
+AFS securities: Asset-backed securities Corporate bonds Municipal bonds U.S. government agency and treasury securities Total AFS securities Other Total funds held for clients and corporate investments 
+ May 31, 2021 Gross Gross Amortized unrealized unrealized Fair In millions cost gains losses value Type of issue: Funds held for clients money market securities and other restricted cash equivalents AFS securities: Asset-backed securities Corporate bonds Municipal bonds U.S. government agency and treasury securities Total AFS securities Other Total funds held for clients and corporate investments 
+ Included in f unds held for clients money market securities and other restricted cash equivalents as of August 31, 2021 were bank demand deposit accounts and money market funds. Included in asset-backed securities as of August 31, 2021 were investment-grade securities primarily collateralized by fixed-rate auto loans and credit card receivables and all have credit ratings of AAA. The primary risk associated with these securities is the collection of the underlying receivables. Collateral on these asset-backed securities has performed as expected through August 31, 2021. Included in corporate bonds as of August 31, 2021 were investment-grade securities covering a wide range of issuers, industries, and sectors primarily carrying credit ratings of A or better and having maturities ranging from through . Included in municipal bonds as of August 31, 2021 were general obligation bonds and revenue bonds primarily carrying credit ratings of AA or better and have maturities ranging from through . A substantial portion of our portfolios are invested in high credit quality securities with ratings of AA or higher, and A-1/P-1 ratings on short-term securities. 
+
+ 10 
+ Table of Contents 
+
+Corporate investments Long-term corporate investments Total funds held for clients and corporate investments 
+ Funds held for clients money market securities and other restricted cash equivalents is collected from clients before due dates for payroll tax administration services and employee payment services and is invested until remitted to the applicable tax or regulatory agencies or client employees. Based upon the Company s intent and its contractual obligation to clients, these funds are considered restricted until they are remitted to fund these client obligations. The Company s AFS securities reflected net unrealized gains of million and million as of August 31, 2021 and May 31, 2021, respectively. Included in net unrealized gains as of August 31, 2021 and May 31, 2021, were and AFS securities in an unrealized loss position, representing approximately and approximately of the total securities held, respectively. AFS securities in an unrealized loss position for which a credit loss has not been recognized were as follows: Corporate bonds Municipal bonds U.S. government agency and treasury securities Total 
+ May 31, 2021 Securities in an unrealized loss position for less than twelve months Securities in an unrealized loss position for more than twelve months Total Gross Gross Gross unrealized Fair unrealized Fair unrealized Fair In millions losses value losses value losses value Type of issue: Asset-backed securities Corporate bonds Municipal bonds U.S. government agency and treasury securities Total 
+ The Company regularly reviews its investment portfolios to determine if any investment is impaired due to changes in credit risk or other potential valuation concerns. The Company believes the investments held as of August 31, 2021 that had gross unrealized losses of million were not impaired due to credit risk or other valuation concerns and was not required to record a credit loss or an allowance for credit losses on its AFS securities. The Company believes it is probable that the principal and interest will be collected in accordance with contractual terms and that the unrealized losses on these securities were due to changes in interest rates and were not due to increased credit risk or other valuation concerns. Most of the securities in an unrealized loss position as of August 31, 2021 and May 31, 2021 held an AA rating or better. The Company does not intend to sell these investments until the recovery of their amortized cost basis or maturity and further believes that it is not more-likely-than-not that it will be required to sell these investments prior to that time. The Company s assessment that an investment is not impaired due to credit risk or other valuation concerns could change in the future due to new developments, including developments related to the COVID-19 pandemic, or changes in the Company s strategies or assumptions related to any particular investment. 
+ 
+ 11 
+ Table of Contents 
+
+Gross realized losses Net realized gains 
+ The amortized cost and fair value of AFS securities that had stated maturities as of August 31, 2021 are shown below by expected maturity. Due after one year through three years Due after three years through five years Due after five years Total 
+ Variable rate demand notes VRDNs are primarily categorized as due after five years in the table above as the contractual maturities on these securities are typically to years. Although these securities are issued as long-term securities, they are priced and traded as short-term instruments because of the liquidity provided through the tender feature. 
+
+ 12 
+ Table of Contents 
+
+Total restricted and unrestricted cash equivalents AFS securities: Asset-backed securities Corporate bonds Municipal bonds U.S. government agency and treasury securities Total AFS securities Other Liabilities: Other long-term liabilities 
+ May 31, 2021 Quoted Significant prices in other Significant Carrying active observable unobservable value markets inputs inputs In millions (Fair value) (Level 1) (Level 2) (Level 3) Assets: Restricted and unrestricted cash equivalents: Money market securities Total restricted and unrestricted cash equivalents AFS securities: Asset-backed securities Corporate bonds Municipal bonds U.S. government agency and treasury securities Total AFS securities Other Liabilities: Other long-term liabilities 
+ In determining the fair value of its assets and liabilities, the Company predominately uses the market approach. Money market securities, which are cash equivalents, are considered Level 1 investments as they are valued based on quoted market prices in active markets. AFS securities, including asset-backed securities, corporate bonds, municipal bonds, U.S. government agency and treasury securities, and VRDNs, when held by the Company, are included in Level 2 and are valued utilizing inputs obtained from an independent pricing service. To determine the fair value of the Company s Level 2 AFS securities, the independent pricing service uses a variety of inputs, including benchmark yields, reported trades, non-binding broker/dealer quotes, issuer spreads, two-sided markets, benchmark securities, bids, offers, reference data, new issue data, and monthly payment information. The Company has not adjusted the prices obtained from the independent pricing service because it believes that they are appropriately valued. Assets included as other are mutual fund investments, consisting of participants eligible deferral contributions under the Company s non-qualified and unfunded deferred compensation plans. The related liability is reported as other long-term liabilities. The mutual funds are considered Level 1 investments as they are valued based on quoted market prices in active markets. 
+ 
+ 13 
+ Table of Contents 
+
+million and million for the Senior Notes, Series A, respectively, and million and million for the Senior Notes, Series B, respectively. The Company s long-term borrowings are not traded in active markets, and as a result, its fair values were estimated using a market approach employing Level 2 valuation inputs, including borrowing rates the Company believes are currently available based on loans with similar terms and maturities. The preceding methods described may produce a fair value calculation that may not be indicative of net realizable value or reflective of future fair values. Furthermore, although the Company believes its valuation methods are appropriate and consistent with other market participants, the use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a different fair value measurement at the reporting date. million of expense. This expense was included in selling, general and administrative expenses on the Consolidated Statements of Income and Comprehensive Income. The related lease liabilities will be satisfied under the original terms of the lease arrangements, unless buy-outs can be negotiated. Property and equipment, net of accumulated depreciation: During the three months ended August 31, 2020, the Company disposed of certain furniture and fixtures associated with abandoned leased property and recorded a loss on disposal of million. The loss was recorded in selling, general and administrative expenses on the Consolidated Statements of Income and Comprehensive Income. Depreciation expense was million for the three months ended August 31, 2021, compared to million for the three months ended August 31, 2020. Goodwill and intangible assets, net of accumulated amortization: Amortization expense relating to intangible assets was million for the three months ended August 31, 2021, compared to million for the three months ended August 31, 2020. The Company did t recognize an impairment loss as it relates to its goodwill or intangible assets during the three months ended August 31, 2021 or August 31, 2020. Short-term financing: Outstanding borrowings on the Company s credit facilities had a weighted-average interest rate of and as of August 31, 2021 and May 31, 2021, respectively. The unused amount available under these credit facilities as of August 31, 2021 was approximately billion. Subsequent to August 31, 2021, the Company amended its million credit facility with JP Morgan Chase Bank, N.A. JPM ). The amendment increases the credit facility s maximum borrowing capacity to million, extends the term through with the option to extend for two additional one-year periods, and amends interest rate provisions to phase out the use of the London Interbank Offered Rate LIBOR . In addition, the Company also amended its billion credit facility with JPM. The amendments phase out the use of LIBOR and adopt other administrative changes to maintain consistency with the Company s other credit facilities. The credit facilities contain various financial and operational covenants that are usual and customary for such arrangements. The Company was in compliance with all of these covenants as of August 31, 2021. Letters of credit: The Company had irrevocable standby letters of credit available totaling million and million as of August 31, 2021 and May 31, 2021, respectively, required to secure commitments for certain insurance policies. The letters of credit expire at various dates between and . amounts were outstanding on these letters of credit as of, or during the three months ended August 31, 2021 and August 31, 2020, or as of May 31, 2021. Long-term debt: The Company s long-term debt agreement contains customary representations, warranties, affirmative and negative covenants, including financial covenants that are usual and customary for such arrangements. The Company was in compliance with all of these covenants as of August 31, 2021. 
+
+ 14 
+ Table of Contents 
+
+million and million of capital assets as of August 31, 2021 and May 31, 2021, respectively. In the normal course of business, the Company makes representations and warranties that guarantee the performance of services under service arrangements with clients. Historically, there have been no material losses related to such guarantees. The Company has also entered into indemnification agreements with its officers and directors, which require the Company to defend and, if necessary, indemnify these individuals for certain pending or future claims as they relate to their services provided to the Company. The Company currently self-insures the deductible portion of various insured exposures under certain corporate employee and PEO employee health and medical benefit plans. The Company s estimated loss exposure under these insurance arrangements is recorded in other current liabilities on the Consolidated Balance Sheets. Historically, the amounts accrued have not been material and were not material as of August 31, 2021. The Company also maintains insurance coverage in addition to its purchased primary insurance policies for gap coverage for employment practices liability, errors and omissions, warranty liability, theft and embezzlement, cyber threats, and acts of terrorism; and capacity for deductibles and self-insured retentions through its captive insurance company. Contingencies: The Company is subject to various claims and legal matters that arise in the normal course of its business. These include disputes or potential disputes related to breach of contract, tort, employment-related claims, tax claims, statutory, and other matters. The Company s management currently believes that resolution of any outstanding legal matters will not have a material adverse effect on the Company s financial position or results of operations. However, legal matters are subject to inherent uncertainties and there exists the possibility that the ultimate resolution of these matters could have a material adverse impact on the Company s financial position and results of operations in the period in which any such effects are recorded. and for the three months ended August 31, 2021 and August 31, 2020, respectively. This increase was the result of an increase in state taxes. Both periods were impacted by the recognition of net discrete tax benefits related to employee stock-based compensation payments. 
+
+ 15 
+ Table of Contents 
+
+Item 2. M anagement s Discussion and Analysis of Financial Condition and Results of Operations Management s Discussion and Analysis of Financial Condition and Results of Operations reviews the operating results of Paychex, Inc. and its wholly owned subsidiaries Paychex, the Company, we, our, or us for the three months ended August 31, 2021 (the first quarter ), the respective prior year period ended August 31, 2020 (the prior year period ), and our financial condition as of August 31, 2021. The focus of this review is on the underlying business reasons for material changes and trends affecting our revenue, expenses, net income, and financial condition. This review should be read in conjunction with the August 31, 2021 consolidated financial statements and the related Notes to Consolidated Financial Statements (Unaudited) contained in this Quarterly Report on Form 10-Q Form 10-Q ). This review should also be read in conjunction with our Annual Report on Form 10-K Form 10-K for the year ended May 31, 2021 fiscal 2021 ). Forward-looking statements in this review are qualified by the cautionary statement included under the next sub-heading, Cautionary Note Regarding Forward-Looking Statements . Cautionary Note Regarding Forward-Looking Statements Certain written and oral statements made by us may constitute forward-looking statements within the meaning of the safe harbor provisions of the United States U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by such words and phrases as we expect, expected to, estimates, estimated, intend, overview, outlook, guidance, we look forward to, would equate to, projects, projections, projected, projected to be, anticipates, anticipated, we believe, believes, could be, targeting, and other similar words or phrases. Examples of forward-looking statements include, among others, statements we make regarding operating performance, events, or developments that we expect or anticipate will occur in the future, including statements relating to our outlook, revenue growth, earnings, earnings-per-share growth, or similar projections. Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations, and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy, and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks, and changes in circumstances that are difficult to predict, many of which are outside our control. Our actual results and financial condition may differ materially from those indicated in the forward-looking statements. Therefore, you should not place undue reliance upon any of these forward-looking statements. Important factors that could cause our actual results and financial condition to differ materially from those indicated in the forward-looking statements include, among others, the following: our ability to keep pace with changes in technology and to provide timely enhancements to our products and services; software defects, undetected errors, or development delays for our products; the possibility of cyberattacks, security vulnerabilities and Internet disruptions, including breaches of data security and privacy leaks, data loss and business interruptions; the possibility of failure of our operating facilities, computer systems, or communication systems during a catastrophic event; the failure of third-party service providers to perform their functions; the possibility that we may be subject to additional risks related to our co-employment relationship with our professional employer organization PEO changes in health insurance and workers compensation insurance rates and underlying claim trends; risks related to acquisitions and the integration of the businesses we acquire; our clients failure to reimburse us for payments made by us on their behalf; the effect of changes in government regulations mandating the amount of tax withheld or the timing of remittances; our failure to comply with covenants in our debt agreements; changes in governmental regulations and policies; our ability to comply with U.S. and foreign laws and regulations; 
+
+ 16 
+ Table of Contents 
+
+our compliance with data privacy laws and regulations; our failure to protect our intellectual property rights; potential outcomes related to pending or future litigation matters; the impact of the COVID-19 pandemic on the U.S. and global economy, and in particular on our small- and medium-sized business clients; volatility in the political and economic environment; changes in the availability of qualified people; and the possible effects of negative publicity on our reputation and the value of our brand. Any of these factors, as well as other factors discussed in our Form 10-K for fiscal 2021 or in our other periodic filings with the Securities and Exchange Commission SEC ), could cause our actual results to differ materially from our anticipated results. The information provided in this Form 10-Q is based upon the facts and circumstances known as of the date of this report, and any forward-looking statements made by us in this Form 10-Q speak only as of the date on which they are made. Except as required by law, we undertake no obligation to update these forward-looking statements after the date of filing this Form 10-Q with the SEC to reflect events or circumstances after such date, or to reflect the occurrence of unanticipated events. Our investor presentation regarding the financial results for the first quarter is available and accessible on our Paychex Investor Relations portal at https://investor.paychex.com . Information available on our website is not a part of, and is not incorporated into, this Form 10-Q. We intend to make future investor presentations available exclusively on our Paychex Investor Relations portal. Overview We are a leading human resource HR software and services company, offering HR, payroll, benefits, and insurance solutions for small- to medium-sized businesses. Within our human capital management HCM solutions, we offer a comprehensive portfolio of technology solutions and services that allow our clients to meet their diverse HR and payroll needs. Our comprehensive solutions allow our clients to manage their workforces effectively from hire to retire. We provide leading-edge HCM technology solutions, coupled with human expertise, to make complex HR, payroll, and benefits issues simple for our clients. Paychex Flex is our proprietary HCM software-as-a-service SaaS platform that unites HR, payroll, time and attendance, and benefits processes to maximize efficiency and savings. Paychex Flex helps clients manage the employee life cycle from recruiting and hiring to retirement, providing an integrated suite of solutions including recruiting, onboarding, HR, time and attendance and employee benefits. It utilizes a single cloud-based platform, with single client and employee records. Clients can select the modules they need and easily add on services as they grow. In addition, we provide comprehensive HR Outsourcing solutions to help our clients plan, manage, and comply with all aspects of HR. Our portfolio of HCM and employee benefit-related services is disaggregated into two categories, (1) Management Solutions and (2) PEO and Insurance Solutions, as discussed under the heading Description of Services in Part 1, Item 1 of our Form 10-K for fiscal 2021. Our mission is to be the leading provider of HR, payroll, benefits, and insurance solutions by being an essential partner to small-and medium-sized businesses across the U.S. and parts of Europe. We believe that success in this mission will lead to strong, long-term financial performance. Our strategy focuses on providing industry-leading, integrated technology; increasing client satisfaction; expanding our leadership in HR; growing our client base; and engaging in strategic acquisitions. We continue to focus on driving growth in the number of clients, revenue per client, total revenue, and profits, while providing industry-leading technology solutions and services to our clients and their employees. We maintain industry-leading margins by managing our personnel costs and expenses while continuing to invest in our business, particularly in sales and marketing and innovative technology. We believe these investments are critical to our success. Looking to the future, we believe that investing in our products, people, and technology-enabled service capabilities will position us to capitalize on opportunities for long-term growth. 
+
+ 17 
+ Table of Contents 
+
+A recent Company survey of 1,000 small businesses noted that the biggest challenge they currently face is recruiting and retaining employees as the evolution of the workplace resulting from the pandemic has increased the competition for talent. We continue to be a leader in innovative technology solutions. Our most recent round of product releases includes solutions designed to help employers hire and retain top talent in this challenging environment, including: Paychex Pre-Check, which notifies employees on the channel of their choice including smart watches and smart speakers that their gross-to-net paystub is ready to be securely reviewed. Employees may perform the review in Paychex Flex mobile app and are prompted to confirm the amount s accuracy or report an issue to the employer s administrator, who can address the potential issue before payday; Retention Insights, which uses predictive analytics to identify employees who may be more likely to consider leaving the organization; Pay Benchmarking, which allows employers to compare compensation details by position against national data provided by the Bureau of Labor Statistics; Talent Dashboard, which pulls together Retention Insights, time off balances, and performance management ratings into one place, allowing administrators to compare the performance rating and compensation of each job position; Amazon Alexa Integration, which makes it easy for users to interact with the Paychex Flex application from anywhere. With the addition of Amazon Alexa to existing integrations with Google Assistant and Siri Shortcuts, Paychex Flex is the first HCM application to offer integration with three of the major voice assistant platforms; Time Off Management, which provides a full, end-to-end solution to ensure clients maintain compliance with ever changing time off regulations. Our solution includes an automated time off request and approval process (via our Flex mobile application) and manages accrual calculations and balance tracking; and Paychex Employee Retention Tax Credit Service, which helps businesses retroactively identify tax credits and file amended returns to claim these credits. First Quarter Business Highlights Highlights compared to the prior year period are as follows: For the three months ended August 31, In millions, except per share amounts 2021 2020 Change (2) Total service revenue 1,068.4 917.3 16 Total revenue 1,082.9 932.2 16 Operating income 442.9 284.0 56 Net income 333.6 211.6 58 Adjusted net income (1) 323.2 228.0 42 Diluted earnings per share 0.92 0.59 56 Adjusted diluted earnings per share (1) 0.89 0.63 41 Dividends paid to stockholders 238.1 223.2 7 
+ (1) Adjusted net income and adjusted diluted earnings per share are not U.S. generally accepted accounting principle GAAP measures. Adjusted net income and adjusted diluted earnings per share in both periods included an adjustment for net tax windfall benefits related to employee stock-based compensation payments. In the prior year period, adjusted net income and adjusted diluted earnings per share included an adjustment for one-time non-recurring cost-saving initiatives. Refer to the Non-GAAP Financial Measures section of this Item 2 for a discussion of these non-GAAP measures and a reconciliation to the U.S. GAAP measures of net income and diluted earnings per share . (2) Percentage changes are calculated based on unrounded numbers. For further analysis of our results of operations for the first quarter and prior year period, and our financial position as of August 31, 2021, refer to the tables and analysis in the Results of Operations and Liquidity and Capital Resources sections of this Item 2. 
+
+ 18 
+ Table of Contents 
+
+COVID-19 Update As the global COVID-19 pandemic has continued to evolve, our priority has been, and continues to be, the health and safety of our employees. A portion of our workforce that initially transitioned to work remotely has voluntarily returned to the office. As vaccination levels continue to increase and masking and social distancing guidelines further relax, we look forward to welcoming more of our employees back to their office locations. We currently anticipate a phased return to the office beginning in Fall 2021, with a greater level of flexibility in response to the feedback our employees have shared with us. As our clients continue to manage through the COVID-19 pandemic, we remain committed to helping them adapt and thrive, not only through the uncertainties of the COVID-19 pandemic, but the transition to the future business environment. Our COVID-19 Help Center remains a source of near real-time information and tools to help businesses navigate this constantly evolving environment, including information surrounding the Biden administration s recent new vaccine requirements. We launched a new Paychex Employee Retention Tax Credit ERTC service to help businesses retroactively identify tax credits, based on wages already paid, and file amended returns to claim the credit. Prior to and including this new service, we have helped clients secure 4.0 billion to date in combined ERTC and paid leave credits. As the global economy continues to evolve, whether due to legislative changes, the pandemic, or other factors, we are committed to supporting our clients to help them navigate these challenges. Our unique blend of technology solutions and expertise provides valuable tools and resources to assist our clients and their employees during this critical time and beyond. Our strong balance sheet and operational flexibility have allowed us to successfully manage through the ongoing impacts of the COVID-19 pandemic to date while protecting our cash flow and liquidity. The fiscal year is off to a strong start as we achieved double-digit growth in both revenue and earnings over the prior year period. These results reflected gradual improvement in the economy, continued momentum in sales, and strong levels of client retention. We believe we are well-positioned with a broad portfolio of innovative technology and products along with our unparalleled expertise to meet the continuing needs of businesses and help them succeed and thrive as they begin to bring employees back to work and adjust to the changes of how, where, and when work gets done. We continue to evaluate the nature and extent of changes to the market and economic conditions related to the COVID-19 pandemic and will assess the potential impact on our business and financial position. Despite improving macroeconomic conditions and the emergence of vaccines, surges in COVID-19 cases, including variants of the strain, such as those recently experienced in Europe and the U.S., may cause people to self-quarantine or governments to shut down nonessential businesses again. We expect that the pandemic will continue to have an effect on our results, although the magnitude, duration, and full effects of the pandemic on our future results of operations or cash flows are not possible to predict at this time. For further discussion on the risks posed to our business from the COVID-19 pandemic, refer to Item 1A of our Form 10-K for fiscal 2021. RESULTS OF OPERATIONS Summary of Results of Operations: For the three months ended August 31, In millions, except per share amounts 2021 2020 Change (1) Revenue: Management Solutions 805.5 687.4 17 PEO and Insurance Solutions 262.9 229.9 14 Total service revenue 1,068.4 917.3 16 Interest on funds held for clients 14.5 14.9 (3) Total revenue 1,082.9 932.2 16 Total expenses 640.0 648.2 (1) Operating income 442.9 284.0 56 Other income/(expense), net 1.0 (7.9) n/m Income before income taxes 443.9 276.1 61 Income taxes 110.3 64.5 71 Effective income tax rate 24.9 23.4 Net income 333.6 211.6 58 Diluted earnings per share 0.92 0.59 56 
+ (1) Percentage changes are calculated based on unrounded numbers. n/m not meaningful 
+
+ 19 
+ Table of Contents 
+
+The changes in revenue as compared to the prior year period were primarily driven by the following factors: Management Solutions revenue: 805.5 million for the first quarter, reflecting an increase of 17 : o Increase in our client base and penetration of our suite of solutions, primarily HR outsourcing and time and attendance, o Higher checks per client as our clients employees return to work, and o Higher revenue per check reflecting better price realization. PEO and Insurance Solutions revenue: 262.9 million for the first quarter, reflecting an increase of 14 : o Increase in the number of worksite employees and the impact of an increase in average wages per worksite employee, o Higher revenue on state unemployment insurance, and o Increase in PEO health insurance revenue. Interest on funds held for clients: 14.5 million for the first quarter, reflecting a decrease of 3 : o Lower average interest rates, partially offset by o Increase in average investment balances; impacted by growth in our overall client base and improving macroeconomic conditions. We invest in highly liquid, investment-grade fixed income securities and do not utilize derivative instruments to manage interest rate risk. As of August 31, 2021, we had no exposure to high-risk or non-liquid investments. Details regarding our combined funds held for clients and corporate cash equivalents and investment portfolios were as follows: For the three months ended August 31, in millions 2021 2020 Change (1) Average investment balances: Funds held for clients 3,897.5 3,507.2 11 Corporate cash equivalents and investments 1,197.1 1,022.2 17 Total 5,094.6 4,529.4 12 Average interest rates earned (exclusive of net realized gains/(losses)): Funds held for clients 1.5 1.7 Corporate cash equivalents and investments 0.1 0.2 Combined funds held for clients and corporate cash equivalents and investments 1.1 1.3 Total net realized gains 0.1 0.3 
+ (1) Percentage changes are calculated based on unrounded numbers. August 31, May 31, in millions 2021 2021 Net unrealized gains on available for sale AFS securities (1) 78.7 79.3 Federal Funds rate (2) 0.25 0.25 Total fair value of AFS securities 3,002.4 3,020.2 Weighted-average duration of AFS securities in years (3) 3.4 3.3 Weighted-average yield-to-maturity of AFS securities (3) 1.8 1.9 
+ (1) The net unrealized gain on our investment portfolio was approximately 58.2 million as of September 28, 2021. (2) The Federal Funds rate was in the range of 0.00 to 0.25 as of August 31, 2021 and May 31, 2021. (3) These i tems exclude the impact of variable rate demand notes VRDNs as they are tied to short-term interest rates. 
+
+ 20 
+ Table of Contents 
+
+Total expenses: The following table summarizes the total combined cost of service revenue and selling, general and administrative expenses for the periods below: For the three months ended August 31, In millions 2021 2020 Change (1) Compensation-related expenses 382.9 370.6 3 PEO insurance costs 96.0 84.5 14 Depreciation and amortization 45.7 49.6 (8) Cost-saving initiatives 31.2 n/m Other expenses 115.4 112.3 3 Total expenses 640.0 648.2 (1) 
+ (1) Percentage changes are calculated based on unrounded numbers. n/m not meaningful Total expenses decreased 1 to 640.0 million for the first quarter compared to the prior year period. Excluding one-time costs of 31.2 million in the prior year period, total expenses increased 4 , impacted by the following: Compensation-related expenses: 382.9 million for the first quarter, reflecting a 3 increase, due to an increase in fringe benefits to our employees. PEO insurance costs: 96.0 million for the first quarter, reflecting a 14 increase, due to g rowth in client worksite employees and health insurance revenue across the PEO business. Depreciation and amortization: 45.7 million for the first quarter, reflecting an 8 decrease, due to lower amortization driven by intangible assets amortized using accelerated methodologies. Other expenses: 115.4 million for the first quarter, reflecting a 3 increase, due to continued investment in product development and information technology. Operating income: Operating income increased 56 to 442.9 million for the first quarter compared to the prior year period as a result of double-digit revenue growth and slight expense reduction. Adjusted operating income (1) , which excluded the impact of one-time costs related to the August 2020 geo-optimization plan in the prior year period, increased 41 to 442.9 million for the first quarter compared to the prior year period. Operating margin and adjusted operating margin (1) are as follows: For the three months ended August 31, 2021 2020 Operating margin (operating income as a percentage of total revenue) 40.9 30.5 Adjusted operating margin (1) (operating income, adjusted for one-time costs, as a percentage of total revenue) 40.9 33.8 
+ Fluctuations in these metrics were attributable to the factors previously discussed. (1) Adjusted operating income, adjusted operating margin, adjusted net income, and adjusted diluted earnings per share are not U.S. GAAP measures. Refer to the Non-GAAP Financial Measures section of this Item 2 for a discussion of these non-GAAP measures and a reconciliation to the most comparable GAAP measures of operating income, net income, and diluted earnings per share. Income taxes: Our effective income tax rate was 24.9 for the first quarter, compared to 23.4 for the prior year period. This increase was the result of an increase in state taxes. Both periods were impacted by the recognition of net discrete tax benefits related to employee stock-based compensation payments. 
+
+ 21 
+ Table of Contents 
+
+Non-GAAP Financial Measures: Adjusted operating income, adjusted net income, adjusted diluted earnings per share, earnings before interest, taxes, depreciation, and amortization EBITDA ), and adjusted EBITDA are summarized as follows: For the three months ended August 31, in millions 2021 2020 Change (1) Operating income 442.9 284.0 56 Non-GAAP adjustments: Cost-saving initiatives (2) 31.2 Total non-GAAP adjustments 31.2 Adjusted operating income 442.9 315.2 41 Net income 333.6 211.6 58 Non-GAAP adjustments: Excess tax benefit related to employee stock-based compensation payments (3) (10.4) (7.0) Cost-saving initiatives (2) 23.4 Total non-GAAP adjustments (10.4) 16.4 Adjusted net income 323.2 228.0 42 Diluted earnings per share (4) 0.92 0.59 56 Non-GAAP adjustments: Excess tax benefit related to employee stock-based compensation payments (3) (0.03) (0.02) Cost-saving initiatives (2) 0.06 Total non-GAAP adjustments (0.03) 0.05 Adjusted diluted earnings per share 0.89 0.63 41 Net income 333.6 211.6 58 Non-GAAP adjustments: Interest expense, net 9.0 8.4 Income taxes 110.3 64.5 Depreciation and amortization expense 45.7 49.6 Total non-GAAP adjustments 165.0 122.5 EBITDA 498.6 334.1 49 Cost-saving initiatives (2) 31.2 Adjusted EBITDA 498.6 365.3 36 
+ (1) Percentage changes are calculated based on unrounded numbers. (2) One-time costs and corresponding tax benefit recognized during fiscal 2021 related to the acceleration of cost-saving initiatives, including the long-term strategy to reduce our geographic footprint and headcount optimization. These events are not expected to recur. (3) Net tax windfall benefits related to employee stock-based compensation payments recognized in income taxes. This item is subject to volatility and will vary based on employee decisions on exercising employee stock options and fluctuations in our stock price, neither of which is within the control of management. (4) The calculation of the impact of non-GAAP adjustments on diluted earnings per share is performed on each line independently. The table may not add down by +/- 0.01 due to rounding. In addition to reporting operating income, net income, and diluted earnings per share, which are U.S. GAAP measures, we present adjusted operating income, adjusted operating margin, adjusted net income, adjusted diluted earnings per share, EBITDA, and adjusted EBITDA, which are non-GAAP measures. We believe these additional measures are indicators of our core business operations performance period over period. Adjusted operating income, adjusted operating margin, adjusted net income, adjusted diluted earnings per share, EBITDA, and adjusted EBITDA, are not calculated through the application of U.S. GAAP and are not required forms of disclosure by the SEC. As such, they should not be considered a substitute for the U.S. GAAP measures of operating income, net income, and diluted earnings per share, and, therefore, they should not be used in isolation, but in conjunction with the U.S. GAAP measures. The use of any non-GAAP measure may produce results that vary from the U.S. GAAP measure and may not be comparable to a similarly defined non-GAAP measure used by other companies. 
+
+ 22 
+ Table of Contents 
+
+LIQUIDITY AND CAPITAL RESOURCES As of August 31, 2021, our financial position remained strong with cash, restricted cash, and total corporate investments of 1.2 billion. Total short-term and long-term borrowings, net of debt issuance costs, were 804.5 million as of August 31, 2021. Our primary source of cash is generated by our ongoing operations. Cash flow from operations were 385.6 million for the first quarter. Our positive cash flows have allowed us to support our business and pay dividends. We currently anticipate that cash, restricted cash, and total corporate investments as of August 31, 2021, along with projected operating cash flows and available short-term financing, will support our business operations, capital purchases, share repurchases, and dividend payments for the foreseeable future. We believe that our investments in an unrealized loss position as of August 31, 2021 were not impaired due to increased credit risk or other valuation concerns, nor has any event occurred subsequent to that date to indicate any change in our assessment. Financing Short-term financing: We maintain committed and unsecured credit facilities and irrevocable letters of credit as part of our normal and recurring business operations. The purpose of these credit facilities is to meet short-term funding requirements, finance working capital needs, and for general corporate purposes. We typically borrow on an overnight or short-term basis on our credit facilities. Refer to Note M of the Notes to Consolidated Financial Statements contained in Item 8 of our Form 10-K for fiscal 2021 for further discussion on our credit facilities. Details of our credit facilities as of August 31, 2021 were as follows: Maximum August 31, 2021 Amount Outstanding Available in millions Expiration Date Available Amount Amount Credit facilities: JP Morgan Chase Bank, N.A. JPM July 31, 2024 1,000.0 1,000.0 JPM August 17, 2022 500.0 500.0 PNC Bank, National Association PNC February 6, 2023 250.0 7.1 242.9 Total Lines of Credit Outstanding and Available 7.1 1,742.9 
+ Amounts outstanding under the PNC credit facility as of August 31, 2021 remain outstanding as of the date of this report. Subsequent to August 31, 2021, we amended our 500.0 million credit facility with JPM. The amendment increased the credit facility s maximum borrowing capacity to 750.0 million, extended the term through September 17, 2026, with the option to extend for two additional one-year periods, and amended interest rate provisions to phase out the use of the London Interbank Offered Rate LIBOR ). In addition, we also amended our 1.0 billion credit facility with JPM. The amendments phase out the use of LIBOR and adopt other administrative changes to maintain consistency with our other credit facilities. Details of borrowings under each credit facility during the first quarter and the respective prior year period were as follows: For the three months ended August 31, 2021 Credit Facility 1 Billion 500 Million 250 Million in millions JPM JPM PNC Number of days borrowed 92 Maximum amount borrowed 106.5 Weighted-average amount borrowed 8.3 Weighted-average interest rate 1.15 
+
+23 
+ Table of Contents 
+
+For the three months ended August 31, 2020 Credit Facility 1 Billion 500 Million 250 Million in millions JPM JPM PNC Number of days borrowed 2 92 Maximum amount borrowed 135.0 246.1 Weighted-average amount borrowed 89.5 14.3 Weighted-average interest rate 3.25 1.07 
+ Short-term borrowings are primarily used for the settlement of client fund obligations, rather than liquidating previously collected client funds that have been invested in AFS securities allocated to our long-term portfolio. Subsequent to August 31, 2021, there were no overnight borrowings under our PNC and JPM credit facilities. We expect to have access to the amounts available under our current credit facilities to meet our ongoing financial needs. However, if we experience reductions in our operating cash flows due to any of the risk factors outlined in, but not limited to, Item 1A in our Form 10-K for fiscal 2021 and other SEC filings, we may need to adjust our capital, operating and other discretionary spending to realign our working capital requirements with the capital resources available to us. Furthermore, if we determined the need for additional short-term liquidity, there is no assurance that such financing, if pursued and obtained, would be adequate or on terms acceptable to us. Letters of credit: As of August 31, 2021, we had irrevocable standby letters of credit available totaling 139.6 million, required to secure commitments for certain insurance policies. The letters of credit expire at various dates between November 17, 2021 and December 5, 2022. No amounts were outstanding on these letters of credit during the first quarter or as of August 31, 2021. Long-term financing: We have borrowed 800.0 million through the issuance of long-term private placement debt Senior Notes ). Certain information related to our Senior Notes are as follows: Senior Notes Senior Notes Series A Series B Stated interest rate 4.07 4.25 Effective interest rate 4.15 4.31 Interest rate type Fixed Fixed Interest payment dates Semi-annual, in arrears Semi-annual, in arrears Principal payment dates March 13, 2026 March 13, 2029 Note type Unsecured Unsecured 
+ Refer to Note N of the Notes to Consolidated Financial Statements contained in Item 8 of our Form 10-K for fiscal 2021 for further discussion on our long-term financing. Other commitments: We had outstanding commitments under existing workers compensation insurance agreements and legally binding contractual arrangements, which included immaterial leases that have yet to commence. We also entered into various purchase commitments with vendors in the ordinary course of business and had outstanding commitments to purchase approximately 7.9 million of capital assets as of August 31, 2021. In addition, we are involved in two limited partnership agreements to contribute a maximum of 20.0 million to venture capital funds in the financial technology sector. As of August 31, 2021, we have contributed approximately 12.9 million of the total funding commitment. In the normal course of business, we make representations and warranties that guarantee the performance of services under service arrangements with clients. Historically, there have been no material losses related to such guarantees. We have also entered into indemnification agreements with our officers and directors, which require us to defend and, if necessary, indemnify these individuals for certain pending or future claims as they relate to their services provided to us. 
+
+ 24 
+ Table of Contents 
+
+We currently self-insure the deductible portion of various insured exposures under certain corporate employee and PEO employee health and medical benefit plans. Our estimated loss exposure under these insurance arrangements is recorded in other current liabilities on our Consolidated Balance Sheets. Historically, the amounts accrued have not been material and were not material as of August 31, 2021. We also maintain insurance coverage in addition to our purchased primary insurance policies for gap coverage for employment practices liability, errors and omissions, warranty liability, theft and embezzlement, cyber threats, and acts of terrorism; and capacity for deductibles and self-insured retentions through our captive insurance company. Operating, Investing, and Financing Cash Flow Activities For the three months ended August 31, In millions 2021 2020 Change Net cash provided by operating activities 385.6 215.0 170.6 Net cash used in investing activities (22.3) (236.3) 214.0 Net cash used in financing activities (211.7) (382.8) 171.1 Net change in cash, restricted cash, and equivalents 151.6 (404.1) 555.7 Cash dividends per common share 0.66 0.62 
+ The changes in our cash flows for the first quarter compared to the corresponding prior year period were primarily the result of the following key drivers: Operating Cash Flow Activities Higher net income attributable to the reasons discussed in the Results of Operations section of this Item 2. Changes in purchased receivables balances due to the timing of collections, offset by growth in our business. Timing and magnitude of income tax payments; partially offset by, Higher incentive compensation payments than in the prior year period; and, Decrease in the net change in operating lease right-of-use assets and liabilities due to the prior year period reduction of our geographic footprint. Investing Cash Flow Activities The decrease in cash used was primarily related to prior year period purchases of AFS securities from funds held for clients that were previously being held as cash or cash equivalents due to uncertainty in the economy. This is partially offset by, Greater investment in technology as we continued to introduce new product solutions and enhancements. Fluctuations in the net purchases and sales/maturities of AFS securities are also due to timing within the client funds portfolio and market conditions. Amounts will vary based upon the timing of collection from clients, and the related remittance to applicable tax or regulatory agencies for payroll tax administration services and to employees of clients utilizing employee payment services. Discussion of interest rates and related risks is included in the Market Risk Factors section of this Item 2. Financing Cash Flow Activities Increase in net cash inflows from changes in client fund obligations as our clients continued to recover from the impacts of the COVID-19 pandemic. Decrease in the repurchase of common shares as we did not repurchase any shares in the first quarter versus 0.4 million shares repurchased in the respective prior year period. 472.4 million remains available under our common stock repurchase programs. Refer to Part II, Item 2 of this Form 10-Q for further discussion on our common stock repurchase programs. Dividends paid increased 14.9 million compared to the prior year period due to an increase in our quarterly dividend from 0.62 to 0.66 per share. The payment of future dividends is dependent on our future earnings and cash flow and is subject to the discretion of our Board of Directors. 
+
+ 25 
+ Table of Contents 
+
+The client fund obligations liability will also vary based on the timing of collecting client funds and the related required remittance of funds to applicable tax or regulatory agencies for payroll tax administration services and to employees of clients utilizing employee payment services. Collections from clients are typically remitted from one to 30 days after receipt, with some items extending to 90 days. MARKET RISK FACTORS Changes in interest rates and interest rate risk: Funds held for clients are primarily comprised of short-term funds and AFS securities. Corporate investments are primarily comprised of AFS securities. As a result of our investing activities, we are exposed to changes in interest rates that may materially affect our results of operations and financial position. Changes in interest rates will impact the earnings potential of future investments and will cause fluctuations in the fair value of our longer-term AFS securities. We follow an investment strategy of protecting principal and optimizing liquidity. A substantial portion of our portfolios is invested in high credit quality securities with ratings of AA or higher, and A-1/P-1 ratings on short-term securities. We invest predominantly in municipal bonds; corporate bonds; and U.S. government agency and treasury securities. We limit the amounts that can be invested in any single issuer and invest primarily in short- to intermediate-term instruments whose fair value is less sensitive to interest rate changes. We manage the AFS securities to a benchmark duration of two and one-half to three and three-quarters years. During the first quarter, our primary short-term investment vehicle was bank demand deposit accounts. We have no exposure to high-risk or non-liquid investments. We have insignificant exposure to European investments. We have not and do not utilize derivative financial instruments to manage our interest rate risk. During the first quarter, the average interest rate earned on our combined funds held for clients and corporate cash equivalents and investment portfolios was 1.1 compared to 1.3 for the respective prior year period. When interest rates are falling, the full impact of lower interest rates will not immediately be reflected in net income due to the interaction of short- and long-term interest rate changes. During a falling interest rate environment, earnings decrease from our short-term investments, and over time, earnings will decrease from our longer-term AFS securities. Earnings from AFS securities, which as of August 31, 2021 had an average duration of 3.4 years, would not reflect decreases in interest rates until the investments are sold or mature and the proceeds are reinvested at lower rates. The amortized cost and fair value of AFS securities that had stated maturities as of August 31, 2021 are shown below by expected maturity. August 31, 2021 Amortized Fair In millions cost value Maturity date: Due in one year or less 318.7 322.0 Due after one year through three years 715.0 741.0 Due after three years through five years 1,025.1 1,062.1 Due after five years 864.9 877.3 Total 2,923.7 3,002.4 
+ VRDNs are primarily categorized as due after five years in the table above as the contractual maturities on these securities are typically 20 to 30 years. Although these securities are issued as long-term securities, they are priced and traded as short-term instruments because of the liquidity provided through the tender feature. As of August 31, 2021, the Federal Funds rate was in the range of 0.00 to 0.25 . There continues to be uncertainty in the changing market and economic conditions, including the possibility of additional measures that could be taken by the Federal Reserve and other government agencies, related to the COVID-19 pandemic. We will continue to monitor the market conditions. Calculating the future effects of changing interest rates involves many factors. These factors include, but are not limited to: governmental action resulting from the COVID-19 pandemic; daily interest rate changes; seasonal variations in investment balances; actual duration of short-term and AFS securities; the proportion of taxable and tax-exempt investments; changes in tax-exempt municipal rates versus taxable investment rates, which are not synchronized or simultaneous; and 
+
+ 26 
+ Table of Contents 
+
+financial market volatility and the resulting effect on benchmark and other indexing interest rates. Subject to these factors and under normal financial market conditions, a 25-basis-point change in taxable interest rates generally affects our tax-exempt interest rates by approximately 17 basis points. Under normal financial market conditions, the impact to earnings from a 25-basis-point change in short-term interest rates would be approximately 3.0 million to 3.5 million, after taxes, for a twelve-month period. Such a basis point change may or may not be tied to changes in the Federal Funds rate. Our total investment portfolio (funds held for clients and corporate cash equivalents and investments) is expected to average approximately 5.5 billion for fiscal 2022. Our anticipated allocation is approximately 40 invested in short-term securities and VRDNs with an average duration of less than 30 days and 60 invested in AFS securities, with an average duration of two and one-half to three and three-quarters years. The combined funds held for clients and corporate AFS securities reflected net unrealized gains of 78.7 million as of August 31, 2021 and 79.3 million as of May 31, 2021. During the first quarter, the net unrealized gain on our investment portfolios ranged from 68.0 million to 89.2 million . These fluctuations were driven by changes in market rates of interest. The net unrealized gain on our investment portfolio was approximately 58.2 million as of September 28, 2021. As of August 31, 2021 and May 31, 2021, we had 3.0 billion , respectively, invested in AFS securities at fair value. The weighted-average yield-to-maturity was 1.8 as of August 31, 2021 and 1.9 as of May 31, 2021. The weighted-average yield-to-maturity excludes AFS securities tied to short-term interest rates, such as VRDNs. Assuming a hypothetical increase in longer-term interest rates of 25 basis points, the resulting potential decrease in fair value for our portfolio of AFS securities as of August 31, 2021, would be approximately 25.0 million. Conversely, a corresponding decrease in interest rates would result in a comparable increase in fair value. This hypothetical increase or decrease in the fair value of the portfolio would be recorded as an adjustment to the portfolio s recorded value, with an offsetting amount recorded in stockholders equity. These fluctuations in fair value would have no related or immediate impact on our results of operations unless any declines in fair value are due to credit related concerns and an impairment loss is recognized. Credit risk: We are exposed to credit risk in connection with these investments through the possible inability of the borrowers to meet the terms of their bonds. We regularly review our investment portfolios to determine if any investment is impaired due to increased credit risk or other valuation concerns and we believe that the investments we held as of August 31, 2021 were not impaired as a result of the previously discussed reasons. While 273.9 million of our AFS securities had fair values that were below amortized cost, we believe that it is probable that the principal and interest will be collected in accordance with the contractual terms, and that the gross unrealized losses of 1.8 million were due to changes in interest rates and were not due to increased credit risk or other valuation concerns. Most of the AFS securities in an unrealized loss position as of August 31, 2021 and May 31, 2021 held an AA rating or better. We do not intend to sell these investments until the recovery of their amortized cost basis or maturity, and further believe that it is not more-likely-than-not that we will be required to sell these investments prior to that time. Our assessment that an investment is not impaired due to increased credit risk or other valuation concerns could change in the future due to new developments, including changes in our strategies or assumptions related to any particular investment. We have some credit risk exposure relating to the purchase of accounts receivable as a means of providing payroll funding to clients in the temporary staffing industry. There is also credit risk exposure relating to our trade accounts receivable. This credit risk exposure is diversified amongst multiple client arrangements and all such arrangements are regularly reviewed for potential write-off. No single client is material in respect to total accounts receivable, service revenue, or results of operations as of August 31, 2021. CRITICAL ACCOUNTING POLICIES Our critical accounting policies are described in Item 7 of our Form 10-K for fiscal 2021, filed with the SEC on July 16, 2021. On an ongoing basis, we evaluate the critical accounting policies used to prepare our consolidated financial statements, including, but not limited to, those related to: revenue recognition; assets recognized from the costs to obtain and fulfill contracts; PEO insurance reserves; goodwill and other intangible assets; impairment of long-lived assets; stock-based compensation costs; and 
+
+ 27 
+ Table of Contents 
+
+income taxes. There have been no material changes in these aforementioned critical accounting policies. NEW ACCOUNTING PRONOUNCEMENTS Recently adopted accounting pronouncements: Refer to Note A of the Notes to Consolidated Financial Statements (Unaudited) contained in Item 1 of this Form 10-Q for a discussion of recently adopted accounting pronouncements. Recently issued accounting pronouncements: Refer to Note A of the Notes to Consolidated Financial Statements (Unaudited) contained in Item 1 of this Form 10-Q for a discussion of recently issued accounting pronouncements. Ite m 3. Quantitative and Qualitative Disclosures of Market Risk The information called for by this item is provided under the caption Market Risk Factors under Item 2 Management s Discussion and Analysis of Financial Condition and Results of Operations and is incorporated herein by reference. Ite m 4. Controls and Procedures Disclosure Controls and Procedures: Disclosure controls and procedures are designed with the objective of ensuring that information required to be disclosed in the Company s reports filed under the Securities Exchange Act of 1934, as amended (the Exchange Act ), such as this report, is recorded, processed, summarized, and reported within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures are also designed with the objective of ensuring that such information is accumulated and communicated to the Company s management, including the Company s principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures: As of the end of the period covered by this report, the Company carried out an evaluation, under the supervision and with the participation of the Company s principal executive officer and principal financial officer, of the effectiveness of disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act. Based on such evaluation, the Company s principal executive officer and principal financial officer have concluded that as of August 31, 2021, the end of the period covered by this report, our disclosure controls and procedures were effective at a reasonable assurance level. Changes in Internal Control over Financial Reporting: The Company also carried out an evaluation of the internal control over financial reporting to determine whether any changes occurred during the fiscal quarter ended August 31, 2021. Based on such evaluation, there have been no changes in the Company s internal control over financial reporting that occurred during the Company s most recently completed fiscal quarter ended August 31, 2021, that materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting. 
+
+ 28 
+ Table of Contents 
+
+PAR T II. OTHER INFORMATION I tem 2. Unregistered Sales of Equity Securities and Use of Proceeds The Company maintains two programs to repurchase up to 400 million of the Company s common stock under each program, with authorization expiring on May 31, 2022 and January 31, 2024, respectively. The purpose of these programs is to manage common stock dilution. There were no shares repurchased during the first quarter and 472.4 million remains available for share repurchases in total under both programs. Ite m 6. Exhibits INDEX TO EXHIBITS Exhibit number Description 10.1 Amendment No. 3 to the 2017 Credit Agreement, dated as of September 17, 2021 by and among Paychex of New York, the Company, the lender parties thereto, JPMorgan Chase Bank, N.A. as Administrative Agent and others, incorporated herein by reference from Exhibit 10.1 to the Company s Form 8-K filed with the Commission on September 20, 2021. 10.2 Amendment No. 1. to the 2019 Credit Agreement, dated as of September 17, 2021 by and among Paychex of New York, the Company, the lender parties thereto, JPMorgan Chase Bank, N.A. as Administrative Agent and others, incorporated herein by reference from Exhibit 10.2 to the Company s Form 8-K filed with the Commission on September 20, 2021. 31.1 Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 31.2 Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 32.1 Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 32.2 Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 101.INS XBRL instance document. 101.SCH XBRL taxonomy extension schema document. 101.CAL XBRL taxonomy extension calculation linkbase document. 101.LAB XBRL taxonomy label linkbase document. 101.PRE XBRL taxonomy extension presentation linkbase document. 101.DEF XBRL taxonomy extension definition linkbase document. 104 Cover Page Interactive Data File the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 
+ Exhibit filed with this report 
+
+ 29 
+ Table of Contents 
+
+SIGNA TURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. PAYCHEX, INC. Date: October 1, 2021 /s/ Martin Mucci Martin Mucci President and Chief Executive Officer (Principal Executive Officer) Date: October 1, 2021 /s/ Efrain Rivera Efrain Rivera Senior Vice President, Chief Financial Officer, and Treasurer (Principal Financial Officer) Date: October 1, 2021 /s/ Robert L. Schrader 
+ Robert L. Schrader Vice President and Controller (Principal Accounting Officer) 
+
+30 
+
+<EX-31.1>
+ 2
+ payx-20210831xex31_1.htm
+ EX-31.1
+
+Exhibit 31.1
+
+EXHIBIT 31.1 
+
+CERTIFICATION PURSUANT TO 
+
+SECTION 302 
+
+OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, MARTIN MUCCI, certify that: 
+
+1. 
+
+I have reviewed this Quarterly Report on Form 10-Q of Paychex, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 1, 2021 /s/ Martin Mucci 
+
+Martin Mucci 
+
+President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ payx-20210831xex31_2.htm
+ EX-31.2
+
+Exhibit 31.2
+
+EXHIBIT 31.2 
+
+CERTIFICATION PURSUANT TO 
+
+SECTION 302 
+
+OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, EFRAIN RIVERA, certify that: 
+
+1. 
+
+I have reviewed this Quarterly Report on Form 10-Q of Paychex, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 1, 2021 /s/ Efrain Rivera 
+
+Efrain Rivera 
+
+Senior Vice President, Chief Financial Officer, 
+
+and Treasurer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ payx-20210831xex32_1.htm
+ EX-32.1
+
+Exhibit 32.1
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of Paychex, Inc. (the Company on Form 10-Q for the period ended August 31, 2021 , as filed with the Securities and Exchange Commission SEC on the date hereof (the Report ), I, MARTIN MUCCI, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+A signed original of this written statement has been provided to the Company and will be retained by the Company and furnished to the SEC upon request. 
+
+Date: October 1, 2021 
+
+/s/ Martin Mucci 
+
+Martin Mucci 
+
+President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ payx-20210831xex32_2.htm
+ EX-32.2
+
+Exhibit 32.2
+
+EXHIBIT 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of Paychex, Inc. (the Company on Form 10-Q for the period ended August 31, 2021 , as filed with the Securities and Exchange Commission SEC on the date hereof (the Report ), I, EFRAIN RIVERA, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+A signed original of this written statement has been provided to the Company and will be retained by the Company and furnished to the SEC upon request. 
+
+Date: October 1, 2021 
+
+/s/ Efrain Rivera 
+
+Efrain Rivera 
+
+Senior Vice Presiden t, Chief Financial Officer, and Treasurer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ payx-20210831.xsd
+ EX-101.SCH
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ payx-20210831_cal.xml
+ EX-101.CAL
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ payx-20210831_def.xml
+ EX-101.DEF
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ payx-20210831_lab.xml
+ EX-101.LAB
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ payx-20210831_pre.xml
+ EX-101.PRE
+
+</EX-101.PRE>
+

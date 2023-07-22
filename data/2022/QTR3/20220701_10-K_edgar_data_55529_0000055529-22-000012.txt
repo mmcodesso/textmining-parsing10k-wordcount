@@ -1,0 +1,1072 @@
+<Header>
+<FileStats>
+    <FileName>20220701_10-K_edgar_data_55529_0000055529-22-000012.txt</FileName>
+    <GrossFileSize>20628020</GrossFileSize>
+    <NetFileSize>146048</NetFileSize>
+    <NonText_DocumentType_Chars>12520119</NonText_DocumentType_Chars>
+    <HTML_Chars>3200113</HTML_Chars>
+    <XBRL_Chars>2405891</XBRL_Chars>
+    <XML_Chars>2198417</XML_Chars>
+    <N_Exhibits>13</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000055529-22-000012.hdr.sgml : 20220701
+<ACCEPTANCE-DATETIME>20220701120500
+ACCESSION NUMBER:		0000055529-22-000012
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		133
+CONFORMED PERIOD OF REPORT:	20220430
+FILED AS OF DATE:		20220701
+DATE AS OF CHANGE:		20220701
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KEWAUNEE SCIENTIFIC CORP /DE/
+		CENTRAL INDEX KEY:			0000055529
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY APPARATUS & FURNITURE [3821]
+		IRS NUMBER:				380715562
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-05286
+		FILM NUMBER:		221060355
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2700 W FRONT ST
+		CITY:			STATESVILLE
+		STATE:			NC
+		ZIP:			28677
+		BUSINESS PHONE:		7048737202
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 1842
+		CITY:			STATESVILLE
+		STATE:			NC
+		ZIP:			28687-1842
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KEWAUNEE SCIENTIFIC EQUIPMENT CORP /DE/
+		DATE OF NAME CHANGE:	19861216
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KEWAUNEE MANUFACTURING CO
+		DATE OF NAME CHANGE:	19680108
+
+</SEC-Header>
+</Header>
+
+ 0000055529-22-000012.txt : 20220701
+
+10-K
+ 1
+ kequ-20220430.htm
+ 10-K
+
+kequ-20220430 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ __________________________ 
+ FORM 
+ __________________________ 
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended , 2022 
+ or 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from __________ to __________ 
+ Commission file number 
+
+(Exact name of registrant as specified in its charter) 
+ __________________________ 
+ (State or other jurisdiction of incorporation or organization) (IRS Employer Identification No.) 
+ , 
+ 
+ (Address of principal executive offices) (Zip Code) 
+ Registrant's telephone number, including area code: ) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of Each Class Trading Symbol(s) Name of Exchange on which registered 
+ Securities registered pursuant to Section 12(g) of the Act: None 
+ __________________________ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act: 
+ Large accelerated filer 
+ Accelerated filer 
+ 
+ Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant has filed a report on and attestation to its management ' s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ Indicate by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Act). Yes No 
+ The aggregate market value of shares of voting stock held by non-affiliates of the registrant was approximately based on the last reported sale price of the registrant's Common Stock on October 31, 2021, the last business day of the registrant's most recently completed second fiscal quarter. Only shares beneficially owned by directors of the registrant (excluding shares subject to options) and each person owning more than 10 of the outstanding Common Stock of the registrant were excluded in that such persons may be deemed to be affiliates. This determination of affiliate status is not necessarily a conclusive determination for other purposes. As of June 28, 2022, the registrant had outstanding shares of Common Stock. 
+
+Table of Contents 
+
+ Table of Contents Page or Reference PART I 
+ Item 1. 
+ Business 
+ 3 
+ Item 1A. 
+ Risk Factors 
+ 4 
+ Item 1 B . 
+ Unresolved Staff Comments 
+ 8 
+ Item 2. 
+ Properties 
+ 8 
+ Item 3. 
+ Legal Proceedings 
+ 8 
+ Item 4. 
+ Mine Safety Disclosures 
+ 8 
+ PART II 
+ Item 5. 
+ Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 9 
+ Item 6. 
+ Reserved. 
+ 9 
+ Item 7. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 10 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 13 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 15 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 42 
+ Item 9A. 
+ Controls and Procedures 
+ 42 
+ Item 9B. 
+ Other Information 
+ 43 
+ Item 9C. 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 43 
+ PART III 
+ Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 44 
+ Item 11. 
+ Executive Compensation 
+ 45 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 45 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 46 
+ Item 14. 
+ Principal Accountant Fees and Services 
+ 46 
+ PART IV 
+ Item 15. 
+ Exhibits and Financial Statement Schedules 
+ 47 
+ Item 16. 
+ Form 10-K Summary 
+ 47 
+ EXHIBIT INDEX 
+ 48 
+ SIGNATURES 
+ 52 
+
+2 
+
+Table of Contents 
+
+ PART I 
+ 
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ Certain statements in this document constitute "forward-looking" statements within the meaning of the Private Securities Litigation Reform Act of 1995 (the "Reform Act"). All statements other than statements of historical fact included in this Annual Report, including statements regarding the Company's future financial condition, results of operations, business operations and business prospects, are forward-looking statements. Words such as "anticipate," "estimate," "expect," "project," "intend," "plan," "predict," "believe" and similar words, expressions and variations of these words and expressions are intended to identify forward-looking statements. Such forward-looking statements are subject to known and unknown risks, uncertainties, assumptions, and other important factors that could significantly impact results or achievements expressed or implied by such forward-looking statements. Such factors, risks, uncertainties and assumptions include, but are not limited to: competitive and general economic conditions and the ongoing impact of the COVID-19 pandemic, including disruptions from government mandates, both domestically and internationally, as well as supplier constraints and other supply disruptions; changes in customer demands; technological changes in our operations or in our industry; dependence on customers required delivery schedules; risks related to fluctuations in the Company s operating results from quarter to quarter; risks related to international operations, including foreign currency fluctuations; changes in the legal and regulatory environment; changes in raw materials and commodity costs; acts of terrorism, war, governmental action, natural disasters and other Force Majeure events; and the ultimate impact on the Company of the cyber attack suffered on November 5, 2021. The cautionary statements made pursuant to the Reform Act herein and elsewhere by us should not be construed as exhaustive. We cannot always predict what factors would cause actual results to differ materially from those indicated by the forward-looking statements. Over time, our actual results, performance, or achievements will likely differ from the anticipated results, performance or achievements that are expressed or implied by our forward-looking statements, and such difference might be significant and harmful to our stockholders' interest. Many important factors that could cause such a difference are described under the caption "Risk Factors," in Item 1A of this Annual Report, which you should review carefully. These forward-looking statements speak only as of the date of this document. The Company assumes no obligation, and expressly disclaims any obligation, to update any forward-looking statements, whether as a result of new information, future events or otherwise. 
+ Item 1. Business 
+ GENERAL 
+ Kewaunee Scientific Corporation (the "Company") was founded in 1906, incorporated in Michigan in 1941, became publicly-held in 1968, and was reincorporated in Delaware in 1970. Our principal business is the design, manufacture, and installation of laboratory, healthcare, and technical furniture and infrastructure products. Our products include steel, wood, and laminate furniture, fume hoods, biological safety cabinets, laminar flow and ductless hoods, adaptable modular and column systems, moveable workstations and carts, epoxy resin worksurfaces, sinks, and accessories and related design and engineering services. 
+ Our products are sold primarily through purchase orders and contracts submitted by customers through our dealers, our subsidiaries in Singapore and India, and a national distributor. Products are sold principally to pharmaceutical, biotechnology, industrial, chemical and commercial research laboratories, educational institutions, healthcare institutions, governmental entities, and manufacturing facilities. We consider the markets in which we compete to be highly competitive, with a significant amount of the business involving competitive public bidding. 
+ It is common in the laboratory and healthcare furniture industries for customer orders to require delivery at extended future dates, as products are frequently installed in buildings yet to be constructed. Changes or delays in building construction may cause delays in delivery of the orders and our recognition of the sale. Since prices are normally quoted on a firm basis in the industry, we bear the burden of possible increases in labor and material costs between quotation of an order and delivery of the product. The impact of such possible increases is considered when determining the sales price. The primary raw materials and products manufactured by others and used by us in our products are cold-rolled carbon and stainless steel, hardwood lumber and plywood, paint, chemicals, resins, hardware, plumbing and electrical fittings. Such materials and products are purchased from multiple suppliers and are typically readily available. 
+ Our need for working capital and our credit practices are comparable to those of other companies manufacturing, selling and installing similar products in similar markets. Since our products are used in building construction projects, in many cases payments for our products are received over longer periods of time than payments for many other types of manufactured products, thus requiring increased working capital. In addition, payment terms associated with certain projects provide for a retention amount until final completion of the project, thus also increasing required working capital. On average, payments for our products are received during the quarter following shipment, with the exception of the retention amounts which are collected at the final completion of the project. 
+ 3 
+
+Table of Contents 
+
+ We hold various patents and patent rights, but do not consider that our success or growth is dependent upon our patents or patent rights. Our business is not dependent upon licenses, franchises, concessions, trademarks, royalty agreements, or labor contracts. 
+ Our business is not generally cyclical, although domestic sales are sometimes lower during our third quarter because of slower construction activity in certain areas of the country during the winter months. Sales for two of the Company's domestic dealers and our national stocking distributor represented, in the aggregate, approximately 38 and 40 of the Company's sales in fiscal years 2022 and 2021, respectively. Loss of all or part of our sales to a large customer would have a material effect on our financial operations. 
+ Our order backlog at April 30, 2022 was 173.9 million, as compared to 114.5 million at April 30, 2021. Based on scheduled shipment dates and past experience, we estimate that not less than 86 of our order backlog at April 30, 2022 will be shipped during fiscal year 2023. However, it may be expected that delays in shipments will occur because of customer rescheduling or delay in completion of projects which involve the installation of our products. 
+ SEGMENT INFORMATION 
+ See Note 11 , Segment Information , of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for information concerning our Domestic and International business segments. 
+ COMPETITION 
+ We consider the industries in which we participate to be highly competitive and believe that the principal deciding factors are price, product performance, and customer service. A significant portion of our business is based upon competitive public bidding. 
+ RESEARCH AND DEVELOPMENT 
+ The amount spent and expensed by us during the fiscal year ended April 30, 2022 on research and development activities related to new or redesigned products was . The amount spent for similar purposes in the fiscal year ended April 30, 2021 was . 
+ ENVIRONMENTAL COMPLIANCE 
+ In the last two fiscal years, compliance with federal, state, or local provisions enacted or adopted regulating the discharge of materials into the environment has had no material effect on us. There is no material capital expenditure anticipated for such purposes, and accordingly, such regulation is not expected to have a material effect on our earnings or competitive position. 
+ EMPLOYEES 
+ At April 30, 2022, the Company had the following number of full-time employees: 
+ 575 (Domestic); 318 (International). 
+ OTHER INFORMATION 
+ Our Internet address is www.kewaunee.com . We make available, free of charge through this website, our annual report to stockholders. Our Form 10-K and 10-Q financial reports may be obtained by stockholders by writing the Secretary of the Company, Kewaunee Scientific Corporation, P.O. Box 1842, Statesville, NC 28687-1842. The public may also obtain information on our reports, proxy, and information statements at the Securities and Exchange Commission ("SEC") Internet site www.sec.gov . The reference to our website does not constitute incorporation by reference of any information contained at that site. 
+ EXECUTIVE OFFICERS OF THE REGISTRANT 
+ Included in Part III, Item 10(b) , Directors, Executive Officers and Corporate Governance , of this Annual Report on Form 10-K. 
+ 
+ Item 1A. Risk Factors 
+ You should carefully consider the following risks before you decide to buy shares of our common stock. If any of the following risks actually occur, our business, results of operations, or financial condition would likely suffer. In such case, the trading price of our common stock would decline, and you may lose all or part of the money you paid to buy our stock. 
+ This and other public reports may contain forward-looking statements based on current expectations, assumptions, estimates and projections about us and our industry. These forward-looking statements involve risks and uncertainties. Our actual results 
+ 4 
+
+Table of Contents 
+
+ could differ materially from those forward-looking statements as a result of many factors, including those more fully described below and elsewhere in our public reports. We do not undertake to update publicly any forward-looking statements for any reason, even if new information becomes available or other events occur in the future. 
+ Disruptions in the financial markets have historically created, and may continue to create, uncertainty in economic conditions that may adversely affect our customers and our business. 
+ The financial markets in the United States, Europe and Asia have in the past been, and may in the future be, volatile. The tightening of credit in financial markets, worsening of economic conditions, a prolonged global, national or regional economic recession or other similar events could have a material adverse effect on the demand for our products and on our sales, pricing and profitability. We are unable to predict the likely occurrence or duration of these adverse economic conditions and the impact these events may have on our operations and the end users who purchase our products. 
+ If we fail to compete effectively, our revenue and profit margins could decline. 
+ We face a variety of competition in all of the markets in which we participate. Competitive pricing, including price competition or the introduction of new products, could have material adverse effects on our revenues and profit margins. 
+ Our ability to compete effectively depends to a significant extent on the specification or approval of our products by architects, engineers, and customers. If a significant segment of those communities were to decide that the design, materials, manufacturing, testing, or quality control of our products is inferior to that of any of our competitors, our sales and profits would be materially and adversely affected. 
+ If we lose a large customer, our sales and profits would decline. 
+ We have substantial sales to three of our domestic channel partners. The combined sales to two dealers and our national stocking distributor accounted for approximately 38 of our sales in fiscal year 2022. Loss of all or a part of our sales to a large channel partner would have a material effect on our revenues and profits until an alternative channel partner could be developed. 
+ An increase in the price of raw materials and energy could negatively affect our sales and profits. 
+ It is common in the laboratory and healthcare furniture industries for customers to require delivery at extended future dates, as products are frequently installed in buildings yet to be constructed. Since prices are normally quoted on a firm basis in the industry, we bear the burden of possible increases in labor, material and energy costs between the quotation of an order and the delivery of the products. Our principal raw materials are steel, including stainless steel, wood and epoxy resin. Numerous factors beyond our control, such as general economic conditions, competition, worldwide demand, labor costs, energy costs, and import duties and other trade restrictions, influence prices for our raw materials. During the fiscal year ended April 30, 2022, prices for two of our principal raw materials, steel and epoxy resin, increased 149 and 162 , respectively. We have not always been able, and in the future we might not be able, to increase our product prices in amounts that correspond to increases in costs of raw materials, without materially and adversely affecting our sales and profits. Where we are not able to increase our prices, increases in our raw material costs will adversely affect our profitability. 
+ Our future growth may depend on our ability to penetrate new international markets. 
+ International laws and regulations, construction customs, standards, techniques and methods differ from those in the United States. Significant challenges of conducting business in foreign countries include, among other factors, geopolitical tensions, local acceptance of our products, political instability, currency controls, changes in import and export regulations, changes in tariff and freight rates and fluctuations in foreign exchange rates. 
+ Events outside our control may affect our operating results. 
+ We have little control over the timing of shipping customer orders, as customers' required delivery dates are subject to change by the customer. Construction delays and customer changes to product designs are among the factors that may delay the start of manufacturing and shipments of orders. Shipments that we anticipate in one quarter may occur in another quarter, affecting both quarters' results. Weather conditions, such as unseasonably warm, cold, or wet weather, can also affect and sometimes delay projects. Political and economic events can also affect our revenues. When sales do not meet our expectations, our operating results will be reduced for the relevant quarters. 
+ Our principal markets are in the laboratory and healthcare building construction industry. This industry is subject to significant volatility due to various factors, none of which is within our control. Declines in construction activity or demand for our products could materially and adversely affect our business and financial condition. 
+ 5 
+
+Table of Contents 
+
+ We depend on key management and technical personnel, the loss of whom could harm our business. 
+ We depend on certain key management and technical personnel. The loss of one or more key employees may materially and adversely affect us. Our success also depends on our ability to attract and retain additional highly qualified technical, marketing, and management personnel necessary for the maintenance and expansion of our activities. We might not be able to attract or retain such personnel. 
+ Our stock price is likely to be volatile and could drop. 
+ The trading price of our Common Stock could be subject to wide fluctuations in response to quarter-to-quarter variation in operating results, announcement of technological innovations or new products by us or our competitors, general conditions in the construction and construction materials industries, relatively low trading volume in our common stock and other events or factors. In addition, in recent years, the stock market has experienced extreme price fluctuations. This volatility has had a substantial effect on the market prices of securities issued by many companies for reasons unrelated to the operating performance of those companies. Securities market fluctuations may adversely affect the market price of our common stock. 
+ We are subject to other risks that might also cause our actual results to vary materially from our forecasts, targets, or projections, including: 
+ Failing to anticipate the need for, appropriately invest in and effectively manage the human, information technology and logistical resources necessary to support our business, including managing the costs associated with such resources; 
+ Failing to generate sufficient future positive operating cash flows and, if necessary, secure adequate external financing to fund our growth; 
+ Interruptions in service by common carriers that ship goods within our distribution channels; and 
+ Disruptions of our supply chain could have a material adverse effect on our operating and financial results. 
+ Disruption of our supply chain capabilities due to trade restrictions, political instability, severe weather, natural disasters, public health crises, war, terrorism, or labor supply could impair our ability to source key components. If we are required to obtain these components from an alternate source, we may not be able to obtain pricing on as favorable terms. Additionally, we may be forced to pay additional transportation costs and/or we may experience a delay in our ability to meet demand for our products. Any of the foregoing disruptions could exacerbate other risk factors and have an adverse effect on operating results and financial condition. During fiscal year 2022, we experienced increases in raw material costs as a result of supply chain disruptions, and we could continue to experience such increases. 
+ We recently experienced a network cyber attack that disrupted our domestic operations. Future cybersecurity incidents could expose us to liability and damage our reputation and our business. 
+ We collect, process, store, and transmit large amounts of data, and it is critical to our business strategy that our facilities and infrastructure remain secure and are perceived by the marketplace to be secure. Our information technology systems are essential to our efforts to manufacture our products, process customer sales transactions, manage inventory levels, conduct business with our suppliers and other business partners, and record, summarize and analyze the results of our operations. These systems contain, among other things, material operational, financial and administrative information related to our business. As with most companies, there will always be some risk of physical or electronic break-ins, computer viruses, or similar disruptions. 
+ In addition, we, like all entities, are the target of cybercriminals who attempt to compromise our systems. From time to time, we experience threats and intrusions that may require remediation to protect sensitive information, including our intellectual property and personal information, and our overall business. Any physical or electronic break-in, computer virus, cybersecurity attack or other security breach or compromise of the information handled by us or our service providers may jeopardize the security or integrity of information in our computer systems and networks or those of our customers and cause significant interruptions in our and our customers' operations. 
+ Any systems and processes that we have developed that are designed to protect customer, associate and vendor information, and intellectual property, and to prevent data loss and other security attacks, cannot provide absolute security. In addition, we may not successfully implement remediation plans to address all potential exposures. It is possible that we may have to expend additional financial and other resources to address these problems. Failure to prevent or mitigate data loss or other security incidents could expose us or our customers, associates and vendors to a risk of loss or misuse of such information, cause customers to lose confidence in our data protection measures, damage our reputation, adversely affect our operating results or result in litigation or potential liability for us. 
+ 6 
+
+Table of Contents 
+
+ As disclosed in our Form 10-Q for the period ended October 31, 2021, on November 5, 2021, the Company experienced a criminal network cyber attack that led to a disruption of our domestic operations, including manufacturing, engineering, administration, and sales operations. By November 15, 2021, we had substantially restored our operations. We engaged third party experts, including a cybersecurity firm, to perform a fulsome forensic investigation of this attack; among other things, the cybersecurity firm assessed whether any confidential or sensitive data had been compromised. Based on the results of the investigation, we do not believe any confidential or sensitive data has been downloaded, stolen from the Company's systems, or otherwise exfiltrated. The Company had insurance coverage against recovery costs and business interruption resulting from cyber attacks. However, the Company incurred expenses and losses in excess of its existing insurance coverage. As of April 30, 2022, the Company no longer had active insurance coverage against potential cyber attacks. 
+ While the Company will seek to obtain insurance for losses related to any similar future events, there can be no assurance that such insurance will be available to the Company. Any future such events, particularly if not covered by insurance, could have material adverse effects on the Company's business and/or results of operations. Additionally, we expect to continue to make investments in our information technology infrastructure. The implementation of these investments may be more costly or take longer than we anticipate, or could otherwise adversely affect our business operations, which could negatively impact our financial position, results of operations or cash flows. 
+ Internal Controls Over Financial Reporting. 
+ Because of its inherent limitations, internal controls over financial reporting may not prevent or detect material misstatements in the Company's consolidated financial statements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ Changes in U.S. trade policy, including the imposition of tariffs and the resulting consequences, may have a material adverse impact on our business and results of operations. 
+ We cannot predict the extent to which the U.S. or other countries will impose quotas, duties, tariffs, taxes or other similar restrictions upon the import or export of our products or raw materials in the future, nor can we predict future trade policy or the terms of any renegotiated trade agreements and their impact on our business. Changes in U.S. trade policy could result in one or more foreign governments adopting responsive trade policies making it more difficult or costly for us to import our products or raw materials from those countries. This, together with tariffs already imposed, or that may be imposed in the future, by the U.S., could require us to increase prices to our customers which may reduce demand, or, if we are unable to increase prices, result in lowering our margin on products sold. The adoption and expansion of trade restrictions, the occurrence of a trade war, or other governmental action related to tariffs or trade agreements or policies has the potential to adversely impact demand for our products, our costs, our customers, our suppliers, and the U.S. economy, which in turn could have a material adverse effect on our business, financial condition and results of operations. 
+ The impact of COVID-19 and future pandemics could adversely affect our business, results of operations, financial condition, and liquidity. 
+ We are continuing to closely monitor developments related to the COVID-19 pandemic to assess its impact on our business; however, due to the wide-ranging and highly uncertain nature of this event, it currently is not possible to estimate the ultimate direct and indirect impact of COVID-19 on our business, results of operations, financial condition, or liquidity with reasonable certainty. 
+ Thus far, throughout the pandemic, we believe we have successfully navigated the risks associated with COVID-19 and have been able to successfully maintain our business operations. The extent of the continued impact of COVID-19 on our business and financial results depends on future developments, including the emergence of new and different strains of the virus and the effectiveness of vaccinations and other public health measures. Other pandemics are also possible with similar or worse public health outcomes. The sweeping nature of pandemics makes it extremely difficult to predict how and to what extent our business and operations could be affected in the long run. Our workforce, and the workforce of our vendors, service providers, and counterparties, could be affected by COVID-19, which could result in an adverse impact on our ability to conduct business. We are continuing to take precautions to protect the safety and well-being of our employees while striving to provide uninterrupted services to our customers. Since the onset of the pandemic, we have continued to support our business operations. However, no assurance can be given that these actions will be sufficient, nor can we predict the level of disruption that will occur to our employees' ability to provide customer support and service. In addition, the increase in the number of our employees working remotely has increased certain risks to our business, including increased demand on our information technology resources and systems, greater potential for phishing and other cyber attacks, and an increase in the number of points of potential attack. Any failure to manage these risks effectively and to identify and respond to any cyber attacks on a timely basis may adversely affect our business. New processes, procedures, and controls may be required to respond to any changes in our business 
+ 7 
+
+Table of Contents 
+
+ environment. Further, should any key employees become ill from COVID-19 and unable to work, our ability to operate our internal controls may be adversely impacted. 
+ Additional factors related to COVID-19 or other major public health issues that could have material and adverse effects on our ability to successfully operate include, but are not limited to, the following: 
+ The efforts of governmental and non-governmental organizations in combating the spread and severity of COVID-19 or other major public health issues may not be effective. Further, we cannot predict how legal and regulatory responses to concerns about COVID-19 or other major public health issues will impact our business; 
+ A general decline in business activity, especially as it relates to our customers' expansion or consolidation activities; 
+ The destabilization of the financial markets, which could negatively impact our customer growth and access to capital, along with our customers' ability to make payments for their purchase orders; 
+ Severe disruptions to and instability in the global financial markets, and deterioration in credit and financing conditions, which could affect our access to capital necessary to fund business operations or current investment and growth strategies; 
+ A material disruption in our supply chain, which could affect our ability to source products from vendors on a timely basis or on favorable terms. 
+ 
+ Sales to customers outside the United States or with international operations expose us to risks inherent in international sales. 
+ During fiscal year 2022, 26 of our revenues were derived from sales outside of the United States. A key element of our growth strategy is to expand our worldwide customer base and our international operations. Operating in international markets requires significant resources and management attention and subjects us to regulatory, economic and political risks that are different from those in the United States. We cannot assure you that our expansion efforts into other international markets will be successful. Our experience in the United States and other international markets in which we already have a presence may not be relevant to our ability to expand in other emerging markets. Our international expansion efforts may not be successful in creating further demand for our products outside of the United States or in effectively selling our products in the international markets we enter. 
+ 
+ Item 1B. Unresolved Staff Comments 
+ Not Applicable. 
+ 
+ Item 2. Properties 
+ We lease and operate three adjacent manufacturing facilities in Statesville, North Carolina. These facilities also house our corporate offices, as well as sales and marketing, administration, engineering and drafting personnel. These facilities together comprise 413,000 square feet and are located on 20 acres of land. On March 24, 2022, we entered into a Sale-Leaseback Arrangement (defined below), pursuant to which we sold, and now lease, our manufacturing and office facilities in Statesville, North Carolina. See Note 5 , Sale-Leaseback Financing Transaction , of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for information concerning the Sale-Leaseback Arrangement. In addition, we lease our primary distribution facility and other warehouse facilities totaling 365,000 square feet in Statesville, North Carolina. Further, we lease an office facility in Charlotte, North Carolina, comprising 3,500 square feet. In Bangalore, India we lease and operate a manufacturing facility comprising 83,000 square feet and a facility comprising 16,000 square feet that houses sales and administrative offices. Our sales offices in Singapore and Saudi Arabia comprise 1,600 and 1,100 square feet, respectively. We believe our facilities are suitable for their respective uses and are adequate for our current needs. 
+ 
+ Item 3. Legal Proceedings 
+ From time to time, we are involved in disputes and litigation relating to claims arising out of our operations in the ordinary course of business. Further, we are periodically subject to government audits and inspections. We believe that any such matters presently pending will not, individually or in the aggregate, have a material adverse effect on our results of operations or financial condition. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not Applicable. 
+
+8 
+
+Table of Contents 
+
+ PART II 
+ 
+ Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ Our common stock is traded on the NASDAQ Global Market, under the symbol KEQU. 
+ As of June 28, 2022, we estimate there were approximately 964 holders of our common shares, of which 118 were stockholders of record. The declaration and payment of any future dividends is at the discretion of the Board of Directors and will depend upon many factors, including the Company's earnings, capital requirements, investment and growth strategies, financial conditions, the terms of the Company's indebtedness, which has contained, and may contain in the future, provisions that could limit the payment of dividends in certain circumstances, and other factors that the Board of Directors may deem to be relevant. 
+ SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS 
+ See Item 12 , Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters , in this Form 10-K for a discussion of securities authorized for issuance under our equity compensation plans. 
+
+Item 6. Reserved 
+ 9 
+
+Table of Contents 
+
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ INTRODUCTION 
+ Kewaunee Scientific Corporation is a recognized leader in the design, manufacture and installation of laboratory, healthcare and technical furniture products. The Company's corporate headquarters are located in Statesville, North Carolina. Sales offices are located in the United States, India, Saudi Arabia, and Singapore. Three manufacturing facilities are located in Statesville serving the domestic and international markets, and one manufacturing facility is located in Bangalore, India serving the local, Asian, and African markets. Kewaunee Scientific Corporation's website is located at www.kewaunee.com . 
+ Our products are sold primarily through purchase orders and contracts submitted by customers through our dealers, our subsidiaries in Singapore and India, and a national distributor. Products are sold principally to pharmaceutical, biotechnology, industrial, chemical and commercial research laboratories, educational institutions, healthcare institutions, governmental entities, manufacturing facilities and users of networking furniture. We consider the markets in which we compete to be highly competitive, with a significant amount of the market requiring competitive public bidding. 
+ It is common in the laboratory and healthcare furniture industries for customer orders to require delivery at extended future dates, as products are frequently to be installed in buildings yet to be constructed. Changes or delays in building construction may cause delays in delivery of the orders and our recognition of the sale. Since prices are normally quoted on a firm basis in the industry, we bear the burden of possible increases in labor and material costs between quotation of an order and delivery of the product. The impact of such possible increases is considered when determining the sales price. The principal raw materials and products manufactured by others used in our products are cold-rolled carbon and stainless steel, hardwood lumbers and plywood, paint, chemicals, resins, hardware, plumbing and electrical fittings. Such materials and products are purchased from multiple suppliers and are typically readily available. 
+ 
+ CRITICAL ACCOUNTING POLICIES 
+ In the ordinary course of business, we have made estimates and assumptions relating to the reporting of results of operations and financial position in the preparation of our consolidated financial statements in conformity with generally accepted accounting principles in the United States of America. Actual results could differ significantly from those estimates. We believe that the following discussion addresses our most critical accounting policies, which are those that are most important to the portrayal of our financial condition and results of operations, and require management's most difficult, subjective and complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. 
+ Revenue Recognition 
+ The Company recognizes revenue when control of a good or service promised in a contract (i.e. performance obligation) is transferred to a customer. Control is obtained when a customer has the ability to direct the use of and obtain substantially all of the remaining benefits from that good or service. The majority of the Company's revenues are recognized over time as the customer receives control as the Company performs work under a contract. However, a portion of the Company's revenues are recognized at a point-in-time as control is transferred at a distinct point in time per the terms of a contract. 
+ Allowance for Doubtful Accounts 
+ Evaluation of the allowance for doubtful accounts involves management judgments and estimates. We evaluate the collectability of our trade accounts receivable based on a number of factors. In circumstances where management is aware of a customer's inability to meet its financial obligations to us, or a project dispute makes it unlikely that the outstanding amount owed by a customer will be collected, a specific reserve for bad debts is estimated and recorded to reduce the recognized receivable to the estimated amount we believe will ultimately be collected. In addition to specific customer identification of potential bad debts, a reserve for bad debts is estimated and recorded based on our recent past loss history and an overall assessment of past due trade accounts receivable amounts outstanding. 
+ Pension Benefits 
+ We sponsor pension plans covering all employees who met eligibility requirements as of April 30, 2005. These pension plans were amended as of April 30, 2005, no further benefits have been, or will be, earned under the plans subsequent to the amendment date, and no additional participants have been, or will be, added to the plans. Several statistical and other factors, which attempt to anticipate future events, are used in calculating the expense and liability related to the pension plans. These factors include actuarial assumptions about the discount rate used to calculate and determine benefit obligations and the expected return on plan assets within certain guidelines. The actuarial assumptions used by us may differ materially from actual results due to changing market and economic conditions, higher or lower withdrawal rates, or longer or shorter life spans of participants. These differences may significantly affect the amount of pension income or expense recorded by us in future periods. 
+ 10 
+
+Table of Contents 
+
+ Self-Insurance Reserves 
+ The Company's domestic operations are self-insured for employee health care costs. The Company has purchased specific stop-loss insurance policies to limit claims above a certain amount. Estimated medical costs were accrued for claims incurred but not reported using assumptions based upon historical loss experiences. The Company's exposure reflected in the self-insurance reserves varies depending upon market conditions in the insurance industry, availability of cost-effective insurance coverage, and actual claims versus estimated future claims. 
+ Income Taxes 
+ We are subject to income taxes in the U.S. (federal and state) and numerous foreign jurisdictions. Tax laws, regulations, administrative practices, and interpretations in various jurisdictions may be subject to significant change, with or without notice, due to economic, political, and other conditions, and significant judgment is required in evaluating and estimating our provision and accruals for these taxes. There are many transactions that occur during the ordinary course of business for which the ultimate tax determination is uncertain. In addition, our actual and forecasted earnings are subject to change due to economic, political, and other conditions, such as the COVID-19 pandemic. 
+ Our effective tax rates could be affected by numerous factors, such as changes in our business operations, acquisitions, investments, entry into new businesses and geographies, intercompany transactions, the relative amount of our foreign earnings, including earnings being lower than anticipated in jurisdictions where we have lower statutory rates and higher than anticipated in jurisdictions where we have higher statutory rates, losses incurred in jurisdictions for which we are not able to realize related tax benefits, the applicability of special tax regimes, changes in foreign currency exchange rates, changes to our forecasts of income and loss and the mix of jurisdictions to which they relate, changes in our deferred tax assets and liabilities and their valuation, and interpretations related to tax laws and accounting rules in various jurisdictions. 
+ 
+ RESULTS OF OPERATIONS 
+ Sales for fiscal year 2022 were 168.9 million, an increase from fiscal year 2021 sales of 147.5 million. Domestic sales for fiscal year 2022 were 126.9 million, an increase of 14.2 compared to fiscal year 2021 sales of 111.0 million. The increase in Domestic sales resulted from both higher volumes and the implementation of price increases in response to higher raw material input costs. International sales for fiscal year 2022 were 42.0 million, an increase of 15.3 from fiscal year 2021 sales of 36.5 million. The increase in International sales in fiscal year 2022 is a result of strong demand across the international markets, primarily in India, coupled with COVID-19 related restrictions on construction site access and government mandated shut-downs in India that significantly impacted the prior year sales. 
+ Our order backlog was 173.9 million at April 30, 2022, as compared to 114.5 million at April 30, 2021. This is the highest order backlog in the Company's history. The increase in backlog is primarily attributable to strength in the life science and higher education end-use markets within the United States. Internationally, customers continue to invest in large infrastructure projects requiring laboratories in India, the Middle East, and Africa and we were awarded multiple multi-year projects during the year. 
+ Gross profit represented 14.3 and 16.3 of sales in fiscal years 2022 and 2021, respectively. The decrease in gross profit margin percentage for fiscal year 2022 is a result of supplier constraints resulting from COVID-19, as well as other supply chain disruptions, that led to increases in steel, wood, and epoxy resin raw material costs, when compared to the prior year, of 4,559,000 in excess of surcharges implemented and recorded as sales. The gross profit margin decrease was also impacted by the cyber attack that occurred during the third quarter, which resulted in 1,131,000 of margin loss due to disruption of production, loss of sales, and absorption of fixed overhead costs which were not covered by the Company's cyber insurance policy. 
+ Operating expenses were 26.8 million and 25.3 million in fiscal years 2022 and 2021, respectively, and 15.9 and 17.2 of sales, respectively. The increase in operating expense in fiscal year 2022 as compared to fiscal year 2021 was primarily for increases related to wages, benefits, incentive and stock-based compensation of 1,098,000, increases in international operating expenses of 693,000, and one-time costs in the amount of 325,000 related to both the Company's decision to exit certain markets where the Company had historically sold products directly and professional fees related to financing activities, partially offset by decreases of 545,000 in marketing expenses. 
+ Pension income was 355,000 in fiscal year 2022, compared to pension expense of 1,153,000 in fiscal year 2021. The decrease in pension expense was due to the favorable impact from pension accounting because of the recovery of the plan assets at previous fiscal year-ends. 
+ Other income, net was 400,000 and 241,000 in fiscal years 2022 and 2021, respectively. The increase in other income in fiscal year 2022 was primarily due to the interest earned on the Note Receivable related to the Sale-Leaseback financing transaction that was executed on March 24, 2022. See Note 5 , Sale-Leaseback Financing Transaction for additional information on this transaction. 
+ 11 
+
+Table of Contents 
+
+ Interest expense was 632,000 and 389,000 in fiscal years 2022 and 2021, respectively. The change in interest expense for fiscal year 2022 was primarily due to changes in the levels of bank borrowings and the Sale-Leaseback financing transaction. 
+ Income tax expense was 3.5 million and 990,000 for fiscal years 2022 and 2021, respectively, or 141.6 and 37.8 of pretax loss, respectively. The effective rate change for fiscal year 2022 is primarily due to an increase in the valuation allowance primarily attributable to the increase in deferred taxes of 4,170,000 before valuation allowance as a result of the book to tax differences related to the Company's execution of a Sale-Leaseback transaction for owned real property, which was treated as a taxable sale transaction for tax purposes and a financing transaction for financial statement reporting purposes. The effective rate in fiscal year 2021 was also unfavorably impacted due to changes in the valuation allowance and reduced benefit on net operating loss carryback available. 
+ Net earnings attributable to the non-controlling interest related to our subsidiaries that are not 100 owned by the Company were 123,000 and 65,000 for fiscal years 2022 and 2021, respectively. The changes in the net earnings attributable to the non-controlling interest for each year were due to changes in the levels of net income of the subsidiaries. 
+ Net loss was 6,126,000, or 2.20 per diluted share, and 3,672,000, or 1.33 per diluted share, for fiscal years ended April 30, 2022 and April 30, 2021, respectively. The increase in net loss was attributable to the factors discussed above. 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ Our principal sources of liquidity have historically been funds generated from operating activities. In addition, on March 24, 2022, we executed a Sale-Leaseback financing transaction with respect to our manufacturing and corporate facilities in Statesville, North Carolina to provide additional liquidity. See Note 5 , Sale-Leaseback Financing Transaction for more information. Additionally, certain machinery and equipment are financed by non-cancelable operating leases. We believe that these sources of funds will be sufficient to support ongoing business requirements, including capital expenditures, through fiscal year 2023. 
+ At April 30, 2022, we had advances of 1.6 million and standby letters of credit aggregating 716,000 outstanding under our secured, 4.7 million revolving credit facility. See Note 4 , Long-term Debt and Other Credit Arrangements , of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report for additional information concerning our credit facility. We did not have any off balance sheet arrangements at April 30, 2022 or 2021. 
+ The following table summarizes the cash payment obligations for our lease and financing arrangements as of April 30, 2022: 
+ PAYMENTS DUE BY PERIOD 
+ in thousands) 
+ Contractual Cash Obligations Total 1 Year 2-3 Years 4-5 Years After 5 years Operating Leases 8,821 1,849 2,908 2,217 1,847 Financing Lease Obligations 399 148 180 71 Sale-Leaseback Financing Transaction 45,811 1,893 3,901 4,059 35,958 Total Contractual Cash Obligations 55,031 3,890 6,989 6,347 37,805 
+ 
+ The Company's operating activities used cash of 7,885,000 in fiscal year 2022, primarily for operations, and increases in inventories of 7,279,000 and receivables of 8,464,000, partially offset by increases in accounts payable and accrued expenses of 11,886,000 and a decrease in income tax receivable of 955,000. Operating activities provided cash of 912,000 in fiscal year 2021, primarily from operations, and increases in accounts payable and accrued expenses of 4,567,000 and a decrease in income tax receivable of 1,762,000, partially offset by increases in inventories of 1,188,000 and receivables of 4,874,000. 
+ The Company's financing activities provided cash of 11,031,000 during fiscal year 2022 from proceeds of 15,893,000 from the Sale-Leaseback transaction, including redemption of preferred shares from the buyer, net of debt issuance costs, partially offset by payments of 5,239,000 for short-term borrowings. The Company's financing activities provided cash of 1,982,000 during fiscal year 2021 from proceeds from the net increase in short-term borrowings of 2,109,000, partially offset by cash dividends of 108,000 paid to minority interest holders and repayment of long-term debt of 19,000. 
+ The majority of the April 30, 2022 accounts receivable balances are expected to be collected during the first quarter of fiscal year 2023, with the exception of retention amounts on fixed-price contracts which are collected when the entire construction project is completed and all retention funds are paid by the owner. 
+ As discussed above, no further benefits have been, or will be, earned under our pension plans after April 30, 2005, and no additional participants have been, or will be, added to the plans. In fiscal year 2022, we made no contributions to the plans. In 
+ 12 
+
+Table of Contents 
+
+ fiscal year 2021, we made contributions to the plans of 30,000. We expect to make no contributions to the plans for fiscal year 2023. 
+ Capital expenditures were 1,908,000 and 2,397,000 in fiscal years 2022 and 2021, respectively. Capital expenditures in fiscal year 2022 were funded primarily from financing activities. Fiscal year 2023 capital expenditures are anticipated to be approximately 3.5 million. The fiscal year 2023 expenditures are expected to be funded primarily by operating activities and proceeds from the sale-leaseback financing transaction. 
+ Working capital was 49.3 million at April 30, 2022, up from 26.3 million at April 30, 2021, and the ratio of current assets to current liabilities was 2.2-to-1.0 at April 30, 2022 and 1.8-to-1.0 at April 30, 2021. The increase in working capital for fiscal year 2022 was driven by a 13.5 million Note Receivable related to the sale-leaseback financing transaction, resulting in a 5.2 million reduction in short-term borrowing and a 5.2 million increase in managed working capital. 
+ No dividends were declared or paid on the Company's common stock during the last two fiscal years. The declaration and payment of any future dividends is at the discretion of the Board of Directors and will depend upon many factors, including the Company's earnings, capital requirements, investment and growth strategies, financial condition, the terms of the Company's indebtedness, which has contained, and may in the future contain, provisions that could limit the payment of dividends in certain circumstances, and other factors that the Board of Directors may deem to be relevant. 
+ 
+ RECENT ACCOUNTING STANDARDS 
+ See Note 1 , Summary of Significant Accounting Policies , to our Consolidated Financial Statements in this Form 10-K for a discussion of new accounting pronouncements, which is incorporated herein by reference. 
+ 
+ OUTLOOK 
+ Financial Outlook 
+ The Company's ability to predict future demand for its products continues to be limited given its role as subcontractor or supplier to dealers for subcontractors. Demand for the Company's products is also dependent upon the number of laboratory and healthcare construction projects planned and/or current progress in projects already under construction. 
+ As the fiscal year concluded, economic uncertainty remained from continued broad-based inflation, a challenging labor market, and a possible recession. With that being said, the Company believes the outlook is bright based on Kewaunee s record backlog and improved operating performance during the fiscal year. The Company believes the strength in its backlog demonstrates the confidence customers have in Kewaunee s ability to meet their requirements. When combined with changes in its go-to-market strategy and continued investment in its manufacturing operations, the Company feels it is well-positioned for the next fiscal year . 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ Interest Rates 
+ We are exposed to market risk in the area of interest rates. This exposure is associated with advances outstanding under our bank line of credit and certain lease obligations for production machinery, all of which are priced on a floating rate basis. Advances outstanding under the bank line of credit were 1.6 million at April 30, 2022, bearing interest at floating rates. We believe that our current exposure to interest rate market risk is not material. 
+ Foreign Currency Exchange Rates 
+ Our results of operations could be affected by factors such as changes in foreign currency exchange rates or weak economic conditions in foreign markets. We derive net sales in U.S. dollars and other currencies including Indian rupees, Singapore dollars, and other currencies. For fiscal year 2022, 25 of net sales were derived in currencies other than U.S. dollars. We incur expenses in currencies other than U.S. dollars relating to specific contracts with customers and for our operations outside the U.S. 
+ Over the long term, net sales to international markets may increase as a percentage of total net sales and, consequently, a greater portion of our business could be denominated in foreign currencies. As a result, operating results may become more subject to fluctuations based upon changes in the exchange rates of certain currencies in relation to the U.S. dollar. To the extent we engage in international sales denominated in U.S. dollars, an increase in the value of the U.S. dollar relative to foreign currencies could make our products less competitive in international markets. This effect is also impacted by costs of raw materials from international sources and costs of our sales, service, and manufacturing locations outside the U.S. 
+ 13 
+
+Table of Contents 
+
+ We have foreign currency cash accounts to operate our global business. These accounts are impacted by changes in foreign currency rates. Cash balances at April 30, 2022 of 6.1 million were held by our foreign subsidiaries and denominated in currencies other than U.S. dollars. 
+ 
+ 14 
+
+Table of Contents 
+
+ Item 8. Financial Statements and Supplementary Data 
+ Page Consolidated Financial Statements Report of Independent Registered Public Accounting Firm , , PCAOB Firm No. 
+ 16 
+ Consolidated Statements of Operations Years ended April 30, 202 2 and 202 1 
+ 17 
+ Consolidated Statements of Comprehensive Income Years ended April 30, 202 2 and 202 1 
+ 18 
+ Consolidated Statements of Stockholders' Equity Years ended April 30, 202 2 and 202 1 
+ 19 
+ Consolidated Balance Sheets April 30, 202 2 and 20 2 1 
+ 20 
+ Consolidated Statements of Cash Flows Years ended April 30, 202 2 and 202 1 
+ 21 
+ Notes to Consolidated Financial Statements 
+ 22 
+ Consent of Independent Registered Public Accounting Firm 
+ 42 
+
+15 
+
+Table of Contents 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the Stockholders and the Board of Directors of Kewaunee Scientific Corporation 
+ Opinion on the Financial Statements 
+ We have audited the accompanying consolidated balance sheets of Kewaunee Scientific Corporation and subsidiaries (the Company as of April 30, 2022 and 2021, the related consolidated statements of operations, comprehensive income, stockholders' equity and cash flows for each of the two years in the period ended April 30, 2022, and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of April 30, 2022 and 2021, and the results of its operations and its cash flows for each of the two years in the period ended April 30, 2022, in conformity with U.S. generally accepted accounting principles. 
+ Basis for Opinion 
+ These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ Critical Audit Matters 
+ Critical audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. We determined that there are no critical audit matters. 
+ /s/ FORVIS, LLP 
+ (formerly, Dixon Hughes Goodman LLP) 
+ We have served as the Company's auditor since 2020. 
+ Charlotte, NC 
+ July 1, 2022 
+ 16 
+
+Table of Contents 
+
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ Years Ended April 30 Kewaunee Scientific Corporation and shares in thousands, except per share amounts 2022 2021 Net sales Cost of products sold Gross profit Operating expenses Operating loss ) ) Pension income (expense) ) Other income, net Interest expense ) ) Loss before income taxes ) ) Income tax expense Net loss ) ) Less: net earnings attributable to the non-controlling interest Net loss attributable to Kewaunee Scientific Corporation ) ) Net loss per share attributable to Kewaunee Scientific Corporation stockholders Basic ) ) Diluted ) ) Weighted average number of common shares outstanding Basic Diluted 
+
+The accompanying Notes are an integral part of these Consolidated Financial Statements. 
+ 17 
+
+Table of Contents 
+
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ Years Ended April 30 Kewaunee Scientific Corporation in thousands 2022 2021 Net loss ) ) Other comprehensive income (loss), net of tax Foreign currency translation adjustments ) ) Change in unrecognized actuarial gain on pension obligations Comprehensive income (loss), net of tax ) Less comprehensive income attributable to the non-controlling interest Total comprehensive income (loss) attributable to Kewaunee Scientific Corporation ) 
+
+The accompanying Notes are an integral part of these Consolidated Financial Statements. 
+ 18 
+
+Table of Contents 
+
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY 
+ Kewaunee Scientific Corporation 
+ in thousands, except shares and per share amounts Common Stock Additional Paid-in Capital Treasury Stock Retained Earnings Accumulated Other Comprehensive Income (Loss) Total Stockholders' Equity Balance at April 30, 2020 ) ) Net loss attributable to Kewaunee Scientific Corporation ) ) Other comprehensive income Stock based compensation Balance at April 30, 2021 ) ) Net loss attributable to Kewaunee Scientific Corporation ) ) Other comprehensive loss ) ) Stock based compensation Balance at April 30, 2022 ) ) 
+
+The accompanying Notes are an integral part of these Consolidated Financial Statements. 
+ 19 
+
+Table of Contents 
+
+ CONSOLIDATED BALANCE SHEETS 
+ April 30 Kewaunee Scientific Corporation and shares in thousands, except per share amounts 2022 2021 ASSETS Current Assets Cash and cash equivalents Restricted cash Receivables, less allowance: (2022); (2021) 
+ Inventories Income tax receivable Note receivable Prepaid expenses and other current assets Total Current Assets Property, plant and equipment, net Right of use assets Other assets Total Assets LIABILITIES AND STOCKHOLDERS' EQUITY Current Liabilities Short-term borrowings Current portion of financing liability Current portion of financing lease liability Current portion of operating lease liabilities Accounts payable Employee compensation and amounts withheld Deferred revenue Other accrued expenses Total Current Liabilities Long-term portion of financing liability Long-term portion of financing lease liability Long-term portion of operating lease liabilities Accrued pension and deferred compensation costs Deferred income taxes Other non-current liabilities Total Liabilities Commitments and Contingencies Note 9 
+ Stockholders' Equity Common stock, par value, Authorized shares; 
+ Issued shares (2022); shares (2021) 
+ Outstanding shares (2022); shares (2021) 
+ Additional paid-in capital Retained earnings Accumulated other comprehensive loss ) ) Common stock in treasury, at cost: shares 
+ ) ) Total Kewaunee Scientific Corporation Stockholders' Equity Non-controlling interest Total Stockholders' Equity Total Liabilities and Stockholders' Equity 
+
+The accompanying Notes are an integral part of these Consolidated Financial Statements. 
+ 20 
+
+Table of Contents 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ Years Ended April 30 Kewaunee Scientific Corporation in thousands 2022 2021 Cash Flows from Operating Activities Net loss ) ) Adjustments to reconcile net loss to net cash (used) provided by operating activities: Depreciation Bad debt provision Stock based compensation expense Provision for deferred income taxes Change in assets and liabilities: Receivables ) ) Inventories ) ) Income tax receivable Accounts payable and other accrued expenses Deferred revenue Other, net ) ) Net cash (used) provided by operating activities ) Cash Flows from Investing Activities Capital expenditures ) ) Net cash used in investing activities ) ) Cash Flows from Financing Activities Dividends paid to non-controlling interest in subsidiaries ) Proceeds from short-term borrowings Repayments on short-term borrowings ) ) Proceeds from sale-leaseback transaction Proceeds from long-term debt Repayments on long-term debt ) Net cash provided by financing activities Effect of exchange rate changes on cash, net ) Increase in Cash, Cash Equivalents and Restricted Cash Cash, Cash Equivalents and Restricted Cash at Beginning of Year Cash, Cash Equivalents and Restricted Cash at End of Year Supplemental Disclosure of Cash Flow Information Interest paid Income taxes (refunded) paid ) 
+
+The accompanying Notes are an integral part of these Consolidated Financial Statements. 
+ 21 
+
+Table of Contents 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ 
+ Note 1 
+ owned by the Company; (2) Kewaunee Scientific Corporation Singapore Pte. Ltd., a holding company in Singapore, is owned by the Company; (3) Kewaunee Labway India Pvt. Ltd., a manufacturing, assembly and commercial sales operation for the Company's products in Bangalore, India, is owned by the Company; (4) Koncepo Scientech International Pvt. Ltd., a laboratory design and strategic advisory and construction management services firm, located in Bangalore, India, is owned by the Company; (5) Kewaunee Scientific (Suzhou) Co., Ltd., a commercial sales organization for the Company's products in China, is owned by the Company; (6) Kequip Global Lab Solutions Pvt. Ltd. is owned by Kewaunee Scientific Corporation Singapore Pte. Ltd. All intercompany balances, transactions, and profits have been eliminated. Included in the consolidated financial statements are net assets of and at April 30, 2022 and 2021, respectively, of the Company's subsidiaries. Net sales by the Company's subsidiaries in the amounts of and were included in the consolidated statements of operations for fiscal years 2022 and 2021, respectively. 
+
+Restricted cash Total cash, cash equivalents and restricted cash 
+
+22 
+
+Table of Contents 
+
+ Bad debt provision Doubtful accounts written off (net) ) ) Balance at end of year 
+ The amount of unbilled receivables, net of unbilled retention, at April 30, 2022 and 2021 was and , respectively. 
+
+N/A Building and improvements - years 
+ Machinery and equipment - years 
+ Total Less accumulated depreciation ) ) Net property, plant and equipment 
+ There were impairments in fiscal years 2022 or 2021. 
+ and , respectively, of unbilled retainage, and , respectively, of assets held in a trust account for non-qualified benefit plan, and and , respectively, of cash surrender values of life insurance policies. Life insurance policies are recorded at the amount that could be realized under the insurance contract as of the date of the Company's consolidated balance sheets with the change in cash surrender or contract value being recorded as income or expense during each period. 
+ 
+ Variable Interest Entity On December 22, 2021, the Company entered into an Agreement for Purchase and Sale of Real Property with CAI Investments Sub-Series 100 LLC, a Nevada limited liability company (the Buyer ), for the Company s headquarters and manufacturing facilities (the Property located at 2700 West Front Street in Statesville, North Carolina (the Sale Agreement in exchange for in sales proceeds, of which was payable in redeemable preferred shares in CAI Investments Medical Products I Parent, LLC ("Parent"), a Delaware limited liability company and an affiliate of Buyer. The redemption feature on the preferred shares is personally guaranteed by a shareholder and manager of Buyer and its affiliates. At April 30, 2022, the carrying value of the redeemable preferred shares was million. As of June 22, 2022, the Company had fully redeemed all shares and converted the Note Receivable to cash. 
+ The transfer of title was initially conditioned upon a acceptance period to permit Buyer to examine and evaluate the Property. The Sale Agreement was subsequently finalized on March 24, 2022 to complete Buyer s purchase of the Property and to coincide with a lease, effective on such date between the Company and CAI Investments Medical Products I Master Lessee LLC Lessor ), an affiliate of Buyer, for the Property (the "Lease Agreement"). At the same time, the Buyer and its affiliates formed a new, debt-financed affiliate CAI Investments Medical Products I, DST Trust and contributed the Property 
+ 23 
+
+Table of Contents 
+
+24 
+
+Table of Contents 
+
+ Cash surrender value of life insurance policies (1) 
+ Total Financial Liabilities Non-qualified compensation plans (2) 
+ Total 
+ 2021 Level 1 Level 2 Level 3 Total Financial Assets Trading securities held in non-qualified compensation plans (1) 
+ Cash surrender value of life insurance policies (1) 
+ Total Financial Liabilities Non-qualified compensation plans (2) 
+ Total 
+ 
+ (1) The Company maintains non-qualified compensation plans which include investment assets in a rabbi trust. These assets consist of marketable securities, which are valued using quoted market prices multiplied by the number of shares owned, and life insurance policies, which are valued at their cash surrender value. 
+ (2) Plan liabilities are equal to the individual participants' account balances and other earned retirement benefits. 
+ and at April 30, 2022 and 2021, respectively. Shipping and handling costs are included in cost of product sales. Because of the nature and quality of the Company's products, any warranty issues are determined in a relatively short period after the sale and are infrequent in nature, and as such, warranty costs are immaterial to the Company's consolidated financial position and results of operations and are expensed as incurred. 
+ Revenues from three of the Company's domestic dealers represented in the aggregate approximately and of the Company's sales in fiscal years 2022 and 2021, respectively. Accounts receivable for two domestic customers represented approximately and of the Company's total accounts receivable as of April 30, 2022 and 2021, respectively. 
+
+25 
+
+Table of Contents 
+
+Expenditures for research and development costs were and for the fiscal years ended April 30, 2022 and 2021, respectively. 
+ Advertising costs for the years ended April 30, 2022 and 2021 were and , respectively. 
+
+There were antidilutive RSUs and stock options outstanding at April 30, 2022. There were antidilutive RSUs and stock options outstanding at April 30, 2021. 
+ 
+ Dilutive effect of stock options and RSUs Weighted average common shares outstanding diluted 
+ The Company granted RSUs under the 2017 Omnibus Incentive Plan in fiscal year 2022 and RSUs in fiscal year 2021. There were stock options granted during fiscal years 2022 and 2021. (See Note 7 , Stock Options and Share-Based Compensation 
+ 26 
+
+Table of Contents 
+
+Note 2 - 
+ 27 
+
+Table of Contents 
+
+ 28 
+
+Table of Contents 
+
+ Point in Time Total Revenue 
+ 2021 Domestic International Total Over Time Point in Time Total Revenue 
+ Contract Balances 
+ The closing balances of contract assets included in accounts receivable and in other current assets at April 30, 2022. The opening balance of contract assets arising from contracts with customers included in accounts receivable and in other assets at April 30, 2021. The closing and opening balances of contract liabilities included in deferred revenue arising from contracts with customers were at April 30, 2022 and at April 30, 2021. The timing of revenue recognition, billings and cash collections results in accounts receivable, unbilled receivables, and deferred revenue which is disclosed on the consolidated balance sheets and in the notes to the consolidated financial statements. In general, the Company receives payments from customers based on a billing schedule established in its contracts. Unbilled receivables represent amounts earned which have not yet been billed in accordance with contractually stated billing terms. Accounts receivable are recorded when the right to consideration becomes unconditional and the Company has a right to invoice the customer. Deferred revenue relates to payments received in advance of performance under the contract. Deferred revenue is recognized as revenue as the Company performs under the contract. 
+ During the fiscal year ended April 30, 2022, changes in contract assets and liabilities were not materially impacted by any other factors. Approximately of the contract liability balance at April 30, 2022 is expected to be recognized as revenue during fiscal year 2023. 
+ 
+ Note 3 
+ Work-in-process Materials and components Total inventories 
+ and , respectively, measured using the lower of cost or net realizable value under the FIFO method and are included in the above tables. 
+ 
+ Note 4 
+ million revolving credit facility ("Line of Credit") which matured on May 1, 2018 and was subsequently extended to March 1, 2021. 
+ On June 19, 2019, the Company entered into a Security Agreement pursuant to which the Company granted a security interest in substantially all of its assets to secure its obligations under the Loan Agreement. On December 13, 2019, the Company entered into an amendment to the Loan Agreement and the Line of Credit to effect a change to an asset based lending arrangement based on eligible accounts receivable and inventory, with the available amount not to exceed million through January 31, 2020, and with such maximum amount reduced to million thereafter. This amendment replaced the prior financial covenants with new 
+ 29 
+
+Table of Contents 
+
+ , adding an additional covenant that the Company will maintain Supplemental Liquidity as of the first day of each calendar month not less than (a) during the period from August 1, 2021 through December 31, 2021, and (b) thereafter ; and (iv) restating the Credit Agreement to reflect all amendments to date. 
+ On March 11, 2022, the Company entered into another Amendment, the effectiveness of which was conditioned upon the consummation of the Sale-Leaseback Arrangement, described in Note 5 , Sale-Leaseback Financing Transaction below, which occurred on March 24, 2022. The Amendment effected changes (i) amending and replacing the line of credit with a line of credit; (ii) providing for the removal of liens on property of the Company previously existing pursuant to the terms of the Credit Agreement; (iii) changing the interest rate under the Credit Agreement; (iv) consenting to the consummation of the Sale-Leaseback Arrangement; and (v) restating the Credit Agreement to reflect all amendments to date. 
+ Effective as of April 29, 2022, the Company entered into another amendment which effected changes (i) reducing the amount available under the line of credit from to ; (ii) extending the maturity date under the Credit Agreement and Revolving Note from April 30, 2022 to May 31, 2022; and (iii) adding a cash collateral agreement whereby the Company shall deliver to the Bank cash in the amount of of the outstanding issued Letters of Credit on or before May 23, 2022, which amount shall be deposited in, and maintained in, a blocked, non-interest-bearing deposit account at the Bank. As of May 27, 2022, the Company entered into an additional amendment which effected changes (i) further reducing the amount available under the line of credit from to ; (ii) extending the maturity date under the Credit Agreement and Revolving Note from May 31, 2022 to June 30, 2022; and (iii) permanently reducing the maximum aggregate principal amount committed under the line of credit. 
+ At April 30, 2022, there were advances of million and in letters of credit outstanding, leaving million available under the Line of Credit. The borrowing rate under the Line of Credit at that date was . Monthly interest payments under the Line of Credit were payable at the greater of the Daily One Month LIBOR interest rate, or , plus . At April 30, 2022, there were bank guarantees issued by foreign banks outstanding to customers in the amounts of million, , , and , and with expiration dates in fiscal years 2023, 2024, 2025, 2026 and 2027, respectively, collateralized by a million corporate guarantee and certain assets of the Company's subsidiaries in India. At April 30, 2022, the Company was in compliance with all the financial covenants under its revolving credit facility. 
+ At April 30, 2021, there were advances of million and in letters of credit outstanding under the Line of Credit. The borrowing rate at that date was . At April 30, 2021, there were foreign bank guarantees outstanding to customers in the amounts of million, , , and with expiration dates in fiscal years 2022, 2023, 2024, 2025 and 2027, respectively, collateralized by a million corporate guarantee and certain assets of the Company's subsidiaries in India. 
+ borrowings under the Credit Agreement, and the Company will not incur any material termination penalties as a result of the termination. 
+ 
+ Note 5 
+ term, with renewal options of each. Under the terms of the Lease Agreement, the Company s initial basic rent is approximately per month, with annual increases of approximately each year of the initial term. 
+ The Company accounted for the Sale-Leaseback Arrangement as a financing transaction with the Buyer in accordance with ASC 842 as the Lease Agreement was determined to be a finance lease. The Company concluded the Lease Agreement met the 
+ 30 
+
+Table of Contents 
+
+ to reflect the Company s incremental borrowing rate, compared to the fair value of the leased property as of the lease commencement date. In measuring the lease payments for the present value analysis, the Company elected the practical expedient to combine the lease component (the leased facilities) with the non-lease component (property management provided by the Buyer/Lessor) into a single lease component. 
+ The presence of a finance lease indicates that control of the Property has not transferred to the Buyer/Lessor and, as such, the transaction was deemed a failed sale-leaseback and must be accounted for as a financing arrangement. As a result of this determination, the Company is viewed as having received the sales proceeds from the Buyer/Lessor in the form of a hypothetical loan collateralized by its leased facilities. The hypothetical loan is payable as principal and interest in the form of lease payments to the Buyer/Lessor. As such, the Company will not derecognize the Property from its books for accounting purposes until the lease ends. 
+ As of April 30, 2022, the carrying value of the financing liability was , net of in debt issuance costs, of which was classified as current on the Consolidated Balance Sheet with classified as long-term. The monthly lease payments are split between a reduction of principal and interest expense using the effective interest rate method. Interest expense associated with the financing arrangement was for the year ended April 30, 2022. gain or loss was recognized related to the Sale-Leaseback Arrangement under U.S. GAAP for the fiscal year ended April 30, 2022. 
+ The Company will depreciate the building down to zero over the assumed economic life of the Property so that at the end of the lease term, the remaining carrying amount of the financing liability will equal the carrying amount of the land of . 
+ 
+ 2024 2025 2026 2027 Thereafter Total Minimum Liability Payments Imputed Interest ) Total 
+ 
+ Note 6 
+ , changes in business deductions limitations, and deferral of Social Security withholdings. The Company applied the NOL carryback provision of the CARES Act with respect to its estimated NOL for fiscal year 2021 to years that had higher enacted tax rates. The Company also applied the deferral of Social Security withholdings in accordance with the CARES Act; 50 of these deferred withholdings were due and paid by December 31, 2021, with the remainder due December 31, 2022. 
+ Effective August 1, 2019, the Company elected to revoke the indefinite reinvestment of foreign unremitted earnings position set forth by ASC 740-30-25-17 for multiple foreign subsidiaries. As a result of this election, the Company recorded a tax withholding expense imposed by the India Income Tax Department of and for the years ended April 30, 2022 and 2021, respectively. 
+ The Company's accounting policy with respect to the Global Intangible Low-Taxed Income ("GILTI") tax rules is that GILTI will be treated as a periodic charge in the year in which it arises. The Company had tax expense related to GILTI for the years ended April 30, 2022 and 2021. 
+ 31 
+
+Table of Contents 
+
+ ) State and local Foreign Total current tax expense (benefit) Deferred tax expense (benefit): Federal State and local ) Foreign ) Total deferred tax expense Net income tax expense) ) State and local taxes, net of federal income tax benefit ) ) Tax credits (state, net of federal benefit) ) ) Effects of differing US and foreign tax rates Tax on unrepatriated and repatriated foreign earnings Net operating loss adjustment ) Impact of foreign subsidiary income to parent Increase in valuation allowance Other items, net Net income tax expense 
+ 32 
+
+Table of Contents 
+
+ Allowance for doubtful accounts Deferred compensation Tax credits (state, net of federal benefits) Foreign tax credit carryforwards Unrecognized actuarial loss, defined benefit plans Inventory reserves Net operating loss carryforwards Proceeds on Sale Leaseback Other Total deferred tax assets Deferred tax liabilities: Book basis in excess of tax basis of property, plant and equipment ) ) Book basis in excess of tax basis of Sale Leaseback property ) Prepaid pension ) ) APB 23 Assertion ) ) Debt Issuance Cost on Sale Leaseback ) Other ) Total deferred tax liabilities ) ) Valuation allowance ) ) Net deferred tax liabilities ) ) Deferred tax assets (liabilities) classified in the balance sheet: Non-current ) ) Net deferred tax liabilities ) ) 
+ The Company is required to evaluate the realization of the deferred tax asset and any requirement for a valuation allowance in accordance with ASC 740-10-30-2(b). The Company evaluates all available evidence, both positive and negative, to determine the amount of any required valuation allowance. A deferred tax asset valuation allowance of was recorded in the period ended April 30, 2022 based on ASC 740-10-30-18. This guidance provides that the future realization of the tax benefit of an existing deductible temporary difference or carryforward ultimately depends on sufficient taxable income of the appropriate character within the carryback or carryforward period available under the tax law. 
+ At April 30, 2022, the Company had foreign tax credit carryforwards in the amount of , which are subject to a full valuation allowance, and which begin to expire in 2028. 
+ The Company files federal, state and local tax returns with statutes of limitation generally ranging from to years. The Company is generally no longer subject to federal tax examinations for years prior to fiscal year 2018 or state and local tax examinations for years prior to fiscal year 2017. Tax returns filed by the Company's significant foreign subsidiaries are generally subject to statutes of limitations of to years and are generally no longer subject to examination for years prior to fiscal year 2016. The Company has no unrecognized tax benefits. 
+ 33 
+
+Table of Contents 
+
+ Note 7 
+ new awards will be granted under the prior plans and all outstanding options granted under the prior plans will remain subject to the prior plans. At the date of approval of the 2017 Plan there were shares available for issuance under the prior plans. These shares and any shares subject to outstanding awards that subsequently cease to be subject to such awards are available under the 2017 Plan. The 2017 Plan did not increase the total number of shares available for issuance under the Company's equity compensation plans. At April 30, 2022 there were shares available for future issuance. 
+ 
+ Under the 2017 Plan, the Company recorded stock-based compensation expense of and and deferred income tax benefit of and in fiscal years 2022 and 2021, respectively. The RSUs include grants with both a service and performance component vesting over a year period and grants with only service components vesting over and year periods. The recognized expense is based upon the vesting period for service criteria and estimated attainment of the performance criteria at the end of the performance period based on the ratio of cumulative days incurred to total days over the performance period. The remaining estimated compensation expense of will be recorded over the remaining vesting periods. 
+ 
+ The fair value of each RSU granted to employees was estimated on the date of grant based on the weighted average price of the Company's stock reduced by the present value of the expected dividend stream during the vesting period using the risk-free interest rate. The Company issued new shares of common stock to satisfy RSUs that vested during fiscal year 2022. 
+ Granted Vested ) ) Forfeited ) ) Outstanding at end of year 
+ The stockholders approved the 2008 Key Employee Stock Option Plan ("2008 Plan") in fiscal year 2009 which allowed the Company to grant options on an aggregate of shares of the Company's common stock. On August 26, 2015, the stockholders approved an amendment to this plan to increase the number of shares available under the 2008 Plan by shares. Under the plan, options were granted at not less than the fair market value at the date of grant and options are exercisable in such installments, for such terms (up to years), and at such times, as the Board of Directors determined at the time of the grant. At April 30, 2022, there were shares available for future grants under the 2008 Plan. 
+ In order to determine the fair value of stock options on the date of grant, the Company applied the Black-Scholes option pricing model. Inherent in the model are assumptions related to expected stock-price volatility, option life, risk-free interest rate, and dividend yield. The stock options outstanding have the "plain-vanilla" characteristics as defined in SEC Staff Accounting Bulletin No. 107 (SAB 107). The Company utilized the Safe Harbor option "Simplified Method" to determine the expected term of these options in accordance with the guidance of SAB 107 for options outstanding. 
+ The stock-based compensation expense is recorded over the vesting period years) for the options granted, net of tax. Under the 2008 Plan, the Company recorded compensation expense or deferred income tax benefit in fiscal year 2022, as compared to of compensation expense and of deferred income tax benefit in fiscal year 2021. 
+ 34 
+
+Table of Contents 
+
+Canceled ) ) Exercised ) Outstanding at end of year Exercisable at end of year 
+ - 
+ - 
+ Options outstanding Weighted average exercise price Weighted average remaining contractual life years years Aggregate intrinsic value Options exercisable Weighted average exercise price Aggregate intrinsic value 
+
+Note 8 ) ) Foreign currency translation adjustment ) ) Change in unrecognized actuarial loss on pension obligations Balance at April 30, 2021 ) ) ) Foreign currency translation adjustment ) ) Change in unrecognized actuarial loss on pension obligations Balance at April 30, 2022 ) ) ) 
+
+Note 9 
+ 35 
+
+Table of Contents 
+
+ and at April 30, 2022 and 2021, respectively. Operating cash paid to settle lease liabilities was and for the fiscal year ended April 30, 2022 and 2021, respectively. The Company's leases have remaining lease terms of up to years. In addition, some of the leases may include options to extend the leases for up to years or options to terminate the leases within year. Operating lease expense was for the twelve months ended April 30, 2022, inclusive of period cost for short-term leases, not included in lease liabilities, of . Operating lease expense was for the fiscal year ended April 30, 2021, inclusive of period cost for short-term leases, not included in lease liabilities, of . 
+ At April 30, 2022, the weighted average remaining lease term for the capitalized operating leases was years and the weighted average discount rate was . At April 30, 2021, the weighted average remaining lease term for the capitalized operating leases was years and the weighted average discount rate was . For the financing leases, the weighted average remaining lease term was years and the weighted average discount rate was at April 30, 2022 as compared to years and at April 30, 2021. As most of the Company's leases do not provide an implicit rate, the Company uses its incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments. The Company uses the implicit rate when readily determinable. 
+ 
+ 2024 2025 2026 2027 Thereafter Total Minimum Lease Payments Imputed Interest ) ) Total 
+ 
+ The Company is involved in certain claims and legal proceedings in the normal course of business which management believes will not have a material adverse effect on the Company's consolidated financial condition or results of operations. 
+ 
+ Note 10 
+ 36 
+
+Table of Contents 
+
+ Change in Projected Benefit Obligations Projected benefit obligations, beginning of year Interest cost Actuarial loss ) ) Actual benefits paid ) ) Projected benefit obligations, end of year Change in Plan Assets Fair value of plan assets, beginning of year Actual return on plan assets ) Employer contributions Actual benefits paid ) ) Fair value of plan assets, end of year Funded status under ) ) Amounts Recognized in the Consolidated Balance Sheets consist of: Non-current liabilities ) ) Amounts Recognized in Accumulated Other Comprehensive Income (Loss) Consist of: Net actual loss Deferred tax benefit ) ) After-tax actuarial loss Weighted-Average Assumptions Used to Determine Benefit Obligations at April 30 Discount rate Rate of compensation increase N/A N/A Mortality table Pri-2012 Pri-2012 Projection scale MP-2020 MP-2020 
+ Year Ended April 30, Weighted-Average Assumptions Used to Determine Net Periodic Benefit Cost 2022 2021 Discount rate Expected long-term return on plan assets Rate of compensation increase N/A N/A 
+ Expected return on plan assets ) ) Recognition of net loss Net periodic pension (income) expense ) 
+ The estimated net actuarial loss for the defined benefit pension plans that will be amortized from accumulated other comprehensive income into net periodic benefit cost during fiscal year 2023 is . 
+ The Company's funding policy is to contribute to the plans when pension laws and economics either require or encourage funding. The Company expects to make contributions during fiscal year 2023. There were contributions made to the plans in fiscal year 2022. The Company made in contributions to the plans during fiscal year 2021. 
+ 37 
+
+Table of Contents 
+
+ 2024 2025 2026 2027 2028 Beyond 
+ The expected long-term portfolio return is established via a building block approach with proper consideration of diversification and rebalancing. Historical markets are studied and long-term historical relationships between equities and fixed-income securities are preserved consistent with the widely accepted capital market principle that assets with higher volatility generate a greater return over the long term. Current market factors such as inflation and interest rates are evaluated before long-term capital market assumptions are determined. Peer data and historical returns are also reviewed to check for reasonableness and appropriateness. 
+ The Company uses a Yield Curve methodology to determine its GAAP discount rate. Under this approach, future benefit payment cash flows are projected from the pension plan on a projected benefit obligation basis. The payment stream is discounted to a present value using an interest rate applicable to the timing of each respective cash flow. The graph of these time-dependent interest rates is known as a yield curve. The interest rates comprising the Yield Curve are determined through a statistical analysis performed by the IRS and issued each month in the form of a pension discount curve. For this purpose, the universe of possible bonds consists of a set of bonds which are designated as corporate, have high quality ratings (AAA or AA) from nationally recognized statistical rating organizations, and have at least million in par amount outstanding on at least one day during the reporting period. A increase/decrease in the discount rate for fiscal years 2022 and 2021 would decrease/increase pension expense by approximately and , respectively. 
+ The Company uses a total return investment approach, whereby a mix of equities and fixed-income investments are used to attempt to maximize the long-term return on plan assets for a prudent level of risk. Risk tolerance is established through careful consideration of plan liabilities, plan funded status, and corporate financial condition. The investment portfolio contains a diversified blend of equity and fixed-income investments. Furthermore, equity investments are diversified across U.S. and non-U.S. stocks, as well as growth, value, and small and large capitalizations. The target allocations based on the Company's investment policy were in equity securities and in fixed-income securities at April 30, 2022 and April 30, 2021. A increase/decrease in the expected return on assets for fiscal years 2022 and 2021 would decrease/increase pension expense by approximately and , respectively. 
+ Fixed Income Securities Cash and Cash Equivalents Totals 
+ 38 
+
+Table of Contents 
+
+ Small/Mid Cap International Emerging Markets Fixed Income Liquid Alternatives Cash and Cash Equivalents Totals 
+ 2021 Asset Category Level 1 Level 2 Level 3 Large Cap Small/Mid Cap International Emerging Markets Fixed Income Liquid Alternatives Cash and Cash Equivalents Totals 
+ Level 1 retirement plan assets include United States currency held by a designated trustee and equity funds of common and preferred securities issued by domestic and foreign corporations. These equity funds are traded actively on exchanges and price quotes for these shares are readily available. 
+ Defined Contribution Plan 
+ The Company has a defined contribution plan covering substantially all domestic salaried and hourly employees. The plan provides benefits to all employees who have attained age , completed of service, and who elect to participate. The plan provides that the Company make matching contributions equal to of the employee's qualifying contribution up to of the employee's compensation, and make matching contributions equal to of the employee's contributions between and of the employee's compensation, resulting in a maximum employer contribution equal to of the employee's compensation. The Company's matching contributions were and for years ending April 30, 2022 and 2021. Additionally, the plan provides that the Company may elect to make a non-matching contribution for participants employed by the Company on December 31 of each year. The Company did not elect to make a non-matching contribution in fiscal years 2022 and 2021. 
+ 
+ Note 11 
+ business segments: Domestic and International. The Domestic business segment principally designs, manufactures, and installs scientific and technical furniture, including steel and wood laboratory cabinetry, fume hoods, laminate casework, flexible systems, worksurfaces, workstations, workbenches, and computer enclosures. The International business segment, which consists of the foreign subsidiaries identified in Note 1 , Summary of Significant Accounting Policies , provides the Company's products and services, including facility design, detailed engineering, construction, and project management from the planning stage through testing and commissioning of laboratories. 
+ Intersegment transactions are recorded at normal profit margins. All intercompany balances and transactions have been eliminated. Certain corporate expenses shown below have not been allocated to the business segments. 
+ 39 
+
+Table of Contents 
+
+ Intersegment revenues ) Depreciation Earnings (loss) before income taxes ) ) ) Income tax expense Net earnings attributable to non-controlling interest Net earnings (loss) attributable to Kewaunee Scientific Corporation ) ) ) Segment assets Expenditures for segment assets Revenues (excluding intersegment) from customers in foreign countries Fiscal Year 2021 Revenues from external customers Intersegment revenues ) Depreciation Earnings (loss) before income taxes ) ) Income tax expense (benefit) ) Net earnings attributable to non-controlling interest Net earnings (loss) attributable to Kewaunee Scientific Corporation ) ) Segment assets Expenditures for segment assets Revenues (excluding intersegment) from customers in foreign countries 
+
+Note 12 
+ in its international operations related to the closure of the China subsidiary. The Company reflected all the expenses as operating expenses in the Consolidated Statement of Operations. The Company now expects the remaining administrative requirements for closure of the China subsidiary to be completed by the end of fiscal year 2023. 
+ 40 
+
+Table of Contents 
+
+ Note 13 
+ Gross profit Net loss ) ) ) ) Less: net earnings attributable to the non-controlling interest Net loss attributable to Kewaunee Scientific Corporation ) ) ) ) Net loss per share attributable to Kewaunee Scientific Corporation Basic ) ) ) ) Diluted ) ) ) ) Fiscal Year 2021 Net sales Gross profit Net (loss) earnings ) ) ) Less: net (loss) earnings attributable to the non-controlling interest ) Net (loss) earnings attributable to Kewaunee Scientific Corporation ) ) ) Net (loss) earnings per share attributable to Kewaunee Scientific Corporation Basic ) ) ) Diluted ) ) ) 
+ The sum of the quarterly net earnings per share amounts does not necessarily equal net earnings per share for the year due to rounding. 
+ 
+ 41 
+
+Table of Contents 
+
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ We consent to the incorporation by reference in the Registration Statements on Forms S 8 (Nos. 333 160276, 333 176447, 333 213413 and 333 220389) of Kewaunee Scientific Corporation of our report dated July 1, 2022, with respect to the consolidated financial statements of Kewaunee Scientific Corporation, included in this Annual Report on Form 10 K for the year ended April 30, 2022. 
+ 
+ /s/ FORVIS, LLP 
+ (Formerly, Dixon Hughes Goodman LLP 
+ 
+ Charlotte, North Carolina 
+ July 1, 2022 
+ 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ None. 
+ 
+ Item 9A. Controls and Procedures 
+ Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures 
+ We maintain disclosure controls and procedures that are intended to ensure that the information required to be disclosed in our filings under the Securities Exchange Act of 1934 (the "Exchange Act") is properly and timely recorded, processed, summarized, and reported. Our management, including the Chief Executive Officer and Chief Financial Officer, have conducted an evaluation of the effectiveness of disclosure controls and procedures as of April 30, 2022 pursuant to Exchange Act Rule 13a-14. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the disclosure controls and procedures are effective. In designing disclosure controls and procedures, we recognize that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving desired control objectives, and that management necessarily is required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures. 
+ In addition, as disclosed in the Company s Form 10-Q for the period ended January 31, 2022, on November 5, 2021, the Company experienced a criminal network cyber attack that led to a disruption of its domestic operations, including manufacturing, engineering, administration, and sales operations. The Company engaged a leading cybersecurity firm to perform a forensic investigation of this attack and, as a result of the investigation, identified a deficiency in its logical access control over its IT systems. As of April 30, 2022, management has concluded, through testing, that remediation has been completed and these controls are operating effectively. 
+ Management's Report on Internal Control Over Financial Reporting 
+ Management is responsible for establishing and maintaining adequate internal control over financial reporting for the Company. Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States. Management conducted an evaluation of the effectiveness of internal control over financial reporting based on the framework in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, management concluded the Company maintained effective internal control over financial reporting as of April 30, 2022. 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. In addition, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ This annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management's report was not subject to attestation by our registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit us to provide only management's report in this Annual Report. 
+ Changes in Internal Control Over Financial Reporting 
+ There have been no significant changes in our internal controls over financial reporting that occurred during our fourth fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal controls over financial reporting. 
+ 42 
+
+Table of Contents 
+
+ Item 9B. Other Information 
+ On June 27, 2022, the Company terminated the Credit and Security Agreement, dated as of May 6, 2013, as amended (the "Credit Agreement"), between the Company and Wells Fargo Bank, National Association. The Credit Agreement provided for a line of credit of up to 3.0 million, subject to reduction as provided therein. The Credit Agreement was scheduled to mature on June 30, 2022. At the time of termination, there were no borrowings under the Credit Agreement, and the Company will not incur any material termination penalties as a result of such termination. In connection with the termination of the Credit Agreement and the repayment in full of all outstanding amounts owed thereunder, all related liens and security interests securing the Company's obligations under the Credit Agreement were terminated and released. 
+ 
+ Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ Not Applicable. 
+ 43 
+
+Table of Contents 
+
+ PART III 
+ 
+ Item 10. Directors, Executive Officers and Corporate Governance 
+ (a) The information appearing in the sections entitled "Election of Directors" and "Meetings and Committees of the Board" included in our Proxy Statement for use in connection with our annual meeting of stockholders to be held on August 24, 2022 (the "Proxy Statement") is incorporated herein by reference. The Proxy Statement will be filed with the SEC within 120 days of our most recently completed fiscal year. 
+ (b) The names and ages of our executive officers as of June 30, 2022 and their business experience during the past five years are set forth below: 
+ Executive Officers 
+ Name Age Position Thomas D. Hull III 46 President and Chief Executive Officer 
+ Donald T. Gardner III 43 Vice President, Finance, Chief Financial Officer, Treasurer and Secretary 
+ Ryan S. Noble 44 Vice President, Sales and Marketing Americas Elizabeth D. Phillips 45 Vice President, Human Resources Mandar Ranade 48 Vice President of Information Technology and Engineering Douglas J. Batdorff 49 Vice President of Manufacturing Operations Boopathy Sathyamurthy 53 Vice President, Kewaunee Scientific Corporation Singapore Pte. Ltd., Managing Director, International Operations 
+ Thomas D. Hull III joined the Company in November 2015 as Vice President, Finance, Chief Financial Officer, Treasurer and Secretary. Mr. Hull was elected President and Chief Executive Officer and appointed as a member of the Board of Directors in March 2019. Mr. Hull earned a Bachelor of Science degree in Accounting from LaRoche College and an MBA from the University of Pittsburgh, Joseph M. Katz School of Business. He is a certified public accountant (inactive status) and a member of the American Institute of Certified Public Accountants and the Pennsylvania Institute of Certified Public Accountants. Prior to joining the Company, Mr. Hull held several management positions with Ernst Young, LLP in Pittsburgh, Pennsylvania from 1998 through 2011. From 2011 until joining the Company in 2015, he served as the Vice President of Finance, Accounting, and Information Technology with ATI Specialty Materials in Charlotte, North Carolina. 
+ Donald T. Gardner III joined the Company in April 2019 as Vice President of Finance and Chief Financial Officer and was also elected by the Board of Directors to the positions of Secretary and Treasurer. Mr. Gardner has a Bachelor of Science degree in Accounting from the Indiana University of Pennsylvania and a Master of Business Administration from the University of Pittsburgh, Joseph M. Katz School of Business. Prior to joining the Company, from 2017 to 2019, he served as Vice President, Financial Planning Analysis of Victra, a retailer of wireless products and services, and a portfolio company of private equity firm Lone Star Funds. During 2017, he served as the Chief Financial Officer of Component Sourcing International, a provider of global sourcing supply chain solutions, and a portfolio company of Argosy private equity. From February 2016 to June 2017, Mr. Gardner worked for Dollar Express Stores, LLC, an operator of discount retail stores, serving in various financial leadership roles, most recently as Vice President and Treasurer. From 2012 to February 2016, he worked at ATI Specialty Materials, a manufacturer of technically advanced specialty materials and complex components, serving in various financial leadership roles. 
+ Ryan S. Noble joined the Company in July 2018 as Vice President of Sales and Marketing - Americas. He has a Bachelor of Science degree in Human Ecology from the University of Tennessee. Prior to joining the Company, he was Director of Sales at Dodge Data Analytics, a provider of analytics and software-based solutions for the construction industry, from March 2018 to July 2018. From 2014 to 2018, he was a Regional Sales Director at Wausau Window and Wall Systems, a manufacturer of metal and glass solutions for commercial buildings. From 2008 to 2014, he held several sales management positions at AGC Glass Company, a glass and high performance coatings manufacturer for architectural, residential, interior, and industrial applications. 
+ Elizabeth D. Phillips joined the Company in August 2006 as Human Resources and Training Manager. She was promoted to Director of Human Resources in June 2007 and was elected Vice President of Human Resources in June 2009. Ms. Phillips has a Bachelor of Science degree in Psychology from Western Carolina University. Prior to joining the Company, she held Human Resources leadership positions at Thomasville Furniture and Hickory Chair and immediately prior to joining Kewaunee was Director of Human Resources for Vanguard Furniture Co., Inc., a manufacturer of household furniture, from April 2004 until August 2006. 
+ 44 
+
+Table of Contents 
+
+ Mandar Ranade joined the Company in December 2019 as Vice President of Information Technology. In February 2020, Mr. Ranade's responsibilities were expanded to include Engineering and Standards oversight and he now holds the position of Vice President of Information Technology and Engineering. He has a Master of Business Administration, Finance, from the University of Leeds, Leeds, United Kingdom, and a Bachelor of Engineering, Polymers, from University of Pune, Pune, India. He also has certifications as a Project Management Professional, Certified Scrum Master, ITIL (Foundation) Certification and a Master of Oracle Applications. Prior to joining the Company, Mr. Ranade most recently held the position of Division IT Leader for EnPro Industries-Fairbanks Morse, Wisconsin from 2018 to November 2019. From 2015 to 2018, he held several Director positions, the most recent being Director of Technical Services, with Aurora Health Care, ACL Laboratories, Milwaukee, Wisconsin. Prior to these positions he was Senior Manager of IT with IMS Health, Milwaukee, Wisconsin, from 2010 to 2015, and ThermoFisher Scientific in Two Rivers, Wisconsin, from 2005 to 2010. From 1995 to 2005, he held various IT positions with GE Healthcare, Milwaukee, Wisconsin and Mumbai, India, idm Limited, in Doncaster, UK, and GREAVES Limited, Mumbai, India . 
+ Douglas J. Batdorff joined the Company in June 2020 as Vice President of Manufacturing Operations. He has significant experience in directing and guiding manufacturing operations, focusing on improvement of business performance, maximizing growth and profitability. Mr. Batdorff has a Bachelor of Science Degree in Mechanical Engineering from Michigan State University and a Masters in Manufacturing Operations from Kettering University. Prior to joining the Company, Mr. Batdorff was the Chief Operations Officer for Legacy Cabinets, Inc. in Eastaboga, Alabama from 2018 to 2020. From 2005 to 2018 he held various management positions with Steelcase, the most recent as Director of Manufacturing - US Operations from 2014 to 2018. He was with General Motors, Lansing, Michigan from 1998 to 2004 in many management roles, the most recent being Manufacturing Coordinator - General Assembly - Final Process. 
+ Boopathy Sathyamurthy joined the Company in 2000 as General Manager of India Operations and Kewaunee Labway India Pvt. Ltd. He was subsequently promoted to Managing Director of Kewaunee Labway India Pvt. Ltd. He has served as Managing Director of International Operations, which includes responsibilities for all sales and operations in Asia, as well as sales efforts in the Middle East, since September 2013. Mr. Sathyamurthy was elected Vice President of Kewaunee Scientific Corporation Singapore Pte. Ltd., the holding company for Kewaunee's subsidiaries in India, Singapore, and China, in September 2014. He holds a Bachelor Degree in Mechanical Engineering from University of Madras and a Masters of Business Administration from University of Madras. 
+ Code of Ethics 
+ A copy of our code of ethics that applies to our Chief Executive Officer and Chief Financial Officer, entitled "Ethics Obligations for Chief Executive Officer and Employees with Financial Reporting Responsibilities," is available free of charge through our website at www.kewaunee.com . 
+ Audit Committee 
+ The information appearing in the section entitled "Election of Directors Meetings and Committees of the Board" in our Proxy Statement is incorporated herein by reference. 
+ Delinquent Section 16(a) Reports 
+ The information appearing in the section entitled "Delinquent Section 16(a) Reports" in our Proxy Statement is incorporated herein by reference. 
+ 
+ Item 11. Executive Compensation 
+ The information appearing in the sections entitled "Compensation Discussion and Analysis," "Compensation Tables," "Agreements with Certain Executives," and "Election of Directors Compensation Committee Interlocks and Insider Participation" in the Proxy Statement is incorporated herein by reference. 
+ 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ The information appearing in the sections entitled "Security Ownership of Directors and Executive Officers" and "Security Ownership of Certain Beneficial Owners" in the Proxy Statement is incorporated herein by reference. 
+ 45 
+
+Table of Contents 
+
+ The following table sets forth certain information as of April 30, 2022 with respect to compensation plans under which our equity securities are authorized for issuance: 
+ Plan Category Number of securities to be issued upon exercise of outstanding options, warrants and rights Weighted-average exercise price of outstanding options, warrants and rights Number of securities remaining available for future issuance under equity compensation plans Equity Compensation Plans approved by Security Holders: 2008 Key Employee Stock Option Plan 47,400 19.34 2017 Omnibus Incentive Plan 144,827 147,509 Equity Compensation Plans not approved by Security Holders: Total Equity Compensation Plans 192,227 147,509 
+ Refer to Note 7 , Stock Options and Share-Based Compensation , of the Company's consolidated financial statements included in Item 8 for additional information. 
+ 
+ Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ The information appearing in the sections entitled "Election of Directors" and "Agreements with Certain Executives" in the Proxy Statement is incorporated herein by reference. 
+ 
+ Item 14. Principal Accountant Fees and Services 
+ The information appearing in the section entitled "Ratification of Appointment of Independent Registered Public Accounting Firm Audit Fees and Non-Audit Fees" in the Proxy Statement is incorporated herein by reference. 
+ 46 
+
+Table of Contents 
+
+ PART IV 
+ 
+ Item 15. Exhibits and Financial Statement Schedules 
+ The following documents are filed or incorporated by reference as part of this Annual Report: 
+ Page (a)(1) Consolidated Financial Statements Report of Independent Registered Public Accounting Firm 
+ 16 
+ Consolidated Statements of Operations Years ended April 30, 202 2 and 202 1 
+ 17 
+ Consolidated Statements of Comprehensive Income Years ended April 30, 202 2 and 202 1 
+ 18 
+ Consolidated Statements of Stockholders' Equity Years ended April 30, 202 2 and 202 1 
+ 19 
+ Consolidated Balance Sheets April 30, 202 2 and 202 1 
+ 20 
+ Consolidated Statements of Cash Flows Years ended April 30, 202 2 and 202 1 
+ 21 
+ Notes to Consolidated Financial Statements 
+ 22 
+ Consent of Independent Registered Public Accounting Firm 
+ 42 
+ (a)(2) Consolidated Financial Statement Schedules Financial statement schedules have been omitted because the information required has been separately disclosed in the consolidated financial statements or related notes. (a)(3) Exhibits Exhibits required by Item 601 of Regulation S-K are listed in the Exhibit Index, which is attached hereto at pages 47 through 50 and which is incorporated herein by reference. 
+ 
+ Item 16. Form 10-K Summary 
+ None. 
+ 
+ 47 
+
+Table of Contents 
+
+ KEWAUNEE SCIENTIFIC CORPORATION 
+ Exhibit Index 
+ Reference 3 Articles of incorporation and bylaws 3.1 Conformed copy of Restated Certificate of Incorporation (reflecting all amendments to date) 
+ (18) 3.3 By-Laws (as amended as of April 21, 2020) 
+ (25) 4 Description of Registrant's Securities 4.1 Description of Capital Stock 
+ (21) 10 Material Contracts 10.1 Re-Established Retirement Plan for Salaried Employees of Kewaunee Scientific Corporation (as amended and restated effective as of May 1, 2012) 
+ (4) 10.1A First Amendment to the Re-Established Retirement Plan for Salaried Employees of Kewaunee Scientific Corporation 
+ (8) 10.1B Second Amendment to the Re-Established Retirement Plan for Salaried Employees of Kewaunee Scientific Corporation 
+ (13) 10.1C Third Amendment to the Re-Established Retirement Plan for Salaried Employees of Kewaunee Scientific Corporation 
+ (14) 10.1D Fourth Amendment to the Re-Established Retirement Plan for Salaried Employees of Kewaunee Scientific Corporation 
+ (18) 10.2 Re-Established Retirement Plan for Hourly Employees of Kewaunee Scientific Corporation (as amended and restated effective as of May 1, 2012) 
+ (4) 10.2A First Amendment to the Re-Established Retirement Plan for Hourly Employees of Kewaunee Scientific Corporation 
+ (8) 10.2B Second Amendment to the Re-Established Retirement Plan for Hourly Employees of Kewaunee Scientific Corporation 
+ (13) 10.2C Third Amendment to the Re-Established Retirement Plan for Hourly Employees of Kewaunee Scientific Corporation 
+ (14) 10.2D Fourth Amendment to the Re-Established Retirement Plan for Hourly Employees of Kewaunee Scientific Corporation 
+ (18) 10.30 Kewaunee Scientific Corporation Executive Severance Pay Policy 
+ (2) 10.34 401(k) Incentive Savings Plan for Salaried and Hourly Employees of Kewaunee Scientific Corporation (as amended and restated effective June 29, 2015) 
+ (12) 10.34A First Amendment to the 401(k) Incentive Savings Plan for Salaried and Hourly Employees of Kewaunee Scientific Corporation (as amended and restated effective January 1, 2020) 
+ (24) 10.51 Amended and Restated 2008 Key Employee Stock Option Plan effective August 26, 2015 
+ (11) 10.58 Kewaunee Scientific Corporation 2010 Stock Option Plan for Directors 
+ (3) 10.61 Credit and Security Agreement dated as of May 6, 2013 between Wells Fargo Bank, National Association and Kewaunee Scientific Corporation including the forms of notes executed thereunder 
+ (5) 10.61A First Amendment to Credit and Security Agreement dated July 9, 2013 
+ (6) 10.61B Second Amendment to Credit and Security Agreement dated June 10, 2014 
+ (7) 10.61C Third Amendment to Credit and Security Agreement and First Amendment to Revolving Line of Credit Note dated as of June 3, 2015 
+ (9) 10.61D Fourth Amendment to Credit and Security Agreement and Second Amendment to Revolving Line of Credit Note dated as of March 12, 2018 
+ (17) 10.61E Fifth Amendment to Credit and Security Agreement dated as of April 22, 2019 
+ (21) 10.61F Sixth Amendment to Credit and Security Agreement dated as of May 28, 2019. 
+ (21) 10.61G Seventh Amendment to Credit and Security Agreement and Third Amendment to Revolving Line of Credit Note dated as of July 9, 2019. 
+ (21) 10.61H Credit and Security Agreement Default Waiver Letter dated as of June 19, 2019 between Wells Fargo Bank, National Association and Kewaunee Scientific Corporation. 
+ (21) 10.61I Security Agreement dated as of June 19, 2019 between Wells Fargo Bank, National Association and Kewaunee Scientific Corporation. 
+ (21) 
+ 48 
+
+Table of Contents 
+
+ Reference 10.61J Eighth Amendment to Credit and Security Agreement and Fourth Amendment to Revolving Line of Credit Note dated as of December 13, 2019 
+ (23) 10.61K Ninth Amendment to Credit and Security Agreement, Fifth Amendment to Revolving Line of Credit Note and Waive r dated as of July 20, 2020 
+ (26) 10.61L Tenth Amendment to Credit and Security Agreement and Sixth Amendment to Revolving Line of Credit Note dated as of January 28, 2021 
+ (27) 10.61M Eleventh Amendment to Credit and Security Agreement and Seventh Amendment to Revolving Line of Credit Note dated as of April 27, 2021 
+ (28) 10.61N Twelfth Amendment to Credit and Security Agreement and Eighth Amendment to Revolving Line of Credit Note dated as of July 30, 2021 
+ (31) 10.61O Thirteenth Amendment to Credit and Security Agreement and Eighth Amendment to Revolving Line of Credit Note dated as of March 11, 2022 
+ (1) 10.61P Fourteenth Amendment to Credit and Security Agreement and Eighth Amendment to Revolving Line of Credit Note dated as of April 29, 2022 
+ (1) 10.61Q Fifteenth Amendment to Credit and Security Agreement and Eighth Amendment to Revolving Line of Credit Note dated as of May 27, 2022 
+ (1) 10.62 Agreement for Purchase and Sale of Real Property dated as of December 22, 2021 between CAI Investments Sub Series 100, LLC and Kewaunee Scientific Corporation 
+ (29) 10.62A First Amendment to the Agreement for Purchase and Sale of Real Property dated as of January 21, 2022 
+ (29) 10.62B Second Amendment to the Agreement for Purchase and Sale of Real Property dated as of January 24, 2022 
+ (29) 10.62C Third Amendment to the Agreement for Purchase and Sale of Real Property dated as of January 26, 2022 
+ (29) 10.62D Fourth Amendment to the Agreement for Purchase and Sale of Real Property dated as of March 23, 2022 
+ (30) 10.68 401Plus Executive Deferred Compensation Plan (as amended and restated January 1, 2009) 
+ (10) 10.68A Amendment No. One to the Kewaunee Scientific Corporation 401Plus Executive Deferred Compensation Plan 
+ (10) 10.68B Amendment No. Two to the Kewaunee Scientific Corporation 401Plus Executive Deferred Compensation Plan 
+ (16) 10.69 Pension Equalization Plan (as amended and restated January 1, 2009) 
+ (10) 10.69A Amendment No. One to the Kewaunee Scientific Corporation Pension Equalization Plan 
+ (10) 10.72 Kewaunee Scientific Corporation 2017 Omnibus Incentive Plan 
+ (15) 10.73 Offer Letter to Donald T. Gardner III dated April 2, 2019. 
+ (19) 10.74 Change of Control Employment Agreement dated as of June 18, 2019 between Kewaunee Scientific Corporation and Thomas D. Hull III. 
+ (20) 10.75 Change of Control Employment Agreement dated as of June 18, 2019 between Kewaunee Scientific Corporation and Donald T. Gardner III. 
+ (20) 10.76 Change of Control Employment Agreement dated as of June 18, 2019 between Kewaunee Scientific Corporation and Michael D. Rok. 
+ (20) 10.77 Change of Control Employment Agreement dated as of June 18, 2019 between Kewaunee Scientific Corporation and Elizabeth D. Phillips. 
+ (20) 10.78 Change of Control Employment Agreement dated as of June 18, 2019 between Kewaunee Scientific Corporation and Ryan S. Noble . 
+ (20) 10.79 Employment agreement dated October 1, 2017 between Kewaunee Labway India Pvt. Ltd and Bhoopathy Sathyamurthy. 
+ (21) 10.80 Employment Agreement dated as of October 28, 2019 between Kewaunee Scientific Corporation and Mandar Ranade 
+ (22) 10.81 Change of Control Employment Agreement dated as of December 2, 2019 between Kewaunee Scientific Corporation and Mandar Ranade 
+ (24) 10.82 Offer Letter dated as of May 7, 2020 between Kewaunee Scientific Corporation and Douglas J. Batdorff 
+ (26) 10.83 Change of Control Employment Agreement dated as of June 1, 2020 between Kewaunee Scientific Corporation and Douglas J. Batdorff 
+ (26) 21.1 Subsidiaries of the Company 
+ (1) 
+ 49 
+
+Table of Contents 
+
+ Reference 23.1 Consent dated July 1 , 202 2 of FORVIS, LLP, Independent Registered Public Accounting Firm (incorporated by reference to page 4 2 of this Report on Form 10-K) 
+ (1) 31.1 Certification of Principal Executive Officer of the Company pursuant to Exchange Act Rule 13a-14(a) or Rule 15d-14(a) 
+ (1) 31.2 Certification of Principal Financial Officer of the Company pursuant to Exchange Act Rule 13a-14(a) or Rule 15d-14(a) 
+ (1) 32.1 Certification of Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ (1) 32.2 Certification of Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ (1) 101.INS XBRL Instance Document (1) 101.SCH XBRL Taxonomy Extension Schema Document (1) 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document (1) 101.DEF XBRL Taxonomy Extension Definition Linkbase Document (1) 101.LAB XBRL Taxonomy Extension Label Linkbase Document (1) 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document (1) 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) (1) 
+ _____________ 
+ The referenced exhibit is a management contract or compensatory plan or arrangement. 
+ (All other exhibits are either inapplicable or not required.) 
+ Footnotes 
+ (1) Filed with this Form 10-K with the Securities and Exchange Commission. 
+ (2) Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File No. 0-5286) for the quarterly period ended October 31, 2005, and incorporated herein by reference. 
+ (3) Filed as Appendix A to the Kewaunee Scientific Corporation Proxy Statement for its Annual Meeting of Stockholders on August 25, 2010 (Commission File No. 0-5286) filed on July 23, 2010, and incorporated herein by reference. 
+ (4) Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File No. 0-5286) for the quarterly period ended October 31, 2012, and incorporated herein by reference. 
+ (5) Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on May 9, 2013, and incorporated herein by reference. 
+ (6) Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on July 11, 2013, and incorporated herein by reference. 
+ (7) Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the fiscal year ended April 30, 2014, and incorporated herein by reference. 
+ (8) Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on September 2, 2014, and incorporated herein by reference. 
+ (9) Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on June 3, 2015, and incorporated herein by reference. 
+ (10) Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the fiscal year ended April 30, 2015, and incorporated herein by reference. 
+ (11) Filed as Appendix A to the Kewaunee Scientific Corporation Proxy Statement for its Annual Meeting of Stockholders on August 26, 2015 (Commission File No. 0-5286) filed on July 23, 2015, and incorporated herein by reference. 
+ (12) Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File No. 0-5286) for the quarterly period ended October 31, 2015, and incorporated herein by reference. 
+ (13) Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the fiscal year ended April 30, 2016, and incorporated herein by reference. 
+ 50 
+
+Table of Contents 
+
+ (14) Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File No. 0-5286) for the quarterly period ended January 31, 2017, and incorporated herein by reference. 
+ (15) Filed as Appendix A to the Kewaunee Scientific Corporation Proxy Statement for its Annual Meeting of Stockholders on August 30, 2017 (Commission File No. 0-5286) filed on July 21, 2017, and incorporated herein by reference. 
+ (16) Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File No. 0-5286) for the quarterly period ended January 31, 2018, and incorporated herein by reference. 
+ (17) Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on March 16, 2018, and incorporated herein by reference. 
+ (18) Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the fiscal year ended April 30, 2018, and incorporated herein by reference. 
+ (19) Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on April 30, 2019, and incorporated herein by reference. 
+ (20) Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on June 21, 2019, and incorporated herein by reference. 
+ (21) Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the fiscal year ended April 30, 2019, and incorporated herein by reference. 
+ (22) Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File No. 0-5286) for the quarterly period ended October 31, 2019, and incorporated herein by reference. 
+ (23) Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on December 16, 2019, and incorporated herein by reference. 
+ (24) Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File No. 0-5286) for the quarterly period ended January 31, 2020, and incorporated herein by reference. 
+ (25) Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on April 27, 2020, and incorporated herein by reference. 
+ (26) Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the fiscal year ended April 30, 2020, and incorporated herein by reference. 
+ (27) Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File No. 0-5286) for the quarterly period ended January 31, 2021, and incorporated herein by reference. 
+ (28) Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the fiscal year ended April 30, 2021, and incorporated herein by reference. 
+ (29) Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File 0-5286) for the quarterly period ended January 31, 2022, and incorporated herein by reference. 
+ (30) Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on March 30, 2022, and incorporated herein by reference. 
+ (31) Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File 0-5286) for the quarterly period ended July 31, 2021, and incorporated herein by reference. 
+ 
+ 51 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ KEWAUNEE SCIENTIFIC CORPORATION By: /s/ Thomas D. Hull III Thomas D. Hull III President and Chief Executive Officer 
+ Date: July 1, 2022 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the Registrant and in the capacities indicated on July 1, 2022. 
+ (i) Principal Executive Officer /s/ Thomas D. Hull III Thomas D. Hull III President and Chief Executive Officer (ii) Principal Financial and Accounting Officer /s/ Donald T. Gardner III Donald T. Gardner III Vice President, Finance Chief Financial Officer, Treasurer and Secretary (iii) A majority of the Board of Directors: /s/ Keith M. Gehl /s/ John D. Russell Keith M. Gehl John D. Russell /s/ Margaret B. Pyle /s/ Donald F. Shaw Margaret B. Pyle Donald F. Shaw /s/ Thomas D. Hull, III Thomas D. Hull, III /s/ David S. Rhind David S. Rhind 
+ 
+ 52 
+
+<EX-10.61O>
+ 2
+ exhibit1061o.htm
+ EX-10.61O
+
+exhibit1061o 
+
+</EX-10.61O>
+
+<EX-10.61P>
+ 3
+ exhibit1061p.htm
+ EX-10.61P
+
+exhibit1061p 
+
+</EX-10.61P>
+
+<EX-10.61Q>
+ 4
+ exhibit1061q.htm
+ EX-10.61Q
+
+exhibit1061q 
+
+</EX-10.61Q>
+
+<EX-23.1>
+ 5
+ exhibit231.htm
+ EX-23.1
+
+exhibit231 
+
+Consent of Independent Registered Public Accounting Firm We consent to the incorporation by reference in the Registration Statements on Forms S-8 (Nos. 333-160276, 333-176447, 333-213413 and 333-220389) of Kewaunee Scientific Corporation of our report dated July 1, 2022, with respect to the consolidated financial statements of Kewaunee Scientific Corporation, included in this Annual Report on Form 10-K for the year ended April 30, 2022. /s/ FORVIS, LLP (Formerly, Dixon Hughes Goodman LLP) Charlotte, North Carolina July 1, 2022 
+
+</EX-23.1>
+
+<EX-31.1>
+ 6
+ certification311.htm
+ EX-31.1
+
+certification311 
+
+Exhibit 31.1 CERTIFICATION I, Thomas D. Hull III, certify that: 1. I have reviewed this report on Form 10-K of Kewaunee Scientific Corporation; 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. /s/ Thomas D. Hull III Thomas D. Hull III President and Chief Executive Officer Date: July 1, 2022 
+
+</EX-31.1>
+
+<EX-31.2>
+ 7
+ certification312.htm
+ EX-31.2
+
+certification312 
+
+Exhibit 31.2 CERTIFICATION I, Donald T. Gardner III, certify that: 1. I have reviewed this report on Form 10-K of Kewaunee Scientific Corporation; 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. /s/ Donald T. Gardner III Donald T. Gardner III Vice President, Finance and Chief Financial Officer Date: July 1, 2022 
+
+</EX-31.2>
+
+<EX-32.1>
+ 8
+ exhibit321.htm
+ EX-32.1
+
+exhibit321 
+
+Exhibit 32.1 CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 In connection with the accompanying Annual Report of Kewaunee Scientific Corporation (the Company on Form 10-K for the fiscal year ended April 30, 2022, as filed with the Securities and Exchange Commission on the date hereof, I, Thomas D. Hull III, President and Chief Executive Officer of the Company, hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: (1) such Form 10-K of the Company for the period ended April 30, 2022, fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)); and (2) the information contained in such Form 10-K of the Company for the period ended April 30, 2022, fairly presents, in all material respects, the financial condition and results of operations of the Company. Date: July 1, 2022 /s/ Thomas D. Hull III Thomas D. Hull III President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 9
+ exhibit322.htm
+ EX-32.2
+
+exhibit322 
+
+Exhibit 32.2 CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 In connection with the accompanying Annual Report of Kewaunee Scientific Corporation (the Company on Form 10-K for the fiscal year ended April 30, 2022, as filed with the Securities and Exchange Commission on the date hereof, I, Donald T. Gardner III, Vice President, Finance and Chief Financial Officer of the Company, hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: (1) such Form 10-K of the Company for the period ended April 30, 2022, fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)); and (2) the information contained in such Form 10-K of the Company for the period ended April 30, 2022, fairly presents, in all material respects, the financial condition and results of operations of the Company. Date: July 1, 2022 /s/ Donald T. Gardner III Donald T. Gardner III Vice President, Finance and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 10
+ kequ-20220430.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 11
+ kequ-20220430_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 12
+ kequ-20220430_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 13
+ kequ-20220430_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 14
+ kequ-20220430_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

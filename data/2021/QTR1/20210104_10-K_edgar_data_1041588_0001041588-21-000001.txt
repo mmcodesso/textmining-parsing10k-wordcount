@@ -1,0 +1,1346 @@
+<Header>
+<FileStats>
+    <FileName>20210104_10-K_edgar_data_1041588_0001041588-21-000001.txt</FileName>
+    <GrossFileSize>46787</GrossFileSize>
+    <NetFileSize>43413</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>122</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001041588-21-000001.hdr.sgml : 20210104
+<ACCEPTANCE-DATETIME>20210104092957
+ACCESSION NUMBER:		0001041588-21-000001
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201231
+FILED AS OF DATE:		20210104
+DATE AS OF CHANGE:		20210104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Access-Power & Co., Inc.
+		CENTRAL INDEX KEY:			0001041588
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				593420985
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56229
+		FILM NUMBER:		21500382
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 598
+		CITY:			GRAND HAVEN
+		STATE:			MI
+		ZIP:			49417
+		BUSINESS PHONE:		616-312-5390
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 598
+		CITY:			GRAND HAVEN
+		STATE:			MI
+		ZIP:			49417
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACCESS-POWER INC
+		DATE OF NAME CHANGE:	20180628
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACCESS POWER INC
+		DATE OF NAME CHANGE:	19980922
+
+</SEC-Header>
+</Header>
+
+ 0001041588-21-000001.txt : 20210104
+
+10-K
+ 1
+ accr12312010k.txt
+ 
+January 4th, 2021
+
+This form is filled out within all the SPIRITs of the SEC Laws of '33 and '34.
+
+ACCESS-POWER & CO., INC.
+OTC TICKER: ACCR
+We were violent victims of toxic death spiral convertible "floorless"
+debentures from 1998 to 2008, and then through March 2012.
+
+PERIOD and DOCUMENT:			10KSB for the FULL YEAR 12/31/2020
+COMPANY CONFIRMED NAME:		ACCESS-POWER & Co., INC.
+CENTRAL INDEX KEY:			0001041588
+FORM TYPE:				10KSB
+
+SEC FILE NUMBER:			333-65069
+
+BUSINESS ADDRESS:
+STREET 1:				PO BOX 598
+
+CITY:					GRAND HAVEN
+STATE:			 		MI
+ZIP:			 		49417
+
+Respectfully submitted to the,
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+The Division of Corporation Finance, Section 11
+100 F Street NE, Washington, D.C. 20549
+
+FORM 10-K
+
+/X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 FOR THE FISCAL YEAR ENDED
+DECEMBER 31, 2020.
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE TRANSITION PERIOD FROM ______ TO _____
+
+COMMISSION FILE NUMBER: 333-65069
+
+ACCESS-POWER & CO., INC.
+[Exact name of Registrant as
+specified in its charter]
+
+FLORIDA	 
+
+Domicile State or other jurisdiction of
+incorporation or organization
+http://www.sunbiz.org
+
+ MICHIGAN 
+
+State of Operations
+https://cofs.lara.state.mi.us/SearchApi/Search/Search
+
+59-3420985
+(I.R.S. Employer
+Identification No.)
+
+PO BOX 598
+GRAND HAVEN, MI 49417
+616-312-5390
+Email: pjensen@myaccess-power.com
+
+(Address of principal executive offices)
+
+REGISTRANTS TELEPHONE NUMBER, INCLUDING AREA CODE: 616-312-5390
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT: NONE
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+COMMON STOCK, 0.001 PAR VALUE - 300,000,000 shares authorized fully diluted.
+
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities
+Act. Yes No X
+
+Indicate by check mark if the registrant is not required to file
+reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes No X
+
+Indicate by check mark whether the registrant (1) has
+filed all reports required to be filed be Section 13 or 15(d)
+of the Securities Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. Yes X No
+
+Indicate by check mark whether the registrant has submitted
+electronically and posted on its corporate Web site, if any,
+every Interactive Data File required to be submitted and
+posted pursuant to Rule 405 of Regulation S-T (232.405 of
+this chapter) during the preceding 12 months (or for such
+shorter period that the registrant was required to submit
+and post such files). Yes X No
+
+Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K (Section 229.405
+of this chapter) is not contained herein, and will not be
+contained, to the best of registrants knowledge, in definitive
+proxy or information statements incorporated by reference in
+Part III of this Form 10-K or any amendment to this Form 10-K.
+
+Indicate by check mark whether the registrant is a large a
+ccelerated filer, an accelerated filer, a non-accelerated
+filer, smaller reporting company, or an emerging growth
+company. See the definitions of large accelerated filer,
+accelerated filer, smaller reporting company, and
+emerging growth company in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer	 NO	Accelerated filer	NO
+Non-accelerated filer	NO (Do not check if a smaller
+reporting company)
+
+Smaller reporting company	YES
+Emerging growth company	YES
+
+If an emerging growth company, indicate by check mark if
+the registrant has elected not to use the extended
+transition period for complying with any new or revised
+financial accounting standards provided pursuant to
+ection 13(a) of the Exchange Act.
+
+Indicate by check mark whether the registrant is a shell
+company (as defined in Rule 12b-2 of the Exchange Act).
+Yes No X
+
+ALL COMMON SHARES REFLECT A FULLY DILUTED BASIS.
+
+State the aggregate market value of the voting stock held by
+non-affiliates computed by reference to the price at which the stock was
+sold, or the average bid and asked prices of such stock as of a
+specified date within the past 60 days:
+
+PATRICK restricted shares: 186 ,984,379 shares
+PERCENT OF SHARES HELD BY NON AFFILIATES= 37.6719 
+SHARES HELD BY EVERYONE ELSE : 113,015,621 and of this amount,
+we certify a DTCC FLOAT SINCE MARCH 1, 2012: 98,376,146 common shares
+
+The aggregate market value of the voting common stock held by non-affils.
+of the registrant (assuming officers and directors are affiliates) was
+approximately 395,554.67 as of 12/31/2020, computed on the fully diluted
+basis of and the closing price on such date of .0035, and so...
+
+113,015,621 held by non-affiliates + 131,128,500 shares acquired by our
+Director plus 55,855,879 issued to our Director in 2020 = 300,000,000
+common shares verified by our SEC Registrered same Transfer Agent
+dating back to May 1997. Our Director's FORM 4 filings are found here:
+
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001557361
+
+As of December 31st, 2020, there were 300,000,000 shares of the registrant's
+Common Stock outstanding. PATRICK J JENSEN, Director of Access-Power & CO.,
+Inc. has a total of 186,984,379 Restricted Shares of these shares.
+
+THE TOTAL MARKET CAPITALIZATION AS OF THE CLOSE OF BUSINESS
+January 4th , 2021 is 1,050,000.00 BASED ON A CLOSING PRICE OF
+ .0035 PER SHARE on 12/31/2020, and total outstanding issued
+common stock equalling 300,000,000 shares.
+
+At January 4th , 2021, there were issued and outstanding 300,000,000
+shares of Common Stock fully diluted, and Patrick J. Jensen owns
+186,984,379 shares or 62.3281 percent of all the Common Stock.
+
+In 2020, the Company during the course of 2020 experienced a market
+capitalization HIGH of over 3,000,000.00.
+
+All 186,984,379 are currently all restricted and held in book entry form at our
+Transfer Agent.
+
+THE SEC COMMISSION CONFIRMED OUR FORM RW ON 12/21/2020.
+
+______________________________________________________________
+
+My Dear Shareholders, OTC Markets Directors, colleagues at FINRA, and to the
+Esteemed Commissioners of the SEC, and of course, to my Chiefs at Section 11
+at the SEC,
+
+CURRENT UPDATE...as of January 4th, 2021.
+
+Our Director is called many names on message boards...and today, in 2021 we
+bow our heads to all decision makers at OTC Markets in our quest to
+re-apply to the PINK CURRENT INFO tier status.
+This is a reapplication to occur on January 24th, 2021.
+
+WE ONLY HAVE COMMON STOCK IN OUR CAPITAL STRUCTURE 
+
+ WE DO NOT HAVE CONVERTIBLE NOTES or WARRANTS 
+
+ WE HAVE ZERO LONG TERM DEBT 
+
+ ACCR DOES NOT BELIEVE IN PROMOTION 
+
+It is very expensive to hire a PCAOB registered firm/accountant/attorneys
+for our
+micro-cap operations. However, we will succeed in capturing all of the
+requirements
+of all the SEC Rules of '33 and '34, as best as we can.
+
+We are fully aware of the FINAL RULE imposed by the SEC, by September
+21st, 2021 to require movement of all PINK NO INFORMATION
+tier companies to the grey market today called the EXPERT MARKET.
+
+We are pleading with all the Directors at OTC Markets to please be fair to our
+Company. We will re-apply with OTC Markets on January 24, 2021 to become
+PINK CURRENT INFORMATION tier again, as we once were in 2008.
+The only reason why there is a RED STOP SIGN is because of a discussed
+CRIMINAL FORM 15 filed by our previous inept managers in 2007.
+We charge our past managers naked short sold our
+shares into the ground. Their intent was to carve all the equity
+off the bone, and then to file the CRIMINAL FORM 15 in 2007
+as their criminal strategy.
+
+We provide full disclosure to our
+Market Makers, and to our investing community.
+
+We have the Spirit of a Warrior, and our Corporation has done nothing wrong.
+All of the Company press releases can be found here:
+
+http://www.globenewswire.com
+
+We have learned that in 2021, all OTC Markets PINK CURRENT
+INFORMATION
+tier Companies will have at chance at Solicited Quotes for the first time in
+over 12.5
+years. We will not be needing to obtain a FORM 211 with FINRA. We
+have received
+news that in 2021, only selected PINK CURRENT INFORMATION tier
+companies
+will receive a shot at SOLICITED QUOTES by a market maker.
+
+ACCR believes to have an excellent relationship with our primary Market
+Maker over
+the years. Our primary market maker signed the UNSOLICITED
+QUOTE FORM
+with OTC Markets pre-October 18, 2019.
+
+We are loyal to our Shareholder base.
+
+Our story...from Inception through March 1, 2012, the Company was
+a violent
+victim of a terrible financial crime. The criminals behind this scheme
+to defraud
+investors was planned very methodically.
+
+We have many shareholders placed in restrictive shares...none of
+which have
+SURFACED in do a 144a sale in over 2 decades. Why is this?
+Management believes that all 100 share lot's of restrictive shares were
+issued
+in fraud, and to fictitious people, or Shareholders - totaling over
+15,000,000
+shares in never to be claimed restrictive shares.
+It was pre-meditated and
+very detail in CRIME.
+
+The criminals of the past perpetraded a MASTERMIND financial
+crime against
+our Shareholder base. We seek retribution from our past fraud managers.
+We
+recently learned that one of our past fraud managers lives in Nashville
+area of
+TN in a 5.2 million dollar house in September 2020. We charge
+he used SEC
+filings to commit financial crimes against our Shareholders. We
+nearly have
+15,000,000 shares in RESTRICTED STATUS 100 share lots's....
+the previous
+criminal masterminds.
+
+WE SEEK RETROBUTION FOR OUR SHAREHOLDERS
+
+We charge this man used SEC filings going back to 2002 to commit financial
+crimes
+against our Shareholders. Today, we are the cleanest OTC Companies
+around.
+
+The Company made 2 FINRA DAILY lists on 5/6/2020 and on 9/6/2018.
+
+The Company has had discussions with the SEC regarding a FRAUD
+FORM 15 that was filed by previous management in 2007. We believe
+that we have a fiduciary responsibility to report transparent
+information to our Shareholders.
+
+https://www.sec.gov/Archives/edgar/data/1041588/
+000117347307000043/0001173473-07-000043-index.htm
+
+We were victims of toxic death spiral debentures from 1998 to
+2008 and through March 2012.
+
+PLEASE FORGIVE OUR PAST.
+
+ACCR as a structure TODAY is very sound, because I am in charge.
+ACCR has life only today because of ME.
+
+The past is the past, and
+we wish to move forward with a plan to become fully
+current with the SEC in 2021. We are trying the best we can within the
+Spirit of the Law. We will be refiling our FORM 10 very soon...very
+soon.
+
+On October 18, 2019, our Company was in the FIRST GROUP of
+Equities to bust
+out of the death grey market, where we stayed there for 11 years
+after our
+criminal FORM 15 was filed by previous criminal management.
+
+Let's move forward, and for get the PAST!
+
+Prior to October 18, 2019...we had DEATH....today, we have LIFE, and
+we have a
+direction on how to fix this trajedy. Today we have visible Level 2
+QUOTES. We
+have already spent 11 years in the DEATH DARK GREY MARKET.
+
+Please,,,why should we go back? We will NOT go back, ever.
+
+TODAY, we have LIFE.
+
+Our primary Market Maker signed a new form created with OTC
+Markets in 2019.
+This form is located here...we believe to have a wonderful relationship
+with our
+PRIMARY MARKET MAKER.
+
+https://www.otcmarkets.com/files/unsolicited-quote-form-1514935916031.pdf
+
+We jumped from the deathly grey market to the PINK NO INFORMATION
+tier of
+OTC Markets on this infamous date in our history, October 18, 2019.
+We have lived
+in this tier with NO DILUTION for over a year with no harm to our
+Shareholders.
+
+WE LOVE OUR SHAREHOLDERS, and believe in RAISING
+SHAREHOLDER
+VALUE. WE VALUE OUR COMMON STOCKHOLDERS.
+
+ACCR received a denial to go PINK CURRENT TIER on July 23, 2020.
+Why? We
+submitted every form in a satisfactory manner. We CLASHED with our prior
+accountant whom shall remain nameless. We clashed hard. Why were we
+denied
+to go PINK CURRENT is a mystery to us. Maybe our prior attorney said bad
+things
+about our Company to OTC Markets, I do not know why. He threatened to
+call OTC
+MARKETS, and call me a liar, when he was the liar.
+
+We do not know. We've been told that OTC Markets did not like our
+Company 8K's
+nor our Company story. ACCR has contacted OTC Markets, and on
+July 23,
+2020 we received the following reply:
+
+On July 23, 2020 3:30 PM Liz Heese wrote:
+
+Mr. Jensen,
+
+OTC Markets has reached a final determination to deny your application
+for access
+to the OTC Disclosure & News Service. Our determination is due to
+public interest
+concerns associated with the company and its disclosure, including but
+not limited to
+issues previously communicated to you.
+
+We consider this matter to be closed and will not engage in further discussion
+at this
+time. As stated in the email from Nancy Rodriguez, you may reapply
+for the service
+in 6 months.
+
+Liz Heese
+EVP, Issuer & Information Services
+OTC Markets Group"
+
+THEREFORE, ACCR is going to re-apply to become PINK CURRENT
+INFORMATION TIER on January 24, 2021.
+
+ACCR as a Corporation is perfectly
+clean, and has done nothing wrong. We've just had bad management.
+All the
+Amendments and Articles of Incorp all check out at:
+
+https://www.sunbiz.org
+
+ACCR has done nothing wrong. ACCR will get SOLICITED QUOTES
+again in 2021.
+
+CURRENT MANAGEMENT WILL STEP DOWN TO CLEAR A PATHWAY
+FOR OTHERS
+
+Let's just forget this past CRIMINAL FORM 15, that according to the SEC
+cannot
+be changed, and our only option is today to re-file our FORM 10 properly
+with the help of counsel, and we will.
+
+https://www.sec.gov/Archives/edgar/data/1041588/
+000117347307000043/0001173473-07-000043-index.htm
+
+Again, as of the close of business December 31st, 2020 --------> our common
+stock
+structure is as follows:
+
+Authorized Common Stock: 300,000,000 shares
+Outstanding Common Stock: 300,000,000 shares
+Estimated Float: Substanstially less than 98,244,146 shares
+Restricted Common Stock: 201,625,854 outstanding
+PATRICK: 186,984,379 ALL RESTRICTED SHARES or 62.3281 of the
+TOTAL
+AMOUNT OF STOCK ON A FULLY DILUTED SHARES - PERIOD!
+
+OUR CORPORATE WEBSITEs IS:
+
+https://www.myaccess-power.com
+
+Access-Power & Co., Inc.'s contact is:
+PO BOX 598
+Grand Haven, MI 49417
+pjensen@myaccess-power.com
+(616)312-5390 TEL.
+https://www.sec.gov/divisions/corpfin/faqs/soxact2002.htm
+
+We applied for a Trademark for Clones By Drones TM, and also
+Clones by Cars TM in 2020. The service will be very futuristic, and will be
+the
+first of its kind. We applied for a federal patent for our Clobes by Drones
+futuristic
+home curbside delivery service.
+
+WE ARE WORKING ON A REVERSE MERGER...we plan to audit the
+incoming
+private company that wishes to go public in a responsible RIGHT WAY.
+
+Access-Power & Co., Inc. is in good standing and has a very good
+relationship
+with our Transfer Agent, Standard Transfer & Co.
+Our Transfer Agent is SEC registered, and except for one
+change in ownership in 2007, is our original transfer agent dating
+back to May 1997 our beginning. Our transfer agent is SEC registered
+and has a profile at:
+
+https://www.sec.gov/divisions/marketreg/mrtransfer.shtml
+https://www.otcmarkets.com/learn/service-providers/2433?t=6
+
+https://standardtransferco.com
+
+Standard Transfer & Co.
+440 East 400 South Suite 200, Salt Lake City, Utah 84111
+Phone (801) 571-8844 Fax: (801) 328-4058
+
+Our ticker symbol ACCR and further information may be found at:
+
+https://www.sec.gov/cgi-bin/browse-edgar?CIK=accr
+
+We are actively looking for a MERGER DEAL. In the end, we
+plan to re-register our shares again fully by the FORM 10.
+Our Director, PATRICK has a total of 15,400,000 shares with a cost
+basis of .0445 worth over 685,000.00 for his grand children to be.
+This FORM
+4 filing is on file with the SEC. There are currently a total of 98,374,146
+ESTIMATED shares registered in our float.
+
+Management continues to believe that there is a massive short position
+in our Company stock that was accumulated from 1999 to 2008, and we
+estimate this short position to be massive extended through the
+present day.
+
+It is not the fault of the Company. We never comment on price, but our
+Director
+believes in rooting for our Shareholders.
+
+We value our COMMON STOCK...Our Company stock FLOAT is
+substantially
+lower than the official 98,374,146 shares reported to OTC Markets.
+
+We care about our Shareholders dearly, and our top priority is investor
+protection. There is NO DILUTION IN THE COMMON STOCK OF
+ACCR.
+Our Director wants to RAISE SHAREHOLDER VALUE the old
+fashioned way through price discovery.
+
+We seek a MONUMENTAL reverse merger in 2021."
+
+Patrick
+
+PART I
+
+ITEM 1. DESCRIPTION OF BUSINESS
+
+Access-Power & Co., Inc, is a for profit business looking for a
+MERGER CANDIDATE. We believe that a REVERSE MERGER
+candidate is ready to happen in 2021.
+
+2020 was a bad year with the Biblical Covid-19 attack on mankind.
+We believe this aggression will continue into 2021, and affect
+consumer demand.
+
+THE COMPANY HAS NOT HAD ANY CONSISTENT
+REVENUE SINCE MAY 2020.
+
+The Company struggled from May 1, 2019 to October 18, 2019. We had no
+income during this period, and our operational expenses were paid for
+by myself, Patrick J. Jensen as a donation to the Company. I personally
+paid out of my own pocket all the expenses during this dark time,
+EVEN TODAY.
+
+On October 2, 2019---> I dreamed of getting off the greys. This is a fact.
+
+The Company also operates many eCommerce websites at the present time.
+
+https://www.clonesbydrones.com
+https://www.clonesbycar.com (s)
+https://www.mycbdpets.com
+
+We continue to strive to build up our revenues. We want to succeed
+and we will comeback to a higher reporting standard. On October 18,
+2019 we were upgraded in trading tier from the dark grey market
+to the PINK NO INFORMATION market. We have no intention of going
+back to the grey market, as the Company currently trades on an
+unsolicited basis in the PINK NO INFORMATION tier at OTC
+Markets.
+
+THERE IS RISK TO OUR PLAN.
+
+OTC MARKETS COULD SAY NO...
+
+OTC Markets could
+deny our re-application again on January 24, 2021.
+
+ACCR DOES NOT BELIEVE IN PROMOTION, we tried it once in
+January 2020 and paid 70 in cash, and it was the worst
+experience the Company ever had...what a dumb promoter. We were
+curious because the guy came to us soliciting the dumb postings he would do.
+We cancelled the relationship after 3 dismal daze days. He was posting
+stuff from 1999 as current information...LOL.
+
+The 70 bucks was unsolicited by the Company. We were just dumb and
+curious at that one moment in time. We will NOT engage in this
+type of activity again....not now. Please forgive our past mistakes...
+
+ACCR has not sold 1 single share of stock in over a Decade
+and ACCR does NOT believe in promotion ever. Our Director
+became a US Disabled Citizen on August 20, 2020.
+
+Access-Power & Co., Inc.'s revenue shortfalls are supported by personal
+donations from Patrick J. Jensen, our Company Director.
+
+We issued the following PRESS RELEASE on December 28th, 2020.
+
+Access-Power & Co., Inc. affirms commitment to go PINK CURRENT
+with OTC Markets on January 24, 2021
+
+GRAND HAVEN, Mich., Dec. 28, 2020 (GLOBE NEWSWIRE) --
+Access-Power & Co., Inc., ACCR or the Company, a Grand Haven
+based diversified holding Company is pleased to announce a new plan to
+get to the PINK CURRENT INFORMATION tier with OTC Markets,
+and reapply by January 24th, 2021.
+
+The company is fully aware of the steps involved to attain PINK
+CURRENT tier by our re-application date of January 24, 2021. Our Director,
+Patrick J
+Jensen commented, it is with great pleasure that we affirm our commitment
+to go
+PINK CURRENT with OTC Markets. We have analyzed our requirements
+to get
+to this new tier. The requirements are found here,
+
+https://www.otcmarkets.com/corporate-services/information-for-pink-
+companies
+
+Additionally, the Company is pleased to announce the hiring of a
+consultant/accountant
+to help bridge forward all of our financial statements. The Company, going into
+2021,
+is already set up with QUICKBOOKs in anticipation of this higher standard
+for reporting.
+Our accountant was hired on December 18, 2020. Our consultant/accountant
+will also
+be preparing our Financial Disclosure Reports to be filed with OTC Markets.
+
+The Company expects all expenses to be covered. ACCR on 12/18/2020 wired
+ 2,500.00 to
+the bank account of our hired accountant. Patrick J Jensen continued,
+Our hired accountant
+came to the Company as a result of a referral. We are pleased, and very
+blessed to have this ANGEL come down and help our company.
+
+Patrick further assures shareholders, ACCR expects good CASH FLOW
+upcoming. Our
+Director has made a commitment in writing to do another paid in capital
+donation of 25,000.00
+by the end of April 2021. We are pleased with the level of commitment that has
+been
+established with our Director, Patrick J Jensen.
+
+Patrick commented, All ACCR expenses right now are covered. We
+anticipate enough
+cash to cover all upcoming expenses. ACCR will owe 2,500.00 to our
+consultant in another
+month. ACCR will owe OTC Markets another 1k application fee and another
+ 5.5k to
+complete the yearly News & Disclosure Service of OTC Markets. In the
+end, ACCR
+expects to pass all requirements, and get PINK CURRENT.
+
+Today, ACCR also has learned that MMs going forward will make selected
+solicited quotes for all
+Companies in the PINK CURRENT tier of OTC Markets. We want our
+Shareholders to know, that
+we see all of this coming, and expect to have enough cash to cover
+all anticipated expenses with
+continued ZERO LONG TERM DEBT in 2021, and only common stock in
+our float.
+
+ITEM 1a. RISK FACTORS
+
+ACCR DOES NOT BELIEVE IN PROMOTION - PERIOD!
+
+Access-Power & Co., Inc. sees RISK EVERYWHERE in this World of
+Worry!
+
+We have a consumer model that is 100percent legal and we believe our
+Clones by Car business will be incredible. THERE IS NO DILUTION
+IN OUR COMMON STOCK in 2021.
+
+ACCR may have to re-classify ourselves, in future quarters, as a
+SHELL COMPANY.
+
+We are in control of the treasury of ACCR. We will
+guard this treasury with our life, as we believe that NO DILUTION will
+be very beneficial to our Shareholders over the long term. There
+are no convertible debentures associated with ACCR.
+
+ACCR has zero long term debt.
+
+We have a strong set of bylaws.
+
+Risk by our Director is mitigated.
+
+ITEM 1b. UNRESOLVED STAFF COMMENTS
+
+NONE, we plan to re-file our FORM 10 very soon...THERE IS A GOOD
+CHANCE THAT ACCR FOR THE FIRST TIME WILL BE MARKED
+AS A SHELL.
+
+REVENUE has been affected by Covid-19. We must
+find another private company that is willing to carry some innocent weight
+and use our Shell/Company to go public.
+
+We will re-register our shares again in 2021 via our Form 10. We know
+this ----> we plea wi the SEC please just give us some more time.
+
+OUR REVERSE MERGER IS CRITICAL
+
+ITEM 2. PROPERTY
+
+There is not much property here...
+
+1. http://tsdr.uspto.gov/#caseNumber=88690325&caseType= SERIAL_NO&
+searchType=statusSearch
+
+https://tsdr.uspto.gov/#caseNumber=90054802&caseType=SERIAL_NO
+&searchType=statusSearch
+
+2. Hollistic Legendary Seeds 2,000.00 estimated value. Shelf
+life of 20 years.
+
+3. 2010 BMW 650i M Tuned Edition...Racing Sports w/ only 55k miles
+
+4. The Mind of Patrick J Jensen - structurally sound, let's GO!
+
+5. 186,984,379 restricted ACCR common shares or 62.3281 of all the VOTE
+ 113
+
+ITEM 3. LEGAL PROCEEDINGS
+
+NONE - and we do not anticipate any expense problems in 2021. ACCR
+has strong confidence that all of our anticipated Company expenses will
+be covered.
+
+ITEM 4. Mine Safety Disclosures.
+
+If applicable, provide a statement that the information
+concerning mine safety violations or other regulatory matters
+required by Section 1503(a) of the Dodd-Frank Wall Street
+Reform and Consumer Protection Act and Item 104 of
+Regulation S-K (17 CFR229.104) is included in exhibit
+95 to the annual report.
+
+NONE.
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER
+MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+We trade in the unsolicited basis of OTC Markets in the PINK NO INFORMATION
+tier venue.
+
+ALL ON FILE WITH THE SEC WITH MANY STAFF INTERACTION.
+We plan to refile our FORM 10 soon. We are working to reapply with OTC Markets
+for the PINK CURRENT INFORMATION tier venue change.
+
+All we have to do is get 2 years of AUDITED FINANCIALS, and the ever important
+attorney letter.
+
+ACCR IS ENGAGING AN ATTORNEY to help us with the ATTORNEY LETTER.
+(This is our plan)
+
+CASH IS KING.
+
+https://www.otcmarkets.com/stock/ACCR/security
+
+ITEM 6.	 SELECTED FINANCIAL DATA
+
+PREPARED BY PATRICK
+OUR DREAM IS PRICELESS...Where do I place public value on...
+
+https://www.clonesbydrones.com
+https://www.clonesbycar.com (s)
+https://www.mycbdpets.com
+
+and my other dreams.
+
+NO PUBLIC DILUTION IN 2020 - ALL YEAR, and ALL YEAR IN 2021
+GO ASK FINRA.
+
+ACCESS-POWER & CO., INC.
+(An Emerging Growth Company
+MICRO CAP)
+
+UNAUDITED - REVIEWED by HR & Block only 2019
+
+Balance Sheets Comps YEAR over YEAR
+Our last quartertly report filed Sepetember 30, 2020 is on
+file with the SEC.
+
+We plan to file our 2020 tax return soon in 2021 for the
+THIRD year in a row with H&R Block.
+
+Assets (UNAUDITED - self reported in TRUST)
+
+DECEMBER 31, 2020 December 31, 2019
+ ------------------ ------------------
+(unaudited)
+Current assets:
+ Cash 32,700.13 1,138.73
+ CDs
+ Accounts receivable 0 0
+ Prepaid expenses
+ Hollistic
+ Legendary Seeds 2,000.00 1,000.00
+ ---------------------------------------
+Total current assets 34,700.00 2,138.73
+ ----------------------------------------
+
+Property and equipment, net
+ACCR Car -
+1 BMW ONLY NOW 10,000.00 1,000.00
+(sold at approx. 25,000.00
+NET)
+
+Other assets 0 0
+ ---------------------------------------
+Total assets 44,700.13 3,138.73
+ ==================================
+ ==================================
+
+Liabilities and
+Stockholders' Equity
+(Deficit)
+Current liabilities:
+
+Accounts payable and accrued
+expenses rent 1,500.00 1,500.00
+Cable, Internet, and TV 185.00 185.00
+Electricity, Gas,
+Water, and Sewer 100.00 100.00
+
+Marketing Expenses
+(includes THE BMW) 500.00 500.00
+Food, Office supplies, etc 100.00 100.00
+
+Current portion of
+long-term debt - -
+Total current liabilities 0 0
+
+BMW debt as of 12/31/2020 13,908.00
+affiliate DIRECTOR owned.
+
+Convertible debentures/notes
+and Warrants 0 0
+ ------------------ ------------------
+
+We are working on RETAINED EARNINGS continuation
+from 2002 last reported financial earnings and statements.
+
+Total short term
+liabilities MONTHLY (( 2,385.00)) (( 2,385.00))
+ ---------------------------------------
+ ---------------------------------------
+
+ One 2010 BMW 650i M Tuned Racing Sport Edition
+NET EQUITY est 10,000.00
+
+ The BMW is in a private name AFFILIATE that
+at the stroke of a PEN, becomes the 100 wholly owned
+asset/debt as reported.
+
+GO ACCR!!!
+PREPARED BY PATRICK
+
+Stockholders' equity
+(deficit):
+Common stock,
+ .001 par value,
+authorized
+300,000,000 shares,
+issued and outstanding
+244,144,121
+and 300,000,000 shares
+as of December 31st, 2019
+and Dec 31, 2020
+
+ACCR TREASURY OF
+COMMON STOCK IS
+SOLID STEEL
+STRUCTURE
+NO PUBLIC DILUTION
+2020 and 2021
+
+Par Value of
+Equity Structure 300,000.00 244,144.12
+ ==============================
+
+ACCR
+Total liabilities
+and stockholders'
+equity (deficit) 300,000.00 244,144.12
+ ============================
+
+ACCESS-POWER, INC
+CONDENSED CONSOLIDATED STATEMENTS
+OF OPERATIONS (unaudited)
+
+FISCAL YEAR ENDED 4th QTR 2020 December 31st, 2020
+CASH FLOW OF OPERATIONS
+
+Patrick J Jensen Personal Donation
+One TIME DONATION paid in capital 0 25,000.00
+
+REVENUE
+BADLY IMPACTED BY COVID-19 0 20,561.00
+One time CAPITAL GRANT 0 14,000.00
+COST OF REVENUE 	 0 0
+--------------------------------------------------------------------------------
+GROSS PROFIT (LOSS) 0 34,561.00
+
+OPERATING EXPENSES
+
+Selling, general and administrative exp
+ rent, and utilities 	 2,385.00 28,200.00
+Consulting fees 		 2,500.00 2,500.00
+Professional fees and related expenses 0.00 0.00
+TOTAL OPERATING EXPENSES 4,885.00 30,700.00
+Salaries to Patrick J. Jensen	 	 0 1.00
+Fair value of derivative liability 	 0 0.00
+OTHER INCOME nonreCURRING 0 0
+Gain on debt extinguishment 	 0.00
+INCOME BEFORE PROVISION FOR nil	 3,861.00
+INCOME TAXES
+PROVISION FOR INCOME TAXES
+treated as prepaid expense on
+balance sheet 			 	nil 0.00
+NET (LOSS) INCOME 	 nil 3,861.00
+BASIC (LOSS) INCOME PER SHARE
+DILUTED (LOSS) INCOME PER SHARE nil 3,861.00
+WEIGHTED AVERAGE COMMON SHARES
+OUTSTANDING BASIC 300,000,000 shares 300,000,000 shares
+
+PUBLISHED DISCLOSURE WITH ALL MY SPIRIT AND
+LOVE
+
+TOTAL RESTRICTED SHAREs 201,625,854 shares or just over
+65percent of all stock.
+ESTIMATED FLOAT LESS THAN 98,974,146 shares
+Estimated Trading Float substantially
+lower than 98,974,146 shares
+EPS				nil nil
+
+The 4th QTR of 2020 saw 0 revenue, and later in 2021, we may
+be forced to change
+our Shell
+designation if Company revenue continues to suffer------> NOTE TO
+SEC PLEASE
+
+ITEM 7.	 MANAGEMENTS DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONs
+
+ACCR values our common shares, and we may buy them back in 2021.
+We have a good
+cash pile, and will use it as we see fit.
+
+Our Director is a full time US Disabled Citizen as of August 8, 2020.
+https://www.sec.gov/divisions/corpfin/faqs/soxact2002.htm
+https://en.wikipedia.org/wiki/Sarbanes E2 80 93Oxley_Act
+
+Access-Power & Co., Inc., is a Grand Haven,
+MI based medical marijuana clone company on track to become Michigans
+only manufacturer and distributor of medical marijuana clone products
+delivered by https://www.clonesbycar.com (s). We are planning and
+implementing to become a fully licensed operation in the State of Michigan.
+Our seedvault includes famous strains such as Amnesia Haze...and
+so many more.
+We are in development of a new service
+trademarked under the brand, Clones by Cars (TM), a method for
+delivering marijuana and marijuana clones online across the nation by CARS!
+
+Our beta website is www.clonesbycar.com (s). Additionally, the Company
+offers a variety of calming pet products on its website
+www.mycbdpets.com. Access-Power & Co., Inc. was formed in 1996 and is a
+Florida-based profit Corporation. We only have common stock, and
+the Corporation has zero debt and no convertible notes. NO WARRANTS.
+
+Our
+Shareholders will enjoy no dilution in our Common shares through
+the end of 2021, specifically MARCH 2022.
+
+Finally, Access-Power & Co., Inc., is seeking to merge
+with another entity with experienced management to create value for
+our shareholders. We can do anything in this world.
+
+The Director is Actively looking for a MERGER DEAL.
+
+ITEM 7a. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Access-Power & Co., Inc. is not concerned about market risk.
+The Company has learned that in 2021, OTC Markets and Market Makers will
+decide price discovery and entity certification
+for achieving Solicited Quotes. We understand that the FORM 211 with FINRA
+will be gone for all PINK CURRENT INFORMATION tier stocks.
+
+The Solicited Quotes will happen on a select basis, and we believe to have an
+EXCELLENT relationship with our Primary Market Maker.
+
+We hope to make a MONUMENTAL deal in 2021 and maybe by the Fall 2021 refile our
+FORM 10 with the SEC to ReRegister our shares according to all the Spirit in
+all the laws of the Securities and Exchange Commission '33 & '34.
+
+ITEM 8.	 FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+See item 6.
+
+(b) A smaller reporting company may provide the information
+required by Article 8 of Regulation S-X in lieu of any
+financial statements required by Item 8 of this Form.
+
+ITEM 9.	 CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+AND FINANCIAL DISCLOSURE
+
+NONE.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+Access-Power & Co., Inc. has strict rules to follow and a Corporate Governance.
+
+Our Director's wife of 30 years was diagnosed with Stage 1 CANCER in our 4th
+QTR 2020.
+
+ITEM 9B. OTHER INFORMATION
+
+Access-Power & Co., Inc. will succeed, and will come back further. On October
+18, 2019 Access-Power & Co., Inc. was upgraded in tier at OTC Markets from
+the grey market back to the Pink No Information Tier. We spent 11 dark
+years on the OTC Grey Market. We believe
+in a higher reporting standard. We will not dilute our Shareholders
+in 2021. Patrick J. Jensen made a critical decision in 2018 which
+enabled ACCR to get upgraded in tier. We are not going back to the
+grey market.
+
+NO WAY.
+
+There is an SEC 15c211 Modernization Rule update coming in 2021 - expected
+by September 2021. We will have 2 trys to get PINK CURRENT with OTC
+Markets.
+We
+will be successfull in our re-application on January 24, 2021.
+
+DO NOT PENALIZE US FOR TRYING - this spirit is ALIVE!
+
+In August 2020, our Director PATRICK became a permanent US Disabled Citizen.
+
+We believe that all OTC Companies in the Pink No Information tier will be
+remanded
+to the Expert Market ----> Where the roaches check in, and NEVER check
+out - the
+NEW DEATH GREY MARKET in 2021.
+
+Corporate Actions
+Market Changes
+ACTION TYPE	EFFECTIVE DATE	SYMBOL	DESCRIPTION
+Market Change	10/30/2008	ACCR	Market change from Pink No
+Information to Grey Market
+Market Change	10/18/2019	ACCR	Market change from Grey
+Market
+to Pink No Information
+
+We spent 11 years on the grey market Cellar Boxed.
+
+Everyone wants to know how I did it, as there are only a handful
+of companies that have ever returned from the dark greys. ACCR has
+accomplished the unthinkable. We have liquidity and further
+transparency.
+
+Pink No Information
+Dark or Defunct
+Verified Profile 12/2020
+
+https://www.otcmarkets.com/stock/ACCR/security
+
+We are not going back to the GREY MARKET, ever... DREAM ON!
+https://www.youtube.com/watch?v=iJDtukGW79Y
+
+PART III
+
+ITEM 10.	DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERANCE
+
+Patrick J. Jensen - Registered owner of 186,984,379 restricted shares
+of ACCR.
+
+All of these shares are federally RESTRICTED shares. I signed a lock
+up agreement pledging never to sell or pledge to sell my restricted
+stock until March 2022. At that time, I will follow all
+current SEC rules and regulations with regard to Company Directors.
+
+WE have 1 very close advisor who advises ACCR on day to day operations.
+ACCR will soon announce an ADVISORY BOARD at no cost to the Company.
+
+ITEM 11.	EXECUTIVE COMPENSATION
+
+Patrick J. Jensen is the only KEY EMPLOYEE. I donate all my time
+and money to the ACCR Treasury. I donate my own personaly funds to
+fund the operations, as ACCR has ZERO CONVERTIBLE NOTES and ZERO
+long term debt and NO PROMOTION. I take on a 1 salary from ACCR.
+
+Our Director guarantees all anticipated expenses throughout 2021.
+
+ITEM 12.	SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+Patrick J. Jensen - Registered owner of 186,984,379
+ restricted shares of ACCR.
+
+ITEM 13.	CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR
+INDEPENDENCE
+
+NONE.
+
+ITEM 14.	PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+H&R BLOCK of Muskegon. We expect only to pay 450.00 every year for
+review and support of the 2020 ACCR US Tax Return. We expect to
+complete our 2020 US TAX BUSINESS RETURN sometime in April 2021. We
+know that there are many hurdles to bridge forward our accounting.
+
+We need a CPA - and we are working with a consultant to bring one on board.
+
+We need an ATTORNEY LETTER to get PINK CURRENT by our re-application
+date of January 24, 2021. We have continuous bank statements from May 2018-
+Present. We are in good standing, and request a re-application please to the
+CURRENT INFORMATION TIER at OTC Markets.
+
+This is a re-application to be pink current...we last traded in the
+PINK SHEETS current tier over 13 years ago and on www.otcbb.com
+
+WE MADE A FINRA DAILY LIST ON 5/6/2020 and 9/6/2018.
+
+ CERTIFIED 
+
+https://www.otcmarkets.com/stock/ACCR/security
+
+Our next step will be to amend our Company 10k from 2018-2020.
+We also will secure a letter signed by H&R Block attesting to
+verification of all monthly bank records, revenue, and expenses.
+We have a 2 year plan going forward to become CURRENT REGISTERED
+with the SEC.
+
+We are hooked up to QuickBooks with our CONSULTANT
+to solidify accounting in 2021.
+
+After 2 years, we plan to get an accountant that is
+registered with the PCAOB, like BDO of Grand Rapids. We will
+continue to be a CURRENT REPORTING company. We believe in our plan,
+and we are secure in our future. Again, as of today, December
+31st, 2020...the verified outstanding share is 300,000,000 shares and at
+a closing price of .0035, this represents a total Company
+market value of 1,050,000.00
+
+We value the shares our Company.
+
+PART IV
+
+Item 15. Exhibits, Financial Statement Schedules.
+
+See above.
+
+Item 16. Form 10Ksb Summary
+
+See above.
+
+ALL OTHER QUESTIONS and PARTS OF THE FORM: THE
+ANSWER IS NONE or
+I DO NOT KNOW. TRUST, TRUTH, and A WARRIOR!!!
+
+Patrick
+_______________________________________________
+
+We plan to re-file our FORM 10 in 2021.
+
+As of the close of business December 31, 2020
+there were issued and outstanding 300,0000,000 shares of our
+Common stock.
+
+Access-Power & Co., Inc. has 32,700.13 in our premiere
+checking account as of 12/31/2020.
+
+We are a For Profit Corporation active in the State of Florida,
+operating in Michigan for the time being.
+
+We believe in Raising Shareholder Value, and we have a promised
+NO DILUTION to my
+SEC Section Chief's at the Corporate Finance Division.
+
+_________________________________________
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly
+authorized, on January 4th, 2021.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf
+of the registrant and in the capacities and on the dates indicated.
+
+Supplemental Information to be Furnished With Reports Filed Pursuant
+to Section 15(d) of the Act by Registrants Which Have Not Registered
+Securities Pursuant to Section 12 of the Act. I am following the Spirit
+of the Law to comeback and fight for my Shareholders.
+
+Thank you to all my dear Shareholders, I won't let you down...ever.
+
+Just keep believing in me...and our comeback song is will always
+remain,
+
+https://www.youtube.com/watch?v=xbhCPt6PZIU
+
+BY:
+/s/
+
+Patrick J. Jensen
+Director of ACCR
+ACCESS-POWER & CO., INC.
+
+January 4th, 2021
+
+WE WISH TO COMPLY WITH ALL INSIDER TRADING LAWS,
+and therefore we do not
+trade our common stock.
+https://en.wikipedia.org/wiki/Sarbanes E2 80 93Oxley_Act
+
+Confidentiality Notice: The information in this email and any attachments
+may be privileged,
+
+confidential, or proprietary. If you are not the intended recipient, you are
+prohibited from using,
+copying, relying upon, or disseminating the information, and the sender
+disclaims any liability for
+such unauthorized use. Further, if you are not the intended recipient, please
+notify the sender
+immediately and delete the message from your computer. Thank you.
+
+The following should be considered in connection with an evaluation of our
+business and
+recent market activities as described above: There are various risk factors
+that should be carefully
+considered in evaluating our business; because such factors may have a
+significant impact on
+our business, our operating results, our liquidity and financial condition.
+As a result of these various
+risk factors, actual results could differ materially from those projected in
+any forward-looking
+statements. Additional risks and uncertainties not presently known to us, or
+that we currently
+consider to be immaterial, may also impact our business, result of operations,
+liquidity and
+financial condition. If any such risks occur, our business, its operating
+results, liquidity and financial
+condition could be materially affected in an adverse manner. Under such
+circumstances, if a stable
+trading market for our securities is established, the trading price of our
+securities could decline, and
+you may lose all or part of your investment.
+
+BEWARE OF NAKED SHORTING IN OUR SHARES
+
+MAY GOD BLESS OUR SHARES
+
+Therefore, actual outcomes and results may, and probably will,
+differ materially
+from what is expressed
+or forecasted in such forward-looking statements due to numerous factors.
+
+The following should be considered in connection with an evaluation of our
+business and recent market activities as described above:
+
+There are various risk factors that should be carefully considered in
+evaluating our business; because such factors may have a significant
+impact on our business, our operating results, our liquidity and financial
+condition. As a result of these various risk factors, actual results could
+differ materially from those projected in any forward-looking statements.
+Additional risks and uncertainties not presently known to us, or that we
+currently consider to be immaterial, may also impact our business, result
+of operations, liquidity and financial condition. If any such risks occur,
+our business, its operating results, liquidity and financial condition
+could be materially affected in an adverse manner. Under such
+circumstances, if a stable trading market for our securities is
+established, the trading price of our securities could decline, and you
+may lose all or part of your investment.
+
+WE DO NOT TRADE OUR COMMON STOCK, PERIOD!
+
+SECURITIES ISSUED BY THE COMPANY INVOLVE A HIGH DEGREE
+OF RISK AND,
+THEREFORE, SHOULD BE CONSIDERED EXTREMELY SPECULATIVE.
+THEY SHOULD NOT BE
+PURCHASED BY PERSONS WHO CANNOT AFFORD THE
+POSSIBILITY OF THE LOSS OF THE
+ENTIRE INVESTMENT. PROSPECTIVE INVESTORS SHOULD READ
+ALL OF THE COMPANY'S
+FILINGS, INCLUDING ALL EXHIBITS, AND CAREFULLY CONSIDER,
+AMONG OTHER
+FACTORS THE VARIOUS RISK FACTORS THAT MAY BE PRESENT.
+
+You should be aware that there are many substantial risks to an investment
+in our common stock. Carefully consider these risk factors, along with any
+available information currently reported by the Company (of which there
+are note), before you decide to invest in shares of our common stock.
+
+If these risk factors were to occur, our business, financial condition,
+results of operations or future prospects could be materially adversely
+affected. If that happens, the market price for our common stock, if any,
+could decline, and prospective investors would likely lose all or even
+part of their investment.
+
+Cautionary Language Concerning Forward-Looking Statements
+
+Statements in this press release may be forward-looking statements within
+the meaning of the Private Securities Litigation Reform Act of 1995. Words
+such as anticipate, believe, estimate, expect, intend, and similar
+expressions, as they relate to the Company or its management, identify
+forward-looking statements. These statements are based on current
+expectations, estimates, and projections about the Company's business,
+based, in part, on assumptions made by management. These statements
+are not guarantees of future performance and involve risks, uncertainties,
+and assumptions that are difficult to predict. Therefore, actual
+outcomes and results may, and probably will, differ materially from what
+is expressed or forecasted in such forward-looking statements
+due to numerous factors.
+
+END of REPORT
+
+January 4th, 2021
+

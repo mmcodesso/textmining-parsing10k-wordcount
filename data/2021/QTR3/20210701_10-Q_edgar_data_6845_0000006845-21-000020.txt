@@ -1,0 +1,956 @@
+<Header>
+<FileStats>
+    <FileName>20210701_10-Q_edgar_data_6845_0000006845-21-000020.txt</FileName>
+    <GrossFileSize>6737362</GrossFileSize>
+    <NetFileSize>100635</NetFileSize>
+    <NonText_DocumentType_Chars>1440571</NonText_DocumentType_Chars>
+    <HTML_Chars>2164785</HTML_Chars>
+    <XBRL_Chars>1558684</XBRL_Chars>
+    <XML_Chars>1357084</XML_Chars>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000006845-21-000020.hdr.sgml : 20210701
+<ACCEPTANCE-DATETIME>20210701151847
+ACCESSION NUMBER:		0000006845-21-000020
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		83
+CONFORMED PERIOD OF REPORT:	20210529
+FILED AS OF DATE:		20210701
+DATE AS OF CHANGE:		20210701
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APOGEE ENTERPRISES, INC.
+		CENTRAL INDEX KEY:			0000006845
+		STANDARD INDUSTRIAL CLASSIFICATION:	GLASS PRODUCTS, MADE OF PURCHASED GLASS [3231]
+		IRS NUMBER:				410919654
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0227
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06365
+		FILM NUMBER:		211065600
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4400 WEST 78TH STREET
+		STREET 2:		SUITE 520
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55435
+		BUSINESS PHONE:		6128351874
+
+	MAIL ADDRESS:	
+		STREET 1:		4400 WEST 78TH STREET
+		STREET 2:		SUITE 520
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55435
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APOGEE ENTERPRISES INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HARMON GLASS CO INC
+		DATE OF NAME CHANGE:	19720623
+
+</SEC-Header>
+</Header>
+
+ 0000006845-21-000020.txt : 20210701
+
+10-Q
+ 1
+ apog-20210529.htm
+ 10-Q
+
+apog-20210529 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ _________________________________ 
+ FORM 
+ _________________________________ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission File Number: 
+ _________________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ _________________________________ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) (Address of principal executive offices) (Zip Code) 
+ Registrant s telephone number, including area code: ) 
+ Not Applicable 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ _________________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x o No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x o No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer o 
+ x 
+ Non-accelerated filer o Smaller reporting company Emerging growth company If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes x No 
+ As of June 28, 2021, shares of the registrant s common stock, par value 0.33 1/3 per share, were outstanding. 
+
+Table of Contents 
+
+ APOGEE ENTERPRISES, INC. AND SUBSIDIARIES 
+
+Page PART I Financial Information 
+ Item 1. Financial Statements (Unaudited): 
+ Consolidated Balance Sheets 
+ 4 
+ Consolidated Results of Operations 
+ 5 
+ Consolidated Statements of Comprehensive Earnings 
+ 6 
+ Consolidated Statements of Cash Flows 
+ 7 
+ Consolidated Statements of Shareholders' Equity 
+ 8 
+ Notes to Consolidated Financial Statements 
+ 9 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 19 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 23 
+ Item 4. Controls and Procedures 
+ 23 
+ PART II Other Information 
+ Item 1. Legal Proceedings 
+ 23 
+ Item 1A. Risk Factors 
+ 23 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 24 
+ Item 6. Exhibits 
+ 24 
+ Signatures 
+ 25 
+ 
+ 3 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+ 
+ Item 1. Financial Statements 
+
+CONSOLIDATED BALANCE SHEETS 
+ (unaudited) 
+ (In thousands, except stock data) May 29, 2021 February 27, 2021 Assets Current assets Cash and cash equivalents Receivables, net Inventories Costs and earnings on contracts in excess of billings Other current assets Total current assets Property, plant and equipment, net Operating lease right-of-use assets Goodwill Intangible assets Other non-current assets Total assets Liabilities and Shareholders Equity Current liabilities Accounts payable Accrued payroll and related benefits Billings on contracts in excess of costs and earnings Operating lease liabilities Current portion of debt Other current liabilities Total current liabilities Long-term debt Non-current operating lease liabilities Non-current self-insurance reserves Other non-current liabilities Commitments and contingent liabilities (Note 8) Shareholders equity Common stock of -1/3 par value; authorized shares; issued and outstanding and respectively 
+ Additional paid-in capital Retained earnings Accumulated other comprehensive loss ) ) Total shareholders equity Total liabilities and shareholders equity 
+ See accompanying notes to consolidated financial statements. 
+ 
+ 4 
+
+Table of Contents 
+
+ CONSOLIDATED RESULTS OF OPERATIONS 
+ (unaudited) 
+ Three Months Ended (In thousands, except per share data) May 29, 2021 May 30, 2020 Net sales Cost of sales Gross profit Selling, general and administrative expenses Operating income Interest expense, net Other expense, net Earnings before income taxes Income tax expense Net earnings Earnings per share - basic Earnings per share - diluted Weighted average basic shares outstanding Weighted average diluted shares outstanding 
+ See accompanying notes to consolidated financial statements. 
+ 
+ 5 
+
+Table of Contents 
+
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE EARNINGS 
+ (unaudited) 
+ Three Months Ended (In thousands) May 29, 2021 May 30, 2020 Net earnings Other comprehensive earnings (loss): Unrealized gain on marketable securities, net of and of tax expense, respectively 
+ Unrealized gain (loss) on derivative instruments, net of and ) of tax expense (benefit), respectively 
+ ) Foreign currency translation adjustments ) Other comprehensive earnings (loss) ) Total comprehensive earnings (loss) ) 
+ 
+ See accompanying notes to consolidated financial statements. 
+ 
+ 6 
+
+Table of Contents 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (unaudited) 
+ Three Months Ended (In thousands) May 29, 2021 May 30, 2020 Operating Activities Net earnings Adjustments to reconcile net earnings to net cash provided by operating activities: Depreciation and amortization Share-based compensation Deferred income taxes ) Noncash lease expense Other, net Changes in operating assets and liabilities: Receivables Inventories ) Costs and earnings on contracts in excess of billings Accounts payable and accrued expenses ) ) Billings on contracts in excess of costs and earnings ) ) Refundable and accrued income taxes Operating lease liability ) ) Other ) Net cash provided by operating activities Investing Activities Capital expenditures ) ) Other ) Net cash used by investing activities ) ) Financing Activities Borrowings on line of credit Payments on line of credit ) Proceeds from exercise of stock options Repurchase and retirement of common stock ) ) Dividends paid ) ) Other ) ) Net cash used by financing activities ) ) Decrease in cash and cash equivalents ) ) Effect of exchange rates on cash ) Cash, cash equivalents and restricted cash at beginning of year Cash, cash equivalents and restricted cash at end of period Noncash Activity Capital expenditures in accounts payable 
+ See accompanying notes to consolidated financial statements. 
+ 
+ 7 
+
+Table of Contents 
+
+ CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY 
+ (unaudited) 
+ (In thousands) Common Shares Outstanding Common Stock Additional Paid-In Capital Retained Earnings Common Stock Held in Trust Deferred Compensation Obligation Accumulated Other Comprehensive (Loss) Income Total Shareholders' Equity Balance at February 27, 2021 ) ) Net earnings Unrealized gain on marketable securities, net of tax expense 
+ Unrealized loss on foreign currency hedge, net of tax expense 
+ Foreign currency translation adjustments Issuance of stock, net of cancellations ) ) Share-based compensation Exercise of stock options Share repurchases ) ) ) ) ) Other share retirements ) ) ) ) ) Cash dividends ) ) Balance at May 29, 2021 ) ) 
+
+(In thousands) Common Shares Outstanding Common Stock Additional Paid-In Capital Retained Earnings Common Stock Held in Trust Deferred Compensation Obligation Accumulated Other Comprehensive (Loss) Income Total Shareholders' Equity Balance at February 29, 2020 ) ) Net earnings Unrealized gain on marketable securities, net of tax expense 
+ Unrealized loss on foreign currency hedge, net of tax benefit 
+ ) ) Foreign currency translation adjustments ) ) Issuance of stock, net of cancellations ) ) Share-based compensation Share repurchases ) ) ) ) ) Other share retirements ) ) ) ) ) Cash dividends ) ) Balance at May 30, 2020 ) ) 
+
+See accompanying notes to consolidated financial statements. 
+ 
+ 8 
+
+Table of Contents 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+1. 
+
+shares of stock under our authorized share repurchase program, at a total cost of million. 
+
+2. 
+ 
+ Recognized over time Total 
+ 
+ Receivables 
+ Receivables reflected in the financial statements represent the net amount expected to be collected. An allowance for credit losses is established based on expected losses. Expected losses are estimated by reviewing individual accounts, considering aging, financial condition of the debtor, recent payment history, current and forecast economic conditions and other relevant factors. Upon billing, aging of receivables is monitored until collection. An account is considered current when it is within agreed upon payment terms. An account is written off when it is determined that the asset is no longer collectible. Retainage on construction contracts represents amounts withheld by our customers on long-term projects until the project reaches a level of completion where amounts are released. 
+ 9 
+
+Table of Contents 
+
+ Construction contracts Contract retainage Total receivables Less: allowance for credit losses Net receivables 
+ 
+ Additions charged to costs and expenses Deductions from allowance, net of recoveries ) ) Other changes (1) 
+ ) Ending balance (1) Result of foreign currency effects 
+
+Contract assets and liabilities 
+ Contract assets consist of retainage, costs and earnings in excess of billings and other unbilled amounts typically generated when revenue recognized exceeds the amount billed to the customer. Contract liabilities consist of billings in excess of costs and earnings and other deferred revenue on contracts. Retainage is classified within receivables and deferred revenue is classified within other current liabilities on our consolidated balance sheets. 
+ 
+ The time period between when performance obligations are complete and when payment is due is not significant. In certain of our businesses that recognize revenue over time, progress billings follow an agreed-upon schedule of values, and retainage is withheld by the customer until the project reaches a level of completion where amounts are released. 
+ Contract liabilities 
+ 
+ The change in contract assets and contract liabilities was mainly due to timing of project activity within our businesses that operate under long-term contracts. 
+ Other contract-related disclosures Three Months Ended (In thousands) May 29, 2021 May 30, 2020 Revenue recognized related to contract liabilities from prior year-end Revenue recognized related to prior satisfaction of performance obligations 
+ 
+ Some of our contracts have an expected duration of longer than a year, with performance obligations extending over that timeframe. Generally, these contracts are in our businesses with long-term contracts which recognize revenue over time. As of May 29, 2021, the transaction price associated with unsatisfied performance obligations was approximately million. 
+ 
+ Within 
+ Beyond Total 
+
+10 
+
+Table of Contents 
+
+ 3. 
+ 
+ Work-in-process Finished goods Total inventories 
+ 
+ Accrued project losses Property and other taxes Accrued self-insurance reserves Other Total other current liabilities 
+ 
+ Retirement plan obligations Deferred compensation plan Deferred tax liabilities Deferred payroll taxes Other Total other non-current liabilities 
+
+4. 
+
+February 27, 2021 
+ 
+ Prism insures a portion of our general liability, workers compensation and automobile liability risks using reinsurance agreements to meet statutory requirements. The reinsurance carrier requires Prism to maintain fixed-maturity investments for the purpose of providing collateral for Prism s obligations under the reinsurance agreements. 
+
+11 
+
+Table of Contents 
+
+ Due after one year through five years Due after five years through 10 years Due beyond 15 years Total 
+ 
+ Derivative instruments 
+ We use interest rate swaps, foreign exchange forward contracts, commodity swaps and forward purchase contracts to manage risks generally associated with foreign exchange rate, interest rate and commodity price fluctuations. The information that follows explains the various types of derivatives and financial instruments we use, how such instruments are accounted for, and how such instruments impact our financial position and performance. 
+ 
+ In fiscal 2020, we entered into an interest rate swap to hedge exposure to variability in cash flows from interest payments on our floating-rate revolving credit facility and term loan. As of May 29, 2021, the interest rate swap contract had a notional value of million. 
+ 
+ We periodically enter into forward purchase contracts and/or fixed/floating swaps to manage the risk associated with fluctuations in aluminum prices and fluctuations in foreign exchange rates (primarily related to the Canadian dollar). These contracts generally have an original maturity date of less than one year. As of May 29, 2021, we held foreign exchange forward contracts and aluminum fixed/floating swaps with U.S. dollar notional values of million and million, respectively. 
+ 
+ These derivative instruments are recorded within our consolidated balance sheets within other current assets and liabilities. Gains or losses associated with these instruments are recorded as a component of accumulated other comprehensive income. 
+ 
+ Fair value measurements 
+ Financial assets and liabilities are classified in the fair value hierarchy based on the lowest level input that is significant to the fair value measurement: Level 1 (unadjusted quoted prices in active markets for identical assets or liabilities); Level 2 (observable market inputs, other than quoted prices included in Level 1); and Level 3 (unobservable inputs that cannot be corroborated by observable market data). We do not have any Level 3 financial assets or liabilities. 
+ Municipal and corporate bonds Cash surrender value of life insurance Foreign currency forward/option contracts Aluminum hedge contracts Liabilities: Deferred compensation Interest rate swap contract February 27, 2021 Assets: Money market funds Municipal and corporate bonds Cash surrender value of life insurance Foreign currency forward/option contracts Aluminum hedge contracts Liabilities: Deferred compensation Interest rate swap contract 
+
+12 
+
+Table of Contents 
+
+5. 
+ 
+ million and million in our EFCO and Sotawall reporting units, respectively. The goodwill impairment expense recorded during the year ended February 27, 2021, as reflected in the table below, represents the total accumulated goodwill impairment expenses recorded. 
+ 
+ Adjustment (1) 
+ Impairment expense ) ) Foreign currency translation ) Balance at February 27, 2021 Foreign currency translation ) Balance at May 29, 2021 (1) During the first quarter of fiscal 2021, we recorded a 6.3 million increase to goodwill and corresponding increase to deferred tax liabilities to correct an immaterial error related to prior periods. The error was not material to any previously reported annual or interim consolidated financial statements. 
+
+Other intangible assets 
+ We have intangible assets for certain acquired trade names and trademarks which are determined to have indefinite useful lives. We test indefinite-lived intangible assets for impairment annually at the same measurement date as goodwill, the first day of our fiscal fourth quarter, or more frequently if events or changes in circumstances indicate that it is more likely than not that the asset is impaired. Based on our analysis, the fair value of each of our trade names and trademarks exceeded carrying amount, 
+ 13 
+
+Table of Contents 
+
+ million; this amount was recognized as impairment expense in the fourth quarter ended February 27, 2021, as reflected in the table below. 
+ 
+ ) Other intangibles ) Total definite-lived intangible assets ) Indefinite-lived intangible assets: Trademarks Total intangible assets ) February 27, 2021 Definite-lived intangible assets: Customer relationships ) Other intangibles ) Total definite-lived intangible assets ) Indefinite-lived intangible assets: Trademarks ) Total intangible assets ) ) 
+ 
+ Amortization expense on definite-lived intangible assets was million and million for the three-month periods ended May 29, 2021 and May 30, 2020, respectively. Amortization expense of other identifiable intangible assets is included in selling, general and administrative expenses. 
+
+6. 
+ 
+ million with a maturity of June 2024. There were outstanding borrowings under the revolving credit facility as of May 29, 2021 and February 27, 2021. At May 29, 2021 and February 27, 2021, we also had a million term loan with a maturity date of June 2024. 
+ 
+ Our revolving credit facility and term loan contain two financial covenants that require us to stay below a maximum debt-to-EBITDA ratio and maintain a minimum ratio of interest expense-to-EBITDA. Both ratios are computed quarterly, with EBITDA calculated on a rolling four-quarter basis. At May 29, 2021, we were in compliance with both financial covenants. Additionally, at May 29, 2021, we had a total of million of ongoing letters of credit related to industrial revenue bonds, construction contracts and insurance collateral that expire in fiscal years 2022 to 2023 and reduce borrowing capacity under the revolving credit facility. 
+ 
+ At May 29, 2021, debt included million of industrial revenue bonds that mature in fiscal years 2022 through 2043. The fair value of the industrial revenue bonds approximated carrying value at May 29, 2021, due to the variable interest rates on these instruments. All debt would be classified as Level 2 within the fair value hierarchy described in Note 4. 
+ 
+ We also maintain two Canadian committed, revolving credit facilities totaling million (USD). As of May 29, 2021 and February 27, 2021, there were borrowings outstanding under the facilities. 
+ 
+ 14 
+
+Table of Contents 
+
+ million and million for the three months ended May 29, 2021 and May 30, 2020, respectively. 
+
+Short-term lease cost Variable lease cost Total lease cost 
+ 
+ Other supplemental information related to leases was as follows: 
+ Three Months Ended (In thousands except weighted-average data) May 29, 2021 May 30, 2020 Cash paid for amounts included in the measurement of operating lease liabilities Lease assets obtained in exchange for new operating lease liabilities Weighted-average remaining lease term - operating leases years years Weighted-average discount rate - operating leases 
+ 
+ Fiscal 2023 Fiscal 2024 Fiscal 2025 Fiscal 2026 Fiscal 2027 Thereafter Total lease payments Less: Amounts representing interest ) Present value of lease liabilities 
+
+15 
+
+Table of Contents 
+
+ 8. 
+ 
+ billion of these types of bonds were outstanding, of which million is in our backlog. These bonds do not have stated expiration dates. We have never been required to make payments under surety or performance bonds with respect to our existing businesses. 
+ 
+ Warranty and project-related contingencies 
+ We reserve estimated exposures on known claims, as well as on a portion of anticipated claims, for product warranty and rework cost, based on historical product liability claims as a ratio of sales. Claim costs are deducted from the accrual when paid. Factors that could have an impact on the warranty accrual in any given period include the following: changes in manufacturing quality, changes in product mix and any significant changes in sales volume. 
+ Additional accruals Claims paid ) ) Balance at end of period 
+ 
+ Additionally, we are subject to project management and installation-related contingencies as a result of our fixed-price material supply and installation service contracts, primarily in our Architectural Services segment and certain of our Architectural Framing Systems businesses. We manage the risk of these exposures through contract negotiations, proactive project management and insurance coverages. The liability for these types of project-related contingencies was million and million as of May 29, 2021 and February 27, 2021, respectively. 
+ 
+ Letters of credit 
+ At May 29, 2021, we had million of ongoing letters of credit, all of which have been issued under our committed revolving credit facility, as discussed in Note 6. We also have a 6.9 million letter of credit which has been issued outside our committed revolving credit facility, with no impact on our borrowing capacity and debt covenants. 
+ 
+ Purchase obligations 
+ Purchase obligations for raw material commitments and capital expenditures totaled million as of May 29, 2021. 
+ 
+ New Markets Tax Credit (NMTC) transactions 
+ We have three outstanding NMTC arrangements which help to support operational expansion. Proceeds received from investors on these transactions are included within other non-current liabilities on our consolidated balance sheets. The NMTC arrangements are subject to 100 percent tax credit recapture for a period of seven years from the date of each respective transaction. Upon the termination of each arrangement, these proceeds will be recognized in earnings in exchange for the transfer of tax credits. The direct and incremental costs incurred in structuring these arrangements have been deferred and are included in other non-current assets on our consolidated balance sheets. These costs will be recognized in conjunction with the recognition of the related proceeds on each arrangement. During the construction phase for each project, we are required to hold cash dedicated to fund each capital project which is classified as restricted cash on our consolidated balance sheets. Variable-interest entities, which have been included within our consolidated financial statements, have been created as a result of the structure of these transactions, as investors in the programs do not have a material interest in their underlying economics. 
+ 
+ The table below provides a summary of our outstanding NMTC transactions (in millions): 
+ Inception date Termination date Proceeds received Deferred costs Net benefit June 2016 June 2023 August 2018 August 2025 September 2018 September 2025 Total 
+
+16 
+
+Table of Contents 
+
+9. 
+ 
+ million for the three-month period ended May 29, 2021 and million for the three-month period ended May 30, 2020. 
+ 
+ Stock options and SARs 
+ Awards exercised ) Awards canceled ) Outstanding at May 29, 2021 years Vested or expected to vest at May 29, 2021 years 
+ 
+ For the three-months ended May 29, 2021, cash proceeds from the exercise of stock options were million and the aggregate intrinsic value of securities exercised (the amount by which the stock price on the date of exercise exceeded the stock price of the award on the date of grant) was million. awards were issued or exercised during the three-months ended May 30, 2020. 
+ 
+ Executive Compensation Program 
+ In fiscal 2022, the Compensation Committee of the Board of Directors implemented an executive compensation program for certain key employees. In the first quarter of fiscal 2022, we issued performance shares in the form of nonvested share unit awards, which give the recipient the right to receive shares earned at the vesting date. The number of share units issued at grant is equal to the target number of performance shares and allows for the right to receive an additional number of shares dependent on achieving a defined performance goal of return on invested capital and being employed at the end of the performance period. 
+ 
+ Nonvested share awards and units 
+ Granted (1) 
+ Vested ) Nonvested at May 29, 2021 (1) 
+ 
+ (1) Includes a total of 52,023 nonvested share units granted and outstanding at target level for the fiscal 2022-2024 performance period. 
+ 
+ At May 29, 2021, there was million of total unrecognized compensation cost related to nonvested share and nonvested share unit awards, which is expected to be recognized over a weighted average period of approximately months. The total fair value of shares vested during the three months ended May 29, 2021 was million. 
+
+10. 
+
+17 
+
+Table of Contents 
+
+million at May 29, 2021 and February 27, 2021, respectively. Penalties and interest related to unrecognized tax benefits are recorded in income tax expense. 
+
+11. 
+ 
+ Weighted average effect of nonvested share grants and assumed exercise of stock options 
+ Diluted earnings per share weighted average common shares and potential common shares outstanding 
+ Stock awards excluded from the calculation of earnings per share because the effect was anti-dilutive (award price greater than average market price of the shares) 
+
+12. 
+ 
+ reporting segments: 
+ The Architectural Framing Systems segment designs, engineers, fabricates and finishes the aluminum frames used in customized aluminum and glass window, curtainwall, storefront and entrance systems comprising the outside skin and entrances of commercial, institutional and high-end multi-family residential buildings. 
+ The Architectural Glass segment fabricates coated, high-performance glass used globally in customized window and wall systems comprising the outside skin of commercial, institutional and high-end multi-family residential buildings. 
+ The Architectural Services segment provides full-service installation of the walls of glass, windows and other curtainwall products making up the outside skin of commercial and institutional buildings. 
+ The Large-Scale Optical (LSO) segment manufactures value-added glass and acrylic products primarily for framing and display applications. 
+ Architectural Glass Architectural Services Large-Scale Optical Intersegment eliminations ) ) Net sales Operating income (loss) Architectural Framing Systems Architectural Glass ) Architectural Services Large-Scale Optical ) Corporate and other ) ) Operating income 
+ 
+ Due to the varying combinations and integration of individual window, storefront and curtainwall systems, it is impractical to report product revenues generated by class of product, beyond the segment revenues currently reported. 
+
+18 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Forward-looking statements 
+ This Quarterly Report on Form 10-Q, including the section Management s Discussion and Analysis of Financial Condition and Results of Operations, contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements reflect our current views with respect to future events and financial performance. The words believe, expect, anticipate, intend, estimate, forecast, project, should, "will," "continue" and similar expressions are intended to identify forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All forecasts and projections in this document are forward-looking statements, and are based on management s current expectations or beliefs. From time to time, we may also provide oral and written forward-looking statements in other materials we release to the public, such as press releases, presentations to securities analysts or investors, or other communications by the Company. Any or all of our forward-looking statements in this report and in any public statements we make could be materially different from actual results. 
+ 
+ Accordingly, we wish to caution investors that any forward-looking statements made by or on behalf of the Company are subject to uncertainties and other factors that could cause actual results to differ materially from such statements. Information about factors that could materially affect our results can be found in the Risk Factors section of our Annual Report on Form 10-K for the year ended February 27, 2021 and in subsequent filings with the U.S. Securities and Exchange Commission, including this Quarterly Report on Form 10-Q. 
+ 
+ We also wish to caution investors that other factors might in the future prove to be important in affecting the Company s results of operations. New factors emerge from time to time; it is not possible for management to predict all such factors, nor can it assess the impact of each such factor on the business or the extent to which any factor, or a combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. We undertake no obligation to update publicly or revise any forward-looking statements, whether as a result of new information, future events or otherwise. 
+
+Overview 
+ We are a leader in the design and development of value-added glass and metal products and services for enclosing commercial buildings and framing and displays. Our four reporting segments are: Architectural Framing Systems, Architectural Glass, Architectural Services and Large-Scale Optical (LSO). 
+ 
+ The following selected financial data should be read in conjunction with the Company s Form 10-K for the year ended February 27, 2021 and the consolidated financial statements, including the notes to consolidated financial statements, included therein. 
+
+Highlights of First Quarter of Fiscal 2022 Compared to First Quarter of Fiscal 2021 
+ 
+ Net sales 
+ Consolidated net sales increased 12.8 percent, or 36.9 million, for the three-month period ended May 29, 2021, compared to the same period in the prior year, primarily driven by volume growth in the LSO, Architectural Services and Architectural Glass segments. LSO was closed for most of the first quarter of fiscal 2021, due to COVID-19. 
+ 
+ The relationship between various components of operations, as a percentage of net sales, is presented below: 
+ Three Months Ended May 29, 2021 May 30, 2020 Net sales 100.0 100.0 Cost of sales 79.2 79.2 Gross margin 20.8 20.8 Selling, general and administrative expenses 15.8 18.6 Operating income 4.9 2.2 Interest expense, net 0.4 0.5 Other income, net 0.1 0.4 Earnings before income taxes 4.4 1.4 Income tax expense 1.1 0.4 Net earnings 3.3 1.0 Effective tax rate 25.3 28.2 
+ 
+ 19 
+
+Table of Contents 
+
+ Gross profit 
+ Gross profit as a percent of sales (gross margin) was 20.8 percent in each of the three-month periods ended May 29, 2021 and May 30, 2020. Gross margin was positively impacted by strong recovery of the LSO segment (which closed for most of the first quarter last year to comply with COVID-related directives) and improved margins in the Architectural Glass segment, which offset margin declines within the Architectural Framing Systems and Architectural Services segments. Each of our segments experienced inflation in operating costs, especially freight and materials costs, during the quarter. While we are undertaking measures to offset these costs, we expect this trend to continue through fiscal 2022. 
+ 
+ Selling, general and administrative (SG A) expenses 
+ SG A expenses as a percent of sales were 15.8 percent for the three-month period ended May 29, 2021, compared to 18.6 percent for the prior year three-month period. SG A decreased as a percent of sales compared to the same period in the prior year primarily due to ongoing well controlled spending across all segments of the business, as well as a benefit of 2.7 million during the first quarter of fiscal 2022, from a Canadian wage subsidy program offered to support Canadian businesses due to the ongoing impacts of the COVID-19 pandemic. 
+ 
+ Income tax expense 
+ The effective tax rate in the first quarter of fiscal 2022 was 25.3 percent, compared to 28.2 percent in the same period last year, primarily due to favorable provisions in the Coronavirus, Aid, Relief and Economic Security Act ("CARES Act") impacting the first quarter of fiscal 2022 and the negative impact of unfavorable permanent items in relation to reduced earnings in the first quarter of fiscal 2021. 
+
+Segment Analysis 
+ 
+ Architectural Framing Systems 
+ Three Months Ended (In thousands) May 29, 2021 May 30, 2020 Change Net sales 151,840 150,164 1.1 Operating income 8,060 7,296 10.5 Operating margin 5.3 4.9 
+ Architectural Framing Systems net sales increased 1.7 million, or 1.1 percent, for the three-month period ended May 29, 2021, compared to the prior-year period, primarily reflecting improved pricing. This improvement was partially offset by unfavorable project performance and mix, compared to the prior-year period. 
+ 
+ Operating margin increased 40 basis points for the three-month period of the current year, compared to the same period in the prior year, reflecting benefits from cost-saving actions, which offset increased costs for materials and freight. In addition, this segment benefited from a Canadian wage subsidy of 2.7 million in the first quarter of fiscal 2022, as a result of a program to support Canadian businesses due to the ongoing impacts of the COVID-19 pandemic. 
+ 
+ As of May 29, 2021, segment backlog was approximately 423 million, compared to approximately 411 million at the end of the prior quarter, and 421 million at the end of the first quarter of the prior year. Backlog represents the dollar amount of signed contracts or firm orders, generally as a result of a competitive bidding process, which may be expected to be recognized as revenue in the future. Backlog is not a term defined under U.S. GAAP and is not a measure of contract profitability. We view backlog as one indicator of future revenues, particularly in our longer-lead time businesses. In addition to backlog, we have a substantial amount of projects with short lead times that book-and-bill within the same reporting period and are not included in backlog. We have strong visibility beyond backlog, as projects awarded, verbal commitments and bidding activities are not included in backlog. 
+ 
+ Architectural Glass 
+ Three Months Ended (In thousands) May 29, 2021 May 30, 2020 Change Net sales 83,031 76,911 8.0 Operating income 2,128 (494) N/M Operating margin 2.6 (0.6) 
+ Net sales increased 6.1 million, or 8.0 percent, for the three-month period ended May 29, 2021, compared to the same period in the prior year, driven by increased volume and a more favorable sales mix. 
+ 
+ 20 
+
+Table of Contents 
+
+ Segment operating income increased to 2.1 million, with operating margin of 2.6 percent, for the three-month period ended May 29, 2021, compared to an operating loss of 0.5 million and operating margin of (0.6) percent in the same period of the prior year. The improved profitability was driven by increased productivity in core glass operations, the more favorable sales mix, and higher volumes, which offset the impact of higher material and freight costs. 
+ 
+ Architectural Services 
+ Three Months Ended (In thousands) May 29, 2021 May 30, 2020 Change Net sales 75,656 63,551 19.0 Operating income 4,537 5,343 (15.1) Operating margin 6.0 8.4 
+ 
+ Architectural Services net sales increased 12.1 million, or 19.0 percent, for the three-month period ended May 29, 2021, compared to the same period in the prior year, driven by increased volume from executing projects in backlog. 
+ Operating margin decreased 240 basis points to 6.0 percent for the three-month period of the current year, compared to the same period in the prior year, primarily reflecting isolated performance challenges on certain projects and a less favorable project mix. 
+ As of May 29, 2021, segment backlog was approximately 559 million, compared to approximately 571 million as of the end of the prior quarter, and 685 million at the end of the first quarter of the prior year. Backlog is described within the Architectural Framing Systems discussion above. 
+ 
+ Large-Scale Optical (LSO) 
+ Three Months Ended (In thousands) May 29, 2021 May 30, 2020 Change Net sales 24,228 6,312 283.8 Operating income (loss) 5,847 (3,132) N/M Operating margin 24.1 (49.6) 
+ 
+ LSO net sales increased 17.9 million or 283.8 percent, for the three-month period ended May 29, 2021, compared to the same period in the prior year. In the prior year first quarter, the segment's customers and manufacturing operations were closed for a large part of the quarter to comply with COVID-related government directives. 
+ 
+ The segment had operating income of 5.8 million and operating margin of 24.1 percent for the three-month period ended May 29, 2021, compared to operating loss of 3.1 million and operating margin of (49.6) percent in the same period of the prior year primarily driven by the increased sales volume. 
+
+Liquidity and Capital Resources 
+ Selected cash flow data Three Months Ended (In thousands) May 29, 2021 May 30, 2020 Operating Activities Net cash provided by operating activities 6,883 23,976 Investing Activities Capital expenditures (4,705) (8,606) Financing Activities Borrowings on line of credit 139,500 Payments on line of credit (146,500) Repurchase and retirement of common stock (12,625) (4,731) Dividends paid (5,035) (4,872) 
+ 
+ Operating Activities. Net cash provided by operating activities was 6.9 million for the first three months of fiscal 2022, a decrease of 17.1 million compared to the prior-year period, reflecting increased working capital needs related to revenue growth. 
+ 
+ 21 
+
+Table of Contents 
+
+ Investing Activities. Net cash used by investing activities was 4.1 million for the first three months of fiscal 2022, driven by capital expenditures of 4.7 million. In the first three months of the prior year, net cash used by investing activities was 9.7 million, driven by capital expenditures of 8.6 million. 
+ 
+ Financing Activities. Net cash used by financing activities was 14.3 million for the first three months of fiscal 2022, compared to 17.3 million in the prior-year period, reflecting both borrowings and debt repayments in the prior year, and higher share repurchases in the current year first quarter. At May 29, 2021, we were in compliance with the financial covenants under our revolving credit facility and term loan. 
+ 
+ We paid dividends totaling 5.0 million 0.2000 per share) in the first three months of fiscal 2022, compared to 4.9 million 0.1875 per share) in the comparable prior-year period. During the first three months of fiscal 2022, we repurchased 341,000 shares under our authorized share repurchase program, for a total cost of 12.2 million. In the first three months of fiscal 2021, we repurchased 231,492 shares under the share repurchase program, for a total cost of 4.7 million. Since the inception of the share repurchase program in 2004, we have purchased a total of 7,473,616 shares, at a total cost of 219.5 million. We currently have remaining authority to repurchase an additional 776,384 shares under this program. We will continue to evaluate making future share repurchases, considering our cash flow, debt levels and market conditions, in the context of all our capital allocation options ensuring that we maximize the long-term value for our shareholders. 
+ 
+ Other Financing Activities. The following summarizes our significant contractual obligations that impact our liquidity as of May 29, 2021: 
+ Payments Due by Fiscal Period (In thousands) Remainder of Fiscal 2022 Fiscal 2023 Fiscal 2024 Fiscal 2025 Fiscal 2026 Thereafter Total Debt obligations 2,000 1,000 150,000 12,000 165,000 Operating leases (undiscounted) 
+ 10,459 12,689 10,736 9,458 7,583 12,687 63,612 Purchase obligations 170,377 60,599 1,606 1,433 1,433 487 235,935 Total cash obligations 
+ 182,836 74,288 12,342 160,891 9,016 25,174 464,547 
+ 
+ We acquire the use of certain assets through operating leases, such as property, manufacturing equipment, vehicles and other equipment. Purchase obligations in the table above relate to raw material commitments and capital expenditures. 
+ 
+ We expect to make contributions of 0.7 million to our defined-benefit pension plans in fiscal 2022, which will equal or exceed our minimum funding requirements. 
+ 
+ As of May 29, 2021, we had reserves of 3.8 million for unrecognized tax benefits. We are unable to reasonably estimate in which future periods the remaining unrecognized tax benefits will ultimately be settled. 
+ 
+ We are required, in the ordinary course of business, to provide surety or performance bonds that commit payments to our customers for any non-performance. At May 29, 2021, 1.2 billion of these types of bonds were outstanding, of which 527.3 million is in our backlog. These bonds do not have stated expiration dates. We have never been required to make payments under surety or performance bonds with respect to our existing businesses. 
+ 
+ During calendar 2020, we took advantage of the option to defer remittance of the employer portion of Social Security tax as provided in the CARES Act. This deferral allowed us to retain cash during calendar year 2020 that would have otherwise been remitted to the federal government. At the end of fiscal 2021, we had deferred tax payments of 13.6 million, which are included within accrued payroll and other benefits and other non-current liabilities on our consolidated balance sheets. The deferred tax payments will be repaid in two equal portions in calendar years 2021 and 2022. 
+ 
+ Due to our ability to generate strong cash from operations and our borrowing capability under our committed revolving credit facility, we believe that our sources of liquidity will continue to be adequate to fund our working capital requirements, planned capital expenditures and dividend payments for at least the next 12 months. While we believe we have adequate sources of liquidity to continue to fund our business for at least the next 12 months, the extent to which the ongoing COVID-19 pandemic may impact our results of operations or liquidity is uncertain. The extent to which COVID-19 will continue to impact our business will depend on future developments and public health advancements, which have been buoyed by vaccine production and distribution. 
+ 
+ 22 
+
+Table of Contents 
+
+ Off-balance sheet arrangements. We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures, or capital resources that is material to investors. 
+
+Outlook 
+ Our full-year earnings guidance is a range of 2.20 to 2.40 per diluted share. This guidance includes 7 to 10 million of expected pre-tax costs related to investments in transformation initiatives. We continue to expect a full-year tax rate of approximately 24.5 percent, and full-year capital expenditures of approximately 45 million. 
+ 
+ Related Party Transactions 
+ No material changes have occurred in the disclosure with respect to our related party transactions set forth in our Annual Report on Form 10-K for the fiscal year ended February 27, 2021. 
+
+Critical Accounting Policies 
+ There have been no material changes to our critical accounting policies from those disclosed in our Annual Report on Form 10-K for the fiscal year ended February 27, 2021. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ Refer to the Company s Annual Report on Form 10-K for the fiscal year ended February 27, 2021 for a complete discussion on the Company s market risk. There have been no material changes in market risk from those disclosed in our Annual Report on Form 10-K for the fiscal year ended February 27, 2021. 
+
+Item 4. Controls and Procedures 
+ a) Evaluation of disclosure controls and procedures: As of the end of the period covered by this report (the Evaluation Date), we carried out an evaluation, under the supervision and with the participation of management, including the Chief Executive Officer and the Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) or 15d-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act)). Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that, as of the Evaluation Date, our disclosure controls and procedures were effective to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in applicable rules and forms, and (ii) accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure. 
+ b) Changes in internal controls: There was no change in the Company s internal control over financial reporting that occurred during the fiscal quarter ended May 29, 2021, that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting. 
+
+PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 
+ The Company is a party to various legal proceedings incidental to its normal operating activities. In particular, like others in the construction supply and services industry, the Company is routinely involved in various disputes and claims arising out of construction projects, sometimes involving significant monetary damages or product replacement. We have in the past and are currently subject to product liability and warranty claims, including certain legal claims related to a commercial sealant product formerly incorporated into our products. The Company is also subject to litigation arising out of areas such as employment practices, workers compensation and general liability matters. Although it is very difficult to accurately predict the outcome of any such proceedings, facts currently available indicate that no matters will result in losses that would have a material adverse effect on the results of operations, cash flows or financial condition of the Company. 
+ 
+ Item 1A. Risk Factors 
+ 
+ There have been no material changes or additions to our risk factors discussed in our Annual Report on Form 10-K for the fiscal year ended February 27, 2021. 
+
+23 
+
+Table of Contents 
+
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ The following table provides information with respect to purchases made by the Company of its own stock during the first quarter of fiscal 2022: 
+ Period Total Number of Shares Purchased (a) (c) Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (b) Maximum Number of Shares that May Yet Be Purchased under the Plans or Programs (b) February 28, 2021 to March 27, 2021 1,117,384 March 28, 2021 to April 24, 2021 202,369 35.82 201,000 916,384 April 25, 2021 to May 29, 2021 175,264 34.42 140,000 776,384 Total 377,633 35.08 341,000 776,384 
+ 
+ (a) The shares in this column represent the total number of shares that were repurchased by us pursuant to our publicly announced repurchase program, plus the shares surrendered to us by plan participants to satisfy withholding tax obligations related to share-based compensation. 
+ (b) In fiscal 2004, announced on April 10, 2003, the Board of Directors authorized the repurchase of 1,500,000 shares of Company stock. The Board increased the authorization by 750,000 shares, announced on January 24, 2008; by 1,000,000 shares on each of the announcement dates of October 8, 2008, January 13, 2016, January 9, 2018, and January 14, 2020; and by 2,000,000 shares, announced on October 3, 2018. The repurchase program does not have an expiration date. 
+ (c) This column includes 15,757 shares related to the stock purchase agreement between the Company and Joseph F. Puishys dated May 26, 2021. 
+
+Item 6. Exhibits 
+ 3.1 
+ Restated Articles of Incorporation. (Incorporated by reference to Exhibit 3.1 to Registrant's Annual Report on Form 10-K for the year-ended February 28, 2004.) 
+ 3.2 
+ Articles of Amendment to Restated Articles of Incorporation. (Incorporated by reference to Exhibit 3.1 to Registrant's Current Report on Form 8-K filed on January 16, 2020.) 
+ 3.3# 
+ Amended and Restated Bylaws of Apogee Enterprises, Inc. 
+ 4.1# 
+ Specimen Stock Certificate. 
+ 10.1# 
+ Stock Repurchase Agreement between Apogee Enterprises, Inc. and Joseph F. Puishys, dated May 26, 2021. 
+ 10.2 
+ Form of Restricted Stock Agreement under the Apogee Enterprises, Inc. 2019 Stock Incentive Plan (April 2021 Updates). (Incorporated by reference to Exhibit 10.1 to Registrant s Current Report on Form 8-K filed on April 26, 2021) 
+ 10.3 
+ Form of Performance Award Agreement under the Apogee Enterprises, Inc. 2019 Stock Incentive Plan. (Incorporated by reference to Exhibit 10.2 to Registrant s Current Report on Form 8-K filed on April 26, 2021) 
+ 10.4 
+ Form of Executive Short-Term Incentive Plan Memorandum. (Incorporated by reference to Exhibit 10.3 to Registrant s Current Report on Form 8-K filed on April 26, 2021) 
+ 10.5 
+ Executive Short-Term Incentive Plan Terms and Conditions. (Incorporated by reference to Exhibit 10.4 to Registrant s Current Report on Form 8-K filed on April 26, 2021) 
+ 31.1# 
+ Certification of Chief Executive Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934. 
+ 31.2# 
+ Certification of Chief Financial Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934. 
+ 32.1# 
+ Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2# 
+ Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101 The following materials from Apogee Enterprises, Inc. s Quarterly Report on Form 10-Q for the quarter ended May 29, 2021, formatted in iXBRL (Inline Extensible Business Reporting Language): (i) the Consolidated Balance Sheets as of May 29, 2021 and February 27, 2021, (ii) the Consolidated Results of Operations for the three-months ended May 29, 2021 and May 30, 2020, (iii) the Consolidated Statements of Comprehensive Earnings for the three-months ended May 29, 2021 and May 30, 2020, (iv) the Consolidated Statements of Cash Flows for the three-months ended May 29, 2021 and May 30, 2020, (v) the Consolidated Statements of Shareholders' Equity for the three-months ended May 29, 2021 and May 30, 2020, and (vi) Notes to Consolidated Financial Statements. 
+ 104 Cover Page Interactive Data File (formatted as iXBRL and contained in Exhibit 101) Exhibits marked with a (#) sign are filed herewith. 
+ 24 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ APOGEE ENTERPRISES, INC. Date: July 1, 2021 By: /s/ Ty R. Silberhorn Ty R. Silberhorn President and Chief Executive Officer (Principal Executive Officer) 
+ 
+ Date: July 1, 2021 By: /s/ Nisheet Gupta Nisheet Gupta Executive Vice President and Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+25 
+
+<EX-3.3>
+ 2
+ apog-ex33arbylawsfinalapri.htm
+ EX-3.3
+
+Document 
+
+Exhibit 3.3 
+ 
+ AMENDED AND RESTATED BY-LAWS 
+ OF 
+ APOGEE ENTERPRISES, INC., A MINNESOTA CORPORATION 
+
+ARTICLE I 
+ 
+ SHAREHOLDERS 
+ 
+ Section 1.01. Places of Meetings . Meetings of shareholders entitled to vote shall be held (a) at any place within or without the State of Minnesota which may be designated by resolution of the Board of Directors, or (b) at any place within Hennepin County, Minnesota, when the meeting is called by or at the demand of the corporation s shareholders. The Board may determine that shareholders not physically present in person or by proxy at a shareholder meeting may, by means of remote communication, participate in a shareholder meeting held at a designated place. The Board also may determine that a meeting of the shareholders shall not be held at a physical place, but instead solely by means of remote communication. Participation by remote communication constitutes presence at the meeting. 
+ 
+ Section 1.02. Regular Meetings . A regular meeting of shareholders entitled to vote shall be held on such date as the Board of Directors shall by resolution establish. At the regular meeting, members of the Board of Directors shall be elected as provided in these By-laws and the Articles of Incorporation, and such other business may be transacted as shall be properly brought before the meeting. 
+ 
+ Section 1.03. Special Meetings . Special meetings of the shareholders may be held at any time and for any purpose and may be called by the Chairman of the Board, the Chief Executive Officer, the Chief Financial Officer, two or more directors or by a shareholder or shareholders holding 10 or more of the voting power of all shares entitled to vote, except that a special meeting for the purpose of considering any action to directly or indirectly facilitate or affect a business combination, including any action to change or otherwise effect the composition of the Board of Directors for that purpose, must be called by 25 or more of the voting power of all shares entitled to vote. A shareholder or shareholders holding the requisite percentage of the voting power of all shares entitled to vote may demand a special meeting of the shareholders by written notice of demand given to the Chairman of the Board, the Chief Executive Officer or the Chief Financial Officer of the corporation and containing the purposes of the meeting. Within 30 days after receipt of demand by one of those officers, the Board of Directors shall cause a special meeting of shareholders to be called and held on notice no later than 90 days after receipt of the demand, at the expense of the corporation. Special meetings shall be held on the date and at the time and place fixed by the Chairman of the Board or the Board of Directors, except that a special meeting called by or at demand of a shareholder or shareholders shall be held in the county where the principal executive office is located. The business transacted at a special meeting shall be limited to the purposes as stated in the notice of the meeting. 
+
+Section 1.04. Notice of Meetings . Written notice of the time and place of any meeting of the shareholders entitled to vote thereat shall be sent to their addresses as the same appear on the stock ledger or on the records of the corporation, at least five days prior to the meeting, except that notice of a meeting at which a plan of merger or exchange is to be considered shall be mailed to all shareholders of record, whether entitled to vote or not, at least fourteen days prior thereto. Every notice of any special meeting called pursuant to Section 1.03 hereof shall state the purpose or purposes for which the meeting has been called, and the business transacted at all special meetings shall be confined to the purposes stated in the notice. The written notice of any meeting at which a plan of merger or exchange is to be considered shall so state such as a purpose of the meeting. A copy or short description of the plan of merger or exchange shall be included in or enclosed with such notice. 
+ 
+ Section 1.05. Meetings Without Notice . A shareholder may waive notice of any meeting in writing given either before or after the meeting. By attendance at any meeting of the shareholders, including attendance by remote communication, a shareholder shall be deemed to have waived notice thereof, unless the shareholder properly objects pursuant to Minnesota Statutes 302A.435, Subdivision 4. Whenever all the shareholders entitled to vote shall be present at or consent to or participate in a meeting without objection, such meeting shall be deemed to be a legal meeting, and all the business transacted shall be valid in all respects the same as though such meeting had been regularly called pursuant to proper notice. 
+ 
+ Section 1.06. Quorum and Adjourned Meetings . The holders of a majority of the shares of stock entitled to vote, present in person or represented by proxy, shall constitute a quorum at all meetings of shareholders, except as may be otherwise provided by law or by the Articles of Incorporation. In the absence of a quorum, any meeting may be adjourned from time to time or from place to place, and no notice as to such adjourned meeting or the place thereof need be given other than by announcement at the meeting at which the requisite amount of voting stock shall be represented. Any business may be transacted which might have been transacted at the meeting as originally called. 
+ 
+ Section 1.07. Voting and Proxies . At each meeting of the shareholders, every shareholder having the right to vote shall be entitled to vote either in person or by proxy. Each shareholder, unless the Articles of Incorporation or applicable law provide otherwise, shall have one vote for each share having voting power registered in such shareholder s name on the books of the corporation. Jointly owned shares may be voted by any joint owner unless the corporation receives written notice from any one of them denying the authority of that person to vote those shares. Except as otherwise required by law or specified in the Articles of Incorporation, the shareholders shall take action by the affirmative vote of the holders of the greater of (a) a majority of the voting power of the shares present and entitled to vote on that item of business or (b) a majority of the voting power of the minimum number of shares entitled to vote that would constitute a quorum for the transaction of business at a duly held meeting of shareholders. 
+ 
+ Section 1.08. Record Date . The Board of Directors may fix a time, not exceeding 60 days preceding the date of any meeting of shareholders, as a record date for the determination of 
+ - 2 - 
+
+the shareholders entitled to notice of and to vote at such meeting, notwithstanding any transfer of shares on the books of the corporation after any record date so fixed. 
+ 
+ Section 1.09. Nomination of Directors . Only persons nominated in accordance with the following procedures shall be eligible for election by shareholders as directors. Nominations of persons for election as directors at a meeting of shareholders called for the purpose of electing directors may be made (a) by or at the direction of the Board of Directors or (b) by any shareholder in the manner herein provided. For a nomination to be properly made by a shareholder, the shareholder must give written notice to the Secretary of the corporation so as to be received at the principal executive offices of the corporation not later than (a) with respect to an annual meeting of shareholders, at least 120 days before the date that is one year after the prior year s regular meeting and (b) with respect to a special meeting of shareholders for the election of directors, the close of business on the seventh day following the date on which the notice of such meeting is first given to shareholders. Each such notice shall set forth (a) the name and address of the shareholder who intends to make the nomination and of the person or persons to be nominated (b) a representation that the shareholder is a holder of record of stock of the corporation entitled to vote at such meeting and intends to appear in person or by proxy at the meeting to nominate the person or persons specified in the notice (c) a description of all arrangements or understanding between the shareholder and each nominee and any other person or persons (naming such person or persons) pursuant to which the nomination or nominations are to be made by the shareholder (d) such other information regarding each nominee proposed by such shareholder as would have been required to be included in a proxy statement filed pursuant to the proxy rules of the Securities and Exchange Commission had each nominee been nominated, or intended to be nominated, by the Board of Directors and (e) the consent of each nominee to serve as a director of the corporation if so elected. 
+ 
+ Section 1.10 Shareholder Proposals . To be properly brought before a regular meeting of shareholders, business must be (a) specified in the notice of the meeting, (b) directed to be brought before the meeting by the Board of Directors or (c) proposed at the meeting by a shareholder who (i) was a shareholder of record at the time of giving of notice provided for in these bylaws, (ii) is entitled to vote at the meeting and (iii) gives prior notice of the matter, which must otherwise be a proper matter for shareholder action, the manner herein provided. For business to be properly brought before a regular meeting by a shareholder, the shareholder must give written notice to the Secretary of the corporation so as to be received at the principal executive offices of the corporation at least 120 days before the date that is one year after the prior year s regular meeting. Such notice shall set forth (a) the name and record address of the shareholder and of the beneficial owner, if any, on whose behalf the proposal will be made, (b) the class and number of shares of the corporation owned by the shareholder and beneficially owned by the beneficial owner, if any, on whose behalf the proposal will be made, (c) a brief description of the business desired to be brought before the regular meeting and the reasons for conducting such business and (d) any material interest in such business of the shareholder and the beneficial owner, if any, on whose behalf the proposal is made. The Chair of the meeting may refuse to acknowledge any proposed business not made in compliance with the foregoing procedure. 
+ 
+ - 3 - 
+
+ARTICLE II 
+ 
+ DIRECTORS 
+ 
+ Section 2.01. Number and Election . Directors shall be divided into three classes of approximately equal size and, after an initial staggering of director terms, shall be elected at each regular shareholder meeting for three-year terms as provided in the corporation s Articles of Incorporation. The number of directors shall be fixed exclusively by the Board of Directors pursuant to a resolution adopted by a majority of the Board of Directors then in office. 
+ 
+ Section 2.02. Vacancies . Any vacancies in the Board of Directors by reason of an increase in the number of directors, death, disability, resignation, removal or otherwise, shall be filled solely by majority vote of the remaining directors then in office, though less than a quorum, and any such director so elected shall hold office for a term expiring at the regular meeting of shareholders at which the term of office of the class to which the director has been elected, expires. 
+ 
+ Section 2.03. Removal . Any director may be removed from office as a director in the manner prescribed in the Articles of Incorporation. 
+ 
+ Section 2.04. Place of Meetings . The Board of Directors may meet at such places, in the State of Minnesota or in any State, as the majority may from time to time determine. 
+ 
+ Section 2.05. Regular Meetings . The Board of Directors may provide by resolution the date, time and place, either within or without the State of Minnesota, for the holding of meetings of the Board of Directors without other notice than such resolution. 
+ 
+ Section 2.06. Special Meetings . Special meetings of the Board of Directors may be called by the Chairman of the Board, the Chief Executive Officer, the President or by any two directors, by giving at least two days notice thereof. 
+ 
+ Section 2.07. Meetings Without Notice . Any director may in writing either before or after the meeting, waive notice thereof. Without notice, any director by his attendance at any meeting of the Board of Directors, or at any duly constituted committee thereof, shall be deemed to have waived notice thereof, except where the director objects at the beginning of the meeting to the transaction of business because the meeting is not lawfully called or convened and does not participate thereafter in the meeting. 
+ 
+ Section 2.08. Consent to Action . Any action which might be taken at a meeting of the Board of Directors, or of any duly constituted committee thereof, may be taken without a meeting if done in writing signed by all of the directors, or members of such committees. 
+ 
+ Section 2.09. Conference Communications . Any or all directors may participate in any meeting of the Board of Directors, or of any duly constituted committee thereof, by any means of communication through which the directors may simultaneously hear each other during such 
+ - 4 - 
+
+meeting. For the purposes of establishing a quorum and taking any action at the meeting, such directors participating pursuant to this Section 2.09 shall be deemed present in person at the meeting and the place of the meeting shall be the place of origination of the conference telephone conversation or other comparable communication technique. 
+ 
+ Section 2.10. Quorum and Adjourned Meetings . At all meetings of the Board of Directors, a quorum sufficient for the transaction of business shall consist of a majority of the directors. If, however, such quorum shall not be present at any such meeting, those present thereat shall have power to adjourn the meeting from day to day without notice other than announcement at the meeting, until a quorum shall be present. 
+ 
+ Section 2.11. Committees . A resolution approved by the affirmative vote of a majority of the Board of Directors may establish committees having the authority of the Board of Directors in the management of the business of the corporation to the extent provided in the resolution. A committee shall consist of one or more persons, who need not be directors, appointed by affirmative vote of a majority of the directors present. Committees are subject to the direction and control of, and vacancies in the membership thereof shall be filled by, the Board of Directors, except as provided in Section 2.12. A majority of the members of the committee holding office immediately prior to a meeting of the committee shall constitute a quorum for the transaction of business, unless a larger or smaller proportion or number is provided in the resolution establishing the committee. 
+ 
+ Section 2.12. Committee of Disinterested Persons . Pursuant to the procedure set forth in Section 2.11, the Board of Directors may establish a committee composed of two or more disinterested directors or other disinterested persons to determine whether it is in the best interests of the corporation to pursue a particular legal right or remedy of the corporation and whether to cause the dismissal or discontinuance of a particular proceeding that seeks to assert a right or remedy on behalf of the corporation. The committee, once established, is not subject to the direction or control of, or termination by, the Board of Directors. A vacancy on the committee may be filled by a majority of the remaining committee members. The good faith determinations of the committee are binding upon the corporation and its directors, officers and shareholders. The committee terminates when it issues a written report of its determination to the Board of Directors. 
+ 
+ Section 2.13. Compensation . The Board of Directors may fix the compensation, if any, of directors. 
+ 
+ ARTICLE III 
+ 
+ OFFICERS 
+ 
+ Section 3.01. Officers, Qualifications, Authority and Election . Officers shall be chosen by the Board of Directors and shall consist of a Chairman of the Board, a Chief Executive Officer, a President, a Secretary, a Chief Financial Officer, a Treasurer, a Controller and such other officers as the Board of Directors may from time to time deem advisable including one or 
+ - 5 - 
+
+more Vice Presidents, a Vice Chairman and an Executive Vice President. The Board of Directors may fix the powers, duties and compensation of any of the officers not specifically provided for herein. Officers, other than the Chairman of the Board, the Chief Executive Officer and the President, may or may not be members of the Board of Directors. Any two or more offices may be held by the same person at the same time. Officers shall hold their respective offices at the pleasure of the Board of Directors. Any officer may be removed at any time by the Board of Directors with or without cause. In case of the death, disqualification, absence or inability to act of any officer of the corporation or for any other reason the Board of Directors may deem sufficient, the Board of Directors may delegate the power and or duties of such officers to any other officer or to any director. Ownership of stock shall not be a qualification necessary to the holding of office. 
+ 
+ Section 3.02. Chairman of the Board . The Chairman of the Board shall preside at all meetings of the shareholders and of the directors. The Chairman of the Board shall have such other powers and perform such other duties as the Board of Directors may from time to time prescribe. 
+ 
+ Section 3.03. Vice Chairman . In the absence of the Chairman of the Board, the Vice Chairman shall preside at meetings of the shareholders and of the directors. 
+ 
+ Section 3.04. Chief Executive Officer . The Chief Executive Officer shall have general and active management of the business under the supervision and direction of the Board of Directors, and shall be responsible for carrying out all orders and resolutions of the Board of Directors. The Chief Executive Officer shall have the general powers and duties usually vested in the office of the chief executive officer of a corporation and shall have such other powers and perform such other duties as the Board of Directors may from time to time prescribe. 
+ 
+ Section 3.05. President . The President shall perform such duties as the Board of Directors or the Chief Executive Officer may from time to time designate. 
+ 
+ Section 3.06. Inability of the Chief Executive Officer . In the case of the death, disqualification, absence or incapacity of the Chief Executive Officer, the Chairman of the Board or, in the event of his or her death, disqualification, absence or incapacity, the Vice Chairman, shall have all the powers and perform all the duties of the Chief Executive Officer. In case of the death, disqualification, absence or incapacity of the Chief Executive Officer, Chairman of the Board and the Vice Chairman, then the President or, failing such, the Executive Vice President or, failing such, the most senior Vice President, if any, shall have all of the powers and perform all of the duties of the Chief Executive Officer. 
+ 
+ Section 3.07. Secretary . The Secretary shall attend all meetings of the Board of Directors and of the shareholders, and shall record all votes and the minutes of all proceedings thereof. The Secretary shall keep the stock books of the corporation and shall have custody of the corporate seal. The Secretary shall give or cause to be given notice of all meetings of the shareholders and of the Board of Directors provided, however notice given by another shall not be ineffective merely because it was not given by the Secretary. The Secretary shall perform 
+ - 6 - 
+
+such other duties as may from time to time be prescribed by the Board of Directors or by the Chief Executive Officer. 
+ 
+ Section 3.08. Chief Financial Officer . The Chief Financial Officer shall be responsible for all financial operations of the corporation, including, without limitation, raising funds, establishing and maintaining banking relationships, keeping accurate financial records for the corporation, financial administration and maintenance of internal controls. The Chief Financial Officer shall report the financial condition of the corporation at the annual meeting of the shareholders in each year and at all other times when requested by the Board of Directors or the Chief Executive Officer, and shall perform such other duties as may be prescribed by the Board of Directors or the Chief Executive Officer. 
+ 
+ Section 3.09. Treasurer . The Treasurer shall have the care and custody of the corporate funds and securities, and shall disburse the funds of the corporation as may be ordered from time to time by the Board of Directors or the Chief Executive Officer. The Treasurer shall perform such other duties as may be prescribed by the Board of Directors or the Chief Executive Officer. 
+ 
+ Section 3.10. Controller . The Controller shall be responsible, under the direction of the Chief Financial Officer, for keeping complete and accurate records of the business, assets, liabilities and transaction of the corporation and for the preparation of such financial statements as may be required by law or are needed for internal management purposes. The Controller shall perform such other duties as may be prescribed by the Board of Directors, the Chief Executive Officer or the Chief Financial Officer. 
+ 
+ ARTICLE IV 
+ 
+ CAPITAL STOCK 
+ 
+ Section 4.01. Stock Certificates . The shares of the corporation may be either certificated shares or uncertificated shares or a combination thereof. A resolution approved by a majority of the directors may provide that some or all of any or all classes and series of the shares of the corporation will be uncertificated shares. Each holder of duly issued certificated shares of the corporation shall be entitled to a certificate for such shares, to be in such form as shall be prescribed by law and adopted by the Board of Directors. Certificates for such shares shall be numbered in the order in which they shall be issued and shall be signed, in the name of the corporation, by the president, the secretary or any assistant secretary, if there be one, or by such officers as the Board of Directors may designate. If a certificate is signed by a transfer agent or registrar, the signature of any such officer of the corporation may be a facsimile signature. If a person signs or has a facsimile signature placed upon a certificate while an officer, transfer agent or registrar of the corporation, the certificate may be issued by the corporation even if the person has ceased to serve in that capacity before the certificate is issued, with the same effect as if the person had that capacity at the date of its issue. With respect to certificated shares, every certificate surrendered to the corporation or its transfer agent for exchange or transfer shall be canceled, and no new certificate or certificates shall be issued in 
+ - 7 - 
+
+exchange for any existing certificate until such existing certificate shall have been so canceled, except in cases provided for in Section 4.04. 
+ Section 4.02. Transfer of Shares . The transfer of shares on the stock transfer books of the corporation may be authorized only by the shareholder of record thereof, or by such shareholder s legal representative, who shall furnish proper evidence of authority to transfer, or by such shareholder s duly authorized attorney-in-fact, and, in the case of certificated shares, upon surrender of the certificate or the certificates for such shares to the corporation or its transfer agent duly endorsed. 
+ Section 4.03. Ownership . The corporation may treat as the exclusive owner of shares of the corporation for all purposes, the person or persons in whose name shares are registered on the books of the corporation, and shall not be bound to recognize any equitable or other claim to or interest in such share or shares on the part of any other person, whether or not it shall have express or other notice thereof, save as may be expressly provided by applicable law. 
+ Section 4.04. Lost or Destroyed Certificates . Any shareholder claiming a certificate for shares to be lost, stolen or destroyed shall make an affidavit of that fact in such form as the Board of Directors shall require and shall give the corporation a bond of indemnity in form, in an amount, and with one or more sureties satisfactory to the Board of Directors, to indemnify the corporation against any claim which may be made against it on account of the reissue of such certificate, whereupon a new certificate may be issued in the same tenor and for the same number of shares as the one alleged to have been lost, stolen or destroyed. 
+ ARTICLE V 
+ 
+ EXECUTION OF CORPORATE CONTRACTS 
+ 
+ Except as otherwise provided by the Board of Directors, all contracts of the corporation shall be executed on its behalf by the Chairman of the Board, the Chief Executive Officer, the President, the Chief Financial Officer, the Treasurer, the Controller, an Executive Vice President, a Vice President or such other person or persons as one of these officers may from time to time authorize so to do. Notes given and drafts accepted by the corporation shall be valid only when signed by the Chairman of the Board, the Chief Executive Officer, the President, the Chief Financial Officer, the Treasurer, the Controller, an Executive Vice President, a Vice President or such other person as one of these officers may from time to time authorize so to do. Checks, drafts, and other evidences of indebtedness to the corporation shall, for the purpose of deposit, discount and collection, be endorsed by these same officers or their delegees. Whenever the Board of Directors shall provide that any contract be executed or any other act be done in any other manner and by any other officer than as specified in these By-Laws, such method of execution or action shall be as equally effective to bind the corporation as specified herein. 
+ 
+ ARTICLE VI 
+ 
+ FISCAL YEAR 
+ - 8 - 
+
+The fiscal year of the corporation shall end with the close of business on the Saturday closest to the last day in February in each year or as otherwise determined by the Board of Directors. 
+ 
+ ARTICLE VII 
+ 
+ INDEMNIFICATION 
+ 
+ The corporation shall indemnify such persons, for such expenses and liabilities, in such manner, under such circumstances, and to such extent as required or permitted by the Minnesota Business Corporation Act, 302A.521, as now enacted or hereafter amended. 
+ ARTICLE VIII 
+ EXCLUSIVE FORUM 
+ Unless the corporation consents in writing to the selection of an alternative forum, the state or federal courts in Hennepin County, Minnesota shall be the sole and exclusive forum for (a) any derivative action or proceeding brought on behalf of the corporation, (b) any action asserting a claim for breach of a fiduciary duty owed by any director, officer, employee, or agent of the corporation to the corporation or the corporation s shareholders, (c) any action asserting a claim arising pursuant to any provision of the Minnesota Business Corporation Act, the Articles of Incorporation, or these By-Laws (as any may be amended from time to time), or (d) any action asserting a claim governed by the internal affairs doctrine, in each case subject to said courts having personal jurisdiction over the indispensable parties named as defendants therein. If any action the subject matter of which is within the scope of this Article VIII is filed in a court other than a state or federal court in Hennepin County, Minnesota (a Foreign Action by any shareholder, such shareholder shall be deemed to have consented to (i) the personal jurisdiction of the state or federal courts in Hennepin County, Minnesota in connection with any action brought in any such court to enforce this Article VIII and (ii) having service of process made upon such shareholder in any such action by service upon such shareholder s counsel in the Foreign Action as agent for such shareholder. If any provision of this Article VIII shall be held to be invalid, illegal or unenforceable as applied to any person or entity or circumstance for any reason whatsoever, then, to the fullest extent permitted by law, the validity, legality and enforceability of such provision in any other circumstance and of the remaining provisions of this Article VIII (including, without limitation, each portion of any sentence of this Article VIII containing any such provision held to be invalid, illegal or unenforceable that is not itself held to be invalid, illegal or unenforceable) and the application of such provision to other persons or entities or circumstances shall not in any way be affected or impaired thereby. 
+ - 9 - 
+
+ARTICLE IX 
+ 
+ AMENDMENTS 
+ 
+ These By-Laws may be altered or amended by majority vote of the entire Board of Directors, subject to the power of the shareholders to adopt, amend or repeal the By-Laws as provided in Minnesota Statutes 302A.181, Subdivision 3. 
+
+Amended and Restated By-Laws adopted by the Board of Directors of Apogee Enterprises, Inc. on April 21, 2021. 
+
+- 10 - 
+
+</EX-3.3>
+
+<EX-4.1>
+ 3
+ apog-ex41specimenstockce.htm
+ EX-4.1
+
+apog-ex41specimenstockce 
+
+</EX-4.1>
+
+<EX-10.1>
+ 4
+ apog-ex101stockrepurchasea.htm
+ EX-10.1
+
+Document 
+ Exhibit 10.1 
+ Execution copy 
+
+STOCK REPURCHASE AGREEMENT 
+ THIS STOCK REPURCHASE AGREEMENT (this Agreement is made as of May 26, 2021, by and between Apogee Enterprises, Inc., a Minnesota corporation (the Company ), and Joseph F. Puishys Puishys and The Puishys Family Trust, of which Puishys is co-trustee (the Seller ). 
+ RECITALS 
+ WHEREAS , the Company granted to Puishys (i) 37,193 restricted shares of the Company s common stock, par value 0.33-1 3 per share (the Common Stock ), on April 23, 2020, as part of the Company s annual executive compensation award program (the Restricted Stock Award ), and (ii) an option to purchase 215,600 shares of the Common Stock on June 30, 2020, in lieu of the Company s customary executive long-term incentive program (the Option Award ), for total awards of 252,793 shares, and options to purchase shares, of Common Stock, all of which were granted under the Company s 2019 Stock Incentive Plan (the Plan 
+ WHEREAS, in accordance with Section 4(d) of the Plan, the Company may not grant to any individual employee or officer awards under the Plan for more than 200,000 shares (including, for this purpose, options to acquire shares) of Common Stock in any calendar year 
+ WHEREAS , Puishys has forfeited his right to purchase 37,036 shares according to the terms of the Option Award 
+ WHEREAS , Puishys transferred to the Seller all remaining shares from the Restricted Stock Award held by him after such shares vested earlier this year 
+ WHEREAS , for the purposes of complying with the annual share award limit under Section 4(d) of the Plan, Puishys and the Seller desire to sell, and the Company desires to repurchase, 15,757 shares granted pursuant to the Restricted Stock Award (the Shares ), pursuant to the terms of this Agreement and 
+ WHEREAS , the parties have agreed on a purchase price of 24.74 per share, which represents a reduction of 12.66 per share from the value of the Shares on the date of vesting, which reduction is equal to the maximum gain permissible per option share exercisable under the terms of the Option Award, for an aggregate consideration of 389,828.18 (the Purchase Price ). 
+ 
+ AGREEMENT 
+ NOW, THEREFORE , for and in consideration of the premises and the mutual covenants contained herein and other good and valuable consideration, the receipt, adequacy and sufficiency of which are hereby acknowledged, the parties hereto covenant and agree as follows 
+
+Article 1. REPURCHASE OF SHARES 
+ 1.1 Repurchase of Shares . Subject to the terms and conditions stated herein, the Seller agrees to sell, assign, transfer and deliver the Shares to the Company, and the Company agrees to repurchase the Shares from the Seller in exchange for the Purchase Price. 
+ 1.2 Purchase Price . In full consideration for the repurchase by the Company of the Shares, the Company shall pay to the Seller the Purchase Price. 
+ 1.3 Closing . Subject to the terms and conditions hereof, the closing of the repurchase and sale of Shares provided for herein (the Closing shall take place through an electronic exchange of documents on the date hereof, or at such other time and place as the Company and the Seller mutually agree (the Closing Date ). At the Closing, the Company shall deliver to the Seller the Purchase Price by cash, check, or wire transfer to an account provided by the Seller, or any combination of the foregoing. Upon payment of the Purchase Price by the Company to the Seller, all of the Shares shall be delivered by the Seller to the Company and shall not be deemed outstanding. 
+ 1.4 Further Assurances . Each of the parties hereto agrees that, from time to time, after the Closing, such party will execute such additional instruments and take such actions as may be reasonably requested by the other party hereto to give effect to the sale and delivery of the Shares and to perfect or otherwise carry out the intent and purposes of this Agreement. 
+ Article 2. REPRESENTATIONS AND WARRANTIES 
+ 2.1 Title to Shares . The Seller hereby represents and warrants that it is the owner of the Shares, beneficially and of record, and subject to the transfer restrictions imposed under the Plan and the Restricted Stock Award agreement, has full power and authority to convey the Shares free and clear of all liens, encumbrances, restrictions and claims of every kind and, upon delivery of and payment for such Shares as herein provided, the Company will acquire good and valid title thereto, free and clear of all liens, encumbrances, restrictions and claims of every kind. Except as specifically contemplated by this Agreement, (a) the Seller has not transferred or assigned, or entered into any agreement to transfer or assign, any of the Shares or any rights thereunder and (b) there is no outstanding subscription, warrant, call, unsatisfied preemptive right, commitment, option or other agreement or right of any kind to purchase or otherwise to receive or acquire from the Seller any of the Shares. 
+ 2.2 Binding Effect to the Seller . Each of Puishys and the Seller hereby represents and warrants that such party has full power and authority to enter into this Agreement, and that this Agreement constitutes such party s valid and legally binding obligation, enforceable in accordance with its terms. Puishys further represents that, as co-trustee of the Seller, he possesses full power and authority to enter into this Agreement in such capacity on behalf of the Seller and to bind the Seller with respect to the subject matter hereof. 
+ 2.3 Binding Effect to the Company . The Company hereby represents and warrants that (i) it has full power and authority to purchase the Shares under the terms described in this Agreement, (ii) it has full power and authority to enter into this Agreement and (iii) this Agreement constitutes its valid and legally binding obligation, enforceable in accordance with its terms. 
+ 2 
+
+2.4 Waiver of Claims . Puishys and the Seller, on the one hand, and the Company, on the other, each acknowledge that the other party may be entering into this Agreement while in the possession of material non-public information about the Company, including information with respect to its current and prospective cash flows, financial condition and results of operations, and all such parties waive any rights to bring a claim against the other party (or parties) or its affiliates based on that possibility. 
+ 2.5 Indemnity Acknowledgement . The Company acknowledges that Puishys shall be entitled to be indemnified by the Company with respect to any proceeding relating to matters occurring during his tenure as an executive officer or as a director of the Company in accordance with the terms of the Company s Amended and Restated Bylaws and the Minnesota Business Corporation Act. 
+ 
+ Article 3. MISCELLANEOUS 
+ 3.1 Survival of Representations and Warranties . All of the representations and warranties of Puishys, the Seller and the Company contained in this Agreement shall survive the execution of this Agreement for a period of six months. 
+ 3.2 Entire Agreement . This Agreement constitutes the entire agreement of the parties hereto with respect to the subject matter hereof, and may not be modified, amended or terminated except by a written instrument specifically signed by each of the parties hereto. 
+ 3.3 Waivers and Consents . All waivers and consents given hereunder shall be in writing. No waiver by any party hereto of any breach or anticipated breach of any provision hereof by any other party shall be deemed a waiver of any other contemporaneous, preceding or succeeding breach or anticipated breach, whether or not similar, on the part of the same or any other party. 
+ 3.4 Notices . All notices and other communications hereunder shall be in writing and shall be deemed to have been given only if and when (i) personally delivered or (ii) three days after mailing, postage prepaid, by certified mail or (iii) when delivered (and receipted for) by an overnight delivery service or (iv) upon confirmation of receipt (or deemed delivery of the confirmatory copy, if earlier) after given or made by email, addressed in each case to the parties hereto at the respective addresses set forth on the signature page hereto. Each party hereto may change his or its address for the giving of notices and communications to it, and or copies thereof, by written notice to the other parties in accordance with this Section. The initial addresses are 
+ If to the Company Apogee Enterprises, Inc. 
+ 4400 West 78 th Street 
+ Suite 520 
+ Minneapolis, Minnesota 55435 
+ Attn Meghan Elliott 
+ melliott apog.com 
+ 
+ If to Puishys or the Seller, to Puishys current residence address maintained in the Company s records. 
+ 
+ 3 
+
+3.5 Attorney s Fees . The Company shall reimburse Puishys for the appropriately documented fees and expenses of legal counsel to Puishys incurred in connection with the negotiation and execution of this Agreement, up to a maximum total reimbursement of 10,000.00. 
+ 3.6 Governing Law . The interpretation and construction of this Agreement shall be governed by the laws of the State of Minnesota without taking into account conflict of law principles. 
+ 3.7 Counterparts . This Agreement may be executed and delivered by facsimile signature, PDF or any electronic signature complying with the US federal ESIGN Act of 2000 (e.g., www.docusign.com) and in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. 
+ Signature Page to Follow 
+ 4 
+
+IN WITNESS WHEREOF , the parties hereto have duly executed this Stock Repurchase Agreement as of the day and year first above written. 
+ THE COMPANY APOGEE ENTERPRISES, INC. By s Ty R. Silberhorn Name Ty R. Silberhorn Title Chief Executive Officer and President 
+
+THE SELLER 
+ s Joseph F. Puishys 
+ Joseph F. Puishys, as co-trustee of The Puishys Family Trust 
+ 
+ PUISHYS 
+ 
+ s Joseph F. Puishys 
+ Joseph F. Puishys 
+ 
+ Signature Page to Stock Repurchase Agreement 
+
+</EX-10.1>
+
+<EX-31.1>
+ 5
+ apog-ex311_20210529.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION 
+ I, Ty R. Silberhorn, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Apogee Enterprises, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrants most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date July 1, 2021 
+ s Ty R. Silberhorn 
+ Ty R. Silberhorn 
+ President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ apog-ex312_20210529.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION 
+ I, Nisheet Gupta, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Apogee Enterprises, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrants most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date July 1, 2021 
+ 
+ s Nisheet Gupta Nisheet Gupta Executive Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ apog-ex321_20210529.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Apogee Enterprises, Inc. (the Company on Form 10-Q for the period ended May 29, 2021 as filed with the Securities and Exchange Commission (the Report ), I, Ty R. Silberhorn, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that based on my knowledge 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Ty R. Silberhorn Ty R. Silberhorn President and Chief Executive Officer July 1, 2021 
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ apog-ex322_20210529.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Apogee Enterprises, Inc. (the Company on Form 10-Q for the period ended May 29, 2021 as filed with the Securities and Exchange Commission (the Report ), I, Nisheet Gupta, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that based on my knowledge 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Nisheet Gupta Nisheet Gupta Executive Vice President and Chief Financial Officer July 1, 2021 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 9
+ apog-20210529.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ apog-20210529_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ apog-20210529_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ apog-20210529_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ apog-20210529_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

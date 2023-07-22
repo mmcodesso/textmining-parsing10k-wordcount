@@ -1,0 +1,854 @@
+<Header>
+<FileStats>
+    <FileName>20211001_10-Q_edgar_data_920760_0001628280-21-019464.txt</FileName>
+    <GrossFileSize>12754141</GrossFileSize>
+    <NetFileSize>140012</NetFileSize>
+    <NonText_DocumentType_Chars>1399302</NonText_DocumentType_Chars>
+    <HTML_Chars>5405563</HTML_Chars>
+    <XBRL_Chars>2937277</XBRL_Chars>
+    <XML_Chars>2614283</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-21-019464.hdr.sgml : 20211001
+<ACCEPTANCE-DATETIME>20211001161635
+ACCESSION NUMBER:		0001628280-21-019464
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		83
+CONFORMED PERIOD OF REPORT:	20210831
+FILED AS OF DATE:		20211001
+DATE AS OF CHANGE:		20211001
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LENNAR CORP /NEW/
+		CENTRAL INDEX KEY:			0000920760
+		STANDARD INDUSTRIAL CLASSIFICATION:	GEN BUILDING CONTRACTORS - RESIDENTIAL BUILDINGS [1520]
+		IRS NUMBER:				954337490
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11749
+		FILM NUMBER:		211299095
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 NW 107TH AVENUE
+		STREET 2:		SUITE 400
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33172
+		BUSINESS PHONE:		3055594000
+
+	MAIL ADDRESS:	
+		STREET 1:		700 NW 107TH AVENUE
+		STREET 2:		SUITE 400
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33172
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PACIFIC GREYSTONE CORP /DE/
+		DATE OF NAME CHANGE:	19940323
+
+</SEC-Header>
+</Header>
+
+ 0001628280-21-019464.txt : 20211001
+
+10-Q
+ 1
+ len-20210831.htm
+ 10-Q
+
+len-20210831 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the Transition Period from _______ To _______ 
+ Commission File Number: 
+ 
+ Lennar Corporation 
+ (Exact name of registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ , , 
+ (Address of principal executive offices) (Zip Code) 
+ ) 
+ (Registrant s telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ R Accelerated filer Emerging growth company Non-accelerated filer Smaller reporting company If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ Common stock outstanding as of August 31, 2021: 
+ Class A 
+ Class B 
+
+LENNAR CORPORATION FORM 10-Q For the period ended August 31, 2021 Part I Financial Information 
+ Item 1. Financial Statements 
+ 3 
+ Condensed Consolidated Balance Sheets as of August 31, 2021 and November 30, 2020 
+ 3 
+ Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) for the three and nine months ended August 31, 2021 and 2020 
+ 5 
+ Condensed Consolidated Statements of Cash Flows for the three and nine months ended August 31, 2021 and 2020 
+ 6 
+ Notes to Condensed Consolidated Financial Statements 
+ 8 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 26 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 41 
+ Item 4. Controls and Procedures 
+ 42 
+ Part II Other Information 
+ 42 
+ Item 1. Legal Proceedings 
+ 42 
+ Item 1A. Risk Factors 
+ 43 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 43 
+ Item 3 - 5. Not Applicable 
+ 43 
+ Item 6. Exhibits 
+ 43 
+ Signatures 
+ 44 
+
+Part I. Financial Information 
+ 
+ Item 1. Financial Statements 
+
+Lennar Corporation and Subsidiaries 
+ Condensed Consolidated Balance Sheets 
+ (Dollars in thousands) 
+ (unaudited) 
+ August 31, November 30, 2021 (1) 2020 (1) ASSETS Homebuilding: Cash and cash equivalents Restricted cash Receivables, net Inventories: Finished homes and construction in progress Land and land under development Consolidated inventory not owned Total inventories Investments in unconsolidated entities Goodwill Other assets Financial Services Multifamily Lennar Other Total assets 
+ (1) 
+ billion related to consolidated VIEs of which million is included in Homebuilding cash and cash equivalents, million in Homebuilding receivables, net, million in Homebuilding finished homes and construction in progress, million in Homebuilding land and land under development, million in Homebuilding consolidated inventory not owned, million in Homebuilding investments in unconsolidated entities, million in Homebuilding other assets and million in Multifamily assets. 
+ As of November 30, 2020, total assets include billion related to consolidated VIEs of which million is included in Homebuilding cash and cash equivalents, million in Homebuilding receivables, net, million in Homebuilding finished homes and construction in progress, million in Homebuilding land and land under development, million in Homebuilding consolidated inventory not owned, million in Homebuilding investments in unconsolidated entities, million in Homebuilding other assets and million in Multifamily assets. 
+ See accompanying notes to condensed consolidated financial statements. 
+ 3 
+
+Lennar Corporation and Subsidiaries 
+ Condensed Consolidated Balance Sheets (Continued) 
+ (In thousands, except share amounts) 
+ (unaudited) 
+
+ August 31, November 30, 2021 (2) 2020 (2) LIABILITIES AND EQUITY Homebuilding: Accounts payable Liabilities related to consolidated inventory not owned Senior notes and other debts payable, net Other liabilities Financial Services Multifamily Lennar Other Total liabilities Stockholders equity: Preferred stock Class A common stock of par value; Authorized: August 31, 2021 and November 30, 2020 - shares; Issued: August 31, 2021 - shares and November 30, 2020 - shares 
+ Class B common stock of par value; Authorized: August 31, 2021 and November 30, 2020 - shares; Issued: August 31, 2021 - shares and November 30, 2020 - shares 
+ Additional paid-in capital Retained earnings Treasury stock, at cost; August 31, 2021 - shares of Class A common stock and shares of Class B common stock; November 30, 2020 - shares of Class A common stock and shares of Class B common stock 
+ ) ) Accumulated other comprehensive loss ) ) Total stockholders equity Noncontrolling interests Total equity Total liabilities and equity 
+ (2) 
+ million related to consolidated VIEs as to which there was no recourse against the Company, of which million is included in Homebuilding accounts payable, million in Homebuilding liabilities related to consolidated inventory not owned, million in Homebuilding senior notes and other debts payable and million in Homebuilding other liabilities. 
+ As of November 30, 2020, total liabilities include million related to consolidated VIEs as to which there was no recourse against the Company, of which million is included in Homebuilding accounts payable, million in Homebuilding liabilities related to consolidated inventory not owned, million in Homebuilding senior notes and other debt payable, million in Homebuilding other liabilities and million in Multifamily liabilities. 
+ See accompanying notes to condensed consolidated financial statements. 
+ 4 
+
+Lennar Corporation and Subsidiaries 
+ Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) 
+ (In thousands, except per share amounts) 
+ (unaudited) 
+
+Three Months Ended Nine Months Ended August 31, August 31, 2021 2020 2021 2020 Revenues: Homebuilding Financial Services Multifamily Lennar Other Total revenues Costs and expenses: Homebuilding Financial Services Multifamily Lennar Other Corporate general and administrative Charitable foundation contribution Total costs and expenses Homebuilding equity in earnings (loss) from unconsolidated entities ) ) ) Homebuilding other income (expense), net ) ) ) Financial Services gain on deconsolidation Multifamily equity in earnings (loss) from unconsolidated entities and other gain ) ) Lennar Other realized and unrealized gain (loss) Lennar Other equity in earnings (loss) from unconsolidated entities and other income (expense), net ) ) ) Earnings before income taxes Provision for income taxes ) ) ) ) Net earnings (including net earnings (loss) attributable to noncontrolling interests) Less: Net earnings (loss) attributable to noncontrolling interests ) Net earnings attributable to Lennar Other comprehensive income (loss), net of tax: Net unrealized gain (loss) on securities available-for-sale ) ) Reclassification adjustments for loss included in earnings, net of tax ) Total other comprehensive income (loss), net of tax ) ) Total comprehensive income attributable to Lennar Total comprehensive income (loss) attributable to noncontrolling interests ) Basic earnings per share Diluted earnings per share 
+
+See accompanying notes to condensed consolidated financial statements. 
+ 5 
+
+Lennar Corporation and Subsidiaries 
+ Condensed Consolidated Statements of Cash Flows 
+ (In thousands) 
+ (unaudited) 
+
+ Nine Months Ended August 31, 2021 2020 Cash flows from operating activities: Net earnings (including net earnings (loss) attributable to noncontrolling interests) Adjustments to reconcile net earnings to net cash provided by operating activities: Depreciation and amortization Amortization of discount/premium on debt, net ) ) Equity in (earnings) loss from unconsolidated entities ) Distributions of earnings from unconsolidated entities Share-based compensation expense Deferred income tax expense Loans held-for-sale unrealized loss Lennar Other unrealized/realized gain ) Gain on sale of other assets and operating properties and equipment ) ) Loss on consolidation Gain on deconsolidation of previously consolidated entity ) Gain on sale of interest in unconsolidated entity and other Multifamily gain ) ) Gain on sale of Financial Services' portfolio/businesses 
+ ) ) Valuation adjustments and write-offs of option deposits and pre-acquisition costs 
+ Changes in assets and liabilities: Decrease in receivables (Increase) decrease in inventories, excluding valuation adjustments and write-offs of option deposits and pre-acquisition costs ) Increase in other assets ) ) Decrease in loans held-for-sale Increase in accounts payable and other liabilities Net cash provided by operating activities Cash flows from investing activities: Net additions of operating properties and equipment ) ) Proceeds from the sale of operating properties and equipment, other assets Investments in and contributions to unconsolidated entities ) ) Distributions of capital from unconsolidated entities Proceeds from sale of investment in consolidated joint venture Proceeds from sale of commercial mortgage-backed securities bonds Proceeds from sale of Financial Services' portfolio/business Increase in Financial Services loans held-for-investment, net Purchases of investment securities ) ) Proceeds from maturities/sales of investment securities Other receipts, net Net cash used in investing activities ) ) 
+
+See accompanying notes to condensed consolidated financial statements. 
+ 6 
+
+Lennar Corporation and Subsidiaries 
+ Condensed Consolidated Statements of Cash Flows (continued) 
+ (In thousands) 
+ (unaudited) 
+
+Nine Months Ended August 31, 2021 2020 Cash flows from financing activities: Net repayments under warehouse facilities ) ) Redemption of senior notes ) ) Principal payments on notes payable and other borrowings ) ) Proceeds from other borrowings Proceeds from liabilities related to consolidated inventory not owned Payments related to consolidated inventory not owned ) (Payments) proceeds related to other liabilities, net ) Receipts related to noncontrolling interests Payments related to noncontrolling interests ) ) Common stock: Repurchases ) ) Dividends ) ) Net cash used in financing activities ) ) Net (decrease) increase in cash and cash equivalents and restricted cash ) Cash and cash equivalents and restricted cash at beginning of period Cash and cash equivalents and restricted cash at end of period Summary of cash and cash equivalents and restricted cash: Homebuilding Financial Services Multifamily Lennar Other Homebuilding restricted cash Financial Services restricted cash Supplemental disclosures of non-cash investing and financing activities: Homebuilding and Multifamily: Purchases of inventories and other assets financed by sellers Non-cash contributions to unconsolidated entities Consolidation/deconsolidation of unconsolidated/consolidated entities, net: Financial Services assets Financial Services liabilities ) Financial Services noncontrolling interests ) Inventories Operating properties and equipment and other assets Investments in unconsolidated entities ) Notes payable ) Other liabilities ) Noncontrolling interests 
+ 
+ See accompanying notes to condensed consolidated financial statements. 
+ 7 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ 
+ (1) 
+ 
+ The Company has historically experienced, and expects to continue to experience, variability in quarterly results. The condensed consolidated statements of operations for the three and nine months ended August 31, 2021 are not necessarily indicative of the results to be expected for the full year. 
+ Cash and Cash Equivalents 
+ Homebuilding cash and cash equivalents as of August 31, 2021 and November 30, 2020 included million and million , respectively, of cash held in escrow. On average for the three months ended August 31, 2021, cash was held in escrow for approximately . 
+ Share-based Payments 
+ During the three months ended August 31, 2021, the Company granted employees an immaterial number of nonvested shares. During the three months ended August 31, 2020, the Company granted employees million of nonvested shares. During the nine months ended August 31, 2021 and 2020, the Company granted employees million and million nonvested shares, respectively. 
+ 8 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+(2) 
+ Restricted cash Receivables, net (1) Inventories Loans held-for-sale (2) Investments in equity securities (3) Investments available-for-sale (4) Loans held-for-investment, net Investments held-to-maturity Investments in unconsolidated entities Goodwill Other assets Liabilities: Notes and other debts payable, net Other liabilities 
+ 9 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+Restricted cash Receivables, net (1) Inventories Loans held-for-sale (2) Investments in equity securities (3) Investments available-for-sale (4) Loans held-for-investment, net Investments held-to-maturity Investments in unconsolidated entities Goodwill Other assets Liabilities: Notes and other debts payable, net Other liabilities 
+ (1) Receivables, net for Financial Services primarily related to loans sold to investors for which the Company had not yet been paid. 
+ (2) Loans held-for-sale related to unsold residential and commercial loans carried at fair value. 
+ (3) Investments in equity securities include investments of million and million without readily available fair values as of August 31, 2021 and November 30, 2020, respectively. 
+ (4) Investments available-for-sale are carried at fair value with changes in fair value recorded as a component of accumulated other comprehensive income (loss) on the condensed consolidated balance sheet. 
+ Financial information relating to the Company s segments was as follows: 
+ Three Months Ended August 31, 2021 (In thousands) Homebuilding Financial Services Multifamily Lennar Other Corporate and unallocated Total Revenues Operating earnings (loss) ) Corporate general and administrative expenses Charitable foundation contribution Earnings (loss) before income taxes ) ) Three Months Ended August 31, 2020 Revenues Operating earnings (loss) ) Corporate general and administrative expenses Charitable foundation contribution Earnings (loss) before income taxes ) ) 
+ 
+ 10 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+Operating earnings Corporate general and administrative expenses 
+ Charitable foundation contribution Earnings before income taxes ) Nine Months Ended August 31, 2020 Revenues 
+ Operating earnings (loss) (1) ) ) Corporate general and administrative expenses 
+ Charitable foundation contribution Earnings (loss) before income taxes ) ) ) 
+ (1) Operating loss for Lennar Other for the nine months ended August 31, 2020 included a million write-down of assets held by Rialto legacy funds because of the disruption in the capital markets as a result of COVID-19 and the economic shutdown. 
+ 
+ Homebuilding Segments 
+ Information about homebuilding activities in states which are not economically similar to other states in the same geographic area is grouped under "Homebuilding Other," which is not considered a reportable segment. 
+ Evaluation of segment performance is based primarily on operating earnings (loss) before income taxes. Operations of the Company s Homebuilding segments primarily include the construction and sale of single-family attached and detached homes as well as the purchase, development and sale of residential land directly and through the Company s unconsolidated entities. Operating earnings (loss) for the Homebuilding segments consist of revenues generated from the sales of homes and land, other revenues from management fees and forfeited deposits, equity in earnings (loss) from unconsolidated entities and other income (expense), net, less the cost of homes sold and land sold, and selling, general and administrative expenses incurred by the segment. 
+ The Company s reportable Homebuilding segments and all other homebuilding operations not required to be reported separately have homebuilding divisions located in: 
+ East: Florida, New Jersey, Pennsylvania and South Carolina 
+ Central: Georgia, Illinois, Indiana, Maryland, Minnesota, North Carolina and Virginia 
+ Texas: Texas 
+ West: Arizona, California, Colorado, Idaho, Nevada, Oregon, Utah and Washington 
+ Other: Urban divisions and other homebuilding related investments primarily in California, including FivePoint Holdings, LLC ("FivePoint") 
+ November 30, 2020 
+ Financial information relating to the Company s homebuilding segments was as follows: Three Months Ended August 31, 2021 (In thousands) East Central Texas West Other Total Homebuilding Revenues 
+ Operating earnings (loss) ) Three Months Ended August 31, 2020 Revenues 
+ Operating earnings (loss) ) 
+ 11 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+Operating earnings (loss) ) Nine Months Ended August 31, 2020 Revenues Operating earnings (loss) ) 
+ Financial Services 
+ Operations of the Financial Services segment include primarily mortgage financing, title and closing services primarily for buyers of the Company s homes. It also includes originating and selling into securitizations commercial mortgage loans through its LMF Commercial business. Financial Services operating earnings consist of revenues generated primarily from mortgage financing, title and closing services, and property and casualty insurance, less the cost of such services and certain selling, general and administrative expenses incurred by the segment. The Financial Services segment operates generally in the same states as the Company s homebuilding operations. 
+ -day repurchase facilities and were used to fund residential mortgages or commercial mortgages for LMF Commercial as follows: 
+ (In thousands) Maximum Aggregate Commitment Residential facilities maturing: October 2021 December 2021 April 2022 July 2022 Total - Residential facilities 
+ LMF Commercial facilities maturing November 2021 December 2021 (1) July 2023 Total - LMF Commercial facilities 
+ Total 
+ 
+ (1) Includes million warehouse repurchase facility used by LMF Commercial to finance the origination of floating rate accrual loans, which are reported as accrual loans within loans held-for-investment, net. 
+ The Financial Services segment uses the residential facilities to finance its residential lending activities until the mortgage loans are sold to investors and the proceeds are collected. The facilities are non-recourse to the Company and are expected to be renewed or replaced with other facilities when they mature. The LMF Commercial facilities finance LMF Commercial loan originations and securitization activities and were secured by up to an interest in the originated commercial loans financed. 
+ Collateral under the residential facilities 
+ Borrowings under the LMF Commercial facilities 
+ 
+ If the facilities are not renewed or replaced, the borrowings under the lines of credit will be repaid by selling the mortgage loans held-for-sale to investors and by collecting receivables on loans sold but not yet paid for. Without the facilities, the Financial Services segment would have to use cash from operations and other funding sources to finance its lending activities. 
+ Substantially all of the residential loans the Financial Services segment originates are sold within a short period in the secondary mortgage market on a servicing released, non-recourse basis. After the loans are sold, the Company retains potential liability for possible claims by purchasers that it breached certain limited industry-standard representations and warranties in the loan sale agreements. Purchasers sometimes try to defray losses by purporting to have found inaccuracies related to sellers representations and warranties in particular loan sale agreements. Mortgage investors could seek to have the Company buy back mortgage loans or compensate them for losses incurred on mortgage loans that the Company has sold based on claims that the Company breached its limited representations or warranties. The Company s mortgage operations have established accruals for 
+ 12 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+Provision for losses Payments/settlements ) ) ) ) Loan origination liabilities, end of period 
+ LMF Commercial - loans held-for-sale 
+ Sold Securitizations 
+ (1) During both the three and nine months ended August 31, 2021 and 2020 all the commercial loans originated were recorded as loans held-for-sale, which are held at fair value. 
+ Investments held-to-maturity 
+ At August 31, 2021 and November 30, 2020, the Financial Services segment held commercial mortgage-backed securities ("CMBS"). These securities are classified as held-to-maturity based on its intent and ability to hold the securities until maturity and changes in estimated cash flows are reviewed periodically to determine if an other-than-temporary impairment has occurred. Based on the segment s assessment, impairment charges were recorded during either the three or nine months ended August 31, 2021 or 2020. The Company has financing agreements to finance CMBS that have been purchased as investments by the Financial Services segment. 
+ Outstanding debt, net of debt issuance costs Incurred interest rate 
+ Coupon rates Distribution dates October 2027 December 2028 Stated maturity dates October 2050 December 2051 
+ Multifamily 
+ The Company is actively involved, primarily through unconsolidated entities, in the development, construction and property management of multifamily rental properties. The Multifamily segment focuses on developing a geographically diversified portfolio of institutional quality multifamily rental properties in select U.S. markets. 
+ Operations of the Multifamily segment include revenues generated from the sales of land, revenue from construction activities, and management and promote fees generated from joint ventures and equity in earnings (loss) from unconsolidated entities and other gains (which includes sales of buildings), less the cost of sales of land sold, expenses related to construction activities and general and administrative expenses. 
+ 13 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+million upon the closing of the sale. The calculation of the gain included the fair value of the million shares in initial consideration received at closing and the fair value of potential shares to be received upon achievement of earnouts. The significant unobservable fair value assumptions used in the calculation were a terminal value multiple of and a discount rate. The fair value of the earnouts was also based on the probability of achieving full or partial earnouts. 
+ The investments in Opendoor Technologies, Inc. ("Opendoor"), Sunnova, Hippo Holdings, Inc. ("Hippo"), SmartRent, Inc. ("SmartRent") and Blend Labs, Inc. ("Blend") are held at market and will therefore change depending on the value of the Company's share holdings in those entities on the last day of each quarter. SmartRent (SMRT) mark to market Opendoor (OPEN) mark to market Sunnova (NOVA) mark to market ) Blend Labs (BLND) mark to market Gain on sale of solar business Other realized gain 
+ During the nine months ended August 31, 2021 , Opendoor, Hippo, SmartRent and Blend began trading and the Company began to mark to market the Company's share holdings in the public entities. The mark to market recognition was due to the entities in which the Company holds the investments going public and the loss of a contractual right to a board seat, where applicable, during the nine months ended August 31, 2021 and the investments now being accounted for as investments in equity securities which are held at fair value and the changes in fair value are recognized through earnings. As of November 30, 2020, the investments were included in the Company's investments in unconsolidated entities and were accounted for using the equity method. In addition, as previously noted, Doma Holdings, Inc. ("Doma") went public during the three months ended August 31, 2021. Doma is an investment that continues to be accounted for under the equity method due to the Company's significant ownership interest which allows the Company to exercise significant influence. As of August 31, 2021, the Company owns approximately of Doma and the carrying amount of the Company's investment is million. 
+ 
+ (3) 
+ Underlying equity in unconsolidated entities' net assets (1) 
+ (1) The basis difference was primarily as a result of the Company contributing its investment in three strategic joint ventures with a higher fair value than book value for an investment in the FivePoint entity and deferring equity in earnings on land sales to the Company. 
+ (2) Included in the Company's recorded investments in Homebuilding unconsolidated entities is the Company's ownership of FivePoint. As of August 31, 2021 and November 30, 2020, the carrying amount of the Company's investment was million and million, respectively. 
+ The Company has an immaterial amount of recourse exposure to debt of the Homebuilding unconsolidated entities in which it has investments. While the Company sometimes guarantees debt of unconsolidated entities, in most instances the Company s partners have also guaranteed that debt and are required to contribute their shares of any payments. In most 
+ 14 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+billion led by institutional investors. Including leverage, the Venture will be positioned to acquire over billion of new single family homes and townhomes from Lennar and potentially other homebuilders. 
+ Multifamily Unconsolidated Entities 
+ The unconsolidated entities in which the Multifamily segment has investments usually finance their activities with a combination of partner equity and debt financing. In connection with many of the bank loans to Multifamily unconsolidated entities, the Company (or entities related to them) has been required to give guarantees of completion and cost over-runs to the lenders and partners. The details related to these are unchanged from the disclosure in the Company's Notes to the Financial Statements section in its Form 10-K for the year ended November 30, 2020. As of both August 31, 2021 and November 30, 2020, the fair value of the completion guarantees was immaterial. As of August 31, 2021 and November 30, 2020, Multifamily segment's unconsolidated entities had non-recourse debt with completion guarantees of million and million, respectively. 
+ General contractor costs Management fee income 
+ The Multifamily segment includes Multifamily Venture Fund I ("LMV I") and Multifamily Venture Fund II LP ("LMV II"), which are long-term multifamily development investment vehicles involved in the development, construction and property management of class-A multifamily assets. Details of each as of and during the nine months ended August 31, 2021 are included below: 
+ August 31, 2021 (In thousands) LMV I LMV II Lennar's carrying value of investments Equity commitments Equity commitments called Lennar's equity commitments Lennar's equity commitments called Lennar's remaining commitments Distributions to Lennar during the nine months ended August 31, 2021 
+ Lennar Other Unconsolidated Entities 
+ 
+ 15 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+(4) 
+ ) ) Net earnings (including net earnings attributable to noncontrolling interests) Employee stock and directors plans 
+ ) ) Purchases of treasury stock ) ) Amortization of restricted stock 
+ Cash dividends ) ) Receipts related to noncontrolling interests 
+ Payments related to noncontrolling interests 
+ ) ) Non-cash purchase or activity of noncontrolling interests, net ) ) ) Total other comprehensive income, net of tax Balance at August 31, 2021 ) ) 
+ Three Months Ended August 31, 2020 (In thousands) Total Equity Class A Common Stock Class B Common Stock Additional Paid - in Capital Treasury Stock Accumulated Other Comprehensive Income (loss) Retained Earnings Noncontrolling Interests Balance at May 31, 2020 ) ) Net earnings (including net earnings attributable to noncontrolling interests) Employee stock and directors plans 
+ ) ) ) Amortization of restricted stock 
+ Cash dividends ) ) Receipts related to noncontrolling interests 
+ Payments related to noncontrolling interests 
+ ) ) Non-cash consolidations/deconsolidations, net Non-cash purchase or activity of noncontrolling interests, net ) ) ) Total other comprehensive loss, net of tax Balance at August 31, 2020 ) ) 
+ 16 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+) ) Net earnings (including net earnings attributable to noncontrolling interests) 
+ Employee stock and directors plans 
+ ) ) Purchases of treasury stock 
+ ) ) Amortization of restricted stock 
+ Cash dividends ) ) Receipts related to noncontrolling interests 
+ Payments related to noncontrolling interests 
+ ) ) Non-cash purchase or activity of noncontrolling interests, net ) ) Total other comprehensive loss, net of tax ) ) Balance at August 31, 2021 ) ) 
+ Nine Months Ended August 31, 2020 (In thousands) Total Equity Class A Common Stock Class B Common Stock Additional Paid - in Capital Treasury Stock Accumulated Other Comprehensive Income (loss) Retained Earnings Noncontrolling Interests Balance at November 30, 2019 ) Net earnings (including net loss attributable to noncontrolling interests) 
+ ) Employee stock and directors plans 
+ ) ) Purchases of treasury stock ) ) Amortization of restricted stock 
+ Cash dividends ) ) Receipts related to noncontrolling interests 
+ Payments related to noncontrolling interests 
+ ) ) Non-cash consolidations/deconsolidations, net ) ) Non-cash purchase or activity of noncontrolling interests, net ) ) ) Total other comprehensive loss, net of tax ) ) Balance at Aug 31, 2020 ) ) 
+ On September 29, 2021, the Company's Board of Directors declared a quarterly cash dividend of per share on both its Class A and Class B common stock, payable on October 28, 2021 to holders of record at the close of business on October 14, 2021. On July 19, 2021, the Company paid cash dividends of per share on both its Class A and Class B common stock to holders of record at the close of business on July 2, 2021, as declared by its Board of Directors on June 18, 2021. The Company approved and paid cash dividends of per share for each of the first three quarters of 2020 and per share in the fourth quarter of 2020 and each of the first three quarters of 2021 on both its Class A and Class B common stock. 
+ In January 2021, the Company's Board of Directors authorized the repurchase of up to the lesser of billion in value, excluding commissions, or million in shares, of the Company's outstanding Class A and Class B common stock. The repurchase has no expiration date. 
+ Total purchase price Average price per share 
+ 17 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+(5) 
+ Effective tax rate (1) 
+ (1) For both the three and nine months ended August 31, 2021 and 2020, the effective tax rate included state income tax expense and non-deductible executive compensation, partially offset by new energy efficient home and solar tax credits. The nine months ended August 31, 2020 also included benefits related to the years ended November 30, 2018 and 2019, due to Congress retroactively extending the new energy efficient home tax credit in December 2019. 
+ 
+ (6) 
+ Less: distributed earnings allocated to nonvested shares Less: undistributed earnings allocated to nonvested shares Numerator for basic earnings per share Less: net amount attributable to Rialto's Carried Interest Incentive Plan (1) Numerator for diluted earnings per share Denominator: Denominator for basic earnings per share - weighted average common shares outstanding Effect of dilutive securities: Shared based payments Denominator for diluted earnings per share - weighted average common shares outstanding Basic earnings per share Diluted earnings per share 
+ (1) The amounts presented relate to Rialto's Carried Interest Incentive Plan and represent the difference between the advanced tax distributions received from the Rialto funds included in the Lennar Other segment and the amount Lennar is assumed to own. 
+ For both the three and nine months ended August 31, 2021 and 2020, there were options to purchase shares of common stock that were outstanding and anti-dilutive. 
+ 18 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+(7) 
+ senior notes due 2022 (1) 
+ senior notes due 2022 
+ senior notes due 2022 
+ senior notes due December 2023 
+ senior notes due 2024 
+ senior notes due 2024 
+ senior notes due 2025 
+ senior notes due 2026 
+ senior notes due 2027 
+ senior notes due 2027 
+ senior notes due December 2021 
+ Mortgage notes on land and other debt 
+ (1) Subsequent to August 31, 2021, the Company provided notice that it would redeem on October 15, 2021 its million senior unsecured notes, which have a scheduled maturity of January 15, 2022. 
+ The carrying amounts of the senior notes in the table above are net of debt issuance costs of million and million as of August 31, 2021 and November 30, 2020, respectively. 
+ In June 2021, the Company redeemed million aggregate principal amount of its senior notes due December 2021. The redemption price, which was paid in cash, was 100 of the principal amount plus accrued unpaid interest. 
+ As of August 31, 2021 the maximum available borrowings on the Company's unsecured revolving credit facility (the "Credit Facility") were billion and included a million accordion feature, subject to additional commitments, thus the maximum borrowings could be billion maturing in 2024. The Credit Facility agreement (the "Credit Agreement") provides that up to million in commitments may be used for letters of credit . The maturity, debt covenants and details of the Credit Facility are unchanged from the disclosure in the Company's Financial Condition and Capital Resources section in its Form 10-K for the year ended November 30, 2020. In addition to the Credit Facility, the Company has other letter of credit facilities with different financial institutions. 
+ Procedures related to performance letters of credit, financial letters of credit and surety bonds are unchanged from the disclosure in the Company's Financial Condition and Capital Resources section in its Form 10-K for the year ended November 30, 2020. 
+ Surety bonds Anticipated future costs primarily for site improvements related to performance surety bonds 
+
+(8) 
+ 
+ 19 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+Warranties issued Adjustments to pre-existing warranties from changes in estimates (1) Payments ) ) ) ) Warranty reserve, end of period 
+ (1) The adjustments to pre-existing warranties from changes in estimates during the three and nine months ended August 31, 2021 and August 31, 2020 primarily related to specific claims in certain of the Company's homebuilding communities and other adjustments. 
+ 
+ (9) 
+ Investments held-to-maturity Level 3 LIABILITIES Homebuilding senior notes and other debts payable, net Level 2 Financial Services notes and other debts payable, net Level 2 Lennar Other notes and other debts payable, net Level 2 
+ The following methods and assumptions are used by the Company in estimating fair values: 
+ Financial Services The fair values above are based on quoted market prices, if available. The fair values for instruments that do not have quoted market prices are estimated by the Company on the basis of discounted cash flows or other financial information. For notes and other debts payable, the fair values approximate their carrying value due to variable interest pricing terms and the short-term nature of the majority of the borrowings. 
+ Homebuilding For senior notes and other debts payable, the fair value of fixed-rate borrowings is primarily based on quoted market prices and the fair value of variable-rate borrowings is based on expected future cash flows calculated using current market forward rates. 
+ Lennar Other The fair value for notes payable approximate their carrying value due to variable interest pricing terms and the short-term nature of the borrowings. 
+ Fair Value Measurements: 
+ GAAP provides a framework for measuring fair value, expands disclosures about fair value measurements and establishes a fair value hierarchy which prioritizes the inputs used in measuring fair value summarized as follows: 
+ Level 1: Fair value determined based on quoted prices in active markets for identical assets. 
+ Level 2: Fair value determined using significant other observable inputs. 
+ Level 3: Fair value determined using significant unobservable inputs. 
+ 20 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+LMF Commercial loans held-for-sale Level 3 Mortgage servicing rights Level 3 Lennar Other: Investments in equity securities Level 1 Investments available-for-sale Level 3 
+ Residential and LMF Commercial loans held-for-sale in the table above include: 
+ August 31, 2021 November 30, 2020 (In thousands) Aggregate Principal Balance Change in Fair Value Aggregate Principal Balance Change in Fair Value Residential loans held-for-sale LMF Commercial loans held-for-sale 
+ ) ) 
+ Financial Services residential loans held-for-sale - Fair value is based on independent quoted market prices, where available, or the prices for other mortgage whole loans with similar characteristics. The Company recognizes the fair value of its rights to service a mortgage loan as revenue upon entering into an interest rate lock loan commitment with a borrower. The fair value of these are included in Financial Services loans held-for-sale as of August 31, 2021 and November 30, 2020. Fair value of servicing rights is determined based on actual sales of servicing rights on loans with similar characteristics. 
+ LMF Commercial loans held-for-sale - The fair value of loans held-for-sale is calculated from model-based techniques that use discounted cash flow assumptions and the Company s own estimates of CMBS spreads, market interest rate movements and the underlying loan credit quality. The details and methods of the calculation are unchanged from the fair value disclosure in the Company's Notes to the Financial Statements section in its Form 10-K for the year ended November 30, 2020. These methods use unobservable inputs in estimating a discount rate that is used to assign a value to each loan. While the cash payments on the loans are contractual, the discount rate used and assumptions regarding the relative size of each class in the CMBS capital structure can significantly impact the valuation. Therefore, the estimates used could differ materially from the fair value determined when the loans are sold to a securitization trust. 
+ Mortgage servicing rights - Financial Services records mortgage servicing rights when it sells loans on a servicing-retained basis or through the acquisition or assumption of the right to service a financial asset. The fair value of the mortgage servicing rights is calculated using third-party valuations. 
+ Discount rate Delinquency rate 
+ Lennar Other investments in equity securities - The fair value of investments in equity securities was calculated based on independent quoted market prices. The Company s investments in equity securities were recorded at fair value with all changes in fair value recorded to Lennar Other unrealized gain of the Company s condensed consolidated statements of operations and comprehensive income (loss). 
+ Lennar Other investments available-for-sale - The fair value of investments available-for-sale is calculated from model-based techniques that use discounted cash flow assumptions and the Company s own estimates of CMBS spreads, market interest rate movements and the underlying loan credit quality. Loan values are calculated by allocating the change in value of an assumed CMBS capital structure to each loan. The value of an assumed CMBS capital structure is calculated, generally, by discounting the cash flows associated with each CMBS class at market interest rates and at the Company s own estimate of CMBS spreads. 
+ 21 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+) Mortgage loan commitments ) Forward contracts ) ) Changes in fair value included in Lennar Other realized and unrealized gain (loss): Investments in equity securities Changes in fair value included in other comprehensive loss, net of tax: Lennar Other investments available-for-sale ) ) 
+ Interest on Financial Services loans held-for-sale and LMF Commercial loans held-for-sale measured at fair value is calculated based on the interest rate of the loans and recorded as revenues in the Financial Services statement of operations. 
+ Purchases/loan originations Sales/loan originations sold, including those not settled ) ) Disposals/settlements ) ) ) Changes in fair value (2) ) ) ) Interest and principal paydowns ) ) Ending balance 
+ Nine Months Ended August 31, 2021 August 31, 2020 (In thousands) Mortgage servicing rights LMF Commercial loans held-for-sale Mortgage servicing rights LMF Commercial loans held-for-sale Beginning balance Purchases/loan originations Sales/loan originations sold, including those not settled 
+ ) ) Disposals/settlements (1) ) ) ) Changes in fair value (2) ) ) Interest and principal paydowns ) ) Ending balance 
+ (1) The nine months ended August 31, 2020 include million related to the sale of a servicing portfolio. 
+ (2) Changes in fair value for LMF Commercial loans held-for-sale and Financial Services mortgage servicing rights are included in Financial Services' revenues. 
+ The Company s assets measured at fair value on a nonrecurring basis are those assets for which the Company has recorded valuation adjustments and write-offs. The fair values included in the table below represent only those assets whose carrying values were adjusted to fair value during the respective periods disclosed. 
+ 22 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+) ) Land and land under development (1) Level 3 ) ) 
+ Nine Months Ended August 31, 2021 August 31, 2020 (In thousands) Fair Value Hierarchy Carrying Value Fair Value Total Losses, Net (1) Carrying Value Fair Value Total Losses, Net (1) Non-financial assets - Homebuilding: Finished homes and construction in progress (1) Level 3 ) ) Land and land under development (1) Level 3 ) ) 
+ (1) Valuation adjustments were included in Homebuilding costs and expenses in the Company's condensed consolidated statements of operations and comprehensive income (loss). 
+ Finished homes and construction in progress are included within inventories. Inventories are stated at cost unless the inventory within a community is determined to be impaired, in which case the impaired inventory is written down to fair value. The Company disclosed its accounting policy related to inventories and its review for indicators of impairment in the Summary of Significant Accounting Policies in its Form 10-K for the year ended November 30, 2020. 
+ The Company estimates the fair value of inventory evaluated for impairment based on market conditions and assumptions made by management at the time the inventory is evaluated, which may differ materially from actual results if market conditions or assumptions change. For example, changes in market conditions and other specific developments or changes in assumptions may cause the Company to re-evaluate its strategy regarding previously impaired inventory, as well as inventory not currently impaired but for which indicators of impairment may arise if market deterioration occurs, and certain other assets that could result in further valuation adjustments and/or additional write-offs of option deposits and pre-acquisition costs due to abandonment of those options contracts. 
+ The Company disclosed its accounting policy related to inventories and its review for indicators of impairment in the Summary of Significant Accounting Policies in its Form 10-K for the year ended November 30, 2020. On a quarterly basis, the Company reviews its active communities for indicators of potential impairments. 
+ August 31, 2020 
+ - Absorption rate per quarter (homes) - Discount rate 
+ 
+ (10) 
+ million and million, respectively. During the nine months ended August 31, 2021, there were no VIEs that were deconsolidated. 
+ The carrying amount of the Company's consolidated VIE's assets and non-recourse liabilities are disclosed in the footnote to the condensed consolidated balance sheets. 
+ 23 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+Multifamily (2) Financial Services Lennar Other (3) 
+ (1) As of August 31, 2021 and November 30, 2020, the maximum exposure to loss of Homebuilding's investments in unconsolidated VIEs was limited to its investments in unconsolidated VIEs, except as of August 31, 2021, with regard to the Company's remaining commitment to fund capital in the Upward America Venture, a single family for rent platform. The increase was due to the Company's commitment to fund the Upward America Venture. 
+ (2) As of August 31, 2021 and November 30, 2020, the maximum exposure to loss of Multifamily's investments in unconsolidated VIEs was primarily limited to its investments in the unconsolidated VIEs, except with regard to the remaining equity commitment of million and million, respectively, to fund LMV I and LMV II for future expenditures related to the construction and development of its projects. The decrease was due to the funding of capital for LMV I and LMV II. 
+ (3) As of August 31, 2021, the decrease in investments in unconsolidated VIEs and maximum exposure to loss was related to an entity which had a reconsideration event due to the payoff of a note receivable which caused the entity to no longer be considered a VIE. 
+ While these entities are VIEs, the Company has determined that the power to direct the activities of the VIEs that most significantly impact the VIEs economic performance is generally shared and the Company and its partners are not de-facto agents. While the Company generally manages the day-to-day operations of the VIEs, each of these VIEs has an executive committee made up of representatives from each partner. The members of the executive committee have equal votes and major decisions require unanimous consent and approval from all members. The Company does not have the unilateral ability to exercise participating voting rights without partner consent. 
+ There are no liquidity arrangements or agreements to fund capital or purchase assets that could require the Company to provide financial support to the VIEs. Except for the unconsolidated VIEs discussed above, the Company and the other partners did not guarantee any debt of the other unconsolidated VIEs. While the Company has option contracts to purchase land from certain of its unconsolidated VIEs, the Company is not required to purchase the assets and could walk away from the contracts. 
+ Option Contracts 
+ The Company has access to land through option contracts, which generally enable it to control portions of properties owned by third parties (including land funds) and unconsolidated entities until the Company has determined whether to exercise the options. 
+ The Company evaluates all option contracts for land to determine whether they are VIEs and, if so, whether the Company is the primary beneficiary of certain of these option contracts. Although the Company does not have legal title to the optioned land, if the Company is deemed to be the primary beneficiary or makes a significant deposit for optioned land, it may need to consolidate the land under option at the purchase price of the optioned land. 
+ During the nine months ended August 31, 2021, consolidated inventory not owned increased by million with a corresponding increase to liabilities related to consolidated inventory not owned in the accompanying condensed consolidated balance sheet as of August 31, 2021. The increase was primarily due to additions in the nine months ended August 31, 2021 as the Company focused on increasing its controlled homesites, partially offset by takedowns. To reflect the purchase price of the homesite takedowns, the Company had a net reclass related to option deposits from consolidated inventory not owned to land under development in the accompanying condensed consolidated balance sheet as of August 31, 2021. The liabilities related to consolidated inventory not owned primarily represent the difference between the option exercise prices for the optioned land and the Company s cash deposits. 
+ 24 
+
+Lennar Corporation and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) (Continued) 
+
+Letters of credit in lieu of cash deposits under certain land and option contracts 
+ 
+ (11) 
+ 
+ Lease liabilities Weighted-average remaining lease term (in years) Weighted-average discount rate 
+ 2022 2023 2024 2025 2026 and thereafter Total future minimum lease payments (1) Less: Interest (2) Present value of lease liabilities (2) 
+ (1) Total future minimum lease payments exclude variable lease costs of million and short-term lease costs of million. This also does not include minimum lease payments for executed and legally enforceable leases that have not yet commenced. As of August 31, 2021, the minimum lease payments for these leases that have not yet commenced were immaterial. 
+ (2) The Company's leases do not include a readily determinable implicit rate. As such, the Company has estimated the discount rate for these leases to determine the present value of lease payments at the lease commencement date or as of December 1, 2019, which was the effective date of ASU 2016-02. As of August 31, 2021, the weighted average remaining lease term and weighted average discount rate used in calculating the lease liabilities were years and , respectively. The Company recognized the lease liabilities on its condensed consolidated balance sheets within accounts payable or other liabilities of the respective segments. 
+ Payment on lease liabilities 
+ On occasion, the Company may sublease rented space which is no longer used for the Company's operations. For both the nine months ended August 31, 2021 and 2020, the Company had an immaterial amount of sublease income. 
+ 25 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our unaudited condensed consolidated financial statements and accompanying notes included under Item 1 of this Report and our audited consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K, for our fiscal year ended November 30, 2020. 
+ 
+ Some of the statements in this Management s Discussion and Analysis of Financial Condition and Results of Operations, and elsewhere in this Quarterly Report on Form 10-Q, are "forward-looking statements," within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements typically include the words anticipate, believe, consider, estimate, expect, forecast, intend, objective, plan, predict, projection, seek, strategy, target, will or other words of similar meaning. Forward-looking statements contained herein may include opinions or beliefs regarding market conditions and similar matters. In many instances, those opinions and beliefs are based upon general observations by members of our management, anecdotal evidence and our experience in the conduct of our businesses, without specific investigation or analyses. Therefore, while they reflect our view of the industries and markets in which we are involved, they should not be viewed as reflecting verifiable views or views that are necessarily shared by all who are involved in those industries or markets. These statements concern expectations, beliefs, projections, plans and strategies, anticipated events or trends and similar expressions concerning matters that are not historical facts. 
+ The forward-looking statements reflect our current views about future events and are subject to risks, uncertainties and assumptions. We wish to caution readers that certain important factors may have affected and could in the future affect our actual results and could cause actual results to differ significantly from what is anticipated by our forward-looking statements. The most important factors that could cause actual results to differ materially from those anticipated by our forward-looking statements include, but are not limited to: the potential negative impact to our business of the ongoing coronavirus COVID-19 pandemic, the duration, impact and severity of which is highly uncertain; continuation of supply shortages and increased costs related to construction materials and labor; cost increases related to real estate taxes and insurance; reduced availability of mortgage financing, increased interest rates and increased competition in the mortgage industry; reductions in the market value of our investments in public companies; an extended slowdown in the real estate markets across the nation, including a slowdown in either the market for single family homes or the multifamily rental market; our inability to successfully execute our strategies, including our land lighter strategy and our strategy to monetize non-core assets; changes in general economic and financial conditions that reduce demand for our products and services, lower our profit margins or reduce our access to credit; our inability to acquire land at anticipated prices; the possibility that we will incur nonrecurring costs that affect earnings in one or more reporting periods; decreased demand for our homes or Multifamily rental properties; increased competition for home sales from other sellers of new and resale homes; our inability to pay down debt; government actions or other factors that might force us to terminate our program of repurchasing our stock; a decline in the value of our land inventories and resulting write-downs of the carrying value of our real estate assets; the failure of the participants in various joint ventures to honor their commitments; difficulty obtaining land-use entitlements or construction financing; natural disasters and other unforeseen events for which our insurance does not provide adequate coverage; new laws or regulatory changes that adversely affect the profitability of our businesses; our inability to refinance our debt on terms that are as favorable as our current arrangements; and changes in accounting conventions that adversely affect our reported earnings. 
+ Please see our Form 10-K for the fiscal year ended November 30, 2020 and our other filings with the SEC for a further discussion of these and other risks and uncertainties which could affect our future results. We undertake no obligation, other than those imposed by securities laws, to publicly revise any forward-looking statements to reflect events or circumstances after the date of those statements or to reflect the occurrence of anticipated or unanticipated events. 
+ 26 
+
+Outlook 
+ The housing market remains strong. Demand has been strong while the supply of new and existing homes has remained constrained. New home construction cannot ramp up quickly enough to fill the void of the underproduction of homes for the past decade, and short supply is likely to remain for some time to come. The supply chain for both land and construction is significantly stressed. Given supply chain challenges, we believe the industry will not be able to quickly remedy the supply shortage with increased production. Accordingly, we expect the market to remain in its current imbalance for an extended period of time. We remain focused on orderly, targeted growth, with our sales pace tightly matched with our pace of production, which enables price appreciation to offset future cost escalations to maximize margins. Even though home prices have moved much higher, overall affordability remains strong as interest rates are still lower than they were a year ago. Personal savings for deposits are strong and wages seem to be rising faster than monthly payments. Millennials are moving out of their parents homes and forming families, while apartment dwellers are finding a first-time single-family home. 
+ The housing market is not only strong, but it is also going through some structural changes that will promote stability in the market, and extend housing benefits to the breadth of a diverse society. The iBuyer and single-family for rent participants are providing additional liquidity to the marketplace to purchase and sell homes, as they evolve and provide ever more frictionless transactions. They are also solving important industry problems that have needed solutions for a very long time. The iBuyers, led by Opendoor, are becoming more than just a home sale option. They are an ever more effective and instrumental convenience provider, as the coordination of a new home is being complicated by supply chain disruption. Additionally, the single-family for rent participants, including our Upward America Venture, are also providing more liquidity while making a single-family home lifestyle accessible to more families. The solution to higher home prices causing affordability issues is building more housing and making a growing portion of that housing stock available to more families to rent if they cannot yet meet the requirements for home ownership. Professional ownership of homes enables renters to access a single-family lifestyle while they build the credentials to own. Better housing for families produces better outcomes for families and the industry is rewiring to provide those solutions. 
+ The combined effects of this strong housing market along with structural changes, which we are in position to capitalize on through our strategic investments, puts Lennar in a position to continue to drive returns. We are focused on cash flow, debt reduction, stock buyback, land controlled versus owned, return on capital, and return on equity, and on innovative technologies. While we have been carefully managing our supply chain, the supply chain for both land and construction is significantly stressed. Accordingly, we expect our community count at the end of the 2021 fiscal year will be up only approximately 7 versus the 10 we previously guided. In addition, we expect our deliveries for the fourth quarter of 2021 will be approximately 18,000 versus the 19,000 to 21,000 we previously guided. We expect our gross margin to be about 28 and we expect our SG A to be about 6.7 for the fourth quarter, though these amounts will move up or down a bit depending on the number of homes delivered. Our return on equity stands now at 21.9 , which is an 800 basis point improvement over last year. We have remained focused on our optioned versus owned land strategy. We ended the third quarter with a 3.3 years supply of land owned, compared to a 3.8 years supply of land owned at the same time last year, and our homesites controlled percentage increased to 53 from 35 in the prior year. Among other things, this has enabled us to reduce debt, such that our third quarter homebuilding debt-to-total capital ratio improved to 21.2 , from 29.5 in the prior year. 
+ We have continued to work on the structural components and organization of our spin company. The new company will be configured as an independent and active asset management business that raises third-party capital to support ongoing business verticals. As previously noted, two of these verticals have already raised third-party capital, of which our subsidiaries are active asset managers. Our multifamily platform has approximately 9 billion of gross capital under management and is raising its third fund now. Our growing single family for rent platform currently manages approximately 1.25 billion of equity already raised. Both of these programs are neatly configured as independent, self-sustaining operations. Additionally, we have a dynamic and growing independent land and land management business that has been refined and we have a growing technology investment business, LEN X , that is performing exceptionally well. We are considering including them, or at least portions of our investments in them, in the spin-off. 
+ In spite of the miss of deliveries and the supply chain disruption that is affecting us and the industry, we believe we have never been better positioned financially, organizationally and technologically to thrive and grow in this evolving housing market demand. As we begin to look to 2022, we see continued strength in the market and double-digit growth in sales, starts, deliveries and community count for Lennar. The story remains that supply is short and demand is strong. Some are concerned that demand is slowing as prices move higher and interest rates move. It feels to us that sales are slowing because many sales were made early and the industry is building through those sales slower than expected. We believe that home production has been constrained for a decade and we are making up the deficit now, which should keep the housing market thriving for some time to come. 
+ 
+ 27 
+
+(1) Results of Operations 
+ Overview 
+ We historically have experienced, and expect to continue to experience, variability in quarterly results. Our results of operations for the three and nine months ended August 31, 2021 are not necessarily indicative of the results to be expected for the full year. Our homebuilding business is seasonal in nature and generally reflects higher levels of new home order activity in our second and third fiscal quarters and increased deliveries in the second half of our fiscal year. However, a variety of factors can alter seasonal patterns. 
+ Our net earnings attributable to Lennar were 1.4 billion, or 4.52 per diluted share 4.52 per basic share), in the third quarter of 2021, compared to net earnings attributable to Lennar of 666.4 million, or 2.12 per diluted share 2.13 per basic share), in the third quarter of 2020. Our net earnings attributable to Lennar were 3.2 billion, or 10.36 per diluted share 10.37 per basic share), in the nine months ended August 31, 2021, compared to net earnings attributable to Lennar of 1.6 billion, or 5.03 per diluted share 5.05 per basic share), in the nine months ended August 31, 2020. 
+ Financial information relating to our operations was as follows: 
+ Three Months Ended August 31, 2021 (In thousands) Homebuilding Financial Services Multifamily Lennar Other Corporate Total Revenues: Sales of homes 6,505,708 6,505,708 Sales of land 45,055 45,055 Other revenues 7,746 206,973 167,921 8,000 390,640 Total revenues 6,558,509 206,973 167,921 8,000 6,941,403 Costs and expenses: Costs of homes sold 4,732,403 4,732,403 Costs of land sold 39,378 39,378 Selling, general and administrative expenses 453,716 453,716 Other costs and expenses 94,890 174,410 9,010 278,310 Total costs and expenses 5,225,497 94,890 174,410 9,010 5,503,807 Equity in earnings (loss) from unconsolidated entities, Multifamily other gain (loss) and Lennar Other other income (expense), net 2,391 (2,904) (2,220) (2,733) Other expense, net (5,570) (5,570) Lennar Other realized and unrealized gain 495,202 495,202 Operating earnings (loss) 1,329,833 112,083 (9,393) 491,972 1,924,495 Corporate general and administrative expenses 94,942 94,942 Charitable foundation contribution 15,199 15,199 Earnings (loss) before income taxes 1,329,833 112,083 (9,393) 491,972 (110,141) 1,814,354 
+ 28 
+
+Three Months Ended August 31, 2020 (In thousands) Homebuilding Financial Services Multifamily Lennar Other Corporate Total Revenues: Sales of homes 5,467,364 5,467,364 Sales of land 34,323 34,323 Other revenues 3,433 237,068 115,170 12,896 368,567 Total revenues 5,505,120 237,068 115,170 12,896 5,870,254 Costs and expenses: Costs of homes sold 4,204,814 4,204,814 Costs of land sold 32,395 32,395 Selling, general and administrative expenses 435,949 435,949 Other costs and expenses 101,989 118,786 2,062 222,837 Total costs and expenses 4,673,158 101,989 118,786 2,062 4,895,995 Equity in loss from unconsolidated entities (6,431) (1,532) (2,835) (10,798) Other expense, net (11,787) (11,787) Operating earnings (loss) 813,744 135,079 (5,148) 7,999 951,674 Corporate general and administrative expenses 85,998 85,998 Charitable foundation contribution 6,663 6,663 Earnings (loss) before income taxes 813,744 135,079 (5,148) 7,999 (92,661) 859,013 
+ 
+ Nine Months Ended August 31, 2021 (In thousands) Homebuilding Financial Services Multifamily Lennar Other Corporate and unallocated Total Revenues: Sales of homes 17,377,353 17,377,353 Sales of land 131,483 131,483 Other revenues 20,770 669,789 476,837 20,884 1,188,280 Total revenues 17,529,606 669,789 476,837 20,884 18,697,116 Costs and expenses: Costs of homes sold 12,820,638 12,820,638 Costs of land sold 113,545 113,545 Selling, general and administrative expenses 1,319,116 1,319,116 Other costs and expenses 290,179 474,389 18,994 783,562 Total costs and expenses 14,253,299 290,179 474,389 18,994 15,036,861 Equity in earnings (loss) from unconsolidated entities and Multifamily other gain (loss) and Lennar Other other income (expense), net (3,862) 9,682 59,954 65,774 Other income, net 3,043 3,043 Lennar Other realized and unrealized gain 847,377 847,377 Operating earnings 3,275,488 379,610 12,130 909,221 4,576,449 Corporate general and administrative expenses 296,190 296,190 Charitable foundation contribution 42,006 42,006 Earnings (loss) before income taxes 3,275,488 379,610 12,130 909,221 (338,196) 4,238,253 
+ 29 
+
+Nine Months Ended August 31, 2020 (In thousands) Homebuilding Financial Services Multifamily Lennar Other Corporate and unallocated Total Revenues: Sales of homes 14,533,212 14,533,212 Sales of land 81,023 81,023 Other revenues 12,485 631,992 370,904 33,348 1,048,729 Total revenues 14,626,720 631,992 370,904 33,348 15,662,964 Costs and expenses: Costs of homes sold 11,359,364 11,359,364 Costs of land sold 102,899 102,899 Selling, general and administrative expenses 1,222,032 1,222,032 Other costs and expenses 363,688 379,607 3,564 746,859 Total costs and expenses 12,684,295 363,688 379,607 3,564 13,431,154 Equity in earnings (loss) from unconsolidated entities and Multifamily other gain (20,077) 4,702 (28,712) (44,087) Financial Services gain on deconsolidation 61,418 61,418 Other expense, net (16,845) (10,195) (27,040) Operating earnings (loss) 1,905,503 329,722 (4,001) (9,123) 2,222,101 Corporate general and administrative expenses 246,815 246,815 Charitable foundation contribution 16,144 16,144 Earnings (loss) before income taxes 1,905,503 329,722 (4,001) (9,123) (262,959) 1,959,142 
+ Three Months Ended August 31, 2021 versus Three Months Ended August 31, 2020 
+ Revenues from home sales increased 19 in the third quarter of 2021 to 6.5 billion from 5.5 billion in the third quarter of 2020. Revenues were higher primarily due to a 10 increase in the number of home deliveries and an 8 increase in the average sales price. New home deliveries increased to 15,199 homes in the third quarter of 2021 from 13,842 homes in the third quarter of 2020. The average sales price of homes delivered was 428,000 in the third quarter of 2021, compared to 396,000 in the third quarter of 2020. 
+ Gross margin on home sales were 1.8 billion, or 27.3 , in the third quarter of 2021, compared to 1.3 billion, or 23.1 , in the third quarter of 2020. The gross margin percentage on home sales increased primarily as a result of price appreciation as the increase in revenue per square foot outpaced the increase in cost per square foot. 
+ Selling, general and administrative expenses were 453.7 million in the third quarter of 2021, compared to 435.9 million in the third quarter of 2020. As a percentage of revenues from home sales, selling, general and administrative expenses improved to 7.0 in the third quarter of 2021, from 8.0 in the third quarter of 2020. This was the lowest percentage for a quarter in our history primarily due to a decrease in broker commissions and benefits of our technology efforts. 
+ Operating earnings for our Financial Services segment were 111.9 million in the third quarter of 2021, compared to 135.1 million in the third quarter of 2020. The decrease in operating earnings was primarily due to lower mortgage net margins driven by an increase in competition. This was partially offset by an increase in title operating earnings due to higher volume and an increase in profit per transaction derived from technology initiatives. 
+ Operating loss for our Multifamily segment was 9.4 million in the third quarter of 2021, compared to 5.1 million in the third quarter of 2020. Operating earnings for our Lennar Other segment was 492.0 million in the third quarter of 2021, compared to 8.0 million in the third quarter of 2020. In the third quarter of 2021, we recorded mark to market gains on our investments in newly public companies (Hippo, SmartRent and Blend) of 433 million and on our current investments (Opendoor and Sunnova) of 61 million. 
+ Nine Months Ended August 31, 2021 versus Nine Months Ended August 31, 2020 
+ Revenues from home sales increased 20 in the nine months ended August 31, 2021 to 17.4 billion from 14.5 billion in the nine months ended August 31, 2020. Revenues were higher primarily due to a 14 increase in the number of home deliveries and a 5 increase in the average sales price. New home deliveries increased to 42,006 homes in the nine months ended August 31, 2021 from 36,835 homes in the nine months ended August 31, 2020. The average sales price of homes 
+ 30 
+
+delivered was 414,000 in the nine months ended August 31, 2021, compared to 395,000 in the nine months ended August 31, 2020. 
+ Gross margin on home sales were 4.6 billion, or 26.2 , in the nine months ended August 31, 2021, compared to 3.2 billion or 21.8 , in the nine months ended August 31, 2020. The gross margin percentage on home sales increased primarily as a result of price appreciation as the increase in revenue per square foot outpaced the increase in cost per square foot. Gross margin on land sales in the nine months ended August 31, 2021 was 17.9 million, compared to a loss of 21.9 million in the nine months ended August 31, 2020. The loss in the nine months ended August 31, 2020 was primarily due to a write-off of costs in the second quarter of 2020 as a result of Lennar not moving forward with a naval base development in Concord, California, northeast of San Francisco. 
+ Selling, general and administrative expenses were 1.3 billion in the nine months ended August 31, 2021, compared to 1.2 billion in the nine months ended August 31, 2020. As a percentage of revenues from home sales, selling, general and administrative expenses improved to 7.6 in the nine months ended August 31, 2021, from 8.4 in the nine months ended August 31, 2020. The improvement was primarily due to a decrease in broker commissions and benefits of our technology efforts. 
+ Operating earnings for our Financial Services segment were 379.3 million in the nine months ended August 31, 2021, compared to 343.8 million in the nine months ended August 31, 2020 (which included 329.7 million operating earnings and an add back of 14.1 million net loss attributable to noncontrolling interests). The nine months ended August 31, 2020 included a 61.4 million gain on the deconsolidation of a previously consolidated entity. Excluding this gain, the improvement in operating earnings was primarily due to an increase in volume and margin in the mortgage and title businesses. 
+ Operating earnings for our Multifamily segment were 12.1 million in the nine months ended August 31, 2021, compared to an operating loss of 4.0 million in the nine months ended August 31, 2020. Operating earnings for our Lennar Other segment were 909.2 million in the nine months ended August 31, 2021, compared to an operating loss of 9.1 million in the nine months ended August 31, 2020. The operating earnings for the nine months ended August 31, 2021 was primarily due to mark to market gains on strategic investments that went public during the nine months ended August 31, 2021 (Opendoor, Hippo, SmartRent and Blend) and the sale of our solar business to Sunnova. 
+ 
+ Homebuilding Segments 
+ At August 31, 2021, our reportable Homebuilding segments and Homebuilding Other are outlined in Note 2 of the Notes to Condensed Consolidated Financial Statements. The following tables set forth selected financial and operational information related to our homebuilding operations for the periods indicated: 
+ Selected Financial and Operational Data Three Months Ended August 31, 2021 Gross Margins Operating Earnings (Loss) in thousands) Sales of Homes Revenue Costs of Sales of Homes Gross Margin Net Margins on Sales of Homes (1) Gross Margins on Sales of Land Other Revenue Equity in Earnings (Loss) from Unconsolidated Entities Other Income (Expense), net Operating Earnings (Loss) East 1,655,301 1,174,592 29.0 350,305 3,147 1,867 3,493 (1,917) 356,895 Central 1,262,540 974,843 22.8 196,103 95 589 526 (84) 197,229 Texas 818,869 570,228 30.4 184,267 1,835 365 7 (466) 186,008 West 2,764,857 2,004,108 27.5 603,721 600 1,600 4,263 (1,369) 608,815 Other (2) 4,141 8,632 (108.5) (14,807) 3,325 (5,898) (1,734) (19,114) Totals 
+ 6,505,708 4,732,403 27.3 1,319,589 5,677 7,746 2,391 (5,570) 1,329,833 Three Months Ended August 31, 2020 Gross Margins Operating Earnings (Loss) in thousands) Sales of Homes Revenue Costs of Sales of Homes Gross Margin Net Margins on Sales of Homes (1) Gross Margins (Loss) on Sales of Land Other Revenue Equity in Earnings (Loss) from Unconsolidated Entities Other Income (Expense), net Operating Earnings (Loss) East 1,477,273 1,112,035 24.7 241,904 (103) 638 897 853 244,189 Central 1,062,799 842,764 20.7 134,395 (57) 1,341 70 (3,071) 132,678 Texas 719,467 538,480 25.2 114,954 2,016 203 242 (1,304) 116,111 West 2,205,235 1,706,530 22.6 343,353 72 1,145 48 (1,784) 342,834 Other (2) 2,590 5,005 (93.2) (8,005) 106 (7,688) (6,481) (22,068) Totals 
+ 5,467,364 4,204,814 23.1 826,601 1,928 3,433 (6,431) (11,787) 813,744 Nine Months Ended August 31, 2021 Gross Margins Operating Earnings (Loss) (In thousands) Sales of Homes Revenue Costs of Sales of Homes Gross Margin Net Margins on Sales of Homes (1) Gross Margins on Sales of Land Other Revenue Equity in Earnings (Loss) from Unconsolidated Entities Other Income (Expense), net Operating Earnings (Loss) East 4,553,941 3,278,463 28.0 899,817 9,558 5,053 2,942 11,435 928,805 Central 3,282,168 2,534,816 22.8 485,631 846 1,573 941 (691) 488,300 Texas 2,245,671 1,572,494 30.0 487,231 4,706 1,185 548 (1,962) 491,708 West 7,284,928 5,404,983 25.8 1,412,934 2,828 3,961 4,304 (695) 1,423,332 Other (2) 10,645 29,882 (180.7) (48,014) 8,998 (12,597) (5,044) (56,657) Totals 
+ 17,377,353 12,820,638 26.2 3,237,599 17,938 20,770 (3,862) 3,043 3,275,488 Nine Months Ended August 31, 2020 Gross Margins Operating Earnings (Loss) (In thousands) Sales of Homes Revenue Costs of Sales of Homes Gross Margin Net Margins on Sales of Homes (1) Gross Margins on Sales of Land Other Revenue Equity in Earnings (Loss) from Unconsolidated Entities Other Income (Expense), net Operating Earnings (Loss) East 3,904,268 2,971,929 23.9 581,923 (1,681) 3,913 1,474 475 586,104 Central 2,833,745 2,300,783 18.8 291,672 (703) 2,209 642 (1,789) 292,031 Texas 1,877,374 1,428,758 23.9 266,647 5,213 970 446 (4,205) 269,071 West 5,894,183 4,619,334 21.6 841,369 (1,267) 4,873 3,948 (1,088) 847,835 Other (2) 23,642 38,560 (63.1) (29,795) (23,438) 520 (26,587) (10,238) (89,538) Totals 
+ 14,533,212 11,359,364 21.8 1,951,816 (21,876) 12,485 (20,077) (16,845) 1,905,503 
+ (1) Net margins on sales of homes include selling, general and administrative expenses. 
+ (2) Negative gross and net margins were due to period costs and impairments in Urban divisions that impact costs of homes sold without sufficient sales of homes revenue to offset those costs. 
+ Summary of Homebuilding Data 
+ Deliveries: 
+ Three Months Ended Homes Dollar Value (In thousands) 
+ Average Sales Price August 31, August 31, August 31, 2021 2020 2021 2020 2021 2020 East 4,568 4,309 1,660,357 1,488,022 363,000 345,000 Central 3,211 2,767 1,262,540 1,062,799 393,000 384,000 Texas 2,747 2,598 818,869 719,467 298,000 277,000 West 4,669 4,165 2,764,856 2,205,235 592,000 529,000 Other 4 3 4,141 2,590 1,035,000 863,000 Total 15,199 13,842 6,510,763 5,478,113 428,000 396,000 
+ Of the total homes delivered listed above, 15 homes with a dollar value of 5.1 million and an average sales price of 337,000 represent home deliveries from unconsolidated entities for the three months ended August 31, 2021, compared to 33 home deliveries with a dollar value of 10.7 million and an average sales price of 326,000 for the three months ended August 31, 2020. 
+ Nine Months Ended Homes Dollar Value (In thousands) 
+ Average Sales Price August 31, August 31, August 31, 2021 2020 2021 2020 2021 2020 East 12,968 11,511 4,572,592 3,924,289 353,000 341,000 Central 8,391 7,389 3,282,168 2,833,745 391,000 384,000 Texas 7,843 6,637 2,245,671 1,877,374 286,000 283,000 West 12,793 11,273 7,284,927 5,894,183 569,000 523,000 Other 11 25 10,645 23,642 968,000 946,000 Total 42,006 36,835 17,396,003 14,553,233 414,000 395,000 
+ Of the total homes delivered listed above, 58 homes with a dollar value of 18.7 million and an average sales price of 322,000 represent home deliveries from unconsolidated entities for the nine months ended August 31, 2021, compared to 60 home deliveries with a dollar value of 20.0 million and an average sales price of 334,000 for the nine months ended August 31, 2020. 
+ 31 
+
+New Orders (1): 
+ Three Months Ended Active Communities Homes Dollar Value (In thousands) 
+ Average Sales Price August 31, August 31, August 31, August 31, 2021 2020 2021 2020 2021 2020 2021 2020 East 329 340 5,308 4,655 2,100,466 1,631,349 396,000 350,000 Central 281 297 3,189 3,375 1,352,814 1,298,792 424,000 385,000 Texas 233 217 3,203 2,746 988,644 743,553 309,000 271,000 West 350 341 4,571 4,786 3,006,501 2,580,328 658,000 539,000 Other 3 3 6 2 5,974 1,452 996,000 726,000 Total 1,196 1,198 16,277 15,564 7,454,399 6,255,474 458,000 402,000 
+ Of the total homes listed above, 35 homes with a dollar value of 13.1 million and an average sales price of 375,000 represent homes in four active communities from unconsolidated entities for the three months ended August 31, 2021, compared to 34 homes with a dollar value of 9.7 million and an average sales price of 286,000 in four active communities for the three months ended August 31, 2020. 
+ (1) Homes represent the number of new sales contracts executed with homebuyers, net of cancellations, during the three and nine months ended August 31, 2021 and August 31, 2020. 
+ Nine Months Ended Homes Dollar Value (In thousands) 
+ Average Sales Price August 31, August 31, August 31, 2021 2020 2021 2020 2021 2020 East 15,473 12,512 5,788,506 4,266,221 374,000 341,000 Central 9,931 8,741 4,086,170 3,341,959 411,000 382,000 Texas 9,228 7,327 2,800,826 1,986,770 304,000 271,000 West 14,358 12,359 8,871,465 6,508,509 618,000 527,000 Other 14 16 14,095 15,189 1,007,000 949,000 Total 49,004 40,955 21,561,062 16,118,648 440,000 394,000 
+ Of the total homes listed above, 102 homes with a dollar value of 36.7 million and an average sales price of 359,000 represent homes from unconsolidated entities for the nine months ended August 31, 2021, compared to 85 homes with a dollar value of 26.8 million and an average sales price of 316,000 for the nine months ended August 31, 2020. 
+ Backlog: At Homes Dollar Value (In thousands) 
+ Average Sales Price August 31, August 31, August 31, 2021 2020 2021 2020 2021 2020 East 8,518 6,691 3,526,849 2,368,300 414,000 354,000 Central 5,911 4,502 2,566,174 1,752,180 434,000 389,000 Texas 4,208 2,860 1,379,740 822,734 328,000 288,000 West 7,177 5,644 4,499,969 2,922,743 627,000 518,000 Other 5 5,298 1,060,000 Total 25,819 19,697 11,978,030 7,865,957 464,000 399,000 
+ Of the total homes in backlog listed above, 82 homes with a backlog dollar value of 29.5 million and an average sales price of 359,000 represent the backlog from unconsolidated entities at August 31, 2021, compared to 56 homes with a backlog dollar value of 17.0 million and an average sales price of 303,000 at August 31, 2020. 
+ Backlog represents the number of homes under sales contracts. Homes are sold using sales contracts, which are generally accompanied by sales deposits. In some instances, purchasers are permitted to cancel sales if they fail to qualify for financing or under certain other circumstances. Various state and federal laws and regulations may sometimes give purchasers a right to cancel homes in backlog. We do not recognize revenue on homes under sales contracts until the sales are closed and title passes to the new homeowners. 
+ Three Months Ended August 31, 2021 versus Three Months Ended August 31, 2020 
+ Homebuilding East: Revenues from home sales increased in the third quarter of 2021 compared to the third quarter of 2020, primarily due to an increase in the number of home deliveries in all the states of the segment except in Pennsylvania and an increase in the average sales price of homes delivered in all the states of the segment except in New Jersey. The increase in the number of home deliveries was primarily due to higher demand as the number of deliveries per active community increased. The decrease in the number of home deliveries in Pennsylvania was primarily due to a decrease in the number of communities due to the timing of opening and closing of communities. The increase in the average sales price of homes delivered was 
+ 32 
+
+primarily due to favorable market conditions. The decrease in the average sales price of homes delivered in New Jersey was primarily driven by a change in product mix due to a higher percentage of deliveries in lower-priced communities. Gross margin percentage on home deliveries in the third quarter of 2021 increased compared to the same period last year primarily due to price appreciation as the increase in revenue per square foot of homes delivered outpaced the increase in cost per square foot. 
+ Homebuilding Central: Revenues from home sales increased in the third quarter of 2021 compared to the third quarter of 2020, primarily due to an increase in the number of home deliveries in all the states of the segment except in Minnesota, and an increase in the average sales price of homes delivered in all the states of the segment except in Virginia and Tennessee. The increase in the number of home deliveries was primarily due to higher demand as the number of deliveries per active community increased. The decrease in the number of home deliveries in Minnesota was primarily due to a decrease in the number of communities due to the timing of opening and closing of communities. The increase in the average sales price of homes delivered was primarily due to favorable market conditions. The decrease in the average sales price of homes delivered in Virginia and Tennessee was primarily driven by a change in product mix due to a higher percentage of deliveries in lower-priced communities. Gross margin percentage on home deliveries in the third quarter of 2021 increased compared to the same period last year primarily due to price appreciation as the increase in revenue per square foot of homes delivered outpaced the increase in cost per square foot. 
+ Homebuilding Texas: Revenues from home sales increased in the third quarter of 2021 compared to the third quarter of 2020, primarily due to an increase in the number of home deliveries and an increase in the average sales price of homes delivered. The increase in the number of deliveries was primarily due to higher demand as the number of deliveries per active community increased. The increase in the average sales price of homes delivered was primarily due to favorable market conditions. Gross margin percentage on home deliveries in the third quarter of 2021 increased compared to the same period last year primarily due to price appreciation as the increase in revenue per square foot of homes delivered outpaced the increase in cost per square foot. 
+ Homebuilding West: Revenues from home sales increased in the third quarter of 2021 compared to the third quarter of 2020, primarily due to an increase in the number of home deliveries in all the states of the segment except in Colorado and Oregon and an increase in the average sales price of homes delivered in all the states of the segment. The increase in the number of home deliveries was primarily due to higher demand as the number of deliveries per active community increased during the quarter. The decrease in the number of home deliveries in Colorado and Oregon was primarily due to a decrease in the number of deliveries per active community due to the timing of opening and closing of communities. The increase in the average sales price of homes delivered was primarily due to favorable market conditions. Gross margin percentage on home deliveries in the third quarter of 2021 increased compared to the same period last year primarily due to price appreciation as the increase in revenue per square foot of homes delivered outpaced the increase in cost per square foot. 
+ Nine Months Ended August 31, 2021 versus Nine Months Ended August 31, 2020 
+ Homebuilding East: Revenues from home sales increased in the nine months ended August 31, 2021 compared to the nine months ended August 31, 2020, primarily due to an increase in the number of home deliveries in all the states of the segment except in Pennsylvania and an increase in the average sales price of homes delivered in all the states of the segment except in New Jersey. The increase in the number of home deliveries was primarily due to higher demand as the number of deliveries per active community increased. The decrease in the number of home deliveries in Pennsylvania was primarily due to a decrease in the number of communities due to the timing of opening and closing of communities. The increase in the average sales price of homes delivered was primarily due to favorable market conditions. The decrease in the average sales price of homes delivered in New Jersey was primarily driven by a change in product mix due to a higher percentage of deliveries in lower-priced communities. Gross margin percentage on home deliveries in the nine months ended August 31, 2021 increased compared to the same period last year primarily due to price appreciation as the increase in revenue per square foot of homes delivered outpaced the increase in cost per square foot. 
+ Homebuilding Central: Revenues from home sales increased in the nine months ended August 31, 2021 compared to the nine months ended August 31, 2020, primarily due to an increase in the number of home deliveries in all the states of the segment except in Virginia, and an increase in the average sales price of homes delivered in all the states of the segment except in Virginia and Tennessee. The increase in the number of home deliveries was primarily due to higher demand as the number of deliveries per active community increased. The decrease in the number of home deliveries in Virginia was primarily due to a decrease in the number of communities due to the timing of opening and closing of communities. The increase in the average sales price of homes delivered was primarily due to favorable market conditions. The decrease in the average sales price of homes delivered in Virginia and Tennessee was primarily driven by a change in product mix due to a higher percentage of deliveries in lower-priced communities. Gross margin percentage on home deliveries in the nine months ended August 31, 2021 increased compared to the same period last year primarily due to price appreciation as the increase in revenue per square foot of homes delivered outpaced the increase in cost per square foot. 
+ 33 
+
+Homebuilding Texas: Revenues from home sales increased in the nine months ended August 31, 2021 compared to the nine months ended August 31, 2020, primarily due to an increase in the number of home deliveries and an increase in the average sales price of homes delivered. The increase in the number of deliveries was primarily due to higher demand as the number of deliveries per active community increased. The increase in average sales price of homes delivered was primarily due to favorable market conditions. Gross margin percentage on home deliveries in the nine months ended August 31, 2021 increased compared to the same period last year primarily due to price appreciation as the increase in revenue per square foot of homes delivered outpaced the increase in cost per square foot. 
+ Homebuilding West: Revenues from home sales increased in the nine months ended August 31, 2021 compared to the nine months ended August 31, 2020, primarily due to an increase in the number of home deliveries in all states of the segment except in Colorado and an increase in the average sales price of homes delivered in all the states of the segment. The increase in the number of home deliveries in all states of the segment was primarily due to higher demand as the number of deliveries per active community increased during the quarter. The increase in the average sales price of homes delivered was primarily due to favorable market conditions. Gross margin percentage on home deliveries in the nine months ended August 31, 2021 increased compared to the same period last year primarily due to price appreciation as the increase in revenue per square foot of homes delivered outpaced the increase in cost per square foot. 
+ Financial Services Segment 
+ Our Financial Services reportable segment provides mortgage financing, title and closing services primarily for buyers of our homes. The segment also originates and sells into securitizations commercial mortgage loans through its LMF Commercial business. Our Financial Services segment sells substantially all of the residential loans it originates within a short period in the secondary mortgage market, the majority of which are sold on a servicing released, non-recourse basis. After the loans are sold, we retain potential liability for possible claims by purchasers that we breached certain limited industry-standard representations and warranties in the loan sale agreements. 
+ The following table sets forth selected financial and operational information related to the residential mortgage and title activities of our Financial Services segment: Three Months Ended Nine Months Ended August 31, August 31, (Dollars in thousands) 2021 2020 2021 2020 Dollar value of mortgages originated 3,281,000 3,529,000 9,228,000 9,007,000 Number of mortgages originated 9,400 10,800 27,300 27,800 Mortgage capture rate of Lennar homebuyers 73 82 75 80 Number of title and closing service transactions 16,900 16,400 49,000 42,000 
+ At August 31, 2021 and November 30, 2020, the carrying value of Financial Services' commercial mortgage-backed securities ("CMBS") was 161.5 million and 164.2 million, respectively. Details of these securities and related debt are within Note 2 of the Notes to Condensed Consolidated Financial Statements. 
+ 
+ Multifamily Segment 
+ We have been actively involved, primarily through unconsolidated entities, in the development, construction and property management of multifamily rental properties. Our Multifamily segment focuses on developing a geographically diversified portfolio of institutional quality multifamily rental properties in select U.S. markets. 
+ Originally, our Multifamily segment focused on building multifamily properties and selling them shortly after they were completed. However, more recently we have focused on creating and participating in ventures that build multifamily properties with the intention of retaining them after they are completed. 
+ 34 
+
+The following tables provide information related to our investment in the Multifamily segment: 
+ Balance Sheets (In thousands) August 31, 2021 November 30, 2020 Multifamily investments in unconsolidated entities 682,819 724,647 Lennar's net investment in Multifamily 950,636 906,632 
+ Statements of Operations Three Months Ended Nine Months Ended August 31, August 31, (Dollars in thousands) 2021 2020 2021 2020 Number of operating properties/investments sold through joint ventures 1 2 Lennar's share of gains on the sale of operating properties/investments 14,784 3,001 
+ Lennar Other Segment 
+ At August 31, 2021 and November 30, 2020, we had 1.7 billion and 521.7 million, respectively, of assets in our Lennar Other segment, which included investments in unconsolidated entities of 387.5 million and 387.1 million, respectively. The increase in assets during the nine months ended August 31, 2021 was due to an increase in the value of our strategic technology investments, primarily managed by our LEN X subsidiary. This increase was largely related to our strategic investments in Hippo, SmartRent, Opendoor and Sunnova. During the nine months ended August 31, 2021, we completed the sale of our residential solar business to Sunnova for shares in the entity. The following is a detail of Lennar Other realized and unrealized gain (loss): 
+ Three Months Ended Nine Months Ended August 31, August 31, (In thousands) 2021 2020 2021 2020 Hippo (HIPO) mark to market 324,855 324,855 SmartRent (SMRT) mark to market 100,793 100,793 Opendoor (OPEN) mark to market 37,301 272,756 Sunnova (NOVA) mark to market 23,870 (14,465) Blend Labs (BLND) mark to market 6,852 6,852 Gain on sale of solar business 1,531 153,006 Other realized gain 3,580 495,202 847,377 
+ 
+ (2) Financial Condition and Capital Resources 
+ At August 31, 2021, we had cash and cash equivalents and restricted cash related to our homebuilding, financial services, multifamily and other operations of 2.8 billion, compared to 2.9 billion at November 30, 2020 and 2.2 billion at August 31, 2020. 
+ We finance all of our activities, including homebuilding, financial services, multifamily, other and general operating needs, primarily with cash generated from our operations, debt issuances and cash borrowed under our warehouse lines of credit and our unsecured revolving credit facility (the "Credit Facility"). 
+ Operating Cash Flow Activities 
+ During the nine months ended August 31, 2021 and 2020, cash provided by operating activities totaled 1.3 billion and 2.9 billion, respectively. During the nine months ended August 31, 2021, cash provided by operating activities was impacted primarily by our net earnings, net of Lennar Other unrealized/realized gain of 847.4 million primarily due to mark to market gains on strategic investments that went public during the nine months ended August 31, 2021, (Opendoor, Sunnova, Hippo, SmartRent and Blend) and the sale of our solar business to Sunnova. In addition there was a decrease in loans held-for-sale of 209.3 million primarily related to the sale of loans originated by our Financial Services segment, an increase in accounts payable and other liabilities of 514.0 million, and a decrease in receivables of 131.3 million, partially offset by an increase in inventories due to strategic land purchases, land development and construction costs of 2.3 billion. 
+ During the nine months ended August 31, 2020, cash provided by operating activities was impacted primarily by our net earnings, a decrease in loans held-for-sale of 557.8 million primarily related to the sale of loans originated by Financial Services, a decrease in receivables of 264.6 million and an increase in accounts payable and other liabilities of 165.6 million, partially offset by an increase in other assets of 124.6 million. 
+ 35 
+
+Investing Cash Flow Activities 
+ During the nine months ended August 31, 2021 and 2020, cash used in investing activities totaled 131.2 million and 267.5 million, respectively. During the nine months ended August 31, 2021, our cash used in investing activities was primarily due to cash contributions of 354.6 million to unconsolidated entities, which included (1) 164.0 million to Homebuilding unconsolidated entities, (2) 66.8 million to Multifamily unconsolidated entities, and (3) 123.8 million to the strategic technology investments included in the Lennar Other segment. This was partially offset by distributions of capital from unconsolidated entities of 292.5 million, which primarily included (1) 159.3 million from Homebuilding unconsolidated entities, (2) 107.2 million from Multifamily unconsolidated entities, and (3) 26.0 million from the unconsolidated Rialto real estate funds included in our Lennar Other segment. 
+ During the nine months ended August 31, 2020, our cash used in investing activities was primarily due to cash contributions of 412.5 million to unconsolidated entities and deconsolidation of a previously consolidated entity, which included (1) 86.9 million to Homebuilding unconsolidated entities, (2) 122.7 million to Multifamily unconsolidated entities, (3) 50.3 million to the strategic technology investments included in the Lennar Other segment; and (4) the derecognition of 152.5 million of cash as of the date of deconsolidation of a previously consolidated Financial Services entity. This was partially offset by distributions of capital from unconsolidated entities of 135.7 million, which primarily included (1) 58.3 million from Homebuilding unconsolidated entities, (2) 39.1 million from the unconsolidated Rialto real estate funds included in our Lennar Other segment; and (3) 38.3 million from Multifamily unconsolidated entities. 
+ Financing Cash Flow Activities 
+ During the nine months ended August 31, 2021 and 2020, cash used in financing activities totaled 1.3 billion and 1.9 billion, respectively. During the nine months ended August 31, 2021, cash used in financing activities was primarily impacted by (1) 357.5 million of net repayments under our Financial Services' warehouse facilities, which included the LMF Commercial warehouse repurchase facilities; (2) the redemption of 300.0 million aggregate principal amount of our senior notes; (3) 234.0 million of dividend payments; and (4) repurchases of our common stock for 452.5 million, which included 388.0 million of repurchases under our repurchase program and 64.6 million of repurchases related to our equity compensation plan. These were partially offset by 441.2 million of proceeds from liabilities related to consolidated inventory not owned due to land sales to land banks. 
+ During the nine months ended August 31, 2020, cash used in financing activities was primarily impacted by (1) 789.3 million of net repayments under our Financial Services' warehouse facilities, which included the LMF Commercial warehouse repurchase facilities; (2) 550.3 million of principal payments on notes payable and other borrowings; (3) the redemption of 313.0 million aggregate principal amount of our senior notes; and (4) repurchases of our common stock for 319.0 million, which included 288.5 million of repurchases under our repurchase program and 30.3 million of repurchases related to our equity compensation plan. These were partially offset by 175.6 million of receipts related to noncontrolling interests. 
+ Debt to total capital ratios are financial measures commonly used in the homebuilding industry and are presented to assist in understanding the leverage of our homebuilding operations. Homebuilding debt to total capital and net Homebuilding debt to total capital are calculated as follows: (Dollars in thousands) August 31, 2021 November 30, 2020 August 31, 2020 Homebuilding debt 5,542,513 5,955,758 7,180,274 Stockholders equity 20,650,188 17,994,856 17,172,103 Total capital 26,192,701 23,950,614 24,352,377 Homebuilding debt to total capital 21.2 24.9 29.5 Homebuilding debt 5,542,513 5,955,758 7,180,274 Less: Homebuilding cash and cash equivalents 2,623,320 2,703,986 1,966,796 Net Homebuilding debt 2,919,193 3,251,772 5,213,478 Net Homebuilding debt to total capital (1) 12.4 15.3 23.3 
+ (1) Net homebuilding debt to total capital is a non-GAAP financial measure defined as net homebuilding debt (homebuilding debt less homebuilding cash and cash equivalents) divided by total capital (net homebuilding debt plus stockholders' equity). We believe the ratio of net homebuilding debt to total capital is a relevant and a useful financial measure to investors in understanding the leverage employed in homebuilding operations. However, because net homebuilding debt to total capital is not calculated in accordance with GAAP, this financial measure should not be considered in isolation or as an alternative to financial measures prescribed by GAAP. Rather, this non-GAAP financial measure should be used to supplement our GAAP results. 
+ At August 31, 2021, Homebuilding debt to total capital was lower compared to November 30, 2020 and August 31, 2020, primarily as a result of a decrease in Homebuilding debt and an increase in stockholders' equity due to net earnings. 
+ 36 
+
+We are continually exploring various types of transactions to manage our leverage and liquidity positions, take advantage of market opportunities and increase our revenues and earnings. These transactions may include the issuance of additional indebtedness, the repurchase of our outstanding indebtedness, the repurchase of our common stock, the acquisition of homebuilders and other companies, the purchase or sale of assets or lines of business, the issuance of common stock or securities convertible into shares of common stock, and/or the pursuit of other financing alternatives. In connection with some of our non-homebuilding businesses, we are also considering other types of transactions such as sales, restructurings, joint ventures, spin-offs or initial public offerings as we continue to move back towards being a pure play homebuilding company. 
+ Our Homebuilding senior notes and other debts payable as well as letters of credit and surety bonds are summarized within Note 7 of the Notes to Condensed Consolidated Financial Statements. Our Homebuilding average debt outstanding and the average rates of interest was as follows: 
+ Nine Months Ended August 31, (Dollars in thousands) 2021 2020 Homebuilding average debt outstanding 5,848,865 7,896,372 Average interest rate 4.9 4.9 Interest incurred 210,575 272,347 
+ Subsequent to August 31, 2021, we provided notice that we would redeem on October 15, 2021 our 600 million 4.125 senior unsecured notes, which have a scheduled maturity of January 15, 2022. 
+ As of August 31, 2021, the maximum borrowings on our Credit Facility were 2.5 billion and included a 300 million accordion feature, subject to additional commitments, thus the maximum borrowings could be 2.8 billion maturing in 2024. The Credit Facility agreement (the "Credit Agreement") provides that up to 500 million in commitments may be used for letters of credit . Under the Credit Agreement, we are subject to debt covenants. The maturity, details and debt covenants of the Credit Facility are unchanged from the disclosure in the Financial Condition and Capital Resources section of our Form 10-K for the year ended November 30, 2020. The following summarizes our debt covenant requirements and our actual levels or ratios with respect to those covenants as calculated per the Credit Agreement as of August 31, 2021: (Dollars in thousands) Covenant Level Level Achieved as of August 31, 2021 Minimum net worth test 9,781,069 13,563,839 Maximum leverage ratio 65.0 17.0 Liquidity test 1.00 9.78 
+ Financial Services Warehouse Facilities 
+ Our Financial Services segment uses the residential facilities to finance its residential lending activities until the mortgage loans are sold to investors and the proceeds are collected. The facilities are non-recourse to us and are expected to be renewed or replaced with other facilities when they mature. The LMF Commercial facilities finance LMF Commercial loan origination and securitization activities and were secured by up to an 80 interest in the originated commercial loans financed. These facilities and the related borrowings and collateral are detailed in Note 2 of the Notes to Condensed Consolidated Financial Statements. 
+ Changes in Capital Structure 
+ In January 2021, our Board of Directors authorized the repurchase of up to the lesser of 1.0 billion in value, or 25 million in shares, of our outstanding Class A and Class B common stock. The repurchase authorization replaced a January 2019 authorization and has no expiration date. The details of our Class A and Class B common stock under this program for both the three and nine months ended August 31, 2021 and 2020 are included in Note 4 of the Notes to Condensed Consolidated Financial Statements. 
+ During the nine months ended August 31, 2021, treasury stock increased due to our repurchase of 4.8 million shares of Class A and Class B common stock due primarily to our repurchase of 4.0 million shares of Class A and Class B common stock through our stock repurchase program. During the nine months ended August 31, 2020, treasury stock increased due to our repurchase of 4.4 million shares of Class A and Class B common stock through our stock repurchase program. 
+ On September 29, 2021, our Board of Directors declared a quarterly cash dividend of 0.25 per share on both our Class A and Class B common stock, payable on October 28, 2021 to holders of record at the close of business on October 14, 2021. On July 19, 2021, we paid cash dividends of 0.25 per share on both our Class A and Class B common stock to holders of record at the close of business on July 2, 2021, as declared by our Board of Directors on June 18, 2021. We approved and paid cash dividends of 0.125 per share for each of the first three quarters of 2020 and 0.25 per share in the fourth quarter of 2020 and each of the first three quarters of 2021 on both our Class A and Class B common stock. 
+ 37 
+
+Based on our current financial condition and credit relationships, we believe that our operations and borrowing resources will provide for our current and long-term capital requirements at our anticipated levels of activity. 
+ 
+ Supplemental Financial Information 
+ Currently, substantially all of our 100 owned homebuilding subsidiaries are guaranteeing all our senior notes. The guarantees are full and unconditional. 
+ The indentures governing our senior notes require that, if any of our 100 owned subsidiaries, other than our finance company subsidiaries and foreign subsidiaries, directly or indirectly guarantee at least 75 million principal amount of debt of Lennar Corporation (other than senior notes), those subsidiaries must also guarantee Lennar Corporation s obligations with regard to its senior notes. Included in the following tables as part of Obligors together with Lennar Corporation are subsidiary entities that are not finance company subsidiaries or foreign subsidiaries and were guaranteeing the senior notes because at August 31, 2021 they were guaranteeing Lennar Corporation's letter of credit facilities and its Credit Facility, disclosed in Note 7 of the Notes to Condensed Consolidated Financial Statements. The guarantees are full, unconditional and joint and several and the guarantor subsidiaries are 100 directly or indirectly owned by Lennar Corporation. A subsidiary's guarantee of Lennar senior notes will be suspended at any time when it is not directly or indirectly guaranteeing at least 75 million principal amount of debt of Lennar Corporation (other than senior notes), and a subsidiary will be released from its guarantee and any other obligations it may have regarding the senior notes if all or substantially all its assets, or all of its capital stock, are sold or otherwise disposed. 
+ Supplemental information for the Obligors, which excludes non-guarantor subsidiaries and intercompany transactions, at August 31, 2021 is included in the following tables. Intercompany balances and transactions within the Obligors have been eliminated and amounts attributable to the Obligor s investment in consolidated subsidiaries that have not issued or guaranteed the senior notes have been excluded. Amounts due from and transactions with nonobligor subsidiaries and related parties are separately disclosed: 
+ (In thousands) August 31, 2021 November 30, 2020 Due from non-guarantor subsidiaries 4,154,085 2,655,503 Equity method investments 963,859 951,579 Total assets 31,009,452 27,695,067 Total liabilities 10,079,001 9,599,718 
+ Nine Months Ended (In thousands) August 31, 2021 Total revenues 17,650,640 Operating earnings 3,366,200 Earnings before income taxes 3,031,800 Net earnings attributable to Lennar 2,335,695 
+ 
+ Off-Balance Sheet Arrangements 
+ Homebuilding: Investments in Unconsolidated Entities 
+ As of August 31, 2021, we had equity investments in 40 active homebuilding and land unconsolidated entities (of which three had recourse debt, 11 had non-recourse debt and 26 had no debt) compared to 38 active homebuilding and land unconsolidated entities at November 30, 2020. Historically, we have invested in unconsolidated entities that acquired and developed land (1) for our homebuilding operations or for sale to third parties or (2) for the construction of homes for sale to third-party homebuyers. Through these entities, we have primarily sought to reduce and share our risk by limiting the amount of our capital invested in land, while obtaining access to potential future homesites and allowing us to participate in strategic ventures. The use of these entities also, in some instances, has enabled us to acquire land to which we could not otherwise obtain access, or could not obtain access on as favorable terms, without the participation of a strategic partner. Participants in these joint ventures have been land owners/developers, other homebuilders and financial or strategic partners. Joint ventures with land owners/developers have given us access to homesites owned or controlled by our partners. Joint ventures with other homebuilders have provided us with the ability to bid jointly with our partners for large land parcels. Joint ventures with financial partners have allowed us to combine our homebuilding expertise with access to our partners capital. Joint ventures with strategic partners have allowed us to combine our homebuilding expertise with the specific expertise (e.g. commercial or infill experience) of our partners. Each joint venture is governed by an executive committee consisting of members from the partners. Details regarding these investments, balances and debt are included in Note 3 of the Notes to Condensed Consolidated Financial Statements. 
+ 38 
+
+The following table summarizes the principal maturities of our Homebuilding unconsolidated entities ("JVs") debt as per current debt arrangements as of August 31, 2021 and it does not represent estimates of future cash payments that will be made to reduce debt balances. Many JV loans have extension options in the loan agreements that would allow the loans to be extended into future years. Principal Maturities of Unconsolidated JVs by Period (In thousands) Total JV Debt 2021 2022 2023 Thereafter Other Debt without recourse to Lennar 1,199,582 256,958 65,591 877,033 Land seller and CDD and other debt 5,837 5,837 Maximum recourse debt exposure to Lennar 3,599 3,599 Debt issuance costs (13,089) (13,089) Total 1,195,929 260,557 65,591 877,033 (7,252) 
+ Multifamily: Investments in Unconsolidated Entities 
+ At August 31, 2021, Multifamily had equity investments in 18 unconsolidated entities that are engaged in multifamily residential developments (of which 11 had non-recourse debt and seven had no debt), compared to 22 unconsolidated entities at November 30, 2020. We invest in unconsolidated entities that acquire and develop land to construct multifamily rental properties. Through these entities, we are focusing on developing a geographically diversified portfolio of institutional quality multifamily rental properties in select U.S. markets. Initially, we participated in building multifamily developments and selling them soon after they were completed. Recently, however, we have been focused on developing properties with the intention of retaining them. Participants in these joint ventures have been financial partners. Joint ventures with financial partners have allowed us to combine our development and construction expertise with access to our partners capital. Each joint venture is governed by an operating agreement that provides significant substantive participating voting rights on major decisions to our partners. 
+ The Multifamily segment includes LMV I and LMV II, which are long-term multifamily development investment vehicles involved in the development, construction and property management of class-A multifamily assets. Details of each as of and during the nine months ended August 31, 2021 are included in Note 3 of the Notes to Condensed Consolidated Financial Statements. 
+ We regularly monitor the results of both our Homebuilding and Multifamily unconsolidated joint ventures and any trends that may affect their future liquidity or results of operations. We also monitor the performance of joint ventures in which we have investments on a regular basis to assess compliance with debt covenants. For those joint ventures not in compliance with the debt covenants, we evaluate and assess possible impairment of our investment. We believe all of the joint ventures were in compliance with applicable debt covenants at August 31, 2021. 
+ The following table summarizes the principal maturities of our Multifamily unconsolidated entities debt as per current debt arrangements as of August 31, 2021 and it does not represent estimates of future cash payments that will be made to reduce debt balances. 
+ Principal Maturities of Unconsolidated JVs by Period (In thousands) Total JV Debt 2021 2022 2023 Thereafter Other Debt without recourse to Lennar 3,167,395 234,288 494,173 896,485 1,542,449 Debt issuance costs (24,839) (24,839) Total 3,142,556 234,288 494,173 896,485 1,542,449 (24,839) 
+ Lennar Other: Investments in Unconsolidated Entities 
+ As part of the sale of the Rialto investment and asset management platform, we retained our ability to receive a portion of payments with regard to carried interests if funds meet specified performance thresholds. We periodically receive advance distributions related to the carried interests in order to cover income tax obligations resulting from allocations of taxable income to the carried interests. These distributions are not subject to clawbacks but will reduce future carried interest payments to which we become entitled from the applicable funds and have been recorded as revenues. 
+ As of August 31, 2021 and November 30, 2020, we had strategic technology investments in unconsolidated entities of 187.6 million and 196.7 million, respectively. 
+ Option Contracts 
+ We often obtain access to land through option contracts, which generally enable us to control portions of properties owned by third parties (including land funds) and unconsolidated entities until we have determined whether to exercise the options. 
+ 39 
+
+The table below indicates the number of homesites owned and homesites to which we had access through option contracts with third parties ("optioned") or unconsolidated JVs (i.e., controlled homesites): Controlled Homesites Years of August 31, 2021 Optioned JVs Total Owned Homesites Total Homesites Supply Owned (1) East 74,056 74,056 54,069 128,125 Central 27,772 27,772 42,407 70,179 Texas 53,434 53,434 40,274 93,708 West 50,867 50,867 51,587 102,454 Other 3,657 6,594 10,251 2,056 12,307 Total homesites 209,786 6,594 216,380 190,393 406,773 3.3 of total homesites 53 47 Controlled Homesites Years of August 31, 2020 Optioned JVs Total Owned Homesites Total Homesites Supply Owned (1) East 30,683 12,718 43,401 62,256 105,657 Central 14,504 122 14,626 42,785 57,411 Texas 25,556 25,556 35,560 61,116 West 14,911 2,854 17,765 59,475 77,240 Other 1,137 7,544 8,681 2,068 10,749 Total homesites 86,791 23,238 110,029 202,144 312,173 3.8 of total homesites 35 65 
+ (1) Based on trailing twelve months of home deliveries. 
+ Details on option contracts and related consolidated inventory not owned and exposure are included in Note 10 of the Notes to Condensed Consolidated Financial Statements. 
+ 
+ Contractual Obligations and Commercial Commitments 
+ Our contractual obligations and commercial commitments have not changed materially from those reported in Management s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the fiscal year ended November 30, 2020. There were no outstanding borrowings under our Credit Facility as of August 31, 2021. 
+ 
+ (3) New Accounting Pronouncements 
+ See Note 1 of the Notes to Condensed Consolidated Financial Statements included under Item 1 of this Report for a discussion of new accounting pronouncements applicable to our company. 
+ 
+ (4) Critical Accounting Policies 
+ We believe that there have been no significant changes to our critical accounting policies during the nine months ended August 31, 2021 as compared to those we disclosed in Management s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K, for the year ended November 30, 2020. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ We are exposed to market risks related to fluctuations in interest rates on our investments, debt obligations, loans held-for-sale and loans held-for-investment. We utilize forward commitments and option contracts to mitigate the risks associated with our mortgage loan portfolio. 
+ As of August 31, 2021, we had no outstanding borrowings under our Credit Facility. 
+ As of August 31, 2021, our borrowings under Financial Services' warehouse repurchase facilities totaled 900.3 million under residential facilities and 55.0 million under LMF Commercial facilities. 
+ 40 
+
+Information Regarding Interest Rate Sensitivity 
+ Principal (Notional) Amount by 
+ Expected Maturity and Average Interest Rate 
+ August 31, 2021 
+ Three Months Ending November 30, Years Ending November 30, Fair Value at Aug 31, (Dollars in millions) 2021 2022 2023 2024 2025 2026 Thereafter Total 2021 LIABILITIES: Homebuilding: Senior Notes and other debts payable: 
+ Fixed rate 19.9 1,559.0 99.5 1,560.5 591.8 402.9 1,294.6 5,528.2 6,040.7 Average interest rate 4.2 4.5 4.2 5.0 4.8 5.2 4.9 4.8 Financial Services: Notes and other debts payable: 
+ Fixed rate 151.1 151.1 152.0 Average interest rate 3.4 3.4 Variable rate 939.5 11.4 4.4 955.3 955.3 Average interest rate 2.1 2.2 2.3 2.1 Lennar Other: Notes and other debts payable: 
+ Fixed rate 1.9 1.9 1.9 Average interest rate 3.0 3.0 
+ For additional information regarding our market risk refer to Item 7A. Quantitative and Qualitative Disclosures About Market Risk in our Annual Report on Form 10-K for the year ended November 30, 2020. 
+ 
+ Item 4. Controls and Procedures 
+ Each of our Co-Chief Executive Officers and Co-Presidents ("Co-CEOs") and Chief Financial Officer participated in an evaluation by our management of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report. Based on their participation in that evaluation, our Co-CEOs and CFO concluded that our disclosure controls and procedures were effective as of August 31, 2021 to ensure that information required to be disclosed in our reports filed or submitted under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission s rules and forms, and to ensure that information required to be disclosed in our reports filed or furnished under the Securities Exchange Act of 1934, as amended, is accumulated and communicated to our management, including both of our Co-CEOs and CFO, as appropriate, to allow timely decisions regarding required disclosures. 
+ Both of our Co-CEOs and CFO also participated in an evaluation by our management of any changes in our internal control over financial reporting that occurred during the quarter ended August 31, 2021. That evaluation did not identify any changes that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ Part II. Other Information 
+
+Item 1. Legal Proceedings 
+ We are party to various claims and lawsuits which arise in the ordinary course of business, but we do not consider the volume of our claims and lawsuits unusual given the number of homes we deliver and the fact that the lawsuits often relate to homes delivered several years before the lawsuits are commenced. Although the specific allegations in the lawsuits differ, they most commonly involve claims that we failed to construct homes in particular communities in accordance with plans and specifications or applicable construction codes and seek reimbursement for sums allegedly needed to remedy the alleged deficiencies, assert contract issues or relate to personal injuries. Lawsuits of these types are common within the homebuilding industry. We are a plaintiff in a number of cases in which we seek contribution from our subcontractors for home repair costs. The costs incurred by us in construction defect lawsuits may be offset by warranty reserves, our third-party insurers, 
+ 41 
+
+subcontractor insurers or indemnity contributions from subcontractors. From time to time, we are also a party to lawsuits involving purchases and sales of real property. These lawsuits often include claims regarding representations and warranties made in connection with the transfer of the property and disputes regarding the obligation to purchase or sell the property. From time-to-time, we also receive notices from environmental agencies or other regulators regarding alleged violations of environmental or other laws. We typically settle these matters before they reach litigation for amounts that are not material to us. 
+ We do not believe that the ultimate resolution of these claims or lawsuits will have a material adverse effect on our business or financial position. 
+ Item 1A. Risk Factors 
+ There have been no material changes in our risk factors from those disclosed in our Annual Report on Form 10-K for the year ended November 30, 2020. 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ The following table provides information about our repurchases of common stock during the three months ended August 31, 2021: 
+ Period: Total Number of Shares Purchased (1) Average Price Paid Per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2) Maximum Number of Shares that may yet be Purchased under the Plans or Programs (2) June 1 to June 30, 2021 390,000 97.33 390,000 23,100,000 July 1 to July 31, 2021 1,794,778 97.62 1,794,778 21,305,222 August 1 to August 31, 2021 635,739 103.17 315,222 20,990,000 
+ (1) Includes shares of Class A common stock withheld by us to cover withholding taxes due, at the election of certain holders of nonvested shares, with market value approximating the amount of withholding taxes due. 
+ (2) In January 2021, our Board of Directors authorized a stock repurchase program, which replaced a January 2019 stock repurchase program, under which we are authorized to purchase up to the lesser of 1.0 billion in value, excluding commission, or 25 million in shares, of our outstanding Class A or Class B common stock. This repurchase authorization has no expiration. 
+ Items 3 - 5. Not Applicable 
+ 
+ Item 6. Exhibits 
+ 31.1 Rule 13a-14(a) certification by Rick Beckwitt. 
+ 31.2 Rule 13a-14(a) certification by Jonathan M. Jaffe. 
+ 31.3 Rule 13a-14(a) certification by Diane Bessette. 
+ 32. Section 1350 certifications by Rick Beckwitt, Jonathan M. Jaffe, and Diane Bessette. 
+ 101. The following financial statements from Lennar Corporation's Quarterly Report on Form 10-Q for the quarter ended August 31, 2021, filed on October 1, 2021, were formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) Condensed Consolidated Balance Sheets, (ii) Condensed Consolidated Statements of Operations and Comprehensive Income (Loss), (iii) Condensed Consolidated Statements of Cash Flows and (iv) the Notes to Condensed Consolidated Financial Statements. 101.INS iXBRL Instance Document. 101.SCH iXBRL Taxonomy Extension Schema Document. 101.CAL iXBRL Taxonomy Extension Calculation Linkbase Document. 101.DEF iXBRL Taxonomy Extension Definition. 101.LAB iXBRL Taxonomy Extension Label Linkbase Document. 101.PRE iXBRL Taxonomy Presentation Linkbase Document. 104 The cover page from Lennar Corporation's Quarterly Report on Form 10-Q for the quarter ended August 31, 2021 was formatted in iXBRL. 
+ Filed herewith. 
+ Included in Exhibit 101. 
+ 
+ 42 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ Lennar Corporation (Registrant) Date: October 1, 2021 /s/ Diane Bessette Diane Bessette Vice President, Chief Financial Officer and Treasurer Date: October 1, 2021 /s/ David Collins David Collins Vice President and Controller 
+ 
+ 43 
+
+<EX-31.1>
+ 2
+ len-ex311_2021831x10qq3.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ Chief Executive Officer's Certification 
+ I, Rick Beckwitt, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Lennar Corporation 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date October 1, 2021 s Rick Beckwitt Name Rick Beckwitt Title Co-Chief Executive Officer and Co-President 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ len-ex312_2021831x10qq3.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ Chief Executive Officer's Certification 
+ I, Jonathan M. Jaffe, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Lennar Corporation 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date October 1, 2021 s Jonathan M. Jaffe Name Jonathan M. Jaffe Title Co-Chief Executive Officer and Co-President 
+
+</EX-31.2>
+
+<EX-31.3>
+ 4
+ len-ex313_2021831x10qq3.htm
+ EX-31.3
+
+Document 
+
+Exhibit 31.3 
+ Chief Financial Officer s Certification 
+ I, Diane Bessette, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Lennar Corporation 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date October 1, 2021 s Diane Bessette Name Diane Bessette 
+ Title Vice President, Chief Financial Officer and Treasurer 
+
+</EX-31.3>
+
+<EX-32>
+ 5
+ len-ex32_2021831x10qq3.htm
+ EX-32
+
+Document 
+
+Exhibit 32 
+ Officers' Section 1350 Certifications 
+ Each of the undersigned officers of Lennar Corporation, a Delaware corporation (the Company ), hereby certifies that (i) the Company's Quarterly Report on Form 10-Q for the period ended August 31, 2021 fully complies with the requirements of Section 13(a) of the Securities Exchange Act of 1934 and (ii) the information contained in the Company's Quarterly Report on Form 10-Q for the period ended August 31, 2021 fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date October 1, 2021 s Rick Beckwitt Name Rick Beckwitt Title Co-Chief Executive Officer and Co-President Date October 1, 2021 s Jonathan M. Jaffe Name Jonathan M. Jaffe Title Co-Chief Executive Officer and Co-President Date October 1, 2021 s Diane Bessette Name Diane Bessette Title Vice President, Chief Financial Officer and Treasurer 
+
+</EX-32>
+
+<EX-101.SCH>
+ 6
+ len-20210831.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ len-20210831_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ len-20210831_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ len-20210831_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ len-20210831_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

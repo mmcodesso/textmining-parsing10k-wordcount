@@ -1,0 +1,2076 @@
+<Header>
+<FileStats>
+    <FileName>20221003_10-K_edgar_data_1888846_0001599916-22-000255.txt</FileName>
+    <GrossFileSize>1193429</GrossFileSize>
+    <NetFileSize>82521</NetFileSize>
+    <NonText_DocumentType_Chars>259456</NonText_DocumentType_Chars>
+    <HTML_Chars>276994</HTML_Chars>
+    <XBRL_Chars>225365</XBRL_Chars>
+    <XML_Chars>320687</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001599916-22-000255.hdr.sgml : 20221003
+<ACCEPTANCE-DATETIME>20221003113446
+ACCESSION NUMBER:		0001599916-22-000255
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		30
+CONFORMED PERIOD OF REPORT:	20220731
+FILED AS OF DATE:		20221003
+DATE AS OF CHANGE:		20221003
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ultimate Holdings Group, Inc.
+		CENTRAL INDEX KEY:			0001888846
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56358
+		FILM NUMBER:		221286513
+
+	BUSINESS ADDRESS:	
+		STREET 1:		780 RESERVOIR AVENUE, #123
+		CITY:			CRANSTON
+		STATE:			RI
+		ZIP:			02910
+		BUSINESS PHONE:		401-641-0405
+
+	MAIL ADDRESS:	
+		STREET 1:		780 RESERVOIR AVENUE, #123
+		CITY:			CRANSTON
+		STATE:			RI
+		ZIP:			02910
+
+</SEC-Header>
+</Header>
+
+ 0001599916-22-000255.txt : 20221003
+
+10-K
+ 1
+ ultimate_10ko.htm
+ 10-K
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+FORM 
+
+ (Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR THE
+FISCAL YEAR ENDED 
+
+OR 
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ______ to _________ 
+
+COMMISSION FILE NUMBER: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction 
+ of incorporation or organization) 
+ (I.R.S. Employer Identification No.) 
+
+780 Reservoir Avenue 
+ #123 Cranston, RI 
+ 02910 
+
+(Address of Principal Executive Offices) 
+ (Zip Code) 
+
+Securities to be registered under Section 12(b) of
+the Act: 
+
+Title of each class 
+ Trading Symbol(s) 
+ Name of each exchange on which registered 
+ 
+ None 
+ None 
+ 
+ None 
+
+Securities to be registered under Section 12(g) of
+the Exchange Act: 
+
+Common stock, par value of 0.001 par value 
+
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+ [ ] Yes [X] 
+
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ [ ] Yes [X] 
+
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. 
+
+ [X] [ ] No 
+
+Indicate by check mark whether the registrant has
+submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of
+this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+ [X] Yes [ ] No 
+
+ Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+See the definitions of large accelerated filer, accelerated filer, smaller reporting company, 
+and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+ 
+ Emerging growth company 
+
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Act). 
+
+ [X] [ ] No 
+
+As of January 31, 2022, the last
+business day of the registrant s most recently completed second fiscal quarter, the aggregate market value of the voting
+common stock held by non-affiliates of the registrant was approximately based on par value per share 0.001), of the
+registrant s common stock. 
+
+Indicate the number of shares outstanding of each of the issuer s
+classes of stock, as of the latest practicable date: 
+
+shares of common stock, 0.001 par value,
+issued and outstanding as of September 30, 2022 
+
+ 0 shares of preferred stock, 0.001 par value,
+issued and outstanding as of September 30, 2022. 
+
+Table of Contents 
+
+TABLE OF CONTENTS 
+
+ Ultimate Holdings Group,
+Inc. 
+
+PART I 
+
+PAGE 
+ 
+ Item 1 
+ Business 
+ 
+ 1 
+ 
+ Item 1A 
+ Risk Factors 
+ 
+ 4 
+ 
+ Item 1B 
+ Unresolved Staff Comments 
+ 
+ 4 
+ 
+ Item 2 
+ Properties 
+ 
+ 4 
+ 
+ Item 3 
+ Legal Proceedings 
+ 
+ 4 
+ 
+ Item 4 
+ Mine Safety Disclosures 
+ 
+ 4 
+
+PART II 
+
+Item 5 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 4 
+ 
+ Item 6 
+ Selected Financial Data 
+ 
+ 5 
+ 
+ Item 7 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 5 
+ 
+ Item 7A 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 
+ 6 
+ 
+ Item 8 
+ Financial Statements and Supplementary Data 
+ 
+ F1-F8 
+ 
+ Item 9 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 8 
+ 
+ Item 9A 
+ Controls and Procedures 
+ 
+ 8 
+ 
+ Item 9B 
+ Other Information 
+ 
+ 8 
+
+PART III 
+
+Item 10 
+ Directors, Executive Officers and Corporate Governance 
+ 
+ 9 
+ 
+ Item 11 
+ Executive Compensation 
+ 
+ 11 
+ 
+ Item 12 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 12 
+ 
+ Item 13 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 
+ 12 
+ 
+ Item 14 
+ Principal Accounting Fees and Services 
+ 
+ 13 
+
+PART IV 
+
+Item 15 
+ Exhibits, Financial Statement Schedules 
+ 
+ 14 
+ 
+ Item 16 
+ Form 10-K Summary 
+ 
+ 14 
+
+Signatures 
+ 
+ 14 
+
+Table of Contents 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING
+STATEMENTS 
+
+Certain statements and information included in
+this Annual Report on Form 10-K for the year ended July 31, 2022 (this Report ), contains forward-looking statements
+within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act ), Section 21 of the Securities
+Exchange Act of 1934, as amended (the Exchange Act ), and the Private Securities Litigation Reform Act of 1995. Forward-looking
+statements are not statements of historical facts, but rather reflect our current expectations concerning future events and results. We
+generally use the words may, should, believe, expect, intend, plan, 
+ anticipate, likely, estimate, potential, continue, will, 
+and similar expressions to identify forward-looking statements. Such forward-looking statements, including those concerning our expectations,
+involve risks, uncertainties and other factors, some of which are beyond our control, which may cause our actual results, performance,
+or achievements, or industry results to be materially different from any future results, performance, or achievements expressed or implied
+by such forward-looking statements. Except as required by applicable law, including the securities laws of the United States, we undertake
+no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise.
+You are cautioned not to unduly rely on such forward-looking statements when evaluating the information presented in this Report. 
+
+CERTAIN TERMS USED IN THIS REPORT 
+
+We, us, our, the Registrant, 
+the Company, and Ultimate Holdings Group are synonymous with Ultimate Holdings Group, Inc., unless otherwise indicated. 
+
+Table of Contents 
+
+PART I 
+
+Item 1. Business. 
+
+(a) Business Development 
+
+ Ultimate Holdings Group, Inc. (we,
+us, our, or the Company was incorporated by Thomas DeNunzio on July 30, 2021 in the State of Nevada. 
+
+The Company intends to serve as
+a vehicle to affect an asset acquisition, merger, exchange of capital stock or other business combination with a domestic or foreign
+business. 
+
+On July 30, 2021, Thomas DeNunzio
+was appointed Chief Executive Officer, Chief Financial Officer, and Director of Ultimate Holdings Group, Inc. 
+
+The Company has elected
+July 31st as its fiscal year end. 
+
+We use home office space of our
+sole officer and director at no cost. 
+
+The Company has been engaged in organizational efforts and obtaining initial
+financing. The Company seeks to serve as a vehicle to pursue a business combination and has made no efforts thus far to identify a possible
+business combination. As a result, the Company has not conducted negotiations or entered into a letter of intent concerning any target
+business. The business purpose of the Company is to seek the acquisition of or merger with an existing company. 
+
+The Company is an emerging growth company EGC ),
+that is exempt from certain financial disclosure and governance requirements for up to five years as defined in the Jumpstart Our Business
+Startups Act (the JOBS Act), that eases restrictions on the sale of securities; and increases the number of shareholders a company must
+have before becoming subject to the U.S. Securities and Exchange Commissions (SEC s) reporting and disclosure rules (See Emerging
+Growth Companies Section Below). 
+
+(b) Business Summary 
+
+The Company, based on proposed business activities,
+is a blank check company. The U.S. Securities and Exchange Commission (the SEC) defines those companies as any development
+stage company that is issuing a penny stock, within the meaning of Section 3 (a)(51)-1 of the Securities Exchange Act of 1934, as amended
+(the Exchange Act), and that has no specific business plan or purpose, or has indicated that its business plan is to engage in a merger
+or acquisition with an unidentified company or companies or other entity or person. Under SEC Rule 12b-2 under the Exchange Act,
+the Company also qualifies as a shell company, because it has no or nominal assets (other than cash) and no or nominal operations. Many
+states have enacted statutes, rules and regulations limiting the sale of securities of blank check companies in their respective
+jurisdictions. Management does not intend to undertake any efforts to cause a market to develop in our securities, either debt or equity. 
+
+The Company intends to comply with the periodic reporting requirements
+of the Exchange Act for so long as it is subject to those requirements. 
+
+The Company current business plan is to serve as a vehicle to investigate
+and, if such investigation warrants, acquire a target company or business seeking the perceived advantages of being a publicly held corporation.
+The Company s principal business objective for the next 12 months and beyond such time will be to achieve long-term growth potential
+through a combination with a business rather than immediate, short-term earnings. The Company will not restrict its potential candidate
+target companies to any specific business, industry or geographical location and, thus, may acquire any type of business. The company
+may merge with or acquire another company in which the promoters, management, or promoters or managements affiliates or
+associates, directly or indirectly, have an ownership interest. 
+
+A business combination would help us grow and cease to be a shell company. 
+
+The analysis of new business opportunities will be undertaken by,
+or under the supervision of, Thomas DeNunzio, the sole officer and director of the Registrant. As of this date, the Company has not entered
+into any definitive agreement with any party, nor have there been any specific discussions with any potential business combination candidate
+regarding business opportunities for the Company. The Registrant has unrestricted flexibility in seeking, analyzing and participating
+in potential business opportunities. In its efforts to analyze potential acquisition targets, the Registrant will consider the following
+kinds of factors: 
+
+(a) 
+ Potential for growth, indicated by new technology, anticipated market expansion or new products; 
+
+(b) 
+ Competitive position as compared to other firms of similar size and experience within the industry segment as well as within the industry as a whole; 
+
+(c) 
+ Strength and diversity of management, either in place or scheduled for recruitment; 
+
+(d) 
+ Capital requirements and anticipated availability of required funds, to be provided by the Registrant or from operations, through the sale of additional securities, through joint ventures or similar arrangements or from other sources; 
+
+(e) 
+ The cost of participation by the Registrant as compared to the perceived tangible and intangible values and potentials; 
+
+(f) 
+ The extent to which the business opportunity can be advanced; 
+
+(g) 
+ The accessibility of required management expertise, personnel, raw materials, services, professional assistance and other required items; and, 
+
+(h) 
+ Other relevant factors. 
+
+In applying the foregoing criteria, no one of which will be controlling,
+management will attempt to analyze all factors and circumstances and make a determination based upon reasonable investigative measures
+and available data. Potentially available business opportunities may occur in many different industries, and at various stages of development,
+all of which will make the task of comparative investigation and analysis of such business opportunities extremely difficult and complex.
+Due to the Registrant's limited capital available for investigation, the Registrant may not discover or adequately evaluate adverse facts
+about the opportunity to be acquired. 
+
+- 1 - 
+
+Table of Contents 
+
+Additionally, Ultimate Holdings Group, Inc. will continue to be an insignificant participant
+in the business of seeking mergers with and acquisitions of business entities. A large number of established and well-financed entities,
+including venture capital firms, are active in mergers and acquisitions of companies which may be a merger or acquisition candidate for
+Ultimate Holdings Group, Inc. Nearly all such entities have significantly greater financial resources, technical expertise and managerial capabilities
+than Ultimate Holdings Group, Inc. and, consequently, we will be at a competitive disadvantage in identifying possible business opportunities and successfully
+completing a business combination. Moreover, Ultimate Holdings Group, Inc. will also compete with numerous other small public companies in seeking
+merger or acquisition candidates. 
+
+We currently have no shares of common stock issued and outstanding. 
+
+ In the future we may issue shares of our common stock.
+Shares of our common stock which are not registered with the Securities and Exchange Commission, but are held by
+shareholders, cannot be sold under the exemptions from registration provided by Rule 144 under or Section 4(1) of the Securities Act Rule 144 so long as the Company is designated a shell company and for 12 months after it ceases to be
+a shell company, provided the Company otherwise is in compliance with the applicable rules and regulations. Compliance
+with the criteria for securing exemptions under federal securities laws and the securities laws of the various states is extremely
+complex, especially in respect of those exemptions affording flexibility and the elimination of trading restrictions in respect of
+securities received in exempt transactions and subsequently disposed of without registration under the Securities Act or state
+securities laws. 
+
+ If the Company engages in a registration statement offering our securities
+for sale as a blank check company or with a company that would still be considered a shell company or blank check company, our securities
+will require registration subject to Rule 419. The Securities and Exchange Commission has adopted a rule (Rule 419) which defines a blank
+check company as (i) a development stage company, that is (ii) offering penny stock, as defined by Rule 3a51-1, and (iii) that has no
+specific business plan or purpose or has indicated that its business plan is to engage in a merger or acquisition with an unidentified
+company or companies. Should we file a registration statement offering of our securities for sale before we complete a business combination
+with an operating company, the Company would be considered a blank check company within the meaning of Rule 419 and any sales of the stock
+issued in the offering would require a registration under the Securities Act of 1933, as amended, furthermore, the registered securities
+and the proceeds from an offering subject to Rule 419 require the following: 
+
+a) 
+ Deposit and investment of proceeds 
+
+All offering proceeds, after deduction of cash paid for underwriting commissions,
+underwriting expenses and dealer allowances, and amounts permitted to be released to the registrant shall be deposited promptly into the
+escrow or trust account; provided, however, that no deduction may be made for underwriting commissions, underwriting expenses or dealer
+allowances payable to an affiliate of the registrant. 
+
+b) 
+ Deposit of securities 
+
+All securities issued in connection with the offering, whether or not for
+cash consideration, and any other securities issued with respect to such securities, including securities issued with respect to stock
+splits, stock dividends, or similar rights, shall be deposited directly into the escrow or trust account promptly upon issuance. The identity
+of the purchaser of the securities shall be included on the stock certificates or other documents evidencing such securities. 
+
+c) 
+ Release of deposited and funds securities 
+
+Post-effective amendment for acquisition agreement. Upon execution of
+an agreement(s) for the acquisition(s) of a business(es) or assets that will constitute the business (or a line of business) of the registrant
+and for which the fair value of the business(es) or net assets to be acquired represents at least 80 percent of the maximum offering
+proceeds, including proceeds received or to be received upon the exercise or conversion of any securities offered, but excluding amounts
+payable to non-affiliates for underwriting commissions, underwriting expenses, and dealer allowances, the registrant shall file a post-effective
+amendment disclosing the entire transaction. 
+
+If we publicly offer any securities as a condition
+to the closing of any acquisition or business combination while we are a blank check or shell company, we will have to fully comply with
+SEC Rule 419 and deposit all funds in escrow pending advice about the proposed transaction to our stockholders fully disclosing all information
+required by Regulation 14 of the SEC and seeking the vote and agreement of investment of those stockholders to whom such securities were
+offered; if no response is received from these stockholders within 45 days thereafter or if any stockholder elects not to invest following
+our advice about the proposed transaction, all funds that must be held in escrow by us under Rule 419, as applicable, will be promptly
+returned to any such stockholder. All securities issued in any such offering will likewise be deposited in escrow, pending satisfaction
+of the foregoing conditions. In addition, if we enter into a transaction with a company that would still be considered a shell company
+or blank check company, the exemption from registration available from Rule 144, for the resales of our securities by our shareholders,
+would not be available to us. 
+
+In addition, the ability to register or qualify for sale
+any shares of stock for both initial sale and secondary trading would be limited because a number of states have enacted regulations pursuant
+to their securities or blue-sky laws restricting or, in some instances, prohibiting, the sale of securities of blank
+check issuers, such as the Company, within that state. In addition, many states, while not specifically prohibiting or restricting
+ blank check companies, may not register the shares for sale in their states. Because of such regulations and other restrictions,
+the Company's selling efforts, if any, and any secondary market which may develop, may only be conducted in those jurisdictions where
+an applicable exemption is available or a blue sky application has been filed and accepted or where the shares have been registered thus
+limiting the issuers ability to complete this offering. 
+
+ - 2 - 
+
+Table of Contents 
+
+Form of Acquisition 
+
+The manner in which the Registrant participates in an opportunity will
+depend upon the nature of the opportunity, the respective needs and desires of the Registrant and the promoters of the opportunity, and
+the relative negotiating strength of the Registrant and such promoters. 
+
+It is likely that the Registrant will acquire its participation in a business
+opportunity through the issuance of common stock or other securities of the Registrant. Although the terms of any such transaction cannot
+be predicted, it should be noted that in certain circumstances the criteria for determining whether or not an acquisition is a so-called
+ tax free reorganization under Section 368(a)(1) of the Internal Revenue Code of 1986, as amended (the Code depends
+upon whether the owners of the acquired business own 80 or more of the voting stock of the surviving entity. If a transaction were structured
+to take advantage of these provisions rather than other tax free provisions provided under the Code, all prior stockholders
+would in such circumstances retain 10 or less of the total issued and outstanding shares of the surviving entity. 
+
+Our management anticipates that we will likely be able to affect only one
+business combination, due primarily to our limited financing. 
+
+We anticipate difficulty in obtaining financing from other sources since
+we have no income and zero cash reserves. We are presently reliant on capital contributions towards expenses from our sole officer and
+director, Thomas DeNunzio. Our sole officer and director has not guaranteed that he will continue to support our capital needs. Therefore,
+we may not have the ability to continue as a going concern. 
+
+The present stockholders of the Registrant will likely not have control
+of a majority of the voting securities of the Registrant following a reorganization transaction. As part of such a transaction, all, or
+a majority of, the Registrant's directors may resign and one or more new directors may be appointed without any vote by stockholders. 
+
+The Company anticipates that prior to consummating any acquisition or merger,
+the Company, if required by relevant state laws and regulations, will seek to have the transaction approved by stockholders in the appropriate
+manner. Certain types of transactions may be entered into solely by Board of Directors approval without stockholder approval. 
+
+Under Nevada law, certain actions that would routinely be taken at a
+meeting of stockholders, may be taken by written consent of stockholders having not less than the minimum number of votes that would be
+necessary to authorize or take the action at a meeting of stockholders. Thus, if stockholders holding a majority of the outstanding shares
+decide by written consent to consummate an acquisition or a merger, minority stockholders would not be given the opportunity to vote on
+the issue. If stockholder approval is required, the Board will have discretion to consummate the transaction by written consent if it
+is determined to be in the Company s best interest to do so. Regardless of whether an acquisition or merger is approved by Board
+action alone, by written consent or by holding a stockholders' meeting, the Company will provide to its stockholders complete disclosure
+documentation concerning the potential target including requisite financial statements. This information will be disseminated by proxy
+statement in the event a stockholders' meeting is held, or by an information statement if the action is taken by written consent. 
+
+It is anticipated that the investigation of specific business opportunities
+and the negotiation, drafting and execution of relevant agreements, disclosure documents and other instruments will require substantial
+management time and attention and substantial cost for accountants, attorneys and others. We estimate such cost to be approximately 15,000.
+If a decision is made not to participate in a specific business opportunity, the costs theretofore incurred in the related investigation
+might not be recoverable. Furthermore, even if an agreement is reached for the participation in a specific business opportunity, the failure
+to consummate that transaction may result in the loss to the Company of the related costs incurred. 
+
+We presently have no employees apart from our management, which consists
+of one person, our sole officer and director, Mr. Thomas DeNunzio. Our sole officer and director is engaged in outside business activities
+and anticipates that he will devote to our business approximately five (5) hours per week until the acquisition of a successful business
+opportunity has been identified. We expect no significant changes in the number of our employees other than such changes, if any, incident
+to a business combination. 
+
+Furthermore, the analysis of new business opportunities will be undertaken
+by, or under the supervision of, Thomas DeNunzio, the sole officer and director of the Company, who is not a professional business analyst
+and in all likelihood will not be experienced in matters relating to the target business opportunity. The inexperience of Mr. DeNunzio and
+the fact that the analysis and evaluation of a potential business combination is to be taken under his supervision may adversely impact
+the Company s ability to identify and consummate a successful business combination. There is no guarantee that Mr. DeNunzio will be
+able to identify a business combination target that is suitable for the Company. Thomas DeNunzio, the sole officer and director of the company,
+may hire third parties to conduct an analysis for a target company or any other business opportunities. 
+
+(c) Reports to security holders. 
+
+(1) 
+ The Company is not required to deliver an annual report to security holders and at this time does not anticipate the distribution of such a report. 
+
+(2) 
+ The Company will file reports with the SEC. The Company will be a reporting company and will comply with the requirements of the Exchange Act. 
+
+(3) 
+ The public may read and copy any materials the Company files with the SEC in the SEC's Public Reference Section, Room 1580, 100 F Street N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Section by calling the SEC at 1-800-SEC-0330. Additionally, the SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, which can be found at http://www.sec.gov. 
+
+Emerging Growth Company 
+
+We are an emerging growth company under the JOBS Act. We shall continue
+to be deemed an emerging growth company until the earliest of: 
+
+(a) the last day of the fiscal year of the issuer during which it had total annual gross revenues of 1,070,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest 1,000,000) or more; 
+
+(b) the last day of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities of the issuer pursuant to an effective IPO registration statement; 
+
+(c) the date on which such issuer has, during the previous 3-year period, issued more than 1,000,000,000 in non-convertible debt; or 
+
+(d) the date on which such issuer is deemed to be a large accelerated filer, as defined in section 240.12b-2 of title 17, Code of Federal Regulations, or any successor thereto. 
+
+As an emerging growth company, we are exempt from Section 404(b) of Sarbanes
+Oxley. Section 404(a) requires Issuers to publish information in their annual reports concerning the scope and adequacy of the internal
+control structure and procedures for financial reporting. This statement shall also assess the effectiveness of such internal controls
+and procedures. Section 404(b) requires that the registered accounting firm shall, in the same report, attest to and report on the assessment
+on the effectiveness of the internal control structure and procedures for financial reporting. 
+
+As an emerging growth company, we are also exempt from Section 14A (a)
+and (b) of the Securities Exchange Act of 1934 which require the shareholder approval of executive compensation and golden parachutes. 
+
+We have elected to use the extended transition period for complying with
+new or revised accounting standards under Section 102(b)(2) of the Jobs Act, that allows us to delay the adoption of new or revised accounting
+standards that have different effective dates for public and private companies until those standards apply to private companies. As a
+result of this election, our financial statements may not be comparable to companies that comply with public company effective dates. 
+
+- 3 - 
+
+Table of Contents 
+
+Item 1A. Risk Factors. 
+
+The Company qualifies as a smaller reporting company, as defined by Item
+10 of Regulation S-K and, thus, is not required to provide the information required by this Item. 
+
+Item 1B. Unresolved Staff Comments. 
+
+None. 
+
+Item 2. Properties. 
+
+We neither rent nor own any properties.
+We currently have no policy with respect to investments or interests in real estate, real estate mortgages or securities of, or interests
+in, persons primarily engaged in real estate activities. We currently utilize the home office space and equipment of our management at
+no cost. 
+
+Item 3. Legal Proceedings. 
+
+From time to time, we may become party to litigation
+or other legal proceedings that we consider to be a part of the ordinary course of our business. We are not currently involved in legal
+proceedings that could reasonably be expected to have a material adverse effect on our business, prospects, financial condition, or results
+of operations. To the best of our knowledge, no adverse legal activity is anticipated or threatened. 
+
+Item 4. Mine Safety Disclosures. 
+
+Not applicable. 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity,
+Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market Information 
+
+Our
+shares are not currently listed or quoted on any exchange or quotation system. As of the date of this report, we have no shares of
+common stock issued and outstanding. 
+
+Holders 
+
+As of the date of this Annual Report, we have no shares of common stock
+issued and outstanding. 
+
+Voting 
+
+Each share of common stock has voting rights of one vote per share. 
+
+Dividends and Share Repurchases 
+
+We have not paid any dividends to our stockholders.
+There are no restrictions, which would limit our ability to pay dividends on common equity or that are likely to do so in the future. 
+
+Issuer Purchases of Equity Securities 
+
+None. 
+
+Equity Compensation Plan Information 
+
+We do not have any equity compensation plans, either
+approved or not approved, by our security holders. 
+
+Recent Sales of Unregistered Securities; Uses of Proceeds from Registered
+Securities 
+
+None. 
+
+ Purchases of Equity Securities by the Issuer and
+Affiliated Purchasers 
+
+None. 
+
+- 4 - 
+
+Table of Contents 
+
+Item 6. Selected Financial Data. 
+
+As a smaller reporting company , we are
+not required to provide the information required by this Item. 
+
+Item 7. Management s Discussion and Analysis
+of Financial Condition and Results of Operations. 
+
+We are currently investigating and, if such investigation warrants, looking
+to acquire or merge with a target company or business seeking the perceived advantages of being a publicly held corporation. We are an
+emerging growth company (EGC) that is exempt from certain financial disclosure and governance requirements for up to five years as defined
+in the Jumpstart Our Business Startups Act (the JOBS Act), that eases restrictions on the sale of securities; and increases the number
+of shareholders a company must have before becoming subject to the U.S. Securities and Exchange Commissions (SEC s) reporting and
+disclosure rules (See Emerging Growth Companies section above). Our principal business objective for the next 12 months and beyond such
+time will be to achieve long-term growth potential through a combination with a business rather than immediate, short-term earnings. We
+will not restrict our potential candidate target companies to any specific business, industry or geographical location and, thus, may
+acquire any type of business. 
+
+The risks we may face if the target business we may intend to merge with
+is financially unstable include but are not limited to difficulty in achieving future financing, continuing operations, bankruptcy, litigation,
+and increasing business operations on a limited or no budget. 
+
+We, the registrant, will not pay a cash finder s fee for the consummation
+of any business acquisition the Company makes pursuant to its current business plan. Additionally, at this time we do not plan to issue
+securities as a finder s fee. 
+
+We have elected to use the extended transition period for complying with
+new or revised accounting standards under Section 102(b)(2) of the Jobs Act, that allows us to delay the adoption of new or revised accounting
+standards that have different effective dates for public and private companies until those standards apply to private companies. As a
+result of this election, our financial statements may not be comparable to companies that comply with public company effective dates. 
+
+We do not currently engage in any business activities that provide
+cash flow. The costs of investigating and analyzing business combinations for the next 12 months and beyond such time will be paid
+with money in our treasury or with additional amounts, as necessary, to be loaned to or invested in us by our management or other
+potential investors. 
+
+At this time, we are entirely reliant upon cash contributions made by our
+sole officer and director to pay for any and all expenses. 
+
+During the next 12 months we anticipate incurring costs related to: 
+
+(i) filing of Exchange Act reports (legal, accounting and auditing fees)
+in the amount of approximately 5,000; and 
+
+ (ii) costs relating to consummating an acquisition in the amount of approximately
+ 10,000 to pay for legal fees and audit fees. 
+
+We believe we will be able to meet the costs of filing Exchange Act reports
+during the next 12 months through use of funds to be loaned to or invested in us by Mr. Thomas DeNunzio, our sole officer and director. However, there is no guarantee that such additional funds will be made available to us or on terms that are favorable
+to us. If we enter into a business combination with a target entity, we will require the target company to pay the acquisition related
+fees and expenses as a condition precedent to such an agreement. To date, we have had no discussions with our sole officer and director,
+Mr. Thomas DeNunzio, regarding funding and no funding commitment for future expenses has been obtained. If in the future
+we need funds to pay expenses, we will consider these and other yet to be identified options for raising funds and/or paying expenses.
+Obviously, if Mr. DeNunzio, does not loan to or invest sufficient funds in us, then we will not be able to meet our SEC
+reporting obligations and will not be able to attract a private company with which to combine. 
+
+We have negative working capital, a stockholder deficit, and have no source
+of revenues. These conditions raise substantial doubt about our ability to continue as a going concern. Going forward, we will be devoting
+our efforts to locating merger candidates. Our ability to continue as a going concern is dependent upon our ability to develop additional
+sources of capital, locate and complete a merger with another company, and ultimately, achieve profitable operations. 
+
+The Company may consider a business which has recently commenced operations,
+is in need of additional funds for expansion into new products or markets, is seeking to develop a new product or service, or is an established
+business which may be experiencing financial or operating difficulties and is in need of additional capital. Our management believes that
+the public company status that results from a combination with the Company will provide such company greater access to the capital markets,
+increase its visibility in the investment community, and offer the opportunity to utilize its stock to make acquisitions. However, there
+is no assurance that the Company will have greater access to capital due to its public company status, and therefore a business combination
+with an operating company in need of additional capital may expose the Company to additional risks and challenges. In the alternative,
+a business combination may involve the acquisition of, or merger with, a company which does not need substantial additional capital, but
+which desires to establish a public trading market for its shares, while avoiding, among other things, the time delays, significant expense,
+and loss of voting control which may occur in a public offering. 
+
+- 5 - 
+
+Table of Contents 
+
+We have, and will continue to have, no capital with which to provide the
+owners of business entities with any cash or other assets. However, we offer owners of target businesses the opportunity to acquire a
+controlling ownership interest in a reporting company without the time required to become a reporting company by other means. Nevertheless,
+upon affecting an acquisition or merger with us, there will be costs and time required by the target business to provide comprehensive
+business and financial disclosure, such as the terms of the transaction and a description of the business and management of the target
+business, among other things, and will include audited consolidated financial statements of the Company giving effect to the business
+combination, as part of a filing on Form 8-K. 
+
+Our sole officer and director has not had any preliminary contact or discussions
+with any representative of any other entity regarding a business combination with us. Any target business that is selected may be a financially
+unstable company or an entity in its early stages of development or growth, including entities without established records of sales or
+earnings. In that event, we will be subject to numerous risks inherent in the business and operations of financially unstable and early
+stage or potential emerging growth companies. In addition, we may affect a business combination with an entity in an industry characterized
+by a high level of risk, and, although our management will endeavor to evaluate the risks inherent in a particular target business, there
+can be no assurance that we will properly ascertain or assess all significant risks. 
+
+Our management anticipates that we will likely be able to affect only one
+business combination, due primarily to our limited financing. This lack of diversification should be considered a substantial risk in investing in us, because it will not permit us
+to offset potential losses from one venture against gains from another. 
+
+Current economic and financial conditions are volatile and affect the selection
+of a business combination and increase the complex ability of the Company s goals. Business and consumer concerns over the economy,
+geopolitical issues, the availability and cost of credit, the U.S. financial markets and the national debt have contributed to this volatility.
+These factors, combined with declining and failing businesses, reduced consumer confidence and increased unemployment, have caused a global
+slowdown. We cannot accurately predict how long these current economic conditions will persist; whether the economy will deteriorate further
+and how we will be affected. 
+
+Because of general economic conditions, rapid technological advances being
+made in some industries, and shortages of available capital, our management believes that there are the perceived benefits of becoming
+a publicly traded corporation. Such perceived benefits of becoming a publicly traded corporation include, among other things, facilitating
+or improving the terms on which additional equity financing may be obtained, providing liquidity for the principals of and investors in
+a business, creating a means for providing incentive stock options or similar benefits to key employees, and offering greater flexibility
+in structuring acquisitions, joint ventures and the like through the issuance of stock. Potentially available business combinations may
+occur in many different industries and at various stages of development, all of which will make the task of comparative investigation
+and analysis of such business opportunities extremely difficult and complex. 
+
+We intend to search for a target business combination by contacting various
+sources including, but not limited to, our affiliates, lenders, investment banking firms, private equity funds, financial advisors and
+similar persons, accounting firms and attorneys notwithstanding us contacting any business directly. The approximate number of persons
+or entities that will be contacted is unknown and dependent on whether any opportunities are presented by the sources that we contact.
+However, there is no assurance that we will locate a target company for a business combination. 
+
+Liquidity 
+
+We have no known demands or commitments and are not aware of any
+events or uncertainties as of July 31, 2022 and July 31, 2021 that will result in or that are reasonably likely to
+materially increase or decrease our current liquidity. 
+
+Capital Resources. 
+
+We had no material commitments for capital expenditures
+as of July 31, 2022 and July 31, 2021. 
+
+Off Balance Sheet Arrangements. 
+
+We do not have any off-balance sheet arrangements that have or are
+reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses,
+results of operations, liquidity, capital expenditures or capital resources that is material to investors. 
+
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk. 
+
+We qualify as a smaller reporting company, as defined
+by Item 10 of Regulation S-K and, thus, are not required to provide the information required by this Item. 
+
+- 6 - 
+
+Table of Contents 
+
+Item 8. Financial Statements and Supplementary
+Data. 
+
+Ultimate Holdings Group,
+Inc. 
+
+ FINANCIAL STATEMENTS 
+
+INDEX TO FINANCIAL
+STATEMENTS 
+
+Pages 
+
+Report of Independent Registered Public Accounting Firm (PCAOB FIRM ID 
+ 
+ F2 
+
+Balance Sheets 
+ 
+ F3 
+
+Statements of Operations 
+ 
+ F4 
+
+Statements of Changes in Stockholders Deficit 
+ 
+ F5 
+
+Statements of Cash Flows 
+ 
+ F6 
+
+Notes to Financial Statements 
+ 
+ F7-F8 
+
+- F1 - 
+
+Table of Contents 
+
+Report of Independent Registered Public
+Accounting Firm 
+
+ To the shareholders and the board of directors
+of Ultimate Holdings Group, Inc. 
+
+ Opinion on the Financial Statements 
+
+ We have audited the accompanying consolidated
+balance sheets of Ultimate Holdings Group, Inc. (the Company as of July 31, 2022 and 2021, the related statements of operations,
+stockholders' equity (deficit), and cash flows for the years then ended, and the related notes (collectively referred to as the financial
+statements ). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company
+as of July 31, 2022 and 2021, and the results of its operations and its cash flows for the years then ended, in conformity with accounting
+principles generally accepted in the United States. 
+
+ Substantial Doubt about the Company s
+Ability to Continue as a Going Concern 
+
+ The accompanying financial statements have
+been prepared assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements, the Company s
+significant operating losses raise substantial doubt about its ability to continue as a going concern. The financial statements do not
+include any adjustments that might result from the outcome of this uncertainty. 
+
+ Basis for Opinion 
+
+ These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+ We conducted our audit in accordance with
+the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+ Our audit included performing procedures
+to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that
+respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as
+evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+ /s/ 
+
+ BF Borgers CPA PC 
+
+We have served as the Company's auditor since 2022 
+
+September 30, 2022 
+
+- F2 - 
+
+Table of Contents 
+
+Ultimate Holdings Group, Inc. 
+
+ Balance Sheet 
+
+July 31, 2022 
+
+July 31, 2021 
+
+TOTAL ASSETS 
+ 
+ - 
+ 
+ - 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+CURRENT LIABILITIES 
+
+Accrued Expenses 
+ 
+ - 
+
+TOTAL LIABILITIES 
+ 
+ - 
+
+Stockholders Equity (Deficit) 
+
+Preferred
+ stock par value, shares authorized; issued and outstanding as of July 31, 2022 and July 31,
+ 2021) 
+ 
+ - 
+
+- 
+ 
+ Common
+ stock par value, shares authorized, issued and outstanding as of July 31, 2022 and July 31,
+ 2021) 
+ 
+ - 
+
+- 
+ 
+ Additional paid-in capital 
+
+Accumulated deficit 
+ 
+ ) 
+ 
+ ) 
+ 
+ Total Stockholders Equity (Deficit) 
+ 
+ - 
+ 
+ ) 
+
+TOTAL LIABILITIES STOCKHOLDERS EQUITY (DEFICIT) 
+ 
+ - 
+ 
+ - 
+ 
+ The
+accompanying notes are an integral part of these audited financial statements. 
+
+- F3 - 
+
+Table of Contents 
+
+ Ultimate Holdings Group Inc. 
+
+ Statements of Operations 
+
+Year Ended 
+ July 31, 2022 
+
+For the Period July 30, 2021 (Inception) to
+July 31, 2021 
+ 
+ Operating Expenses 
+
+General and administrative expenses 
+
+Total Operating Expenses 
+
+Net Income/ Loss 
+ 
+ ) 
+
+) 
+ 
+ Basic and Diluted net loss per common share 
+ 
+ - 
+
+- 
+
+Weighted average number of common shares outstanding 
+ 
+ - 
+
+- 
+
+The accompanying
+notes are an integral part of these audited financial statements. 
+
+- F4 - 
+
+Table of Contents 
+
+Ultimate Holdings Group, Inc. 
+
+ Statement of Changes in
+Stockholders' Deficit 
+
+ For the Period from
+July 30, 2021 (Inception) to July 31, 2022 
+
+Common Shares 
+ 
+ Par Value Common Shares 
+
+Additional Paid-in Capital 
+ 
+ Accumulated Deficit 
+ 
+ Total 
+
+Balances, July 30, 2021 
+
+- 
+ 
+ - 
+
+- 
+ 
+ - 
+ 
+ - 
+
+Expenses paid on behalf of the Company and contributed to capital 
+
+- 
+ 
+ - 
+
+- 
+
+Net loss 
+
+- 
+ 
+ - 
+
+- 
+ 
+ ) 
+ 
+ ) 
+
+Balances, July 31, 2021 
+
+- 
+ 
+ - 
+
+) 
+ 
+ ) 
+
+Expenses paid on behalf of the Company and contributed to capital 
+
+- 
+ 
+ - 
+
+- 
+
+Net loss 
+
+- 
+ 
+ - 
+
+- 
+ 
+ ) 
+ 
+ ) 
+
+Balances, July 31, 2022 
+
+- 
+ 
+ - 
+
+) 
+ 
+ - 
+
+The
+accompanying notes are an integral part of these audited financial statements. 
+
+- F5 - 
+
+Table of Contents 
+
+ Ultimate Holdings Group, Inc. 
+
+ Statements of Cash Flows 
+
+Year Ended July 31, 2022 
+
+For the Period 
+ July 30, 2021 
+ (Inception) to 
+ July 31, 2021 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net loss 
+ 
+ ) 
+ 
+ ) 
+ 
+ Changes in current assets and liabilities: 
+
+Accrued expenses 
+ 
+ ) 
+
+Net cash used in operating activities 
+ 
+ ) 
+ 
+ ) 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Expenses contributed to capital 
+
+Net cash used in financing activities 
+
+Net change in cash 
+ 
+ - 
+ 
+ - 
+ 
+ Beginning cash balance 
+ 
+ - 
+ 
+ - 
+ 
+ Ending cash balance 
+ 
+ - 
+ 
+ - 
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION: 
+
+Interest paid 
+ 
+ - 
+ 
+ - 
+ 
+ Income taxes paid 
+ 
+ - 
+ 
+ - 
+
+The accompanying
+notes are an integral part of these financial statements. 
+
+- F6 - 
+
+Table of Contents 
+
+Ultimate Holdings Group, Inc. 
+
+ Notes to the Audited Financial Statements 
+
+- F8 - 
+
+Table of Contents 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting
+and Financial Disclosure. 
+
+None. 
+
+Item 9A Controls and Procedures. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We maintain disclosure controls and procedures, as such
+term is defined in Rule 13a-15e and Rule 15d-15(e) under the Exchange Act that are designed to ensure that information required to be
+disclosed in our reports filed under the Exchange Act is recorded, processed, summarized and reported within the time periods specified
+in the SEC's rules and forms, and that such information is accumulated and communicated to our management, which at this time consists
+solely of our officer and director, Thomas DeNunzio. 
+
+As of July 31, 2022, the end of the year covered
+by this Report, we carried out an evaluation, under the supervision of Mr. DeNunzio, our Chief Executive Officer and Chief Financial
+Officer, of the effectiveness of the design and the operation of our disclosure controls and procedures. Mr. DeNunzio concluded that
+the disclosure controls and procedures were not effective as of the end of the year covered by this Report due to material weaknesses
+identified below. 
+
+Management s Annual Report on Internal Control Over Financial
+Reporting 
+
+Our management, comprised solely of Thomas DeNunzio,
+is responsible for establishing and maintaining adequate internal control over our financial reporting (as defined in Rule 13a-15(f)
+under the Exchange Act). Internal control over financial reporting is a process, including policies and procedures, designed to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external reporting
+purposes in accordance with U.S. generally accepted accounting principles. Our management assessed our internal control over financial
+reporting using the criteria in Internal Control Integrated Framework (2013), issued by the Committee of Sponsoring Organizations
+of the Treadway Commission COSO ). A system of internal control over financial reporting is designed to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles. Because of its inherent limitations, internal control over financial reporting may not
+prevent or detect misstatements. 
+
+Based on our evaluation under the framework in COSO,
+our management concluded that our internal control over financial reporting was ineffective as of July 31, 2022 based on such criteria.
+Deficiencies existed in the design or operation of our internal control over financial reporting that adversely affect our internal controls
+and that may be considered material weaknesses. A material weakness is a significant deficiency, or combination of deficiencies, in internal
+control over financial reporting that results in more than a remote likelihood that a material misstatement of the annual or interim
+financial statements will not be prevented or detected. As a result of the determination that there was a lack of resources to provide
+segregation of duties consistent with control objectives, the lack of a formal audit committee, and the lack of a formal review process
+that includes multiple levels of review over financial disclosure and reporting processes, management has determined that material weaknesses
+existed as of July 31, 2022. 
+
+The weaknesses and the related risks are not uncommon
+in a company of our size because of the limitations in the size and number of our staff. To address these material weaknesses, and subject
+to the receipt of additional financing or cash flows, we intend to undertake remediation measures to address the material weaknesses
+described in this Report, including implementing procedures pursuant to which we can ensure segregation of duties and hire additional
+resources to ensure appropriate review and oversight. 
+
+A control system, no matter how well conceived and
+operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met under all potential
+conditions, regardless of how remote, and may not prevent or detect all errors and all fraud. Because of the inherent limitations in
+all control systems, no evaluation of controls can provide absolute assurance that all control issues, if any, within the Company have
+been detected. These inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can
+occur because of a simple error or mistake. Our internal control over financial reporting is designed to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles. 
+
+Auditor s Report on Internal Control Over Financial Reporting 
+
+This Report does not include an attestation report
+of our independent registered public accounting firm regarding internal control over financial reporting. Management s report was
+not subject to attestation by our independent registered public accounting firm pursuant to the rules of the SEC that permit us to provide
+only management s report in this Report. 
+
+Changes in Internal Control Over Financial Reporting 
+
+There have been no changes in our internal control
+over financial reporting (as that term is defined in Rules 13(a)-15(f) and 15(d)-15(f) of the Exchange Act) that have occurred during
+the fourth quarter ended July 31, 2022 that have materially affected, or are reasonably likely to materially affect, our internal control
+over financial reporting. 
+
+Item 9B. Other Information. 
+
+None. 
+
+- 7 - 
+
+Table of Contents 
+
+PART III 
+
+Item 10. Directors, Executive
+Officers and Corporate Governance. 
+
+Each of our directors holds office until the next
+annual meeting of our stockholders or until his successor has been elected and qualified, or until his death, resignation, or removal.
+Our executive officers are appointed by our board of directors and hold office until their death, resignation, or removal from office. 
+
+Our current executive officers and directors and
+additional information concerning them are as follows: 
+
+Name 
+ 
+ Age 
+ 
+ Position(s) 
+
+Thomas
+ DeNunzio 
+ 
+ 61 
+ 
+ Chief
+ Executive Officer, Chief Financial Officer, and Director 
+
+Business Experience 
+
+The following is a brief account of the education
+and business experience of our executive officers and directors during at least the past five years, indicating their principal occupation
+during the period, the name and principal business of the organization by which they were employed, and certain of their other directorships: 
+
+Thomas DeNunzio, Chief Executive Officer, Chief
+Financial Officer, and Director 
+
+Thomas
+DeNunzio, age 61, acts as Chief Executive Officer, Chief Financial Officer, and Director for the
+Company since its formation on July 30, 2021. Mr. DeNunzio graduated from the University of Rhode Island in 1983 with a Bachelor of
+Science in Mechanical Engineering. From 2000 to Present he has consulted myriad businesses in going public and becoming reporting
+companies. From 2015 to present, he acts a senior consultant to V Financial Group, Inc. regarding mergers and acquisitions. In the
+last five years, Mr. DeNunzio was formerly the director and sole officer of blank check companies Milost International, Inc. fka
+Precise Acquisition, Inc., Big Time Holdings, Inc. fka Pristine Acquisition, Inc.,
+and Finest Acquisition, Inc. 
+
+ Although we do
+not believe that there are any direct conflicts of interest with Mr. DeNunzio s outside business activities, there can be no assurances
+that this will continue to be the case in the future. In the event of such conflicts, Mr. DeNunzio may not be able to devote as many
+hours to the issuer. At present, Mr. DeNunzio devotes approximately five (5) hours per week to the Company. 
+
+- 8 - 
+
+Table of Contents 
+
+Committees of the Board 
+
+We currently do not have nominating, compensation, or audit committees,
+or committees performing similar functions, nor do we have a written nominating, compensation, or audit committee charter. Our board
+of directors, comprised solely of Thomas DeNunzio, believes that it is not necessary to have such committees given our current size and
+the limited scope of our business. Currently, our board of directors is performing the functions of such committees. 
+
+In lieu of an Audit Committee, our board of directors, comprised solely
+of Thomas DeNunzio, is responsible for reviewing and making recommendations concerning the selection of outside auditors, reviewing the
+scope, results, and effectiveness of the annual audit of our financial statements and other services provided by our independent registered
+public accounting firm. Our board of directors, our Chief Executive Officer, and our Chief Financial Officer, all of whom are Thomas
+DeNunzio, review our internal accounting controls, practices, and policies. 
+
+Audit Committee Financial Expert 
+
+Our board of directors, comprised solely of Thomas
+DeNunzio, has determined that we do not have a board member that qualifies as an audit committee financial expert as defined
+in Item 407(d)(5) of Regulation S-K . We believe that given our current size and the limited scope of our business, retaining an independent
+director who would qualify as an audit committee financial expert would be overly costly and burdensome. We will consider establishing
+an Audit Committee, and identifying an individual to serve as an independent director and as the audit committee financial expert when
+so required. 
+
+Involvement in Certain Legal Proceedings 
+
+None of our executive officers and directors, comprised
+solely of Thomas DeNunzio, have been involved in or a party to any of the following events or actions during the past ten years: 
+
+1. 
+ Any petition
+ under the federal bankruptcy laws or any state insolvency laws filed by or against, or an appointment of a receiver, fiscal agent,
+ or similar officer by a court for the business or property of such person, a partnership in which such person was a general partner
+ at or within two years before the time of such filing, or any corporation or business association of which such person was an executive
+ officer either at or within two years prior to the time of such filing; 
+ 
+ 2. 
+ Any conviction in a criminal
+ proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+ 
+ 3. 
+ Being subject to any order,
+ judgment, or decree, not subsequently reversed, suspended, or vacated, of any court of competent jurisdiction, permanently or temporarily
+ enjoining, such person from, or otherwise limiting, the following activities: (i) acting as a futures commission merchant,
+ introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, any other person
+ regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment advisor,
+ underwriter, broker or dealer in securities, or as an affiliated person, director, or employee of any investment company, bank, savings
+ and loan association, or insurance company, or engaging in or continuing any conduct or practice in connection with such activity;
+ (ii) engaging in any type of business practice; or (iii) engaging in any activity in connection with the purchase or sale of any
+ security or commodity or in connection with any violation of federal or state securities laws or federal commodities laws; 
+ 
+ 4. 
+ Being the subject of any
+ order, judgment or decree, not subsequently reversed, suspended or vacated, of any federal or state authority barring, suspending
+ or otherwise limiting for more than 60 days the right of such person to engage in any activity described in paragraph (3)(i) above,
+ or to be associated with persons engaged in any such activity; 
+ 
+ 5. 
+ Being found by a court
+ of competent jurisdiction (in a civil action) or the SEC to have violated a Federal or State securities law, and the judgment has
+ not been subsequently reversed, suspended, or vacated; 
+ 
+ 6. 
+ Being found by a court
+ of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal commodities
+ law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed,
+ suspended, or vacated; 
+ 
+ 7. 
+ Being the subject of, or
+ a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended
+ or vacated, relating to an alleged violation of :(i) any Federal or State securities or commodities law or regulation; (ii) any law
+ or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction,
+ order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition
+ order; or (iii) any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+ 
+ 8. 
+ Being the subject of, or
+ a party to, any sanction or order, not subsequently reversed, suspended, or vacated, of any self-regulatory organization (as defined
+ in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity
+ Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority
+ over its members or persons associated with a member. 
+
+Code of Ethics 
+
+We have not adopted a formal Code of Ethics. We only
+have one employee, our sole officer and director, Thomas DeNunzio. In the event we commence operations, or the number of employees, number
+of officers, and/or number of directors increases in the future, we may take actions to adopt a formal Code of Ethics. 
+
+Nomination of Directors 
+
+As of September 30, 2022, we had not effected any
+material changes to the procedures by which our stockholders may recommend nominees to our board of directors. As of September 30, 2022,
+we do not have any stockholders. We do not have any defined policy or procedural requirements for stockholders to submit recommendations
+or nominations for directors. Our board of directors believes that, given the stage of our development, a specific nominating policy
+would be premature and of little assistance until our business operations develop to a more advanced level. We do not currently have
+any specific or minimum criteria for the election of nominees to our board of directors and we do not have any specific process or procedure
+for evaluating such nominees. Our board of directors will assess all candidates, whether submitted by management or future stockholders,
+and make recommendations for election or appointment. 
+
+When we have stockholders, a stockholder who wishes
+to communicate with our board of directors may do so by directing a written request addressed to the Company with the address appearing
+on the first page of this Report. 
+
+Delinquent Section 16(a) Reports 
+
+Section 16(a) of the Exchange Act requires the Company s
+executive officers, directors, and persons who beneficially own more than ten percent of a registered class of the Company s equity
+securities, to file with the SEC initial reports of ownership and reports of changes in ownership of the Company s common stock.
+ Such officers, directors, and persons are required by SEC regulation to furnish the Company with copies of all Section 16(a) forms
+that they file with the SEC. 
+
+Based solely on a review of the copies of such forms
+that were received by the Company, the Company is not aware of any failures to file reports or report transactions in a timely manner
+during the year ended July 31, 2022. 
+
+Family Relationships 
+
+There are no family relationships among our directors
+or executive officers. We have only one officer and director at this time. 
+
+Arrangements 
+
+There are no arrangements or understandings between
+an executive officer or director and any other person pursuant to which he was selected as an executive officer or director. 
+
+- 9 - 
+
+Table of Contents 
+
+Item 11. Executive Compensation. 
+
+The table below summarizes all compensation awarded
+to, earned by, or paid to our named executive officers, which is defined as follows: (i) all individuals serving as our principal executive
+officer during the year ended July 31, 2021 and or July 31, 2022; (ii) each of our two most highly compensated executive officers who
+were serving as executive officers at the end of the year ended July 31, 2021 and or July 31, 2022; and (iii) up to two additional individuals
+for whom disclosure would have been required but for the fact that the individual was not serving as an executive officer as of the end
+of the year ended July 31, 2021 and or July 31, 2022. 
+
+Name
+ and 
+ principal position 
+ Fiscal
+ Year Ended July 31, 
+ Salary 
+ ) 
+ Bonus 
+ ) 
+ 
+ Stock 
+ Awards 
+ ) 
+ Option 
+ Awards 
+ ) 
+ Non-Equity 
+ Incentive Plan 
+ Compensation 
+ ) 
+ Nonqualified 
+ Deferred 
+ Compensation 
+ Earnings ) 
+ All
+ Other 
+ Compensation 
+ ) 
+ Total 
+ ) 
+ 
+ Thomas
+ DeNunzio, President, CEO, CFO, and Director 
+ 2021 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+2022 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+Outstanding Equity Awards at Fiscal Year-End 
+
+We had no outstanding equity awards at the year ended July 31, 2022. 
+
+Potential Payments Upon Termination or Change-of-Control 
+
+None of our named executive officers are entitled
+to any payments upon termination or change-of-control. 
+
+Retirement or Similar Benefit Plans 
+
+There are no arrangements or plans in which we provide
+retirement or similar benefits for our directors or executive officers. 
+
+Employment Agreements 
+
+We have no employment agreements with any of our named executive officers. 
+
+Compensation of Directors 
+
+We did not pay any of our directors any compensation
+during the fiscal year ended July 31, 2022, whether in their capacity as a named executive officer or as a director. 
+
+- 10 - 
+
+Table of Contents 
+
+Item 12. Security Ownership
+of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The following table sets forth, as of September 30,
+2022, the number of shares of common stock owned of record and beneficially by (i) each of our current directors, (ii) each of our named
+executive officers, (iii) our directors and executive officers as a group, and (iv) each stockholder known by us to be the beneficial
+owner of more than 5 of our outstanding common stock. Beneficial ownership has been determined in accordance with the rules and regulations
+of the SEC and includes voting or investment power with respect to shares. Unless otherwise indicated, the persons named in the table
+have sole voting and investment power with respect to the number of shares indicated as beneficial owned by them. 
+
+Name
+ and Address 
+ 
+ Amount
+ and Nature of 
+ Beneficial Ownership (Common Stock) (1) 
+ 
+ Percentage 
+ of Class (1) 
+
+Executive
+ Officers and Directors 
+ 
+ N/A 
+ 
+ N/A 
+
+Thomas
+ DeNunzio (2) 
+ 780
+ Reservoir Ave #123, Cranston, RI 02910 
+ 
+ N/A 
+ 
+ N/A 
+
+_________________________________________ 
+
+(1) There are no shares of common or
+preferred stock issued and outstanding as of the date of this report. 
+
+ (2) Thomas DeNunzio serves as Chief Executive
+Officer, Chief Financial Officer, and sole Director of the Company. 
+
+We have no shares of common or preferred shares issued and outstanding
+as of September 30, 2022. 
+
+Changes in Control 
+
+We do not know of any arrangements that may, at a
+subsequent date, result in a change in control. 
+
+Item 13. Certain Relationships
+and Related Transactions. 
+
+The Company s sole officer
+and director, Thomas DeNunzio, paid expenses on behalf of the company totaling 8,635 during the year ended July 31, 2022. 
+
+The Company s sole officer
+and director, Thomas DeNunzio, paid expenses on behalf of the company totaling 960 during the year ended July 31, 2021. 
+
+The 9,595 in total payments are
+considered contributions to the company with no expectation of repayment and are posted as additional paid-in capital. 
+
+We utilize the home office space and equipment of our management at no
+cost. 
+
+- 11 - 
+
+Table of Contents 
+
+Director Independence 
+
+We are not listed on any exchange that requires directors to be independent.
+We have not: 
+
+Established
+ our own definition for determining whether our directors or nominees for directors are independent, nor have we adopted
+ any other standard of independence employed by any national securities exchange or inter-dealer quotation system, though our current
+ directors would not be deemed to be independent under any applicable definition given that they are officers of the
+ Company; nor 
+
+Established
+ any committees of our board of directors. 
+
+Item 14. Principal Accounting
+Fees and Services. 
+
+Below is the approximate aggregate amount
+of fees billed for professional services rendered by our principal accountants with respect to the year ended July 31, 2022, and July
+31, 2021 respectively. 
+
+2022 
+ 
+ 2021 
+
+Audit
+ and review fees 
+ BF Borgers CPA PC 
+ 
+ 6,500 
+ 
+ 3,750 
+
+Audit-related
+ fees 
+
+- 
+ 
+ - 
+
+Tax
+ fees 
+
+- 
+ 
+ - 
+
+All
+ other fees 
+
+- 
+ 
+ - 
+
+Total 
+
+6,500 
+ 
+ 3,750 
+
+Pre-Approval Policies and Procedures 
+
+Currently, we do not have a separately designed Audit
+Committee. Instead, our entire board of directors performs those functions. Accordingly, our board of directors was response for pre-approving
+all services provided by our independent registered public accounting firm. The above fees were reviewed and approved by our board of
+directors before the services were rendered. 
+
+- 12 - 
+
+Table of Contents 
+
+PART IV 
+
+Item 15. Exhibits, Financial Statement Schedules. 
+
+(a) Financial Statements 
+
+1. Our financial statements are listed in
+the index under Item 8 of this document; and 
+
+2. All financial statement schedules are
+omitted because they are not applicable, not material or the required information is shown in the financial statements or notes thereto. 
+
+(b) Exhibits required by Item 601 of Regulation S-K. 
+
+Exhibit
+ No. 
+ 
+ Description 
+ 
+ 3.1 
+ 
+ Certificate of Incorporation (1) 
+
+3.2 
+ 
+ By-laws 
+ (1) 
+
+31 
+ 
+ Certification
+ of the Company s Principal Executive and Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act
+ of 2002, with respect to the registrant s report on Form 10-K for the year ended July 31, 2022 (2) 
+
+32 
+ 
+ Certification
+ of the Company s Principal Executive and Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted
+ pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (2) 
+
+101.INS 
+ 
+ XBRL
+ Instance Document (3) 
+
+101.SCH 
+ 
+ XBRL
+ Taxonomy Extension Schema (3) 
+
+101.CAL 
+ 
+ XBRL
+ Taxonomy Extension Calculation Linkbase (3) 
+
+101.DEF 
+ 
+ XBRL
+ Taxonomy Extension Definition Linkbase (3) 
+
+101.LAB 
+ 
+ XBRL
+ Taxonomy Extension Label Linkbase (3) 
+
+101.PRE 
+ 
+ XBRL
+ Taxonomy Extension Presentation Linkbase (3) 
+
+(1) 
+ Filed
+ as an exhibit to the Company's Registration Statement on Form 10-12G/A, as filed with the SEC on December 9, 2021 and incorporated
+ herein by this reference. 
+ 
+ (2) 
+ Filed
+ herewith. 
+ 
+ (3) 
+ Users
+ of this data are advised that, pursuant to Rule 406T of Regulation S-T, these interactive data files are deemed not filed
+ or part of a registration statement or Annual Report for purposes of Sections 11 or 12 of the Securities Act of 1933 or Section
+ 18 of the Exchange Act of 1934 and otherwise are not subject to liability. 
+
+Item 16. Form 10-K Summary. 
+
+None. 
+
+Signatures 
+
+Pursuant to the requirements of Section 13 or 15(d)
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized. 
+
+Ultimate Holdings Group, Inc. 
+
+By: /s/ Thomas DeNunzio 
+
+ Thomas DeNunzio 
+
+ Chief Executive Officer and Chief Financial Officer, 
+
+ (Principal Executive Officer and Principal Financial
+Officer) 
+
+ Dated: September 30, 2022 
+
+In accordance with the Exchange Act, this report has
+been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+By: /s/ Thomas DeNunzio 
+
+ Thomas DeNunzio 
+
+ Chief Executive Officer, and Chief Financial
+Officer 
+
+ (Principal Executive Officer and Principal Financial Officer) 
+
+ Dated: September 30, 2022 
+
+- 13 - 
+
+<EX-31>
+ 2
+ exhibit31.htm
+ EX-31
+
+EXHIBIT 31.1 
+
+Ultimate Holdings Group, INC. 
+
+ OFFICER'S CERTIFICATE PURSUANT TO SECTION 302 
+
+I, Thomas DeNunzio, certify that: 
+
+1. I have reviewed this report on Form 10-K of Ultimate Holdings Group, Inc.; 
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the small business issuer as of, and for, the periods presented in this report; 
+
+ 4. The small business issuer s other certifying officer
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+small business issuer and have: 
+
+ a. Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the
+small business issuer, including its consolidated subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+ b. Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+ c. Evaluated the effectiveness of the small business issuer's
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls
+and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+ d. Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant s fourth
+fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and 
+
+ 5. The small business owner s other certifying officer
+and I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the small business issuer's
+auditors and the audit committee of the small issuer's board of directors (or persons performing the equivalent functions): 
+
+ a. All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are reasonably likely to adversely affect the small business
+issuer's ability to record, process, summarize and report financial information; and 
+
+ b. Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the small business issuer's internal control over financial reporting. 
+
+Dated: October 3, 2022 
+
+By: /s/ Thomas DeNunzio 
+
+ Thomas DeNunzio, 
+
+Chief Executive
+Officer 
+
+ (Principal
+Executive Officer) 
+
+EXHIBIT 31.2 
+
+Ultimate Holdings Group, INC. 
+
+ OFFICER'S CERTIFICATE PURSUANT TO SECTION 302 
+
+I, Thomas DeNunzio, certify
+that: 
+
+1. I have reviewed this report on Form 10-K of Ultimate Holdings Group, Inc.; 
+
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the small business issuer as of, and for, the periods presented in this report; 
+
+ 4. The small business issuer s other certifying officer
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+small business issuer and have: 
+
+ a. Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the
+small business issuer, including its consolidated subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+ b. Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+ c. Evaluated the effectiveness of the small business issuer's
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls
+and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+ d. Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant s fourth
+fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant's internal control over financial reporting; and 
+
+ 5. The small business owner s other certifying officer
+and I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the small business issuer's
+auditors and the audit committee of the small issuer's board of directors (or persons performing the equivalent functions): 
+
+ a. All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are reasonably likely to adversely affect the small business
+issuer's ability to record, process, summarize and report financial information; and 
+
+ b. Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the small business issuer's internal control over financial reporting. 
+
+Dated: October 3, 2022 
+
+By: /s/ Thomas DeNunzio 
+
+ Thomas DeNunzio, 
+
+ Chief Financial
+Officer 
+
+ (Principal
+ Financial Officer) 
+
+</EX-31>
+
+<EX-32>
+ 3
+ exhibit32.htm
+ EX-32
+
+EXHIBIT 32.1 
+
+Ultimate Holdings Group, INC. 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF 
+
+ THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Ultimate Holdings Group, Inc. (the Company)
+on Form 10-K for the fiscal year ended July 31, 2022 as filed with the Securities and Exchange Commission on the date
+hereof (the Report), I, Thomas DeNunzio, Principal Executive Officer of the Company, certify, pursuant to 18 U.S.C. ss.1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents, in
+all material respects, the financial condition and results of operations of the Company. 
+
+A signed original of this written statement required
+by Section 906 has been provided to Thomas DeNunzio
+and will be retained by Ultimate Holdings Group, Inc. and furnished to the Securities and Exchange Commission or its
+staff upon request. 
+
+Dated: October 3, 2022 
+
+By: /s/ Thomas DeNunzio 
+
+ Thomas DeNunzio, 
+
+Chief Executive Officer 
+
+ (Principal Executive Officer) 
+
+EXHIBIT 32.2 
+
+Ultimate Holdings Group, INC. 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF 
+
+ THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Ultimate Holdings Group, Inc. (the Company) on
+Form 10-K for the fiscal year ended July 31, 2022 as filed with the Securities and Exchange Commission on the date
+hereof (the Report), I, Thomas DeNunzio, Principal
+Financial Officer of the Company, certify, pursuant to 18 U.S.C. ss.1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents, in
+all material respects, the financial condition and results of operations of the Company. 
+
+A signed original of
+this written statement required by Section 906 has been provided to Thomas DeNunzio and will
+be retained by Ultimate Holdings Group, Inc. and furnished to the Securities and Exchange
+Commission or its staff upon request. 
+
+Dated: October 3, 2022 
+
+By: /s/ Thomas DeNunzio 
+
+ Thomas DeNunzio, 
+
+ Chief Financial
+Officer 
+
+ (Principal Financial Officer) 
+
+</EX-32>
+
+<EX-101.SCH>
+ 4
+ ultimate-20220731.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ ultimate-20220731_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ ultimate-20220731_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ ultimate-20220731_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

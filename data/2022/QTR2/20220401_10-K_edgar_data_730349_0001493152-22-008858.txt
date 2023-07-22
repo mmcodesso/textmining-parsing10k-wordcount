@@ -1,0 +1,3596 @@
+<Header>
+<FileStats>
+    <FileName>20220401_10-K_edgar_data_730349_0001493152-22-008858.txt</FileName>
+    <GrossFileSize>3466145</GrossFileSize>
+    <NetFileSize>155293</NetFileSize>
+    <NonText_DocumentType_Chars>671534</NonText_DocumentType_Chars>
+    <HTML_Chars>990926</HTML_Chars>
+    <XBRL_Chars>690372</XBRL_Chars>
+    <XML_Chars>872256</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-22-008858.hdr.sgml : 20220401
+<ACCEPTANCE-DATETIME>20220401164724
+ACCESSION NUMBER:		0001493152-22-008858
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		59
+CONFORMED PERIOD OF REPORT:	20220101
+FILED AS OF DATE:		20220401
+DATE AS OF CHANGE:		20220401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TOFUTTI BRANDS INC
+		CENTRAL INDEX KEY:			0000730349
+		STANDARD INDUSTRIAL CLASSIFICATION:	ICE CREAM & FROZEN DESSERTS [2024]
+		IRS NUMBER:				133094658
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0101
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09009
+		FILM NUMBER:		22799011
+
+	BUSINESS ADDRESS:	
+		STREET 1:		50 JACKSON DR
+		STREET 2:		PO BOX 786
+		CITY:			CRANFORD
+		STATE:			NJ
+		ZIP:			07016
+		BUSINESS PHONE:		9082722400
+
+	MAIL ADDRESS:	
+		STREET 1:		50 JACKSON DRIVE
+		STREET 2:		PO BOX 786
+		CITY:			CRANFORD
+		STATE:			NJ
+		ZIP:			07016
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TOFU TIME INC
+		DATE OF NAME CHANGE:	19860619
+
+</SEC-Header>
+</Header>
+
+ 0001493152-22-008858.txt : 20220401
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+Form
+
+ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934. 
+
+For
+ the fiscal year ended , 
+
+TRANSITION
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934. 
+
+Commission
+File Number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction 
+ of
+ incorporation or organization 
+ 
+ (I.R.S. Employer 
+ Identification No.) 
+
+, , 
+
+(Address of principal executive offices) 
+ 
+ (Zip Code) 
+
+(Registrant s
+telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: None 
+
+Securities
+registered pursuant to Section 12(g) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+
+None 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+Yes
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. 
+
+No 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (232.405 of this chapter) during the preceding 12 months
+(or for such shorter period that the registrant was required to submit and post such files). No 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (229.405 of this chapter) is not contained herein,
+and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company,
+or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+ 
+ (Do not check if a smaller reporting company) 
+ 
+ Smaller
+ reporting company 
+ Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.) 
+
+ Yes
+
+The
+aggregate market value of the voting stock held by non-affiliates of the Registrant as of the most recently completed second fiscal quarter:
+
+As
+of April 1, 2022, the issuer had shares of common stock, par value 0.01, outstanding. 
+
+TABLE
+OF CONTENTS 
+
+PART
+ I 
+ 
+ 4 
+ 
+ Item
+ 1. 
+ Business. 
+ 4 
+ 
+ Item
+ 1A. 
+ Risk
+ Factors. 
+ 11 
+ 
+ Item
+ 1B. 
+ Unresolved
+ Staff Comments. 
+ 20 
+ 
+ Item
+ 2. 
+ Properties. 
+ 21 
+ 
+ Item
+ 3. 
+ Legal
+ Proceedings. 
+ 21 
+ 
+ Item
+ 4. 
+ Mine
+ Safety Disclosures. 
+ 21 
+ 
+ PART
+ II 
+ 
+ 21 
+ 
+ Item
+ 5. 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 21 
+ 
+ Item
+ 6. 
+ Reserved. 
+ 22 
+ 
+ Item
+ 7. 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations. 
+ 22 
+ 
+ Item
+ 7A. 
+ Quantitative
+ and Qualitative Disclosures about Market Risk. 
+ 29 
+ 
+ Item
+ 8. 
+ Financial
+ Statements and Supplementary Data. 
+ 30 
+ 
+ Item
+ 9. 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 31 
+ 
+ Item
+ 9A. 
+ Controls
+ and Procedures. 
+ 31 
+ 
+ Item
+ 9B. 
+ Other
+ Information. 
+ 32 
+ 
+ Item
+ 9C. 
+ Disclosure
+ Regarding Foreign Jurisdictions that Prevent Inspections. 
+ 32 
+ 
+ PART
+ III 
+ 
+ 33 
+ 
+ Item
+ 10. 
+ Directors,
+ Executive Officers and Corporate Governance. 
+ 33 
+ 
+ Item
+ 11. 
+ Executive
+ Compensation. 
+ 35 
+ 
+ Item
+ 12. 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 37 
+ 
+ Item
+ 13. 
+ Certain
+ Relationships and Related Transactions, and Director Independence. 
+ 38 
+ 
+ Item
+ 14. 
+ Principal
+ Accounting Fees and Services. 
+ 38 
+ 
+ PART
+ IV 
+
+Item
+ 15. 
+ Exhibits,
+ Financial Statement Schedules. 
+ 39 
+ 
+ Item
+ 16. 
+ Form
+ 10-K Summary. 
+ 40 
+ 
+ SIGNATURES 
+ 
+ 41 
+
+2 
+
+INTRODUCTION 
+
+We
+are engaged in the development, production and marketing of TOFUTTI brand dairy free, vegan frozen desserts, cheeses and other food
+products. TOFUTTI products are soy and other vegetable protein-based, vegan, dairy free products which contain no butterfat, cholesterol
+or lactose. 
+
+As
+used in this annual report, the terms we, us and our mean Tofutti Brands Inc., unless otherwise
+indicated. Statements made in this annual report concerning the contents of any contract, agreement or other document are summaries of
+such contracts, agreements or documents and are not complete descriptions of all of their terms. If we filed any of these documents as
+an exhibit to this annual report or to any previous filling with the Securities and Exchange Commission, you may read the document itself
+for a complete recitation of its terms. 
+
+Except
+for the historical information contained in this annual report, the statements contained in this annual report are forward-looking
+statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange
+Act of 1934, or the Exchange Act, as amended, and the Private Securities Litigation Reform Act of 1995, as amended, with respect to our
+business, financial condition and results of operations. Such forward-looking statements reflect our current view with respect to future
+events and financial results. We urge you to consider that statements which use the terms anticipate, believe, 
+ do not believe, expect, plan, intend, estimate, anticipate 
+and similar expressions are intended to identify forward-looking statements. We remind readers that forward-looking statements are merely
+predictions and therefore inherently subject to uncertainties and other factors and involve known and unknown risks that could cause
+the actual results, performance, levels of activity, or our achievements, or industry results, to be materially different from any future
+results, performance, levels of activity, or our achievements expressed or implied by such forward-looking statements. Such forward-looking
+statements are also included in Item 1. Business and Item 7. Management s Discussion and Analysis of Financial
+Condition and Results of Operations. Readers are cautioned not to place undue reliance on these forward-looking statements, which
+speak only as of the date hereof. We undertake no obligation to update or revise any forward-looking statements to reflect new information,
+future events or circumstances, or otherwise after the date hereof. We have attempted to identify significant uncertainties and other
+factors affecting forward-looking statements in the Risk Factors section that appears in Item 1A. Risk Factors. 
+
+We
+operate on a fiscal year ending on the Saturday closest to December 31. Fiscal years for the financial statements included herein are
+the fifty-two week period ended January 1, 2022 (fiscal 2021) and the fifty-three week period ended January 2, 2021 (fiscal 2020). 
+
+3 
+
+PART
+I 
+
+Item
+ 1. 
+ Business. 
+
+GENERAL 
+
+We
+are engaged in the development, production and marketing of TOFUTTI brand dairy free, vegan frozen dessert and cheese products.
+All TOFUTTI products are vegan, dairy free, contain no butterfat or cholesterol and use soy and other vegetable proteins. Our products
+are 100 dairy free yet offer the same texture and full-bodied taste as their dairy counterparts. Our products are also free of cholesterol
+and derive their fat from corn and palm oils, each naturally lower in saturated fat than dairy products. All of our products are completely
+vegan and our vegan cheese products are gluten free as well. In addition, all of our products are certified kosher-parve and all of our
+vegan cheese products are also certified halal. 
+
+We
+were organized under the laws of the State of New York in 1981 and became a Delaware corporation in 1984. Our registered office and principal
+executive offices are located at 50 Jackson Drive, Cranford, New Jersey 07016, our telephone number is 908-272-2400. Our internet website
+address is www.tofutti.com. The information on our website is not incorporated by reference into this annual report. 
+
+STRATEGY 
+
+Our
+objective is to be a leading provider of dairy free, vegan food products, primarily cheese products and frozen desserts, to supermarkets,
+health food stores, and food service customers in the United States and abroad. We intend to continue to introduce new products that
+offer good taste while containing no butterfat, cholesterol or dairy to these markets. 
+
+We
+focus our marketing efforts towards those consumers who find our products essential to their everyday diets because of health,
+lifestyle or religious reasons. As part of this strategy, we seek to achieve brand awareness through product innovation, eye-catching
+packaging, trade advertising, and a strong word-of-mouth marketing program. We believe that our ability to offer a wide range of dairy
+free, vegan, and kosher-parve products will continue to provide us with a competitive advantage. 
+
+TOFUTTI
+PRODUCT LINE 
+
+We
+offer a broad product line of vegan, dairy free products that use soy or other vegetable-based proteins. Our dairy free products include
+cheeses, frozen desserts, and spreads. 
+
+Dairy
+Free Vegan Cheese Products 
+
+BETTER
+ THAN CREAM CHEESE is similar in taste and texture to traditional cream cheese, but is dairy free, butterfat-free, gluten-free
+ and contains no cholesterol. It is as versatile as real cream cheese, whether spread on a bagel, used as a dip for snack items, such
+ as crackers or chips, or used in any favorite recipe. BETTER THAN CREAM CHEESE comes in three flavors, plain, Herb Chives,
+ and Garlic Herb that are available in 8 oz. retail packages. The plain comes in 5 lb. containers and 30 lb. bulk boxes for
+ food service customers. 
+
+4 
+
+TOFUTTI
+ WHIPPED BETTER THAN CREAM CHEESE is the whipped version of our original BETTER THAN CREAM CHEESE available in a 14 oz.
+ container. It is available in many supermarkets and health food stores. 
+
+BETTER
+ THAN SOUR CREAM is similar in taste and texture to traditional sour cream, but is dairy free, butterfat-free, gluten-free
+ and contains no cholesterol. BETTER THAN SOUR CREAM has the versatility of sour cream with the added benefit of being dairy
+ free. The 12 oz. retail packages are available in plain and guacamole. The plain version is also available in 5 lb. containers for
+ food service customers. Like BETTER THAN CREAM CHEESE, BETTER THAN SOUR CREAM is available nationally in many health food
+ stores, select supermarkets and food service outlets. 
+
+TOFUTTI
+ DIPPITY DO DAH DIPS incorporate our BETTER THAN SOUR CREAM with three exciting flavors for use as dips for snacking. Those
+ flavors are Roasted Garlic, Garden Cucumber, and French Onion and are available in 12 oz. retail containers. 
+
+TOFUTTI
+ AMERICAN VEGAN CHEESE SLICES offer consumers a delicious dairy free, gluten-free, vegan alternative to regular cheese
+ slices and contain no trans fatty acids. Available as individually wrapped slices in 8 oz. packages, TOFUTTI AMERICAN VEGAN CHEESE
+ SLICES are sold in most health food stores and select supermarkets. 
+
+BETTER
+ THAN RICOTTA CHEESE , our dairy free ricotta cheese alternative, offers consumers a dairy-free and gluten-free
+ alternative that tastes and works just like real ricotta cheese in all their favorite recipes. Available in 14 oz. retail
+ containers, BETTER THAN RICOTTA is available nationally in supermarkets and health food stores. 
+
+Frozen
+Desserts 
+
+Premium
+ TOFUTTI dairy free frozen dessert, available in pre-packed pints, three-gallon cans, and soft serve mix, is sold nationally
+ in supermarkets, health food stores, retail shops, and restaurants. Premium TOFUTTI was the first dairy free frozen dessert
+ to be marketed to the general public through supermarkets. We currently offer six flavors of premium, hard frozen TOFUTTI in
+ pints, three flavors in three-gallon bulk cans and one soft-serve flavor. 
+
+TOFUTTI
+ CUTIES , our best-selling frozen dessert product, are bite size frozen sandwiches combining a choice of one of
+ three different fillings between two chocolate wafers. Half the size of traditional ice cream sandwiches, TOFUTTI CUTIES offer
+ consumers a portion-controlled treat. Unlike ice cream sandwiches, CUTIES are totally dairy free, without butterfat
+ or cholesterol, yet with the same great taste that makes ice cream sandwiches one of the bestselling novelties in the freezer case.
+ Tofutti Cuties come in three flavors: vanilla, chocolate and mint chocolate chip. 
+
+5 
+
+MARKETING
+AND DISTRIBUTION 
+
+TOFUTTI
+products are sold and distributed across the United States and internationally, and can be found in gourmet specialty shops, kosher supermarkets,
+natural/health food stores, and national and regional supermarket chains. Our products are sold by independent unaffiliated food
+brokers to distributors and sometimes on a direct basis to retail chain accounts or to warehouse accounts that directly service chain
+accounts. Such direct accounts include Safeway/Albertsons, Fred Meyer, DeMoulas/Market Basket, and Wakefern Food Corp. Food brokers act
+as our agents within designated territories or for specific accounts and receive commissions, which average 5 of net collected sales.
+Certain key domestic, kosher, and food service accounts and all international accounts are handled directly by us. Our products are also
+sold in approximately fifteen other countries. 
+
+We
+currently sell our dairy-free vegan cheese products and frozen dessert products in most major markets in the United States, including
+Atlanta, Baltimore, Boston, Charlotte, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detroit, Houston, Jacksonville, Kansas City, Los
+Angeles, Miami, Milwaukee, Minneapolis, Nashville, New York, Orlando, Philadelphia, Phoenix, Portland, Richmond, Salt Lake City, San
+Diego, San Francisco, Seattle, St. Louis, Tampa and Washington, D.C. 
+
+We
+currently distribute most of our products by allowing customers to pick-up products from outside storage facilities. We do not own, lease
+or otherwise maintain any vehicles involved in the shipping of our products. From our co-packing facilities, we either ship direct to
+our customers or we ship to outside public storage facilities from where our customers are able to pick up their orders. Use of outside
+storage facilities in several key locations in the United States allows us to provide our customers with products in a timely fashion.
+Currently, we use two warehouses in New Jersey, one for our frozen dessert and one for our cheese products, and one
+warehouse in northern California for both categories of products. 
+
+In
+addition to ice cream and cheese distributors, our products are handled by most major national and regional natural and/or gourmet specialty
+distributors in the country. We distribute our products through approximately forty (40) distributors to the national health food market. 
+
+Our
+sales to health food accounts in fiscal 2021 decreased to 6,404,000, or 51 of total sales, from approximately 7,643,000, or 55 of
+total sales in fiscal 2020. Our sales to the kosher market increased to 789,000, or 6 of sales, in fiscal 2021, from sales of approximately
+to 678,000, or 6 of sales, in fiscal 2020. 
+
+6 
+
+The
+following table presents the geographical breakdown of our sales in our largest domestic markets for the last two fiscal years. 
+
+Fiscal Year ended January 1, 2022 
+ Fiscal Year ended January 2, 2021 
+
+Sales 
+ of total Sales 
+ Sales 
+ of total Sales 
+
+(Dollars in thousands) 
+ 
+ Metropolitan New York 
+ 2,368 
+ 19 
+ 1,600 
+ 12 
+ 
+ California 
+ 1,934 
+ 15 
+ 2,333 
+ 17 
+ 
+ Midwest 
+ 1,756 
+ 14 
+ 2,198 
+ 16 
+ 
+ Northwest 
+ 832 
+ 7 
+ 816 
+ 6 
+ 
+ Mid-Atlantic 
+ 793 
+ 6 
+ 1,380 
+ 10 
+ 
+ Florida 
+ 712 
+ 6 
+ 790 
+ 6 
+ 
+ New England 
+ 576 
+ 5 
+ 647 
+ 5 
+ 
+ Upstate New York 
+ 574 
+ 5 
+ 782 
+ 6 
+ 
+ Southwest 
+ 570 
+ 5 
+ 615 
+ 4 
+ 
+ Southeast 
+ 410 
+ 3 
+ 651 
+ 5 
+ 
+ Rocky Mountains 
+ 258 
+ 2 
+ 324 
+ 2 
+
+During
+fiscal 2021, we shipped our products to distributors in Australia, Canada, Egypt, Estonia, the UK, France, Israel, Mexico, and Panama.
+Sales to foreign distributors increased to 1,594,000, or 13 of sales, in fiscal 2021, from 1,470,000, or 11 of sales, in fiscal 2020.
+Our export business is still being negatively impacted by the bankruptcy in December 2019 of our long-term UK distributor and various
+COVID-19 supply chain issues in certain foreign countries. We conduct all of our foreign business in U.S. dollars. Accordingly, our future
+export sales could be adversely affected by an increase in the value of the U.S. dollar against local currencies, which could increase
+the local currency price of our products. 
+
+COMPETITION 
+
+TOFUTTI
+frozen desserts compete with all forms of ice cream products, yogurt-based desserts and other plant-based frozen desserts. We believe
+that we are a leader in the dairy free frozen dessert product market and offer the most complete line of dairy free frozen dessert products.
+Other plant-based frozen dessert products are presently being sold throughout the United States by established distributors of ice cream
+and other frozen dessert products. Similarly, our cheese products compete with all types of cheese products, both vegan and dairy. The
+cheese and frozen dessert categories are highly competitive and most companies with whom we compete are substantially larger and have
+significantly greater resources than us. Our products face substantial competition from dairy free and dairy products marketed
+by companies with significantly greater resources than we have. 
+
+In
+most product categories, we compete not only with widely advertised branded products, but also with generic and private label products
+that are generally sold at lower prices. Competition in our product categories is based on product innovation, product quality, price,
+brand recognition and loyalty, effectiveness of marketing, promotional activity, and the ability to identify and satisfy consumer preferences.
+Our market share and ability to grow our revenue could also be adversely impacted if we are not successful in introducing innovative
+products in response to changing consumer demands or by new product introductions of our competitors. If we are unable to build and sustain
+brand equity by offering recognizably superior product quality, we may be unable to maintain premium pricing over competitive products.
+We believe that we are able to compete effectively due to our ability to offer an array of vegan cheese products, and dairy free frozen
+desserts that contain no butterfat, cholesterol or dairy, yet offer the same texture and full-bodied taste as their dairy counterparts. 
+
+PRODUCT
+DEVELOPMENT 
+
+All
+of our current products were developed by us in our own laboratory. In fiscal 2021 and 2020, our product development expenses were approximately
+ 124,000 and 240,000, respectively. Our product development expenses decreased sharply in 2020, and again in 2021, as a result of precautions
+taken to prevent the spread of COVID-19 within our company. We do not intend to reopen the laboratory to its previous level of
+operations. However, all required quality control requirements are still being performed as needed. All product development costs are
+expensed as incurred and are recorded as operating expenses in our financial statements. 
+
+7 
+
+PRODUCTION 
+
+We
+believe that all of our products are produced under the strictest quality control procedures that are available in each manufacturing
+facility used by us. These quality control procedures include, but are not limited to, the cleaning processes utilized prior to running
+our products; spot line inspections during production; in-house laboratory testing as required by government agencies; supervision of
+all our production by our kosher supervisory service; supervision of all our vegan cheese production by our halal supervisory service;
+and random testing by outside independent laboratories to ensure that our internal quality control procedures, guidelines, ingredients,
+and nutritional reporting requirements are being properly followed. 
+
+All
+of our products are produced by co-packers to whom we supply certain key ingredients and packaging for the manufacturing processes. Our
+co-packing facilities are fully licensed and must comply with all state and federal laws and regulations. Additionally, our production
+facilities are certified as SQF facilities. The Safe Quality Food (SQF) Program is a rigorous and credible safety and quality program
+of on-going audits and certifications that is being required by more and more food distributors and retailers before they will accept
+a new food product into their facility or store. We currently utilize four co-packers, all of whom were able to continue the production
+of our products during the course of the COVID-19 pandemic. Our co-packers manufacture and package our products and, in certain instances,
+warehouse such products pending shipment. For certain key product categories, such as dairy free vegan cheeses and dairy free frozen
+desserts, we have more than one co-packer. In selecting an appropriate co-packer, we take into account all of the preceding factors,
+plus cost considerations such as product processing fees and freight and warehouse expenses. 
+
+For
+the fiscal years ended January 1, 2022 and January 2, 2021, we purchased approximately 50 and 40 of our finished goods, respectively,
+from Franklin Foods, our co-packer for our BETTER THAN CREAM CHEESE, WHIPPED BETTER THAN CREAM CHEESE, SOUR SUPREME, and BETTER
+THAN RICOTTA products, and 11 and 16 , respectively, of our finished goods from Luke s Ice Cream, our frozen dessert novelty
+co-packer. 
+
+Relationships
+with Co-Packers 
+
+We
+do not have any written production agreements with our co-packers and do not anticipate that we would encounter any material difficulty
+in obtaining alternative production sources, at a comparable cost, if one or all of our co-packers decide to terminate their relationships
+with us. Nevertheless, any disruption in supply could have a material adverse effect on our company. 
+
+In
+order to protect our formulas, we have entered into confidentiality arrangements with our co-packers and some of our co-packers 
+employees. All of our employees, including officers, sign similar confidentiality agreements. There can be no assurance that such confidentiality
+arrangements can or will be maintained, or that our trade secrets, know-how and marketing ability cannot be obtained by others, or that
+others do not now possess similar or even more effective capabilities. 
+
+8 
+
+Kosher
+Certification 
+
+KOF-K
+Kosher Supervision, or KOF-K, of Teaneck, New Jersey provides us with our kosher certification service. Before KOF-K will permit its
+certification, evidenced by its symbol, to be placed on a product, KOF-K must approve both the ingredients contained in the product and
+the facility processing the product. Approval of the manufacturing facilities we use include periodic inspections, and in most cases,
+on-site supervision of actual production. We pay a yearly renewal fee for certification and ongoing fees throughout the year for supervisory
+services for each production run. We believe that our ability to successfully market and distribute our products is dependent upon our
+continued compliance with the requirements of rabbinical certification. All TOFUTTI products meet the requirements
+for certification as kosher-parve. 
+
+Halal
+Certification 
+
+In
+early 2013, we completed a halal certification process at Franklin Foods, the co-packer of our BETTER THAN CREAM CHEESE , WHIPPED
+BETTER THAN CREAM CHEESE, BETTER THAN SOUR CREAM and BETTER THAN RICOTTA products and at Whitehall Specialties, the co-packer
+of our vegan cheese slices. This certification is provided by the Islamic Food and Nutrition Council of America (IFANCA) of Park Ridge,
+Illinois and currently applies only to those products manufactured by Franklin Foods and Whitehall Specialties. Before IFANCA will permit
+its certification to be placed on a product, which is evidenced by its symbol, IFANCA must approve both the ingredients contained in
+the product and the facility processing the product. Approval of the manufacturing facilities we use includes periodic inspections. There
+is a yearly renewal fee for certification. All TOFUTTI vegan cheese products meet the requirements for certification
+as halal. 
+
+TRADEMARKS
+AND PATENTS 
+
+We
+have registered our trademark, TOFUTTI , and other trademarks for our frozen desserts and other products in the United States and
+approximately thirty-two foreign countries. We believe our trademarks are an important means of establishing consumer recognition for
+our products and we will vigorously oppose any unauthorized use of our trademarks. We are not currently involved in any trademark litigation. 
+
+Although
+we believe that our formulas and processes are proprietary, we have not sought patent protection for such technology. Instead, we are
+relying on the complexity of our technology, on trade secrecy laws and on confidentiality agreements. We believe that our technology
+has been independently developed and does not infringe the patents of others. 
+
+GOVERNMENT
+REGULATION 
+
+Companies
+engaged in the manufacture, packaging and distribution of food items are subject to extensive regulation by various government agencies
+which, pursuant to statutes, rules, and regulations, prescribe quality, purity, manufacturing and labeling requirements. Food products
+are often subject to standard of identity requirements, which are promulgated at either the Federal or state level to determine
+the permissible qualitative and quantitative ingredient content of food. To the extent that any product that we seek to market does not
+conform to an applicable standard, special permission to market such a product is required. 
+
+Our
+United States product labels are subject to regulation by the United States Food and Drug Administration, or the FDA. Such regulations
+include standards for product descriptions, nutritional claims, label format, minimum type sizes, content and location of nutritional
+information panels, nutritional comparisons, and ingredient content panels. Our labels, ingredients and manufacturing processes are subject
+to inspection by the FDA. We believe that we are in compliance with current labeling requirements and conduct periodic reviews to make
+certain that such compliance is on-going. 
+
+9 
+
+The
+Food, Drug and Cosmetic Act, the Food Safety Modernization Act and rules and regulations promulgated by the FDA thereunder, contain no
+specific Federal standard of identity which is applicable to our products. Our frozen dessert products meet the New York State standard
+of identity for parevine, which has been adopted by at least eight other states. Many states require registration and label
+review before food products can be sold. While approval in one jurisdiction generally indicates the products will meet with approval
+in other jurisdictions, there is no assurance that approval from other jurisdictions will be forthcoming. Additionally, many of our major
+customers now require that any food products that they purchase be produced in Safe Quality Food, or SQF, manufacturing facilities. The
+SQF program is recognized by the Global Food Safety Initiative and provides a rigorous system to manage food safety risks and provide
+safe products use by companies in the food industry. All of our current co-packers are SQF certified or have completed the certification
+process and are awaiting final approval by the certifying organization. 
+
+Food
+manufacturing facilities are subject to inspections by various safety, health and environmental regulatory authorities. A finding of
+a failure to comply with one or more regulatory requirements can result in the imposition of sanctions including the closing of all or
+a portion of a company s facilities, subject to a period during which the company can remedy the alleged violations. Our Cranford,
+New Jersey facility is subject to inspection by the New Jersey-Kosher Enforcement Bureau and the New Jersey Environmental Health Services.
+We believe that we, our distributors and our co-packers are in compliance in all material respects with governmental regulations regarding
+our current products and have obtained the material governmental permits, licenses, qualifications and approvals required for our operations.
+Our compliance with Federal, state and local environmental laws has not materially affected us either economically or in the manner in
+which we conduct our business. However, there can be no assurance that our company, our distributors and our co-packers will be able
+to comply with such laws and regulations in the future or that new governmental laws and regulations will not be introduced that could
+prevent or temporarily inhibit the development, distribution and sale of our products to consumers. 
+
+New
+government laws and regulations may be introduced in the future that could result in additional compliance costs, seizures, confiscations,
+recalls or monetary fines, any of which could prevent or inhibit the development, distribution and sale of our products. If we fail to
+comply with applicable laws and regulations, we may be subject to civil remedies, including fines, injunctions, recalls or seizures,
+as well as potential criminal sanctions, which could have a material adverse effect on our business, results of operations and financial
+condition. 
+
+EMPLOYEES 
+
+We
+have successfully operated our business with a limited number of employees for over a decade. We employed five persons as of January
+1, 2022. In fiscal 2020 we employed six persons on a full-time basis. We consider our employees to be among the most valuable assets
+of our company. 
+
+We
+believe that an engaged workforce is key to maintaining our ability to innovate. During fiscal 2021, we took the necessary precautions
+in response to the recent COVID-19 outbreak, including offering our employees flexibility to work from home and mandatory social distancing
+requirements in the workplace. We are committed to providing a safe work environment for our employees in compliance with applicable
+regulations. 
+
+We
+do not have any collective bargaining agreements with our employees. 
+
+10 
+
+Item
+ 1A. 
+ Risk
+ Factors. 
+
+Investing
+in our common stock involves a high degree of risk and uncertainty. You should carefully consider the risks and uncertainties described
+below before investing in our common stock. If any of the following risks actually occur, our business prospects, financial condition
+and results of operations could be harmed. In that case, the value of our common stock could decline, and you could lose all or part
+of your investment. 
+
+Risks
+Related to Our Business 
+
+David
+Mintz, our founder, Chairman of the Board, Chief Executive Officer and the developer of all of our products died in February 2021 and
+we may be unable to adequately replace him. 
+
+On
+February 24, 2021, David Mintz, our founder, Chief Executive Officer and Chairman of the Board of Directors, passed away. Steven
+Kass, Chief Financial Officer, was appointed CEO by our Board of Directors and was confirmed as permanent CEO by the Board on April 27,
+2021. We may be unable to find someone who will be able to succeed Mr. Mintz in his role as our head of research and development. The
+loss of his services could have a material adverse effect on our business and results of operations. 
+
+We
+depend on a limited number of suppliers for ingredients, packaging materials and the production of our products. 
+
+We
+depend on a limited number of suppliers for ingredients, packaging materials and the production of our products. We do not produce any
+of our own products. For the fiscal years ended January 1, 2022 and January 2, 2021, we purchased approximately 50 and 40 , respectively,
+of our finished goods from Franklin Foods, including our BETTER THAN CREAM CHEESE, WHIPPED BETTER THAN CREAM CHEESE, BETTER THAN SOUR
+CREAM, and BETTER THAN RICOTTA products, and purchased approximately 11 and 16 , respectively, of our finished goods from
+Luke s Ice Cream, our frozen dessert novelty co-packer. Any disruption in supply could have a material adverse effect on our company. 
+
+We
+have little control over the suppliers of ingredients to our co-packers. Disruptions in these relationships may reduce our sales and
+revenues. Overall difficulty of suppliers meeting product demand, interruptions in the supply chain, obstacles or delays in the process
+of renegotiating or renewing agreements with preferred suppliers, financial difficulties experienced by suppliers, or the deficiency,
+lack, or poor quality of alternative suppliers could adversely impact our sales which, in turn, would adversely affect our business and
+operating results. We believe that, if necessary, we could obtain available alternative sources of supply for each of our products. Depending
+on the product, that might entail using more than one source of supply. 
+
+Our
+operations may be adversely affected by failure to maintain or renegotiate distribution, supply or manufacturing agreements on favorable
+terms. 
+
+We
+have a number of distribution, supply and co-packing agreements for our suppliers and products. These agreements vary depending
+on the particular supplier and/or product. There can be no assurance that we will be able to renew these agreements on favorable
+terms or that these agreements will not be terminated. Termination of these agreements or failure to renew these agreements on favorable
+terms could have a negative effect on our results of operations and financial condition. 
+
+11 
+
+We
+may not be able to maintain profitable operations in the future. We may not have sufficient working capital to fund our operations in
+the future. 
+
+The
+lack of sufficient working capital in the past has negatively impacted our ability to introduce and adequately promote new products.
+As of January 1, 2022, we had 1,698,000 in cash and our working capital was 4,326,000. To the extent that we incur operating
+losses in the future or are unable to generate free cash flows from our business, we may not have sufficient working capital to fund
+our operations and will be required to obtain additional financing. Such financing may not be available, or, if available, may not be
+on terms satisfactory to us. If adequate funds are not available to us, our business, and results of operations and financial condition
+will be adversely affected. 
+
+Our
+operating costs are subject to fluctuations which could affect our business results. 
+
+The
+principal raw materials that we use are commodities that experience price volatility caused by external conditions such as weather, product
+scarcity, limited sources of supply, commodity market fluctuations, currency fluctuations, changes in governmental agricultural and energy
+policies and regulations, and more recently by potential COVID-19 supply chain disruption. Commodity price changes may result in unexpected
+increases in raw material, packaging, and energy costs. Therefore, our success is dependent, in part, on our continued ability to manage
+these fluctuations through pricing actions, cost savings projects and sourcing decisions. In the manufacturing and general overhead areas,
+we need to maintain key manufacturing and supply arrangements, including any key sole supplier and manufacturing plant arrangements. 
+
+Our
+business and results of operations may be negatively impacted by the spread of COVID-19. 
+
+An
+outbreak of infectious respiratory illness caused by a novel coronavirus known as COVID-19 was first detected in China in December 2019
+and has now spread globally. This outbreak has resulted in travel restrictions, closed international borders, enhanced health screenings
+at ports of entry and elsewhere, prolonged quarantines, order cancellations, supply chain disruptions, increased costs for raw materials,
+and lower consumer demand, and other significant economic impacts, as well as general concern and uncertainty. 
+
+The
+current severity of the pandemic and the uncertainty regarding the length of its effects could have negative consequences for our company.
+To date, the effects of the pandemic have affected certain aspects of our operations. All of our co-packing facilities are currently
+operating normally, and the pandemic has not constrained any of our production requirements. The cost of certain key ingredients and
+packaging has increased substantially due to short-term supply issues related to COVID-19. We continue to be able to schedule trucks
+for delivery and a large majority of our customers are still operating and ordering our products as before. Additionally, our freight
+costs have increased due to a driver shortage caused by COVID-19. In response to these cost increases and the potential for additional
+cost increases affecting various aspects of our operations, we have initiated a series of sales price increases commencing in the fourth
+quarter of 2021 and continuing into the first quarter of 2022 to help offset these cost increases. 
+
+The
+pandemic has had a negative impact on our sales, specifically with respect to our food service sales to retail outlets, such as restaurants
+and small food shops, which account for a small part of our total business and with respect to our inability to regain our level of export
+sales to certain foreign jurisdictions. Our marketing efforts have also been constrained due to social distancing restrictions
+and other current government rules and regulations that preclude face to face sales meeting, attendance at trade shows and the initiation
+of new promotions. 
+
+Our
+ability to handle customer and consumer communications, schedule production, and order ingredients necessary for our production has not
+been materially impacted. Nor have we experienced a significant change in the timeliness of payments of our invoices and our cash position
+of approximately 1,796,426 as of March 25, 2022 has improved since our fiscal year end. 
+
+12 
+
+Successful
+customer relationships are vital to our business and continued growth. 
+
+We
+must maintain strong relationships with our existing customers and build relationships with new customers in order to ensure our products
+are well presented to our consumers and available for purchase in major markets. The strength of our customer relationships also affects
+our ability to obtain pricing and competitive trade terms. Failure to maintain strong relationships with customers could negatively impact
+our terms of business with affected customers and reduce the availability of our products to consumers. 
+
+We
+rely on Steven Kass, our Chief Executive and Financial Officer to manage our business. 
+
+Our
+future success is significantly dependent on the services of Steven Kass (age 70), our Chief Executive and Financial Officer. The loss
+of his services would have a material adverse effect on our business and results of operations. 
+
+As
+a branded goods business, our success depends on the value and relevance of our brand and products to consumers and on our ability to
+innovate and remain competitive. 
+
+Consumer
+tastes, preferences and behaviors are constantly changing and our ability to anticipate and respond to these changes and to continue
+to maintain loyalty to our brand and products is vital to our business. If we are unable to innovate effectively, our sales or margins
+could be materially adversely affected. 
+
+The
+successful introduction of innovative products and packaging on a periodic basis has become increasingly important to our ability to
+maintain and grow our sales. Accordingly, the continued acceptance of our current products and the future degree of market acceptance
+of any of products, which may be accompanied by significant promotional expenditures, is likely to have an important impact on our future
+financial results. 
+
+Our
+suppliers are subject to federal, state and local government regulations that could adversely affect our business and financial position. 
+
+Virtually
+all food manufacturing operations are subject to regulation by various federal, state and local government entities and agencies. As
+producers of food products for human consumption, our suppliers are subject to stringent production, packaging, quality, labeling and
+distribution standards, including regulations mandated by the Federal Food, Drug and Cosmetic Act, the Food Safety Modernization Act,
+the FDA, OSHA, the EPA and the USDA. Future regulation by various federal, state or local governmental entities or agencies could, among
+other things, increase our suppliers cost of production, cause them to incur unexpected expenditures or encumber productivity,
+any of which may adversely affect our business and financial results. 
+
+We
+may not be able to compete effectively in the highly competitive frozen dessert, dairy free cheese food and health food markets. 
+
+The
+vegan and dairy free frozen dessert, cheese and health food markets are highly competitive. In addition, many of our principal competitors
+are large, diversified companies with resources significantly greater than ours. We expect strong competition to continue, including
+competition for adequate distribution and competition for the limited shelf space for the dairy free frozen dessert and dairy free cheese
+food categories in supermarkets and other retail food outlets. Competition in our product categories is based on product innovation,
+product quality, price, brand recognition and loyalty, effectiveness of marketing, promotional activity, and the ability to identify
+and satisfy consumer preferences. Our market share and ability to grow our revenue could also be adversely impacted if we are not successful
+in introducing innovative products in response to changing consumer demands or by new product introductions of our competitors. If we
+are unable to build and sustain brand equity by offering recognizably superior product quality, we may be unable to maintain premium
+pricing over competitive products. 
+
+13 
+
+From
+time to time, we and our customers experience price pressure in some of our markets as a result of competitors promotional pricing
+practices as well as general market conditions. Our failure to match or exceed our competitors cost reductions through innovative
+products and other improvements could weaken our competitive position. Competition is based on product quality, reliability, food safety,
+distribution effectiveness, brand loyalty, price, effective promotional activities, the ability to identify and satisfy emerging consumer
+preferences and the ability to provide ancillary support services. We may not be able to compete effectively with these larger, more
+diversified companies. 
+
+A
+material change in consumer demand for our products could have a significant impact on our business. 
+
+We
+are a consumer food products company and rely on continued demand for our products. To achieve business goals, we must develop and sell
+products that appeal to consumers. If demand and growth rates fall substantially below expected levels or our market share declines significantly
+in these businesses, our results could be negatively impacted. This could occur due to unforeseen negative economic or political events
+or to changes in consumer trends and habits. 
+
+Breaches
+of network or information technology security could have an adverse effect on our business. 
+
+We
+rely heavily on IT systems to manage critical functions such as operations, data storage and retrieval, revenue recognition, budgeting,
+forecasting, financial reporting and other administrative functions. Cyber-attacks or other breaches of network or information technology,
+or IT, may cause equipment failures or disrupt our systems and operations. In particular, both unsuccessful and successful cyber-attacks
+on companies have increased in frequency, scope and potential harm in recent years. A party who is able to compromise the security measures
+on our networks or the security of our infrastructure could, among other things, misappropriate our proprietary information and the personal
+information of our customers and employees, cause interruptions or malfunctions in our or our customers operations, cause delays
+or interruptions to our ability to meet customer needs, cause us to breach our legal, regulatory or contractual obligations, create an
+inability to access or rely upon critical business records or cause other disruptions in our operations. These breaches may result from
+human errors, equipment failure, or fraud or malice on the part of employees or third parties. Our exposure to cybersecurity threats
+and negative consequences of cybersecurity breaches will likely increase as we store increasing amounts of customer data. While no actual
+or attempted attacks have had a material impact on our operations or financial condition, we cannot provide any assurance that our business
+operations will not be negatively materially affected by such attacks in the future. 
+
+We
+seek to protect against such threats and may be required to expend significant financial resources to alleviate problems caused by physical,
+electronic, and cyber security breaches. As techniques used to breach security are growing in frequency and sophistication and are generally
+not recognized until launched against a target, regardless of our protection efforts, we may not be able to implement security measures
+in a timely manner or, if and when implemented, these measures could be circumvented. Any breaches that may occur could expose us to
+increased risk of lawsuits, loss of existing or potential future customers, harm to our reputation and increases in our security costs,
+which could have a material adverse effect on our financial performance and operating results. 
+
+14 
+
+In
+the event of a breach resulting in loss of data, such as personally identifiable information or other such data protected by data privacy
+or other laws, we may be liable for damages, fines and penalties for such losses under applicable regulatory frameworks despite not handling
+the data. Furthermore, if a high-profile security breach or cyber-attack occurs with respect to another provider of mission-critical
+data center facilities, our customers and potential customers may lose trust in the security of these business models generally, which
+could harm our reputation and brand image as well as our ability to retain existing customers or attract new ones. In addition, the regulatory
+framework around data custody, data privacy and breaches vary by jurisdiction and is an evolving area of law. We may not be able to limit
+our liability or damages in the event of such a loss. 
+
+While
+we maintain insurance coverage for some of these events, the potential liabilities associated with these events could exceed the insurance
+coverage we maintain. A failure to protect the privacy of customer and employee confidential data against breaches of network or IT security
+could result in damage to our reputation. Any of these occurrences could result in a material adverse effect on our results of operations
+and financial condition. 
+
+Economic
+conditions adversely affecting consumer discretionary spending may negatively impact our business and operating results. 
+
+We
+believe that our revenues and profitability are strongly correlated to consumer discretionary spending, which is influenced by general
+economic conditions, unemployment levels, and the availability of discretionary income. In an economic downturn or in the event of the
+continued spread of COVID-19, our business and results of operations could be materially and adversely affected. 
+
+Our
+operating results vary quarterly. 
+
+S ales
+to our major customers fluctuate widely from period to period and there is no way to accurately predict that their sales pattern from
+one year will be repeated in the corresponding period of the next fiscal year. Due to the foregoing factors, in some future quarter our
+operating results may be below the expectations of investors. In such event, it is likely that the price of our common stock would be
+materially adversely affected. 
+
+Increasing
+scrutiny and changing expectations from investors, lenders, customers and other market participants with respect to our Environmental,
+Social and Governance, or ESG, policies may impose additional costs on us or expose us to additional risks. 
+
+Companies
+across all industries are facing increasing scrutiny relating to their ESG policies. Investors, lenders and other market participants
+are increasingly focused on ESG practices and in recent years have placed increasing importance on the implications and social cost of
+their investments. The increased focus and activism related to ESG may hinder our access to capital, as investors and lenders may reconsider
+their capital investment allocation as a result of their assessment of our ESG practices. If we do not adapt to or comply with investor,
+lender or other industry shareholder expectations and standards, which are evolving, or which are perceived to have not responded appropriately
+to the growing concern for ESG issues, regardless of whether there is a legal requirement to do so, may suffer from reputational damage
+and the business, financial condition and price our company s shares could be materially and adversely affected. 
+
+We
+have no registered patents. The absence of patent protection could adversely affect our results of operations. 
+
+We
+rely upon the confidentiality of our formulas and our know-how rather than upon patent protection. There is no assurance that such confidentiality
+can or will be maintained or that our know-how cannot be obtained by others or that others do not now possess similar or even more effective
+capabilities. The failure to maintain the confidentiality of our know-how could adversely affect our operating results. 
+
+15 
+
+Unanticipated business disruptions could adversely
+affect our ability to provide our products to our customers. 
+
+We
+have a complex network of suppliers, co-manufacturing locations, distribution networks, and information systems that support our ability
+to consistently provide our products to our customers. Factors that are hard to predict or beyond our control, such as weather, raw material
+shortages, natural disasters, fires or explosions, terrorism, or health pandemics, such as the coronavirus, COVID-19, could damage or
+disrupt our operations or our suppliers , co-manufacturers or distributors operations. These disruptions may require
+additional resources to restore our supply chain or distribution network. If we cannot respond to disruptions in our operations, whether
+by finding alternative suppliers or replacing capacity at key manufacturing or distribution locations, or if we are unable to quickly
+repair damage to our information, production, or supply systems, we may be late in delivering, or be unable to deliver, products to our
+customers and may also be unable to track orders, inventory, receivables, and payables. If that occurs, our customers confidence
+in us and long-term demand for our products could decline. Any of these events could materially and adversely affect our product sales,
+financial condition, and operating results. 
+
+We
+are subject to risks associated with international operations . 
+
+In
+fiscal 2021, approximately 13 of our revenues were from international sales. Although we intend to expand our international operations,
+we cannot be certain that we will be able to maintain or increase international market demand for our products. To the extent that we
+cannot do so in a timely manner, our business, operating results and financial condition will be adversely affected. International operations
+are subject to inherent risks, including the following: 
+
+different
+ and changing regulatory requirements in the jurisdictions in which we currently operate or may operate in the future; 
+
+the
+ impact of possible recessionary environments in multiple foreign markets; 
+
+export
+ restrictions, tariffs and other trade barriers; 
+
+difficulties
+ in managing and supporting foreign operations; 
+
+longer
+ payment cycles; 
+
+difficulties
+ in collecting accounts receivable; 
+
+political
+ and economic changes, hostilities and other disruptions in regions where we currently sell our products or may sell our products
+ in the future; 
+
+seasonal
+ reductions in business activities; and 
+
+on-going
+ Covid-19 restrictions imposed by foreign governments. 
+
+Negative
+developments in any of these areas in one or more countries could result in a reduction in demand for our products, the cancellation
+or delay of orders already placed, difficulty in collecting receivables, and a higher cost of doing business, any of which could adversely
+affect our business, results of operations or financial condition. 
+
+16 
+
+We
+may be adversely affected by fluctuations in currency exchange rates. 
+
+Our
+foreign transactions are always in U.S. dollars. Therefore, our future export sales could be adversely affected by an increase in the
+value of the U.S. dollar, which could increase the local currency price of our products. There can be no assurance such fluctuations
+in the future will not materially and adversely affect our revenues from international sales and, consequently, our business, operating
+results and financial condition. 
+
+Incidents
+involving food-borne illnesses, food tampering, or food contamination involving our products or our supply chain could create negative
+publicity and significantly harm our operating results. 
+
+While
+we, our ingredient suppliers and our co-packers dedicate substantial resources to food safety matters to enable customers to enjoy
+safe, quality food products, food safety events, including instances of food-borne illness (such as salmonella or E. Coli), have occurred
+in the food industry in the past, and could occur in the future. Instances or reports, whether true or not, of food-safety issues, such
+as food-borne illnesses, food tampering, food contamination or mislabeling, either during the growing, manufacturing, packaging, storing,
+or preparation of products, have in the past severely injured the reputations of companies in the frozen desert and dairy sectors and
+could affect us as well. Any report linking us, our suppliers or co-packers to food-borne illnesses or food tampering, contamination,
+mislabeling, or other food-safety issues could damage the value of our brands immediately and severely hurt sales of our products and
+possibly lead to product liability claims, litigation (including class actions), or other damages. In addition, food safety incidents,
+whether or not involving our brands, could result in negative publicity for the industry or market segments in which we operate. Increased
+use of social media could create and/or amplify the effects of negative publicity. This negative publicity may reduce demand for our
+products. 
+
+Product
+liability suits, if brought, could have a material adverse effect on our business. 
+
+From
+time to time in the normal course of our business, we become subject to product liability claims. If a product liability claim exceeding
+our insurance coverage were to be successfully asserted against us, it could harm our business. We cannot assure you that such coverage
+will be sufficient to insure against claims which may be brought against us, or that we will be able to maintain such insurance or obtain
+additional insurance covering existing or new products. As a marketer of food products, we are subject to the risk of claims for product
+liability. We maintain general product liability and umbrella insurance coverages and generally require that our co-packers maintain
+product liability insurance naming us as a co-insured. Similarly, most of our customers require us to name them as additional
+insureds as well, and in some cases we are required to sign hold harmless and indemnification agreements. 
+
+17 
+
+Our
+failure to maintain effective internal controls in accordance with Section 404 of the Sarbanes-Oxley Act of 2002 could have an adverse
+effect on our financial results and the market price of our common stock. 
+
+The
+Sarbanes-Oxley Act of 2002 imposes certain duties on us and our executives and directors. Our efforts to comply with the requirements
+of Section 404 have resulted in increased general and administrative expense and a diversion of management time and attention, and we
+expect these efforts to require the continued commitment of resources. Section 404 of the Sarbanes-Oxley Act requires us to provide management s
+annual review and evaluation of our internal control over financial reporting in connection with the filing of our Annual Report on Form
+10-K for each fiscal year. Based on our evaluation under the frameworks described above, our chief executive and financial officer concluded
+that our internal control over financial reporting was ineffective as of January 2, 2021 because of the following material weaknesses
+in internal controls over financial reporting: 
+
+a
+ continuing lack of sufficient resources and an insufficient level of monitoring and oversight, which may restrict our ability to
+ gather, analyze and report information relative to the financial statements, including but not limited to accounting estimates, reserves,
+ allowances, and income tax matters, in a timely manner. 
+
+The
+ limited size of the accounting department makes it impracticable to achieve an optimum separation of duties and monitoring of internal
+ controls. 
+
+Our
+failure to maintain effective internal controls over financial reporting could result in investigation or sanctions by regulatory authorities
+and could have a material adverse effect on our operating results, investor confidence in our reported financial information, and the
+market price of our common stock. 
+
+Risks
+Relating to Our Common Stock 
+
+Our
+principal shareholder has the ability to control the policies and management of our company. 
+
+The
+estate of our founder, former Chairman of the Board and Chief Executive Officer, David Mintz, holds 2,630,440 shares of common stock
+representing approximately 51.0 of the outstanding shares. Until such time as the estate is settled and as long as the estate maintains
+a controlling interest in our company, it will have the ability to exercise a controlling influence over our business and affairs, including
+any determinations with respect to potential mergers or other business combinations involving us, our acquisition or disposition of assets,
+our incurrence of indebtedness, our issuance of any additional common shares or other equity securities, our repurchase or redemption
+of common shares and our payment of dividends. Similarly, as long as the estate of Mr. Mintz has a controlling interest in our company,
+it will have the power to determine the outcome of matters submitted to a vote of our shareholders, including the power to elect all
+of the members of our board of directors and prevent an acquisition or any other change in control of us. 
+
+18 
+
+Trading
+on the OTCQX tier of the OTC Markets may be volatile and sporadic, which could depress the market price of our common stock and make
+it difficult for our stockholders to resell their shares. 
+
+Since
+October 24, 2016, our common stock has been quoted on the OTCQB tier of the electronic quotation system operated by OTC Markets. On January
+10, 2022, our common stock was upgraded to the OTCQX tier. Trading in stock quoted on the OTC Markets is often thin and characterized
+by wide fluctuations in trading prices, due to many factors that may have little to do with our operations or business prospects. This
+volatility could depress the market price of our common stock for reasons unrelated to operating performance. Moreover, the OTC Markets
+is not a stock exchange, and trading of securities on the OTC Markets is often more sporadic than the trading of securities listed on
+a quotation system like NASDAQ or a stock exchange like the NYSE MKT. Accordingly, shareholders may have difficulty reselling any of
+their shares and the lack of liquidity may negatively impact our ability to pursue strategic alternatives. 
+
+Penny
+stock rules will limit the ability of our stockholders to sell their stock. 
+
+The
+Securities and Exchange Commission has adopted regulations which generally define penny stock to be any equity security
+that has a market price (as defined) less than 5.00 per share or an exercise price of less than 5.00 per share, subject to certain
+exceptions. Our securities are covered by the penny stock rules, which impose additional sales practice requirements on broker-dealers
+who sell to persons other than established customers and accredited investors. The term accredited investor 
+refers generally to institutions with assets in excess of 5,000,000 or individuals with a net worth in excess of 1,000,000 or annual
+income exceeding 200,000 or 300,000 jointly with their spouse. The penny stock rules require a broker-dealer, prior to a transaction
+in a penny stock not otherwise exempt from the rules, to deliver a standardized risk disclosure document in a form prepared by the Securities
+and Exchange Commission, which provides information about penny stocks and the nature and level of risks in the penny stock market. The
+broker-dealer also must provide the customer with current bid and offer quotations for the penny stock, the compensation of the broker-dealer
+and its salesperson in the transaction and monthly account statements showing the market value of each penny stock held in the customer s
+account. The bid and offer quotations, and the broker-dealer and salesperson compensation information, must be given to the customer
+orally or in writing prior to effecting the transaction and must be given to the customer in writing before or with the customer s
+confirmation. In addition, the penny stock rules require that prior to a transaction in a penny stock not otherwise exempt from these
+rules, the broker-dealer must make a special written determination that the penny stock is a suitable investment for the purchaser and
+receive the purchaser s written agreement to the transaction. These disclosure requirements may have the effect of reducing the
+level of trading activity in the secondary market for the stock that is subject to these penny stock rules. Consequently, these penny
+stock rules may affect the ability of broker-dealers to trade our securities. We believe that the penny stock rules discourage investor
+interest in and limit the marketability of our common stock. 
+
+The
+Financial Industry Regulatory Authority, or FINRA, has adopted sales practice requirements which may also limit a shareholder s
+ability to buy and sell our stock. 
+
+In
+addition to the penny stock rules described above, FINRA has adopted rules that require that, in recommending an investment to a customer,
+a broker-dealer must have reasonable grounds for believing that the investment is suitable for that customer. Prior to recommending speculative,
+low-priced securities to their non-institutional customers, broker-dealers must make reasonable efforts to obtain information about the
+customer s financial status, tax status, investment objectives and other information. Under interpretations of these rules, FINRA
+believes that there is a high probability that speculative, low-priced securities will not be suitable for at least some customers. FINRA
+requirements make it more difficult for broker-dealers to recommend that their customers buy our common stock, which may limit your ability
+to buy and sell our stock and have an adverse effect on the market for its shares. 
+
+19 
+
+Volatility
+of the market price of our common stock could adversely affect our shareholders and us. 
+
+The
+market price of our common stock has been subject to fluctuations in the past and may be subject to wide fluctuations in response to
+numerous factors, including the following: 
+
+actual
+ or anticipated variations in our quarterly operating results or those of our competitors; 
+
+announcements
+ by us or our competitors of new and enhanced products; 
+
+developments
+ or disputes concerning proprietary rights; 
+
+introduction
+ and adoption of new industry standards; 
+
+market
+ conditions or trends in our industry; 
+
+announcements
+ by us or our competitors of significant acquisitions; 
+
+entry
+ into strategic partnerships or joint ventures by us or our competitors; 
+
+additions
+ or departures of key personnel; 
+
+political
+ and economic conditions, such as a recession or interest rate or currency rate fluctuations or political events; and 
+
+other
+ events or factors in any of the countries in which we do business, including those resulting from war, incidents of terrorism, natural
+ disasters, pandemics or responses to such events. 
+
+In
+addition, in recent years the stock market has been highly volatile. Many of these factors are beyond our control and may materially
+adversely affect the market price of our ordinary shares, regardless of our performance. In the past, following periods of market volatility,
+shareholders have often instituted securities class action litigation relating to the stock trading and price volatility of the company
+in question. If we were involved in any securities litigation, it could result in substantial cost to us to defend and divert resources
+and the attention of management from our business. 
+
+We
+do not intend to pay cash dividends. 
+
+Our
+policy is to retain earnings, if any, for use in our business and, for this reason, we do not intend to pay cash dividends on our shares
+of common stock in the foreseeable future. 
+
+Item
+ 1B. 
+ Unresolved
+ Staff Comments. 
+
+None. 
+
+20 
+
+Item
+ 2. 
+ Properties. 
+
+Our
+facilities are located in a one-story facility in Cranford, New Jersey. The 6,200 square foot facility houses our administrative offices,
+a warehouse, walk-in freezer and refrigerator, and a product development laboratory and test kitchen. Our lease agreement expired in
+1999, but we continue to occupy the premises under the terms of that agreement, subject to a six-month notification period from us and
+the landlord with respect to any changes. We currently have no plans to enter into a long-term lease agreement for the facility. Our
+rent expense was 79,000 in fiscal 2021 and 78,000 in fiscal 2020. Our management believes that the Cranford facility will continue
+to satisfy our space requirements for the foreseeable future. We rent warehouse storage space at various outside facilities. Outside
+warehouse expenses amounted to 459,000 and 467,000 during fiscal 2021 and 2020, respectively. 
+
+Item
+ 3. 
+ Legal
+ Proceedings. 
+
+We
+are not a party to any material litigation. 
+
+Item
+ 4. 
+ Mine
+ Safety Disclosures. 
+
+Not
+applicable. 
+
+PART
+II 
+
+Item
+ 5. 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Our
+common stock was listed on the American Stock Exchange, or the AMEX, on October 29, 1985 and traded on the AMEX or its successor, NYSE
+MKT, under the symbol TOF , until October 24, 2016 when our common stock began to be quoted on the OTCQB tier of the electronic
+quotation system operated by OTC Markets under the symbol TOFB. On January 10, 2022, our stock was upgraded to the OTCQX tier. 
+
+Holders
+of Record 
+
+As
+of March 25, 2022, there were approximately 306 direct holders of record of our common stock. 
+
+Dividends 
+
+We
+have not paid and have no present intention of paying cash dividends on our common stock in the foreseeable future. 
+
+2014
+Equity Incentive Plan 
+
+Our
+shareholders adopted our 2014 Equity Incentive Plan (the Plan on June 10, 2014. As of January 2, 2021, we had issued 80,000
+non-qualified stock option awards under the Plan, all of which expired in 2020. No option awards were granted in the two fiscal years
+ended January 1, 2022. 
+
+The
+Plan provides for grants of various types of awards Awards that are designed to attract and retain highly qualified employees
+and directors who will contribute to the success of the company and to provide incentives to participants in this Plan that are linked
+directly to increases in shareholder value which will, therefore, inure to the benefit of all of our shareholders. The Plan will expire
+on June 9, 2024. The Plan makes 250,000 shares of our common stock available for Awards under the Plan. The Plan also permits performance-based
+Awards paid under the Plan to be tax deductible to the company as performance-based compensation under Section 162(m) of
+the Internal Revenue Code of 1986, as amended (the Code ). 
+
+21 
+
+Administration 
+
+The
+Plan is administered in accordance with the requirements of Section 162(m) of the Code (but only to the extent necessary and desirable
+to qualify Awards under the Plan as performance-based compensation under Section 162(m)) and, to the extent applicable,
+Rule 16b-3 under the Exchange Act Rule 16b-3 ), by the Board or, at the Board s sole discretion, by the compensation
+or any other committee of the Board, as appointed by the Board (the Administrator ). 
+
+Eligible
+Participants 
+
+Incentive
+stock options, or ISOs, may be granted only to employees (including officers and directors who are also employees) of the company. Options
+and stock appreciation rights may be granted only to eligible participants as to whom company shares constitute service recipient
+stock, within the meaning of the regulations under Section 409A of the Code. All other Awards may be granted to employees, officers
+and directors of the company. An Eligible Participant may be granted more than one Award under the Plan. 
+
+The
+Plan allows us to grant ISOs to our employees and non-statutory stock options, stock appreciation rights, restricted stock, performance
+grants, stock bonuses and any other types of equity-based awards to our employees, officers and directors. We believe that our ability
+to grant this broad array of equity incentives is critical to secure, retain and motivate our employees and directors and to respond
+to market conditions and best practices, while at the same time balancing such issuances and the potential dilution to our stockholders. 
+
+No
+options or stock appreciation rights were granted or exercised in the two fiscal years ended January 1, 2022. There are currently no
+outstanding stock options or stock appreciation rights. 
+
+Sales
+of Unregistered Securities 
+
+There
+were no sales of unregistered securities during fiscal 2021. 
+
+Purchase
+of Equity Securities by the Issuer and Affiliates 
+
+We
+did not purchase any shares of our common stock in the thirteen weeks ended January 1, 2022 (the fourth quarter of fiscal 2021). 
+
+Item
+ 6. 
+ Reserved. 
+
+Item
+ 7. 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations. 
+
+The
+following is management s discussion and analysis of certain significant factors which have affected our financial position and
+operating results during the periods included in the accompanying audited financial statements. 
+
+22 
+
+Critical
+Accounting Policies 
+
+Our
+financial statements have been prepared in accordance with accounting principles generally accepted in the United States. The preparation
+of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities
+and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues
+and expenses during the reporting period. The policies discussed below are considered by management to be critical to an understanding
+of our financial statements because their application places the most significant demands on management s judgment, with financial
+reporting results relying on estimation about the effect of matters that are inherently uncertain. Specific risks for these critical
+accounting policies are described in the following paragraphs. For all of these policies, management cautions that future events rarely
+develop exactly as forecast, and the best estimates routinely require adjustment. 
+
+Revenue
+Recognition. We primarily sell vegan and dairy-free soy-based cheeses, frozen desserts and other food products. We recognize revenue
+when control over the products transfers to our customers, deemed to be the performance obligation, which generally occurs when the product
+is shipped or picked up from one of our distribution locations by the customer. We account for product shipping, handling and insurance
+as fulfillment activities with revenues for these activities recorded within net revenue and costs recorded within cost of sales. Revenues
+are recorded net of trade and sales incentives and estimated product returns. Known or expected pricing or revenue adjustments, such
+as trade discounts, rebates or returns, are estimated at the time of sale. We base these estimates of expected amounts principally on
+historical utilization and redemption rates. Estimates that affect revenue, such as trade incentives and product returns, are monitored
+and adjusted each period until the incentives or product returns are realized. 
+
+Key
+sales terms, such as pricing and quantities ordered, are established on a frequent basis such that most customer arrangements and related
+incentives have a one year or shorter duration. As such, we do not capitalize contract inception costs and we capitalize product fulfillment
+costs in accordance with U.S. GAAP and our inventory policies. We generally do not have any unbilled receivables at the end of a period. 
+
+Accounts
+Receivable . The majority of our accounts receivables are due from distributors (domestic and international) and retailers. Credit
+is extended based on evaluation of a customers financial condition and, generally, collateral is not required. Accounts receivable
+are most often due within 30 to 90 days and are stated at amounts due from customers net of an allowance for doubtful accounts and reserve
+for sales promotions. Accounts outstanding longer than the contractual payment terms are considered past due. We determine whether an
+allowance is necessary by considering a number of factors, including the length of time trade accounts receivable are past due, our previous
+loss history, the customer s current ability to pay its obligation, and the condition of the general economy and the industry as
+a whole. We write-off accounts receivable when they become uncollectible, and payments subsequently received on such receivables are
+credited to the bad debt expense account. We do not accrue interest on accounts receivable past due. 
+
+Inventory.
+ Inventory is stated at lower of cost or net realizable value determined by first in first out (FIFO) method. Inventories in excess
+of future demand are written down and charged to the provision for inventories. At the point of which loss is recognized, a new, lower
+cost basis for that inventory is established and subsequent changes in facts and circumstances do not result in the restoration or increase
+in the newly established cost basis. 
+
+Fixed
+Assets. During fiscal 2018 and 2019, we spent 150,000 on equipment to be used at our new co-packer s frozen dessert facility.
+Our co-packer began using this equipment in connection with the production of frozen stick novelty items in the third quarter of 2019
+through the third quarter of 2021 . This equipment was sold and disposed of in 2021. Depreciation was provided by charges to income
+using the straight-line method over the estimated useful life of ten years. There were no fixed asset additions in fiscal 2021. 
+
+23 
+
+Leases.
+ Under Topic 842, operating lease expense is generally recognized evenly over the term of the lease. We have operating leases primarily
+consisting of facilities with remaining lease terms of approximately one to three years. Leases with an initial term of twelve months
+or less are not recorded on the balance sheet. For lease agreements entered into or reassessed after the adoption of Topic 842, we have
+combined the lease and non-lease components in determining the lease liabilities and right of use assets. 
+
+Income
+Taxes . Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the
+financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities
+are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected
+to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the
+period that includes the enactment date. A valuation allowance is recorded if there is uncertainty as to the realization of deferred
+tax assets. We will recognize a tax benefit in the financial statements for an uncertain tax position only if management s assessment
+is that the position is more likely than not (i.e., a likelihood greater than 50 percent) to be allowed by the tax jurisdiction
+based solely on the technical merits of the position. The term tax position refers to a position in a previously filed
+tax return or a position expected to be taken in a future tax return that is reflected in measuring current or deferred income tax assets
+and liabilities for financial reporting purposes. 
+
+Recent
+Accounting Pronouncements 
+
+Our
+company considers the applicability and impact of all Accounting Standard Updates ASUs ). ASUs not discussed below were
+assessed and determined to be either not applicable or are expected to have minimal impact on our balance sheets or statements of operations. 
+
+In
+June 2016, the FASB issued ASU 2016-13, Financial Instruments - Credit Losses (Topic 326) Measurement of Credit Losses on Financial Instruments.
+The amendments in this Update require a new topic to be added (Topic 326) to the Accounting Standards Codification ASC and removes the thresholds that entities apply to measure credit losses on financial instruments measured at amortized cost, such as
+loans, trade receivables, reinsurance recoverables, and off-balance-sheet credit exposures, and held-to-maturity securities. Under current
+U.S. GAAP, entities generally recognize credit losses when it is probable that the loss has been incurred. The guidance under ASU 2016-13
+will remove all current recognition thresholds and will require entities under the new current expected credit loss CECL model to recognize an allowance for credit losses for the difference between the amortized cost basis of a financial instrument and the
+amount of amortized cost that an entity expects to collect over the instrument s contractual life. The new CECL model is based
+upon expected losses rather than incurred losses. The ASU is effective for fiscal years beginning after December 15, 2022, including
+interim periods within those fiscal years. We are currently evaluating the effect that this new guidance will have on our financial statements
+and related disclosures. 
+
+Key
+Factors Affecting Our Business 
+
+Our
+operations and the operating metrics discussed below have been and will likely continue to be affected by certain key factors as well
+as certain historical events and actions. The key factors affecting our business and results of operations include among others, our
+lack of sufficient working capital, dependence on a few key distributors for a significant portion of our sales, dependence on several
+key suppliers to produce our products, our reliance on a limited number of key executives to manage our business, and competition. For
+further discussion of the factors affecting our results of operations, see Risk Factors. 
+
+24 
+
+We
+may not be able to maintain profitability in the future and may not have sufficient working capital to fund our operations in the future. 
+
+While
+our operations have been profitable in the last few years, we incurred losses in prior years. Our cash increased to 1,698,000 while
+our working capital decreased to 4,326,000 as of January 1, 2022 from 4,639,000 as of January 2, 2021. The lack of sufficient
+working capital in the future could negatively impact our ability to introduce and adequately promote new products. To the extent that
+we incur operating losses in the future or are unable to generate free cash flows from our business, we may not have sufficient working
+capital to fund our operations and will be required to obtain additional financing. Such financing may not be available, or, if available,
+may not be on terms satisfactory to us. If we are unable to maintain revenues, we may not be able sustain profitable operations in the
+future or generate positive cash flows from our operations. 
+
+We
+depend on a few key distributors for a significant portion of our sales. 
+
+A
+significant portion of our sales are to several key distributors, which are large distribution companies with numerous divisions and
+subsidiaries who act independently. Such distributors as a group accounted for 48 and 54 of our net sales for the fiscal years ended
+January 1, 2022 and January 2, 2021, respectively. Although we believe that the business associated with any of our primary distributors
+can be readily transferred to other distributors or directly to supermarket warehouses, if necessary, no assurance can be given
+that a change in distributors would not be disruptive to our business, which could have a material adverse effect on our business and
+results of operations. 
+
+Interruptions
+in the supply of products from our co-packers and suppliers could adversely affect our revenues. 
+
+We
+depend on a limited number of suppliers for ingredients, packaging materials and the production of our products. We do not produce any
+of our own products. For the years ended January 1, 2022 and January 2, 2021, we purchased approximately 50 and 40 , respectively, of
+our finished goods from Franklin Foods, including our BETTER THAN CREAM CHEESE, WHIPPED BETTER THAN CREAM CHEESE, BETTER THAN SOUR
+CREAM, and BETTER THAN RICOTTA products, and purchased approximately 11 and 16 , respectively, of our finished goods from
+Luke s Ice Cream, our frozen dessert novelty co-packer. Any disruption in supply could have a material adverse effect on our company. 
+
+We
+have little control over the suppliers of ingredients to our co-packers. Disruptions in these relationships may reduce our sales and
+revenues. Overall difficulty of suppliers meeting product demand, interruptions in the supply chain, obstacles or delays in the process
+of renegotiating or renewing agreements with preferred suppliers, financial difficulties experienced by suppliers, or the deficiency,
+lack, or poor quality of alternative suppliers could adversely impact our sales which, in turn, would adversely affect our business and
+operating results. We believe that, if necessary, we could obtain available alternative sources of supply for each of our products. Depending
+on the product, that might entail using more than one source of supply. 
+
+We
+have a complex network of suppliers, co-manufacturing locations, distribution networks, and information systems that support our ability
+to consistently provide our products to our customers. Factors that are hard to predict or beyond our control, such as weather, raw material
+shortages, natural disasters, fires or explosions, terrorism, or health pandemics, such as COVID-19, could damage or disrupt our operations
+or our suppliers , co-packers or distributors operations. These disruptions may require additional resources to restore
+our supply chain or distribution network. If we cannot respond to disruptions in our operations, whether by finding alternative suppliers
+or replacing capacity at key manufacturing or distribution locations, or if we are unable to quickly repair damage to our information,
+production, or supply systems, we may be late in delivering, or be unable to deliver, products to our customers and may also be unable
+to track orders, inventory, receivables, and payables. If that occurs, our customers confidence in us and long-term demand for
+our products could decline. Any of these events could materially and adversely affect our product sales, financial condition, and operating
+results. 
+
+25 
+
+We
+rely on Steven Kass to manage our business. 
+
+Upon
+the death of Mr. Mintz, our continued success is significantly dependent on the services of Steven Kass (age 70), who is serving as our
+Chief Executive and Financial Officer. The loss of his services would have a material adverse effect on our business and results of operations. 
+
+Competition. 
+
+The
+dairy free, vegan frozen dessert, cheese and health food markets are highly competitive. In addition, many of our principal competitors
+are large, diversified companies with resources significantly greater than ours. We expect strong competition to continue, including
+competition for adequate distribution and competition for the limited shelf space for the frozen dessert and dairy free cheese food categories
+in supermarkets and other retail food outlets. 
+
+From
+time to time, we and our customers experience price pressure in some of our markets as a result of competitors promotional pricing
+practices as well as general market conditions. Our failure to match or exceed our competitors cost reductions through innovative
+products and other improvements could weaken our competitive position. Competition is based on product quality, reliability, food safety,
+distribution effectiveness, brand loyalty, price, effective promotional activities, the ability to identify and satisfy emerging consumer
+preferences and the ability to provide ancillary support services. We may not be able to compete effectively with these larger, more
+diversified companies. 
+
+Recent
+Developments 
+
+An
+outbreak of an infectious respiratory illness caused by a novel coronavirus known as COVID-19 was first detected in China in December
+2019 and has now spread globally. This outbreak has resulted in travel restrictions, closed international borders, enhanced health screenings
+at ports of entry and elsewhere, prolonged quarantines, order cancellations, supply chain disruptions, increased costs for raw materials,
+and lower consumer demand, and other significant economic impacts, as well as general concern and uncertainty. 
+
+The
+severity of the pandemic and the uncertainty regarding the length of its effects could have negative consequences for our company. To
+date, the effects of the pandemic have affected certain aspects of our operations. All of our co-packing facilities are currently operating
+normally, and the pandemic has not constrained any of our production requirements. The cost of certain key ingredients and packaging
+has increased substantially due to short-term supply issues related to COVID-19. We continue to be able to schedule trucks for delivery
+and a large majority of our customers are still operating and ordering our products as before. Additionally, our freight costs have increased
+due to a driver shortage caused by COVID-19. In response to these cost increases and the potential for additional cost increases affecting
+various aspects of our operations, we have initiated a series of sales price increases commencing in the fourth quarter of 2021 and
+continuing into the first quarter of 2022 to help offset these cost increases. 
+
+The
+pandemic has had a negative impact on our sales, specifically with respect to our food service sales to retail outlets, such as restaurants
+and small food shops, which account for a small part of our total business and with respect to our inability to regain our level of retail
+sales. Our marketing efforts have also been constrained due to social distancing restrictions and other current government rules and
+regulations that preclude face to face sales meeting, attendance at trade shows and the initiation of new promotions. 
+
+26 
+
+Our
+ability to handle customer and consumer communications, schedule production, and order ingredients necessary for our production has not
+been materially impacted. Nor have we experienced a significant change in the timeliness of payments of our invoices and our cash position
+of approximately 1,796,426 as of March 25, 2022 has improved since our fiscal year end January 1, 2022. 
+
+Fiscal
+Year Ended January 1, 2022 Compared with Fiscal Year Ended January 2, 2021 
+
+We
+operate on a fiscal year ending on the Saturday closest to December 31. Fiscal years for the financial statements included in this report
+are the fifty-two week period ended January 1, 2022 (fiscal 2021) and the fifty-three week period ended January 2, 2021 (fiscal 2020). 
+
+Net
+sales for the fiscal year ended January 1, 2022 were 12,590,000, a decrease of 1,225,000 or 9 , from net sales of 13,815,000 for the
+fiscal year ended January 2, 2021. Sales of our frozen dessert and frozen food product lines decreased to 1,829,000 in the fiscal year
+ended January 1, 2022 from 2,146,000 in fiscal 2020. Sales of vegan cheese products decreased to 10,761,000 in the fiscal year ended
+January 1, 2022 from 11,669,000 in the fiscal year ended January 2, 2021. Overall, our sales were negatively impacted by the discontinuance
+of several frozen desserts and cheese products in 2021, and various COVID-19 issues affecting our product distribution. 
+
+Our
+gross profit for the year ended January 1, 2022 decreased by 911,000 to 3,342,000 from 4,253,000 for the fiscal year ended January
+2, 2021. Our gross profit percentage for the fiscal year ended January 1, 2022 was 27 compared to 31 for the fiscal year ended January
+2, 2021. Sales promotion and allowance expense was 1,487,000 for the fiscal year ended January 1, 2022 compared to 1,582,000 for the
+fiscal year ended January 2, 2021. The dollar decline in gross profit was due principally to the decline in total sales accompanied by
+increases in ingredient and packaging costs. The increases in our ingredient and packaging costs, caused by supply chain issues related
+to Covid-19, negatively impacted our gross profit percentage for fiscal year 2021. 
+
+Freight
+out expense increased by 22,000 or 2 to 1,059,000 for the year ended January 1, 2022 compared with 1,037,000 for the year ended January
+2, 2021. Freight out expense increased due to significant increases in freight rates across all methods of shipping due to increases
+in fuel costs and the reduction in vehicle availability due to the pandemic. Freight out cost as a percentage of sales was 8 for both
+the years ended January 1, 2022 and January 2, 2021. We anticipate that freight out expense in fiscal year 2022 will continue at this
+higher level or increase further. 
+
+Selling
+and warehousing expenses increased by 19,000, or 2 , to 1,206,000 for the fiscal year ended January 1, 2022 from 1,187,000 for the
+fiscal year ended January 2, 2021. This increase was primarily attributable to increases in commission expense of 35,000, travel, entertainment,
+and auto expense of 10,000, and bad debt expense of 10,000, which were partially offset by decreases in payroll expense of 30,000
+and outside warehouse rental expense of 8,000. 
+
+Marketing
+expenses increased in the fiscal year ended January 1, 2022 by 23,000, or 9 , to 281,000 from 258,000 in the fiscal year ended January
+2, 2021 due to an increase in promotion expense of 23,000 and artwork and plate expense of 15,000, which were partially offset by a
+decrease in advertising expense of 19,000. We expect that marketing expenses in the following fiscal year will remain at the same level
+as in the year ended January 1, 2022. 
+
+27 
+
+Research
+and development expenses decreased by 116,000, or 48 , to 124,000 in the fiscal year ended January 1, 2022 from 240,000 in the fiscal
+year ended January 2, 2021. The decrease was primarily attributable to decreases in payroll expense of 45,000, lab costs and supplies
+expense of 14,000, uniform rental expense of 8,000, and equipment repairs of 14,000, and professional fees and outside service expense
+of 37,000. Because we do not anticipate our research and development department resuming operations at the pre-Covid level, we expect
+that product development costs will remain constant or decline slightly in fiscal 2022. 
+
+General
+and administrative expenses decreased by 203,000, or 12 , to 1,489,000 for the year ended January 1, 2022 from 1,692,000 for the year
+ended January 2, 2021. The decrease was primarily due to decreases in payroll expense of 365,000, general insurance expense of 55,000,
+auto, travel, and entertainment of 19,000, office supply expense of 12,000, and equipment rental expense of 7,000, which were partially
+offset by increases in IT expense of 20,000, professional fees and outside service expense of 149,000, franchise tax expense of 7,000,
+and the loss on the sale and disposal of equipment of 75,000. We expect that general and administrative expenses will decrease in fiscal
+2022. 
+
+Overall,
+total operating expenses in fiscal 2021 decreased by 278,000, or 8 , to 3,100,000 for the year ended January 1, 2022 compared to total
+operating expenses of 3,377,000 in the year ended January 2, 2021. We anticipate our operating expenses will remain constant in fiscal
+2022. 
+
+Income
+before income taxes decreased to 217,000 in the year ended January 1, 2022 as compared with income before income taxes of 851,000 in
+the year ended January 2, 2021. 
+
+Provision
+for income taxes for the year ended January 1, 2021 was 74,000 compared to income tax expense of 255,000 for the year ended January
+2, 2021 resulting from the lower pre-tax income during this period compared to prior year. 
+
+Liquidity
+and Capital Resources 
+
+At
+January 1, 2022, we had approximately 1,698,000 in cash, and our working capital was 4,326,000. 
+
+In
+order to provide our company with additional working capital, on January 6, 2016, David Mintz, our former Chairman and Chief Executive
+Officer, provided our company with a convertible loan of 500,000. On December 22, 2021, the loan balance of 500,000 plus accrued interest
+of 25,000 was paid by the Company to Mr. Mintz s estate. 
+
+Fiscal Year ended 
+
+January 1, 2022 
+ January 2, 2021 
+
+(In thousands) 
+ 
+ Net cash provided by operating activities 
+ 689 
+ 780 
+ 
+ Net cash provided by investing activities sale and disposal of equipment 
+ 50 
+
+Net cash (used in) provided by financing activities 
+ (500 
+ 165 
+ 
+ Net increase in cash 
+ 239 
+ 945 
+ 
+ Cash at beginning of year 
+ 1,459 
+ 514 
+ 
+ Cash at end of year 
+ 1,698 
+ 1,459 
+
+Cash
+provided by operating activities for the fiscal year ended January 1, 2022 was 689,000 compared to 780,000 provided by operating activities
+for the fiscal year ended January 2, 2021. Cash provided by operating activities was primarily from net income of 143,000, a
+loss on sale and disposal of equipment of 75,000, a provision for bad debts and sales promotions of 20,000, a decrease in accounts
+receivable of 722,000, and a decrease in inventory of 123,000, offset by a decrease of accounts payable and accrued expenses of 285,000,
+decrease in operating lease liabilities of 28,000, and a decrease in income taxes payable of 71,000. 
+
+28 
+
+Cash
+provided by investing activities was 50,000 for the fiscal year ended January 1, 2022 compared to cash used in investing activities
+of 0 for the fiscal year ended January 2, 2021. Cash provided by investing activities in the fiscal year ended January 1, 2022 was due
+to proceeds from the sale of equipment. 
+
+Cash
+used in financing activities for the fiscal year ended January 1, 2022 was 500,000 compared to cash provided of 165,000 for the fiscal
+year ended January 2, 2021. Cash used in financing activities in the fiscal year ended January 1, 2022 was due to the repayment of a
+convertible note of 500,000 that had been provided to us by Mr. Mintz, and cash provided from financing activities for the fiscal year
+ended January 2, 2021 was from proceeds of the government sponsored COVID-19 SBA Loan. 
+
+As
+a result of the foregoing, our cash increased to 1,698,000 at January 1, 2022 from 1,459,000 at January 2, 2021. 
+
+We
+believe our existing cash on hand at January 1, 2022, our existing working capital, and our expected cash flows from operations will
+be sufficient to support our operating and capital requirements for at least the next twelve months dating from the issuance of the financial
+statements. 
+
+Contractual
+Obligations 
+
+We
+had no material contractual obligations at January 1, 2022. 
+
+Inflation
+and Seasonality 
+
+We
+do not believe that our operating results have been materially affected by inflation during the preceding two years. There can be no
+assurance, however, that our operating results will not be affected by inflation in the future. Our business is subject to minimal seasonal
+variations with slightly increased sales historically in the second and third quarters of the fiscal year. We expect to continue to experience
+slightly higher sales in the second and third quarters, and slightly lower sales in the fourth and first quarters, as a result of reduced
+sales of dairy free frozen desserts during those periods. 
+
+Market
+Risk 
+
+We
+will invest our excess cash, should there be any, in highly rated money market funds which are subject to changes in short-term interest
+rates. We do not believe that our foreign currency exposure is significant as our export sales are transacted in U.S. dollars. We did
+not enter into any foreign exchange contracts in the year ended January 1, 2022. 
+
+Off-Balance
+Sheet Arrangements 
+
+None. 
+
+Item
+ 7A. 
+ Quantitative
+ and Qualitative Disclosures about Market Risk. 
+
+Not
+applicable. 
+
+29 
+
+Item
+ 8. 
+ Financial
+ Statements and Supplementary Data. 
+
+Index
+to Financial Statements 
+
+Report
+ of Independent Registered Accounting Firm , , PCAOB ID 
+ F-1 
+
+Financial
+ Statements: 
+
+Balance Sheets 
+ F-3 
+
+Statements of Income 
+ F-4 
+
+Statements of Changes in Stockholders Equity 
+ F-5 
+
+Statements of Cash Flows 
+ F-6 
+
+Notes to Financial Statements 
+ F-7 
+
+30 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and Stockholders of Tofutti Brands Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheets of Tofutti Brands Inc (the Company as of January 1, 2022 and January
+2, 2021, the related statements of income, stockholders equity, and cash flows, for the fiscal years then ended, and the
+related notes (collectively referred to as the financial statements ). In our opinion, the financial statements present
+fairly, in all material respects, the financial position of the Company as of January 1, 2022 and January 2, 2021, and the results
+of its operations and its cash flows for the fiscal years then ended, in conformity with accounting principles generally accepted
+in the United States of America. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight
+Board (United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S.
+federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud.
+The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part
+of our audit, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing
+an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matter 
+
+The
+critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated
+or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+F- 1 
+
+Significant estimates of sales discounts
+and allowances 
+
+As
+described in Note 1 to the financial statements, Revenues are recorded net of trade and sales incentives and estimated product returns.
+Known or expected pricing or revenue adjustments, such as trade discounts, rebates, or returns, are estimated at the time of the sale.
+The Company bases these estimates of expected amounts principally on historical utilization and redemption rates. Estimates that affect
+revenue and trade receivables, such as trade incentives and product returns, are monitored and adjusted each period until the
+incentives or product returns are realized. Considering the estimation and judgement required by management in determining these amounts,
+our audit of these estimates require a degree of auditor judgement regarding these qualitative factors. 
+
+The
+primary procedures we performed to address this critical audit matter included: 
+
+Our
+audit procedures related to significant estimates of sales discounts and allowances included the following, among
+others: 
+
+We
+ obtained an understanding of the Company s evaluation of the historical application of sales discounts and allowances. 
+
+We performed audit procedures that included, among others, testing of the
+ significant estimates surrounding sales discounts and allowance included an understanding of all sales promotions, and other discounts
+ available during the year, analysis of credit memos, including those subsequent to year end, and an historical analysis of accrued
+ sales allowances and discounts compared to the current trends. 
+
+We
+have served as the Company s auditor since 2021. 
+
+/s/
+
+April
+1, 2022 
+
+F- 2 
+
+TOFUTTI
+BRANDS INC. 
+
+ BALANCE
+SHEETS 
+
+ (In
+thousands, except for share and per share data) 
+
+January
+1, 2022 
+ January
+2, 2021 
+ 
+ Assets 
+
+Current assets: 
+
+Cash 
+
+Accounts receivable, net of allowance for doubtful accounts and sales promotions of and , respectively 
+
+Inventories 
+
+Prepaid expenses and other current assets 
+
+Total current assets 
+
+Equipment, net 
+ - 
+
+Operating lease right-of-use assets 
+
+Deferred tax assets 
+
+Other assets 
+
+Total assets 
+
+Liabilities and Stockholders Equity 
+
+Current liabilities: 
+
+SBA loan payable 
+
+Income taxes payable 
+
+Accounts payable 
+
+Accrued expenses 
+
+Total current liabilities 
+
+Convertible note payable-long term-related party 
+ - 
+
+SBA loan payable, net of current portion 
+ - 
+
+Operating lease liabilities, net of current portion 
+
+Total liabilities 
+
+Stockholders equity: 
+
+Preferred stock - par value per share; authorized shares, issued and outstanding 
+ - 
+
+Common stock - par value per share; authorized shares, shares issued and outstanding 
+
+Additional paid-in capital 
+
+Retained earnings 
+
+Total stockholders equity 
+
+Total liabilities and stockholders equity 
+
+See
+accompanying notes to financial statements 
+
+F- 3 
+
+TOFUTTI
+BRANDS INC. 
+
+ STATEMENTS
+OF INCOME 
+
+ (In
+thousands, except for per share data) 
+
+Fiscal year ended January 1, 2022 
+ Fiscal year ended January 2, 2021 
+
+Net sales 
+
+Cost of sales 
+
+Gross profit 
+
+Operating expenses: 
+
+Selling and warehousing 
+
+Marketing 
+
+Product development costs 
+
+General and administrative 
+
+Total operating expenses 
+
+Income before interest expense and income taxes 
+
+Interest expense 
+
+Income before provision for income taxes 
+
+Provision for income taxes 
+
+Net income 
+
+Weighted average common shares outstanding: 
+
+Basic 
+
+Diluted 
+
+Net income per common share: 
+
+Basic 
+
+Diluted 
+
+See
+accompanying notes to financial statements. 
+
+F- 4 
+
+TOFUTTI
+BRANDS INC. 
+
+ STATEMENTS
+OF CHANGES IN STOCKHOLDERS EQUITY 
+
+ Fiscal
+Years ended January 1, 2022 and January 2, 2021 
+
+ (In
+thousands, except for share data) 
+
+Shares 
+ Amount 
+ Capital 
+ Earnings 
+ Equity 
+
+Common Stock 
+ Additional Paid-In 
+ Retained 
+ Total Stockholders 
+
+Shares 
+ Amount 
+ Capital 
+ Earnings 
+ Equity 
+ 
+ Balances December 28, 2019 
+
+Net income 
+
+Balances January 2, 2021 
+
+Net income 
+ - 
+ - 
+ - 
+
+Balances January 1, 2022 
+
+See
+accompanying notes to financial statements. 
+
+F- 5 
+
+TOFUTTI
+BRANDS INC. 
+
+ STATEMENTS
+OF CASH FLOWS 
+
+ (In
+thousands) 
+
+Fiscal Year ended 
+ January 1, 2022 
+ Fiscal Year ended 
+ January 2, 2021 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net income 
+
+Adjustments to reconcile net income to net cash flows provided by operating activities: 
+
+Depreciation 
+
+Non-cash change in right of use assets and lease liabilities 
+
+Loss on sale and disposal of equipment 
+ 
+ - 
+ 
+ Provision for bad debts and sales promotions 
+
+Deferred taxes 
+
+Change in assets and liabilities: 
+
+Accounts receivable 
+
+Inventories 
+
+Prepaid expenses 
+
+Other assets 
+
+Income taxes payable 
+
+Accounts payable and accrued expenses 
+
+Net cash flows provided by operating activities 
+
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+
+Proceeds from sale of equipment 
+
+Net cash flows provided by investing activities 
+ 
+ - 
+
+CASH FLOWS PROVIDED BY FINANCING ACTIVITIES: 
+
+Payment of convertible note payable 
+ 
+ - 
+ 
+ Borrowings from SBA loan 
+ - 
+
+Net cash flows (used in) provided by financing activities 
+
+NET CHANGE IN CASH 
+
+CASH AT BEGINNING OF YEAR 
+
+CASH AT END OF YEAR 
+
+SUPPLEMENTAL CASH FLOW INFORMATION: 
+
+Income taxes paid 
+
+Interest paid- related party 
+
+See
+accompanying notes to financial statements. 
+
+F- 6 
+
+TOFUTTI
+BRANDS INC. 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ (In
+thousands, except for share and per share data) 
+
+and of its finished products from one supplier and and of its finished products from
+another supplier during the periods ended January 1, 2022 and January 2, 2021, respectively. 
+
+TOFUTTI
+BRANDS INC. 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ (In
+thousands, except for share and per share data) 
+
+. 
+
+The
+Company performs ongoing evaluations of its customers financial condition and does not require collateral. Management believes
+that credit risk beyond the established allowances at January 1, 2022 is limited. 
+
+During
+the fiscal years ended January 1, 2022 and January 2, 2021, the Company derived approximately and , respectively, of its net sales
+domestically. The remaining sales in both periods were exports to foreign countries. The accounts receivable balance of two customers
+represented approximately of total accounts receivable at January 1, 2022 and the accounts receivable balance of two customers represented
+approximately of total accounts receivable at January 2, 2021. In addition, a significant portion of the Company s sales are
+to several key distributors, which are large distribution companies with numerous divisions and subsidiaries who act independently. Such
+distributors as a group accounted for and of the Company s net sales for the fiscal years ended January 1, 2022 and January
+2, 2021, respectively. 
+
+ to be allowed by the
+tax jurisdiction based solely on the technical merits of the position. The term tax position refers to a position in a
+previously filed tax return or a position expected to be taken in a future tax return that is reflected in measuring current or deferred
+income tax assets and liabilities for financial reporting purposes. 
+
+TOFUTTI
+BRANDS INC. 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ (In
+thousands, except for share and per share data) 
+
+shares issuable upon conversion of the convertible note for the fiscal
+year ended January 2, 2021. The shares issuable upon conversion of the convertible note was included in the calculation of fully
+diluted earnings for the fiscal year ended January 2, 2021. The weighted average effects of the shares issuable upon conversion
+was not included in the diluted earnings per share calculation for the year ended January 1, 2022 as the effects were anti-dilutive. 
+
+Interest expense 
+ - 
+
+Net income, numerator, diluted computation 
+
+Weighted average shares - denominator basic computation 
+
+Effect of convertible note 
+ - 
+
+Weighted average shares, as adjusted - denominator diluted computation 
+
+Earnings per common share: 
+
+Basic 
+
+Diluted 
+
+from the SBA pursuant to the Paycheck Protection
+Program at an interest rate of .
+Interest and payments were deferred until March 4, 2021. The current portion of the loan was 
+ as of January 1, 2022 and the loan will expire
+on . On January 12, 2022, the Company was
+informed by the SBA that the entire amount of the loan had been forgiven. The Company will record forgiveness of debt income of 
+in fiscal year 2022. 
+
+TOFUTTI
+BRANDS INC. 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ (In
+thousands, except for share and per share data) 
+
+and during the fiscal years
+ended January 1, 2022 and January 2, 2021, respectively. Such costs are included in costs of sales on the statements of income. 
+
+and during the fiscal
+years January 1, 2022 and January 2, 2021, respectively, and are included in marketing on the statements of income. 
+
+and during the fiscal years ended January 1, 2022 and January 2, 2021, respectively. 
+
+Raw materials and packaging 
+
+Inventories, net 
+
+TOFUTTI
+BRANDS INC. 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ (In
+thousands, except for share and per share data) 
+
+Less: accumulated depreciation 
+ - 
+
+Equipment, net 
+ - 
+
+Depreciation
+expense for both the years ended January 1, 2022 and January 2, 2021 was . 
+
+During
+September 2021, the Company sold manufacturing equipment with a cost of and accumulated depreciation of for total proceeds of
+ . As of the year ended January 1, 2022, the Company disposed of the remaining balance of the equipment due to the discontinuance of
+the frozen dessert products manufactured using this equipment. The loss on this sale and disposal has been presented as a component
+of general and administrative expenses on the statements of income for the fiscal year ended January 1, 2022. 
+
+from the Paycheck Protection Program at an interest rate of . Interest
+and payments were deferred until March 4, 2021 The current portion of the loan was as of January 2, 2021 and the loan would have
+expired on May 2, 2022. Subsequent to year end, on January 12, 2022, the Company was informed by the SBA that the entire amount of the
+loan had been forgiven. The Company will record forgiveness of debt income of in fiscal year 2022. 
+
+Related
+Party 
+
+On
+January 6, 2016, David Mintz, the Company s former Chairman and Chief Executive, provided the Company with a loan of .
+The loan was extended until December 31, 2021 and was, at the option of the holder, convertible into the Company s common stock
+at a conversion price of 
+ per share, the closing price of the Company s
+common stock on the date of the extension of the promissory note. Interest expense incurred to the related party was 
+ for both fiscal years ended January 1, 2022 and
+January 2, 2021. On December 22, 2021, the entire loan of 
+ plus accrued interest of 
+ was paid by the Company to Mr. Mintz s
+estate. 
+
+Less current maturity 
+
+Note payable related party, net of current maturity 
+
+TOFUTTI
+BRANDS INC. 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ (In
+thousands, except for share and per share data) 
+
+shares of common stock available for awards. The 2014 Plan also permits performance-based 2014 awards paid under
+it to be tax deductible under Section 162(m) of the Internal Revenue Code of 1986, as amended, as performance-based compensation. 
+No stock options were issued in 2021 or 2020 and no options were outstanding as of January 1, 2022 and January 2, 2021. 
+
+Europe 
+
+Middle East 
+
+Asia Pacific and Africa 
+
+Revenues 
+
+Approximately
+ in fiscal 2021 and in fiscal 2020 of the Americas revenue is attributable to the United States. All of the Company s assets
+are located in the United States. 
+
+Frozen Desserts and Foods 
+
+Revenues 
+
+TOFUTTI
+BRANDS INC. 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ (In
+thousands, except for share and per share data) 
+
+square foot facility houses its administrative
+offices, a warehouse, walk-in freezer and refrigerator, and a product development laboratory and test kitchen. The Company s original
+lease agreement expired on July 1, 1999, but it continues to occupy the premises on a monthly basis. Any changes by either the landlord
+or the Company remains subject to a six-month notification period. The Company currently has no plans to enter into a long-term lease
+agreement for the facility. Rent expense was in fiscal 2021 and in fiscal 2020. The Company s management believes that
+the Cranford facility will continue to satisfy its space requirements for the foreseeable future and if necessary, such space can be
+replaced without a significant impact to the business. The Company rents warehouse storage space at various outside facilities. Outside
+warehouse expenses amounted to or the fiscal year ended January 1, 2022 compared to for the fiscal year ended January 2, 2021. 
+
+Under
+Topic 842, operating lease expense is generally recognized evenly over the term of the lease. The Company has operating leases primarily
+consisting of facilities with remaining lease terms of approximately two to four years. The Company does not have the option to terminate
+the leases early. The standard requires a lessee to record a right-of-use asset and a corresponding lease liability at the inception
+of the lease. The current portion of lease liabilities is included in accrued expenses on the balance sheets. 
+
+Leases
+with an initial term of twelve months or less are not recorded on the balance sheet. For lease agreements entered into or reassessed
+after the adoption of Topic 842, the Company has combined the lease and non-lease components in determining the lease liabilities and
+ROU assets. 
+
+The
+Company s lease agreements generally do not provide an implicit borrowing rate; therefore, an internal incremental borrowing rate
+is determined based on information available at lease commencement date for purposes of determining the present value of lease payments.
+The Company used the incremental borrowing rate on December 29, 2018 of for all leases that commenced prior to that date. 
+
+Current portion of lease liabilities 
+
+Operating lease liabilities, net of current portion 
+
+Total lease liabilities 
+
+Weighted average remaining lease term (in years) 
+
+Weighted average discount rate 
+
+TOFUTTI
+BRANDS INC. 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ (In
+thousands, except for share and per share data) 
+
+2023 
+
+Total future minimum lease payments 
+
+Present value adjustment 
+
+Total 
+
+State 
+
+Deferred: 
+ Federal 
+
+State 
+
+Total income tax expense 
+
+State income taxes, net of federal income tax benefit 
+
+Permanent items 
+
+Other 
+
+Total income tax expense 
+
+TOFUTTI
+BRANDS INC. 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ (In
+thousands, except for share and per share data) 
+
+Right of use asset 
+
+Lease liabilities 
+
+Inventory 
+
+Fixed assets 
+
+Deferred tax asset, net 
+
+At
+January 1, 2022 the Company had federal net operating loss carryforwards and of state operating loss carryforwards. 
+
+The
+Company will recognize a tax provision in the financial statements for an uncertain tax position only if management s assessment
+is that the position is more likely than not (i.e., a to be sustained by the tax jurisdiction
+based solely on the technical merits of the position. The term tax position refers to a position in a previously filed
+tax return or a position expected to be taken in a future tax return that is reflected in measuring current or deferred income tax assets
+and liabilities for financial reporting purposes. 
+
+Increase due to reserves and tax positions related to current year 
+
+Balance at January 2, 2021 
+
+Increase due to reserves and tax positions related to current year 
+
+Balance at January 1, 2022 
+
+The
+Company accounts for penalties or interest related to uncertain tax positions as part of its provision for income taxes. The amount of
+uncertain tax positions that would affect the effective tax rate if they were recognized is . The liability at January 1, 2022 of
+uncertain tax positions is included in accrued expenses. The Company is no longer subject to federal and state examinations for fiscal
+years before 2019. 
+
+F- 15 
+
+Item
+ 9. 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+None. 
+
+Item
+ 9A. 
+ Controls
+ and Procedures. 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Evaluation
+of Disclosure Controls and Procedures. As of January 1, 2022, our company s chief executive and financial officer conducted
+an evaluation regarding the effectiveness of our company s disclosure controls and procedures (as defined in Rules 13a-15(e) or
+15d-15(e) under the Exchange Act. Based upon the evaluation of these controls and procedures, our chief executive officer and chief financial
+officer concluded that our disclosure controls and procedures were not effective with respect to the material weaknesses, as described
+below in our internal control over financial reporting, that have not been fully remediated as of the end of the fiscal year 2021. 
+
+Disclosure
+Controls and Internal Controls. As provided in Rule 13a-14 of the General Rules and Regulations under the Securities and Exchange
+Act of 1934, as amended, Disclosure Controls are defined as meaning controls and procedures that are designed with the objective of ensuring
+that information required to be disclosed in our reports filed under the Securities Exchange Act of 1934, as amended (the Exchange
+Act ), is recorded, processed, designed and reported within the time periods specified by the SEC s rules and forms. Disclosure
+Controls include, within the definition under the Exchange Act, and without limitation, controls and procedures to ensure that information
+required to be disclosed by us in our reports is accumulated and communicated to our management, including our chief executive officer
+and principal financial officer, as appropriate to allow timely decisions regarding disclosure. Internal Controls are procedures which
+are designed with the objective of providing reasonable assurance that (1) our transactions are properly authorized; (2) our assets are
+safeguarded against unauthorized or improper use; and (3) our transactions are properly recorded and reported, all to permit the preparation
+of our financial statements inconformity with generally accepted accounting principles. 
+
+Management s
+Annual Report on Internal Control Over Financial Reporting 
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting. Internal control over
+financial reporting is a process designed by, or under the supervision of the Chief Executive and Financial Officer and effected by our
+board of directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Management s
+evaluation of internal control over financial reporting includes using the Committee of Sponsoring Organizations of the Treadway Commission,
+or COSO, framework, an integrated framework (2013) for the evaluation of internal controls issued by COSO, to identify the risks and
+control objectives related to the evaluation of our control environment. 
+
+On
+February 24, 2021 David Mintz, our founder, Chief Executive Officer and Chairman of the Board of Directors, passed away. Steven Kass,
+Chief Financial Officer, was appointed interim CEO by our Board of Directors and was confirmed as permanent CEO by the Board on April
+27, 2021. 
+
+31 
+
+Based
+on the evaluation under the frameworks described above, Mr. Kass, our chief executive and financial officer, has concluded that our internal
+control over financial reporting was ineffective as of January 1, 2022 because of the following material weaknesses in internal controls
+over financial reporting: 
+
+A
+ continuing lack of sufficient resources and an insufficient level of monitoring and oversight, which may restrict our ability to
+ gather, analyze and report information relative to the financial statements, including but not limited to accounting estimates, reserves,
+ allowances, and income tax matters, in a timely manner. 
+
+The
+ limited size of the accounting department makes it impracticable to achieve an optimum separation of duties and monitoring of internal
+ controls. 
+
+Remediation 
+
+To
+date, we have been unable to remediate these weaknesses, which stem from our small workforce. As of the date of this filing we employ
+five people. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+No
+change in our internal control over financial reporting occurred during the quarter ended January 1, 2022 that materially affected, or
+is reasonably likely to materially affect, our internal control over financial reporting. 
+
+This
+annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to the rules of
+the Securities and Exchange Commission that permit us to provide only management s report in this annual report. 
+
+Item
+ 9B. 
+ Other
+ Information. 
+
+None. 
+
+Item
+ 9C. 
+ Disclosure
+ Regarding Foreign Jurisdictions that Prevent Inspections. 
+
+Not
+applicable. 
+
+32 
+
+PART
+III 
+
+Item
+ 10. 
+ Directors,
+ Executive Officers and Corporate Governance. 
+
+Our
+directors and executive officers are: 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Steven
+ Kass 
+ 
+ 70 
+ 
+ Chief
+ Executive Officer, Chief Financial Officer, Secretary and Treasurer 
+ 
+ Joseph
+ N. Himy 
+ 
+ 51 
+ 
+ Director 
+ 
+ Scott
+ Korman 
+ 
+ 61 
+ 
+ Director 
+ 
+ Efraim
+ Mintz 
+ 
+ 52 
+ 
+ Director 
+ 
+ Franklyn
+ Snitow 
+ 
+ 74 
+ 
+ Director 
+
+Steven
+Kass has been our Chief Financial Officer since November 1986 and Secretary and Treasurer since January 1987. Mr. Kass assumed the position
+of interim Chief Executive Officer in March 2021, and was confirmed as permanent CEO by the Board on April 27, 2021. 
+
+Joseph
+N. Himy was elected to serve as a member of our Board of Directors and the Audit Committee on October 30, 2013 by our Board of Directors.
+He resigned as a member of our Audit Committee on August 16, 2021. He has been Managing Director of The CFO Squad, a financial and business
+advisory firm providing outsourced CFO advisory and regulatory consulting services primarily for public companies since August 2011.
+From May 2008 until August 2011, Mr. Himy was Chief Financial Officer of Vyteris, Inc., manufacturer of the first active transdermal
+patch approved by the U.S. Food and Drug Administration for the pain associated with blood draws, intravenous cannulations and laser
+ablation of superficial skin lesions. Prior to May 2008 and from October 2004, Mr. Himy held various other positions at Vyteris, including
+Corporate Controller and VP of Finance. Mr. Himy received a B.S. degree in Accounting from Brooklyn College of the City University of
+New York and is a certified public accountant. Mr. Himy s accounting and financial and corporate governance experience background
+enhances the breadth of experience of the board of directors. 
+
+Scott
+Korman has served as a member of our Board of Directors since December 2011 and is a member of our Audit Committee. Mr. Korman founded
+Nashone, Inc., a private equity firm, in 1984 and is its President. Nashone is also involved in financial advisory, turnaround and general
+management assignments. Mr. Korman previously served as Chairman of Da-Tech Corporation, a Pennsylvania based contract electronics manufacturer.
+He previously served as Chairman and CEO of Best Manufacturing Group LLC., a leading manufacturer and distributor of uniforms, napery,
+service apparel, and hospitality and healthcare textiles. Mr. Korman also served as President and CEO of Welsh Farms Inc., a full-service
+dairy, processing and distributing milk, ice cream mix and ice cream products. Mr. Korman received a B.S. degree in Economics from the
+University of Pennsylvania Wharton School in 1977. He also serves on the boards of various not-for-profit groups and was the founder
+of the Englewood Business Forum. Mr. Korman s experience as a CEO of a frozen dessert company enhances the breadth of experience
+of the board of directors. 
+
+33 
+
+Efraim
+Mintz was elected to serve as a member of our Board of Directors on December 29, 2020 by our Board of Directors. He was also appointed
+to serve on the Audit Committee. He is the founding Executive Director of the Rohr Jewish Learning Institute (JLI), the largest network
+of adult education, providing accredited courses, seminars, and multiple educational offerings in 2,000 chapters across the globe since
+1999. He is also the founder of the Wellness Institute, offering mental health educational offerings and trainings for social workers,
+educators, and parents. He oversees a network of trained and certified course developers and instructors delivering courses accredited
+by the American Medical Association (AMA), the American Bar Association (in over 35 states), and the American Psychological Association
+(APA). He oversees a staff of 70 program coordinators, faculty members, department heads, creative marketing and web developers and directs
+a network of education departments for teens, university students, women s studies, online learning and accredited continuing professional
+education. 
+
+Franklyn
+Snitow has been a director since 1987 and was appointed to serve on the Audit Committee on August 16, 2021. He is currently a
+partner in the New York City/Baltimore law firm of Offit Kurman. Mr. Snitow s
+legal and corporate governance background enhances the breadth of experience of the board of directors. 
+
+All
+directors hold office until the next Annual Meeting of Stockholders and until their successors have been elected and qualified. Officers
+serve at the pleasure of the Board of Directors. All of the executive officers devote their full time to our operations. 
+
+Employment
+Agreements 
+
+There
+are currently no employment agreements between us and any of our officers. 
+
+Family
+Relationships 
+
+There
+are no family relationships between any of our directors and executive officers. Mr. David Mintz was the uncle of Efraim Mintz, a member
+of our Board of Directors. 
+
+Involvement
+in Legal Proceedings 
+
+From
+time to time we may be subject to various claims and contingencies in the ordinary course of business, including those related to litigation,
+business transactions, employee-related matters and taxes, and others. When we are aware of a claim or potential claim, we assess the
+likelihood of any loss or exposure. If it is probable that a loss will result and the amount of the loss can be reasonably estimated,
+we will record a liability for the loss. In addition to the estimated loss, the recorded liability includes probable and estimable legal
+costs associated with the claim or potential claim. There is no assurance that such matters will not materially and adversely affect
+our business, financial position, and results of operations or cash flows. 
+
+Audit
+Committee and Audit Committee Financial Expert 
+
+The
+Audit Committee of the Board of Directors is comprised of Mr. Snitow, Mr. Korman and Mr. Mintz. The Board of Directors has determined
+that Messrs. Snitow and Korman are independent directors, as that term is defined under the enhanced independence standards for audit
+committee members in the Exchange Act. The Board of Directors has also determined that Mr. Korman is an Audit Committee Financial Expert
+as that term is defined in rules issued pursuant to the Sarbanes-Oxley Act of 2002. 
+
+Nominating
+and Corporate Governance Matters 
+
+Our
+board of directors does not currently have a nominating and corporate governance committee or other committee performing a similar function,
+nor do we have any formal written policies outlining the factors and process relating to the selection of nominees for consideration
+for membership on our board of directors by our directors or our stockholders. 
+
+34 
+
+Section
+16(a) Beneficial Ownership Compliance 
+
+Section
+16(a) of the Exchange Act, as amended, requires our executive officers, directors and persons who own more than 10 of a registered class
+of our equity securities to file with the Securities and Exchange Commission initial statements of beneficial ownership, reports of changes
+in ownership and annual reports concerning their ownership of common stock and other of our equity securities, on Forms 3, 4 and 5 respectively.
+Executive officers, directors and greater than 10 shareholders are required by Commission regulations to furnish us with copies of all
+Section 16(a) reports they file. 
+
+To
+our knowledge, based solely on our review of the copies of such forms received by us, or written representations from certain reporting
+persons that no additional forms were required for those persons, we believe that during fiscal 2021 all persons subject to these reporting
+requirements filed the required reports on a timely basis. 
+
+Code
+of Ethics 
+
+We
+have adopted a Code of Business Conduct and Ethics, which applies to directors, officers, employees and agents of our company. We have
+also adopted a Code of Ethics for Senior Officers, which applies to our chief executive officer, and all senior financial officers of
+our company, including the chief financial officer, chief accounting officer or controller, or persons performing similar functions.
+The Code of Business Conduct and Ethics and the Code of Ethics for Senior Officers are publicly available on our website at www.tofutti.com
+and printed copies are available upon request. If we make any substantive amendments to the Code of Business Conduct and Ethics or the
+Code of Ethics or grant any waivers, including any implicit waiver, from a provision of these codes to our chief executive officer, chief
+financial officer or corporate controller or our directors, we will disclose the nature of such amendment or waiver on our website. 
+
+Item
+ 11. 
+ Executive
+ Compensation. 
+
+The
+following table sets forth information concerning the total compensation during the last three fiscal years for our named executive officers
+whose total salary in fiscal 2021 totaled 100,000 or more: 
+
+Summary
+Compensation Table 
+
+Name and Principal Position 
+ Fiscal Year 
+ Salary ) 
+ Bonus ) 
+ Stock Awards ) 
+ Option Awards ) 
+ Non-Equity Incentive Plan Compensation ) 
+ All Other Compensation ) 
+ Total( 
+ 
+ David Mintz 
+ 2021 
+ 104,000 
+
+104,000 
+ 
+ Chief Executive Officer and Director 
+ 2020 
+ 459,000 
+
+459,000 
+
+Steven Kass 
+ 2021 
+ 151,000 
+
+151,000 
+ 
+ Chief Financial Officer 
+ 2020 
+ 127,000 
+
+127,000 
+ 
+ And Chief Executive Officer 
+
+Mr. Mintz ceased to be an executive officer upon his death in February 2021. 
+
+Mr. Kass was appointed Chief Executive Officer in April 2021. 
+
+The
+aggregate value of all other perquisites and other personal benefits furnished to each of these executive officers was less than 10,000
+in both the 2021 and 2020 fiscal years. 
+
+35 
+
+Employment
+Agreements 
+
+We
+do not currently have any employment agreements with our executive officers. We do not anticipate having employment contracts with executive
+officers and key personnel in the future. 
+
+Grants
+of Plan-Based Awards for Fiscal 2020 
+
+During
+the fiscal year ended January 1, 2022, no grants were made under our 2014 Equity Incentive Plan. 
+
+Outstanding
+Equity Awards at Fiscal Year End 
+
+As
+of January 1, 2022 there were no outstanding equity awards. 
+
+Director
+Compensation 
+
+Our
+non-employee directors earned director compensation in fiscal year ended January 1, 2022 based on the number of meetings attended. The
+chairman of the audit committee receives 2,000 per audit committee meeting and other members of the audit committee receive 1,000
+per meeting attended. All other non-employee directors are entitled to 500 per meeting attended. 
+
+The
+following table sets forth the compensation received by each of the Company s non-employee directors for the year ended January
+1, 2022. Each non-employee director is deemed to be independent under the Exchange Act Rule 10A-3. 
+
+Name 
+ Fees Earned or Paid in Cash ) 
+ Stock Awards ) 
+ Option Awards ) 
+ Non-Equity Incentive Plan Compensation ) 
+ Nonqualified Deferred Compensation ) 
+ All Other Compensation ) 
+ Total ) 
+ 
+ Joseph N. Himy 
+ 15,000 
+
+Scott Korman 
+ 15,000 
+
+Efraim Mintz 
+ 11,500 
+
+Franklyn Snitow 
+ 5,000 
+
+36 
+
+Item
+ 12. 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following tables set forth as of March 25, 2022 certain information regarding the ownership of our common stock, 0.01 par value,
+for each person known by us to be the beneficial owner of more than 5 of the outstanding shares of common stock, for each executive
+officer named in the Summary Compensation Table, for each of our directors and for our executive officers and directors as a group: 
+
+Security
+Ownership of Certain Beneficial Owners and Management 
+
+Name and Address of Beneficial Owner(1) 
+ Amount and Nature of Beneficial Owner(2) 
+ Percent of 
+ Class(3) 
+ 
+ Estate of David Mintz 
+ 2,630,440 (4) 
+ 51.0 
+ 
+ Steven Kass 
+ 220,000 
+ 4.3 
+ 
+ Franklyn Snitow 
+ 33,100 
+
+Joseph N. Himy 
+
+Scott Korman 
+
+Efraim Mintz 
+ (4) 
+
+All Executive Officers and Directors as a group (5 persons in fiscal 2021) 
+ 253,100 
+ 4.7 
+
+Less than 1 . 
+
+(1) 
+ The
+ address of the Estate of Mr. David Mintz and Messrs. Joseph Himy, Steven Kass, and Efraim Mintz is c/o Tofutti Brands Inc., 50 Jackson
+ Drive, Cranford, New Jersey 07016. The address of Mr. Snitow is 805 3 rd Avenue, 12 Floor, New York, New York 10022. The
+ address of Mr. Korman is c/o Nashone, Inc., 175 Elm Road, Englewood, NJ 07361. Each of these persons has sole voting and/or investment
+ power of the shares attributed to him. 
+
+(2) 
+ Beneficial
+ ownership is determined in accordance with the rules of the Securities and Exchange Commission and generally includes voting or investment
+ power with respect to securities. Shares of common stock relating to options currently exercisable or exercisable within 60 days
+ of March 25, 2022 are deemed outstanding for computing the percentage of the person holding such securities but are not deemed
+ outstanding for computing the percentage of any other person. Except as indicated by footnote, and subject to community property
+ laws where applicable, the persons named in the table above have sole voting and investment power with respect to all shares shown
+ as beneficially owned by them. 
+
+37 
+
+(3) 
+ Based
+ on 5,153,706 shares issued and outstanding as of March 25, 2022. 
+
+(4) 
+ Mr.
+ Mintz is acting as the executor of the Estate of David Mintz, but disclaims any beneficial interest in the shares of common stock
+ held by the Estate. 
+
+Item
+ 13. 
+ Certain
+ Relationships and Related Transactions, and Director Independence. 
+
+In
+order to provide our company with additional working capital, on January 6, 2016, David Mintz, our then Chairman and Chief Executive,
+provided us with a loan of 500,000, which has been extended to come due on December 31, 2022. Commencing March 31, 2016, interest of
+5 is payable on a quarterly basis without compounding. The loan may be prepaid in whole or in part at any time without premium or penalty.
+The loan is convertible into our common stock at a conversion price of 1.77 per share, the closing price of our common stock on the
+OTCQB on the date the promissory note was extended. On December 22, 2021, the entire loan of 500,000 plus accrued interest of 25,000
+was paid by the Company to Mr. Mintz s estate, for which Mr. Efraim Mintz acts as executor. 
+
+During
+fiscal 2021, we paid The CFO Squad 4,000 for financial services. Mr. Himy is the Managing Director of The CFO
+Squad. 
+
+Item
+ 14. 
+ Principal
+ Accounting Fees and Services. 
+
+Set
+forth below are the aggregate fees billed by Mazars, our independent registered accounting firm, for the fiscal years ended January 1,
+2022 and January 2, 2021 for services rendered by them as our independent registered accounting firm for such years. 
+
+Fiscal
+ 2021 
+ Fiscal
+ 2020 
+ 
+ Audit
+ fees 
+ 115,000 
+ - 
+ 
+ Audit-related
+ fees 
+ - 
+ - 
+ 
+ Total
+ Audit Audit-related fees 
+ 115,000 
+ - 
+ 
+ Tax
+ fees 
+ - 
+
+All
+ other fees 
+ - 
+ - 
+ 
+ Total
+ fees 
+ 115,000 
+ - 
+
+38 
+
+In
+addition, set forth below are the aggregate fees billed by EisnerAmper LLP, our former independent registered accounting firm, for the
+fiscal years ended January 1, 2022 and January 2, 2021 for services rendered by them as our independent registered accounting firm for
+such years. 
+
+Fiscal
+ 2021 
+ Fiscal
+ 2020 
+ 
+ Audit
+ fees 
+ 60,000 
+ 114,000 
+ 
+ Audit-related
+ fees 
+ - 
+ - 
+ 
+ Total
+ Audit Audit-related fees 
+ 60,000 
+ 114,000 
+ 
+ Tax
+ fees 
+ - 
+
+All
+ other fees 
+ - 
+ - 
+ 
+ Total
+ fees 
+ 60,000 
+ 114,000 
+
+Audit
+fees consist of fees billed for services rendered for the audit of our financial statements and review of our financial statements included
+in our quarterly reports on Form 10-Q and services provided in connection with other statutory or regulatory filings. 
+
+Audit-related
+fees consist of fees billed for assurance and related services that are reasonably related to the performance of the audit or review
+of our financial statements and not reported under Audit fees. No such fees were billed in fiscal 2021 or 2020. 
+
+Tax
+fees consist of fees billed for professional services related to the preparation of our U.S. federal and state income tax returns and
+tax advice. No such fees were billed by Mazars in fiscal 2021 or 2020. The Audit Committee pre-approved all Audit-related fees. After
+considering the provision of services encompassed within the above disclosures about fees, the Audit Committee has determined that the
+provision of such services is compatible with maintaining Mazars independence. 
+
+The
+Audit Committee s policy is to pre-approve all audit and non-audit related services, tax services and other services. Pre-approval
+is generally provided for up to one year, and any pre-approval is detailed as to the particular service or category of services and is
+generally subject to a specific budget. The Audit Committee has delegated the pre-approval authority to its chairperson when expedition
+of services is necessary. The independent registered public accounting firm and management are required to periodically report to the
+full Audit Committee regarding the extent of services provided by the independent registered public accounting firm in accordance with
+this pre-approval and the fees for the services performed to date. 
+
+Item
+ 15. 
+ Exhibits,
+ Financial Statement Schedules. 
+
+(a)
+ 
+ Financial
+ Statements 
+
+See
+ Item 8. 
+
+(b)
+ 
+ Financial
+ Statement Schedules 
+
+None. 
+
+39 
+
+(c) 
+ Exhibits 
+
+3.1 
+ Certificate of Incorporation, as amended through June 1993(1) 
+
+3.2 
+ By-laws(2) 
+
+4.1 
+ Tofutti Brands Inc. 2014 Equity Incentive Plan(3) 
+
+23.1 
+ Consent of Mazars USA LLP 
+
+31.1 
+ Certification by Chief Executive Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act, as amended 
+
+31.2 
+ Certification by Chief Financial Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act, as amended 
+
+32.1 
+ Certification by Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+32.2 
+ Certification by Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+101.INS 
+ Inline
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ Inline
+ XBRL Schema Document 
+ 
+ 101.CAL 
+ Inline
+ XBRL Calculation Linkbase Document 
+ 
+ 101.DEF 
+ Inline
+ XBRL Definition Linkbase Document 
+ 
+ 101.LAB 
+ Inline
+ XBRL Labels Linkbase Document 
+ 
+ 101.PRE 
+ Inline
+ XBRL Presentation Linkbase Document 
+ 
+ 104 
+ Cover Page Interactive Data File (embedded within the Inline XBRL document) 
+
+(1) 
+ Filed
+ as Exhibit 3.1 to the Registrant s Form 10-K for the fiscal year ended December 30, 2017 and hereby incorporated by reference
+ thereto. 
+
+(2) 
+ Filed
+ as Exhibit 3.2 to the Registrant s Form 10-K for the fiscal year ended December 30, 2017 and hereby incorporated by reference
+ thereto. 
+
+(3) 
+ Filed
+ as Appendix A to the Proxy Statement filed as the Registrant s Schedule 14A filed May 14, 2014 and hereby incorporated by reference
+ thereto. 
+
+Item
+ 16. 
+ Form
+ 10-K Summary 
+
+We
+have elected not to provide summary information. 
+
+40 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed
+on its behalf by the undersigned, thereunto duly authorized on April 1, 2022. 
+
+TOFUTTI
+ BRANDS INC. 
+
+(Registrant) 
+
+/s/
+ Steven Kass 
+
+Steven
+ Kass 
+
+Chief
+ Executive Officer 
+
+In
+accordance with the Securities Exchange Act of 1934, this Report has been signed below on April 1, 2022 by the following persons on behalf
+of the Registrant and in the capacities indicated. 
+
+/s/
+ Steven Kass 
+
+Steven
+ Kass 
+
+Chief
+ Executive Officer, Secretary, Treasurer and Chief Financial and Principal Accounting Officer 
+
+/s/
+ Joseph Himy 
+
+Joseph
+ Himy 
+
+Director 
+
+/s/
+ Efraim Mintz 
+
+Efraim
+ Mintz 
+
+Director 
+
+/s/
+ Scott Korman 
+
+Scott
+ Korman 
+
+Director 
+
+/s/
+ Franklyn Snitow 
+
+Franklyn
+ Snitow 
+
+Director 
+
+41 
+
+<EX-23.1>
+ 2
+ ex23-1.htm
+
+EXHIBIT
+23.1 
+
+Consent
+of Independent Registered Public Accounting Firm 
+
+We
+hereby consent to the use in the Registration Statement on Form S-8 (No. 333-198917) of our report dated April 1, 2022,
+related to the financial statements of Tofutti Brands, Inc. as of January 1, 2022 and January 2, 2021, and for the fiscal years
+then ended, which report is included in this Annual Report on Form 10-K. 
+
+/s/
+ Mazars USA LLP 
+
+Edison,
+ New Jersey 
+
+April
+ 1, 2022 
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ SECTION
+302(a) OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Steven Kass, certify that: 
+
+1.
+I have reviewed this annual report on Form 10-K of Tofutti Brands Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; and 
+
+(c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent function): 
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+Date:
+April 1, 2022 
+
+/s/
+ Steven Kass 
+
+Steven
+ Kass 
+
+Chief
+ Executive Officer 
+
+The
+originally executed copy of this Certification will be maintained at the Company s offices and will be made available for inspection
+upon request. 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex31-2.htm
+
+Exhibit
+31.2 
+
+CERTIFICATION
+PURSUANT TO 
+
+ SECTION
+302(a) OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Steven Kass, certify that: 
+
+1.
+I have reviewed this annual report on Form 10-K of Tofutti Brands Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; and 
+
+(c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent function): 
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+Date:
+April 1, 2022 
+
+/s/
+ Steven Kass 
+
+Steven
+ Kass 
+
+Chief
+ Financial Officer 
+
+The
+originally executed copy of this Certification will be maintained at the Company s offices and will be made available for inspection
+upon request. 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ ex32-1.htm
+
+Exhibit
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Tofutti Brands Inc. (the Company on Form 10-K for the period ending January 1, 2022
+as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Steven Kass, Chief Executive Officer
+of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of
+the Company. 
+
+/s/
+ Steven Kass 
+
+Steven
+ Kass 
+
+Chief
+ Executive Officer 
+
+Date:
+ April 1, 2022 
+
+The originally executed copy of this Certification will be maintained at the Company s offices and will be made available for inspection
+upon request. 
+
+This
+certification accompanies this Annual Report on Form 10-K pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not be
+deemed filed by the Company for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ).
+Such certification will not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or
+the Exchange Act, except to the extent that the Company specifically incorporates it by reference. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ ex32-2.htm
+
+Exhibit
+32.2 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Tofutti Brands Inc. (the Company on Form 10-K for the period ending January 1, 2022
+as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Steven Kass, Chief Financial Officer
+of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of
+the Company. 
+
+/s/
+ Steven Kass 
+
+Steven
+ Kass 
+
+Chief
+ Financial Officer 
+
+Date:
+April 1, 2022 
+
+The originally executed copy of this Certification will be maintained at the Company s offices and will be made available for inspection
+upon request. 
+
+This
+certification accompanies this Annual Report on Form 10-K pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not be
+deemed filed by the Company for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ).
+Such certification will not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or
+the Exchange Act, except to the extent that the Company specifically incorporates it by reference. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ tofb-20220101.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ tofb-20220101_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ tofb-20220101_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ tofb-20220101_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

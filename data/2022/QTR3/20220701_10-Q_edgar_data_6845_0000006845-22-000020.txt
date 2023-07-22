@@ -1,0 +1,763 @@
+<Header>
+<FileStats>
+    <FileName>20220701_10-Q_edgar_data_6845_0000006845-22-000020.txt</FileName>
+    <GrossFileSize>6450524</GrossFileSize>
+    <NetFileSize>68641</NetFileSize>
+    <NonText_DocumentType_Chars>1048539</NonText_DocumentType_Chars>
+    <HTML_Chars>2174842</HTML_Chars>
+    <XBRL_Chars>1614062</XBRL_Chars>
+    <XML_Chars>1430310</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000006845-22-000020.hdr.sgml : 20220701
+<ACCEPTANCE-DATETIME>20220701141143
+ACCESSION NUMBER:		0000006845-22-000020
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		82
+CONFORMED PERIOD OF REPORT:	20220528
+FILED AS OF DATE:		20220701
+DATE AS OF CHANGE:		20220701
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APOGEE ENTERPRISES, INC.
+		CENTRAL INDEX KEY:			0000006845
+		STANDARD INDUSTRIAL CLASSIFICATION:	GLASS PRODUCTS, MADE OF PURCHASED GLASS [3231]
+		IRS NUMBER:				410919654
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0225
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06365
+		FILM NUMBER:		221060826
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4400 WEST 78TH STREET
+		STREET 2:		SUITE 520
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55435
+		BUSINESS PHONE:		6128351874
+
+	MAIL ADDRESS:	
+		STREET 1:		4400 WEST 78TH STREET
+		STREET 2:		SUITE 520
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55435
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APOGEE ENTERPRISES INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HARMON GLASS CO INC
+		DATE OF NAME CHANGE:	19720623
+
+</SEC-Header>
+</Header>
+
+ 0000006845-22-000020.txt : 20220701
+
+10-Q
+ 1
+ apog-20220528.htm
+ 10-Q
+
+apog-20220528 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ _________________________________ 
+ FORM 
+ _________________________________ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission File Number: 
+ _________________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ _________________________________ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) (Address of principal executive offices) (Zip Code) 
+ Registrant s telephone number, including area code: ) 
+ Not Applicable 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ _________________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x o No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x o No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ x 
+ Accelerated filer Non-accelerated filer o Smaller reporting company Emerging growth company If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes x No 
+ As of June 27, 2022, shares of the registrant s common stock, par value 0.33 1/3 per share, were outstanding. 
+
+APOGEE ENTERPRISES, INC. AND SUBSIDIARIES 
+
+Page PART I Financial Information 
+ Item 1. Financial Statements (Unaudited): 
+ Consolidated Balance Sheets 
+ 4 
+ Consolidated Results of Operations 
+ 5 
+ Consolidated Statements of Comprehensive Earnings 
+ 6 
+ Consolidated Statements of Cash Flows 
+ 7 
+ Consolidated Statements of Shareholders' Equity 
+ 8 
+ Notes to Consolidated Financial Statements 
+ 9 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 19 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 25 
+ Item 4. Controls and Procedures 
+ 25 
+ PART II Other Information 
+ Item 1. Legal Proceedings 
+ 25 
+ Item 1A. Risk Factors 
+ 25 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 25 
+ Item 6. Exhibits 
+ 26 
+ Signatures 
+ 27 
+ 
+ 3 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+ 
+ Item 1. Financial Statements 
+
+CONSOLIDATED BALANCE SHEETS 
+ (Unaudited) 
+ (In thousands, except stock data) May 28, 2022 February 26, 2022 Assets Current assets Cash and cash equivalents Restricted cash Receivables, net Inventories Costs and earnings on contracts in excess of billings Other current assets Total current assets Property, plant and equipment, net Operating lease right-of-use assets Goodwill Intangible assets Other non-current assets Total assets Liabilities and Shareholders Equity Current liabilities Accounts payable Accrued payroll and related benefits Billings in excess of costs and earnings on uncompleted contracts Operating lease liabilities Current portion long-term debt Other current liabilities Total current liabilities Long-term debt Non-current operating lease liabilities Non-current self-insurance reserves Other non-current liabilities Commitments and contingent liabilities (Note 8) Shareholders equity Common stock of -1/3 par value; authorized shares; issued and outstanding and respectively 
+ Additional paid-in capital Retained earnings Accumulated other comprehensive loss ) ) Total shareholders equity Total liabilities and shareholders equity 
+ See accompanying notes to consolidated financial statements. 
+ 
+ 4 
+
+Table of Contents 
+
+ CONSOLIDATED RESULTS OF OPERATIONS 
+ (Unaudited) 
+ Three Months Ended (In thousands, except per share data) May 28, 2022 May 29, 2021 Net sales Cost of sales Gross profit Selling, general and administrative expenses Operating income Interest expense, net Other expense, net Earnings before income taxes Income tax expense Net earnings Earnings per share - basic Earnings per share - diluted Weighted average basic shares outstanding Weighted average diluted shares outstanding 
+ See accompanying notes to consolidated financial statements. 
+ 
+ 5 
+
+Table of Contents 
+
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE EARNINGS 
+ (Unaudited) 
+ Three Months Ended (In thousands) May 28, 2022 May 29, 2021 Net earnings Other comprehensive (loss) earnings: Unrealized (loss) gain on marketable securities, net of ) and of tax (benefit) expense, respectively 
+ ) Unrealized (loss) gain on derivative instruments, net of ) and of tax (benefit) expense, respectively 
+ ) Foreign currency translation adjustments Other comprehensive (loss) earnings ) Total comprehensive earnings 
+ 
+ See accompanying notes to consolidated financial statements. 
+ 
+ 6 
+
+Table of Contents 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited) 
+ Three Months Ended (In thousands) May 28, 2022 May 29, 2021 Operating Activities Net earnings Adjustments to reconcile net earnings to net cash (used) provided by operating activities: Depreciation and amortization Share-based compensation Deferred income taxes Gain on disposal of assets ) ) Proceeds from New Markets Tax Credit transaction, net of deferred costs Settlement of New Markets Tax Credit transaction ) Noncash lease expense Other, net Changes in operating assets and liabilities: Receivables ) Inventories ) Costs and earnings on contracts in excess of billings ) Accounts payable and accrued expenses ) ) Billings in excess of costs and earnings on uncompleted contracts ) ) Refundable and accrued income taxes Operating lease liability ) ) Other, net ) ) Net cash (used) provided by operating activities ) Investing Activities Capital expenditures ) ) Proceeds from sales of property, plant and equipment Other, net Net cash used by investing activities ) ) Financing Activities Borrowings on line of credit Repayment on debt ) Payments on line of credit ) Proceeds from exercise of stock options Repurchase and retirement of common stock ) ) Dividends paid ) ) Other, net ) ) Net cash provided (used) by financing activities ) Decrease in cash, cash equivalents and restricted cash ) ) Effect of exchange rates on cash Cash, cash equivalents and restricted cash at beginning of year Cash, cash equivalents and restricted cash at end of period Noncash Activity Capital expenditures in accounts payable 
+ See accompanying notes to consolidated financial statements. 
+ 
+ 7 
+
+Table of Contents 
+
+ CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY 
+ (Unaudited) 
+ (In thousands) Common Shares Outstanding Common Stock Additional Paid-In Capital Retained Earnings Accumulated Other Comprehensive (Loss) Income Total Shareholders' Equity Balance at February 26, 2022 ) Net earnings Unrealized loss on marketable securities, net of tax benefit 
+ ) ) Unrealized loss on derivative instruments, net of tax benefit 
+ ) ) Foreign currency translation adjustments Issuance of stock, net of cancellations Share-based compensation Share repurchases ) ) ) ) ) Other share retirements ) ) ) ) ) Cash dividends ) ) Balance at May 28, 2022 ) 
+
+(In thousands) Common Shares Outstanding Common Stock Additional Paid-In Capital Retained Earnings Accumulated Other Comprehensive (Loss) Income Total Shareholders' Equity Balance at February 27, 2021 ) Net earnings Unrealized gain on marketable securities, net of tax expense 
+ Unrealized gain on derivative instruments, net of tax expense 
+ Foreign currency translation adjustments Issuance of stock, net of cancellations ) Share-based compensation Exercise of stock options Share repurchases ) ) ) ) ) Other share retirements ) ) ) ) ) Cash dividends ) ) Balance at May 29, 2021 ) 
+
+See accompanying notes to consolidated financial statements. 
+ 
+ 8 
+
+Table of Contents 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+1. 
+
+2. 
+ 
+ Recognized over time Total 
+ 
+ Receivables 
+ Receivables reflected in the financial statements represent the net amount expected to be collected. An allowance for credit losses is established based on expected losses. Expected losses are estimated by reviewing individual accounts, considering aging, financial condition of the debtor, recent payment history, current and forecast economic conditions and other relevant factors. Upon billing, aging of receivables is monitored until collection. An account is considered current when it is within agreed upon payment terms. An account is written off when it is determined that the asset is no longer collectible. Retainage on construction contracts represents amounts withheld by our customers on long-term projects until the project reaches a level of completion where amounts are released to us from the customer. 
+ Construction contracts Contract retainage Total receivables Less: allowance for credit losses Receivables, net 
+ 
+ Additions charged to costs and expenses ) Deductions from allowance, net of recoveries ) Other changes (1) 
+ ) Ending balance (1) Result of foreign currency effects 
+ 
+ 9 
+
+Table of Contents 
+
+Contract liabilities 
+ 
+ The changes in contract assets and contract liabilities were mainly due to timing of project activity within our businesses that operate under long-term contracts. 
+ Other contract-related disclosures Three Months Ended (In thousands) May 28, 2022 May 29, 2021 Revenue recognized related to contract liabilities from prior year-end Revenue recognized related to prior satisfaction of performance obligations 
+ 
+ Some of our contracts have an expected duration of longer than a year, with performance obligations extending over that time frame. Generally, these contracts are found in our businesses that typically operate with long-term contracts, which recognize revenue over time. As of May 28, 2022, the transaction price associated with unsatisfied performance obligations was approximately million. 
+ 
+ Within 
+ Beyond 
+ Total 
+
+3. 
+ 
+ Work-in-process Finished goods Total inventories 
+ 
+ Income and other taxes Accrued self-insurance reserves Accrued freight Other Total other current liabilities 
+ 10 
+
+Table of Contents 
+
+Retirement plan obligations Deferred compensation plan Deferred tax liabilities Other Total other non-current liabilities 
+
+4. 
+
+February 26, 2022 
+ 
+ Prism insures a portion of our general liability, workers compensation and automobile liability risks using reinsurance agreements to meet statutory requirements. The reinsurance carrier requires Prism to maintain fixed-maturity investments for the purpose of providing collateral for Prism s obligations under the reinsurance agreements. 
+ 
+ Due after one year through five years Due after five years through 10 years Total 
+ 
+ Derivative instruments 
+ We use interest rate swaps, foreign exchange forward contracts, commodity swaps and forward purchase contracts to manage risks generally associated with foreign exchange rate, interest rate and commodity price fluctuations. The information that follows explains the various types of derivatives and financial instruments we use, how such instruments are accounted for, and how such instruments impact our financial position and performance. 
+ 
+ In fiscal 2020, we entered into an interest rate swap to hedge exposure to variability in cash flows from interest payments on our floating-rate revolving credit facility and term loan. As of May 28, 2022, the interest rate swap contract had a notional value of million. 
+ 
+ We periodically enter into forward purchase contracts and/or fixed/floating swaps to manage the risk associated with fluctuations in aluminum prices and fluctuations in foreign exchange rates (primarily related to the Canadian dollar). These contracts generally have an original maturity date of less than one year. As of May 28, 2022, we held foreign exchange forward contracts and aluminum fixed/floating swaps with U.S. dollar notional values of million and million, respectively. 
+ 
+ These derivative instruments are recorded within our consolidated balance sheets within other current assets and liabilities. Gains or losses associated with these instruments are recorded as a component of accumulated other comprehensive income. 
+
+11 
+
+Table of Contents 
+
+ Municipal and corporate bonds Cash surrender value of life insurance Foreign currency forward/option contract Interest rate swap contract Liabilities: Deferred compensation Aluminum hedging contract February 26, 2022 Assets: Money market funds Municipal and corporate bonds Cash surrender value of life insurance Aluminum hedging contract Interest rate swap contract Liabilities: Deferred compensation Foreign currency forward/option contract 
+ 
+ Money market funds and commercial paper 
+ Fair value of money market funds was determined based on quoted prices for identical assets in active markets. Commercial paper was measured at fair value using inputs based on quoted prices for similar securities in active markets. These assets are included within cash and cash equivalents on our consolidated balance sheets. 
+ 
+ Municipal and corporate bonds 
+ Municipal and corporate bonds were measured at fair value based on market prices from recent trades of similar securities and are classified within our consolidated balance sheets as other current or other non-current assets based on maturity date. 
+ 
+ Cash surrender value of life insurance and deferred compensation 
+ Contracts insuring the lives of certain employees who are eligible to participate in certain non-qualified pension and deferred compensation plans are held in trust. Cash surrender value of the contracts is based on performance measurement funds that shadow the deferral investment allocations made by participants in certain deferred compensation plans. Changes in cash surrender value are recorded in other expense. The deferred compensation liability balances are valued based on amounts allocated by participants to the underlying performance measurement funds. 
+ 
+ Derivative instruments 
+ The interest rate swap is measured at fair value using other observable market inputs, based off of benchmark interest rates. Forward foreign exchange and fixed/floating aluminum contracts are measured at fair value using other observable market inputs, such as quotations on forward foreign exchange points, foreign currency exchange rates, and forward purchase aluminum prices. Derivative positions are primarily valued using standard calculations and models that use as their basis readily observable market parameters. Industry standard data providers are our primary source for forward and spot rate information for both interest and currency rates and aluminum prices. 
+ 
+ Nonrecurring fair value measurements 
+ We measure certain financial instruments at fair value on a nonrecurring basis including goodwill, intangible assets, property and equipment and right-of-use lease assets. These assets were initially measured and recognized at amounts equal to the fair 
+ 12 
+
+Table of Contents 
+
+5. 
+ 
+ Foreign currency translation ) Balance at February 26, 2022 Reallocation among reporting units (1) 
+ ) Foreign currency translation ) ) Balance at May 28, 2022 (1) Represents the reallocation of goodwill as a result of transitioning Sotawall from the Architectural Framing Systems segment to the Architectural Services segment as of the start of the first quarter of fiscal 2023. 
+
+Other intangible assets 
+ Indefinite-lived intangible assets 
+ We have intangible assets for certain acquired trade names and trademarks which are determined to have indefinite useful lives. We test indefinite-lived intangible assets for impairment annually at the same measurement date as goodwill, the first day of our fiscal fourth quarter, or more frequently if events or changes in circumstances indicate that it is more likely than not that the asset is impaired. Based on the impairment analysis performed in the fourth quarter of fiscal 2022, the fair value of each of our trade names and trademarks exceeded the carrying amount. However, due to triggering events identified in the fourth quarter of fiscal 2022, resulting from the finalization of our plans for integrating the Sotawall business into the Architectural Services segment, beginning in fiscal 2023, we determined that the carrying value of the Sotawall trade name exceeded fair value by million. We determined that Sotawall had an immaterial fair value, resulting in the trade name being fully impaired as of fiscal 2022 year-end. We recognized this amount as impairment expense in the fourth quarter ended February 26, 2022. 
+ 
+ Finite-lived intangible assets 
+ Long-lived assets or asset groups, including intangible assets subject to amortization and property and equipment, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value of those assets may not be 
+ 13 
+
+Table of Contents 
+
+ million in finite-lived intangible assets in the fourth quarter of fiscal year 2022, within the Architectural Framing Systems segment. 
+ 
+ ) Other intangibles ) Total ) Indefinite-lived intangible assets: Trademarks ) Total intangible assets ) February 26, 2022 Definite-lived intangible assets: Customer relationships ) ) Other intangibles ) ) ) Total ) ) Indefinite-lived intangible assets: Trademarks ) Total intangible assets ) ) 
+ 
+ Amortization expense on definite-lived intangible assets was million and million for the three-month periods ended May 28, 2022 and May 29, 2021, respectively. Amortization expense of other identifiable intangible assets is included in selling, general and administrative expenses. 
+
+6. 
+ 
+ million with a maturity of June 2024. As of May 28, 2022, outstanding borrowings under our revolving credit facility were million, while there were outstanding borrowings under the revolving credit facility as of February 26, 2022. At May 28, 2022 and February 26, 2022, we also had a million term loan with a maturity date of June 2024. 
+ 
+ Our revolving credit facility and term loan contain two financial covenants that require us to stay below a maximum debt-to-EBITDA ratio and maintain a minimum ratio of EBITDA-to-interest expense. Both ratios are computed quarterly, with EBITDA calculated on a rolling four-quarter basis. At May 28, 2022, we were in compliance with both financial covenants. Additionally, at May 28, 2022, we had a total of million of ongoing letters of credit related to industrial revenue bonds, construction contracts and insurance collateral that expire in fiscal years 2023 to 2032 and reduce borrowing capacity under the revolving credit facility. 
+ 
+ At May 28, 2022, debt included million of industrial revenue bonds that mature in fiscal years 2036 through 2043. In March 2022, a million industrial revenue bond matured and was repaid. The fair value of all industrial revenue bonds approximated carrying value at May 28, 2022, due to the variable interest rates on these instruments. Our credit facility, term loan and industrial revenue bonds would be classified as Level 2 within the fair value hierarchy described in Note 4. 
+ 
+ 14 
+
+Table of Contents 
+
+ million (USD). As of May 28, 2022 and February 26, 2022, there were borrowings outstanding under the facilities. 
+ 
+ Interest payments were million for each of the three-months ended May 28, 2022 and May 29, 2021, respectively. 
+
+Short-term lease cost Variable lease cost Total lease cost 
+ 
+ Other supplemental information related to leases was as follows: 
+ Three Months Ended (In thousands except weighted-average data) May 28, 2022 May 29, 2021 Cash paid for amounts included in the measurement of operating lease liabilities Lease assets obtained in exchange for new operating lease liabilities Weighted-average remaining lease term - operating leases years years Weighted-average discount rate - operating leases 
+ 
+ Fiscal 2024 Fiscal 2025 Fiscal 2026 Fiscal 2027 Fiscal 2028 Thereafter Total lease payments Less: Amounts representing interest Present value of lease liabilities 
+ 
+ 15 
+
+Table of Contents 
+
+ 8. 
+ 
+ billion of these types of bonds were outstanding, of which million is in our backlog. These bonds do not have stated expiration dates. We have never been required to make payments under surety or performance bonds with respect to our existing businesses. 
+ 
+ Warranty and project-related contingencies 
+ We reserve estimated exposures on known claims, as well as on a portion of anticipated claims, for product warranty and rework cost, based on historical product liability claims as a ratio of sales. Claim costs are deducted from the accrual when paid. Factors that could have an impact on the warranty accrual in any given period include the following: changes in manufacturing quality, changes in product mix and any significant changes in sales volume. 
+ Additional accruals Claims paid ) ) Balance at end of period 
+ 
+ Additionally, we are subject to project management and installation-related contingencies as a result of our fixed-price material supply and installation service contracts, primarily in our Architectural Services segment and certain of our Architectural Framing Systems businesses. We manage the risk of these exposures through contract negotiations, proactive project management and insurance coverages. 
+ 
+ Letters of credit 
+ At May 28, 2022, we had million of ongoing letters of credit, all of which have been issued under our committed revolving credit facility, as discussed in Note 6. We also have a 6.9 million letter of credit which has been issued outside our committed revolving credit facility, with no impact on our borrowing capacity and debt covenants. 
+ 
+ Purchase obligations 
+ Purchase obligations for raw material commitments and capital expenditures totaled million as of May 28, 2022. 
+ 
+ New Markets Tax Credit (NMTC) transactions 
+ We have three outstanding NMTC arrangements which help to support operational expansion. Proceeds received from investors on these transactions are included within other non-current liabilities in our consolidated balance sheets. The NMTC arrangements are subject to 100 percent tax credit recapture for a period of seven years from the date of each respective transaction. Upon the termination of each arrangement, these proceeds will be recognized in earnings in exchange for the transfer of tax credits. The direct and incremental costs incurred in structuring these arrangements have been deferred and are included in other non-current assets in our consolidated balance sheets. These costs will be recognized in conjunction with the recognition of the related proceeds on each arrangement. During the construction phase or for working capital purposes for each project, we are required to hold cash dedicated to fund each capital project which is classified as restricted cash in our consolidated balance sheets. Variable-interest entities, which have been included within our consolidated financial statements, have been created as a result of the structure of these transactions, as investors in the programs do not have a material interest in their underlying economics. 
+ 
+ During the first quarter of fiscal 2023, one NMTC transaction was terminated, and a new NMTC transaction was established as a replacement. As a result of these transactions, 19.5 million in previous proceeds received were repaid and 19.5 million was contributed back to the Company as part of the newly established NMTC transaction. This NMTC transaction will be held for the remainder of the original seven-year term. 
+
+16 
+
+Table of Contents 
+
+ September 2018 September 2025 May 2022 August 2025 Total 
+ 
+ Litigation 
+ The Company is a party to various legal proceedings incidental to its normal operating activities. In particular, like others in the construction supply and services industry, the Company is routinely involved in various disputes and claims arising out of construction projects, sometimes involving significant monetary damages or product replacement. We have in the past and are currently subject to product liability and warranty claims, including certain legal claims related to a commercial sealant product formerly incorporated into our products. The Company is also subject to litigation arising out of areas such as employment practices, workers compensation and general liability matters. Although it is very difficult to accurately predict the outcome of any such proceedings, facts currently available indicate that no matters will result in losses that would have a material adverse effect on the results of operations, cash flows or financial condition of the Company. 
+
+9. 
+ 
+ million for the three-month period ended May 28, 2022 and million for the three-month period ended May 29, 2021. 
+ 
+ Stock options and SARs 
+ Outstanding at end of period years Vested or expected to vest at end of period years 
+ 
+ awards were issued or exercised during the three-months ended May 28, 2022. For the three-months ended May 29, 2021, cash proceeds from the exercise of stock options was million and the aggregate intrinsic value of securities exercised (the amount by which the stock price on the date of exercise exceeded the stock price of the award on the date of grant) was million. 
+ Executive Compensation Program In fiscal 2022, the Compensation Committee of the Board of Directors implemented an executive compensation program for certain key employees. In the each of the first quarters of fiscal 2023 and fiscal 2022, we issued performance shares in the form of nonvested share unit awards, which give the recipient the right to receive shares earned at the vesting date. The number of share units issued at grant is equal to the target number of performance shares and allows for the right to receive an additional number of shares dependent on achieving a defined performance goal of return on invested capital and being employed at the end of the performance period. 
+ 
+ Nonvested share awards and units 
+ Granted (2) 
+ Vested ) Canceled ) Nonvested at May 28, 2022 (1) (2) 
+ 
+ (1) Includes a total of 50,825 nonvested share units granted and outstanding at target level for the fiscal 2022-2024 performance period. 
+ (2) Includes a total of 38,564 nonvested share units granted and outstanding at target level for the fiscal 2023-2025 performance period. 
+ 17 
+
+Table of Contents 
+
+million of total unrecognized compensation cost related to nonvested share and nonvested share unit awards, which is expected to be recognized over a weighted average period of approximately months. The total fair value of shares vested during the three months ended May 28, 2022 was million. 
+
+10. 
+
+million at May 28, 2022, compared to million at February 26, 2022. Penalties and interest related to unrecognized tax benefits are recorded in income tax expense. 
+
+11. 
+ 
+ Weighted average effect of nonvested share grants and assumed exercise of stock options 
+ Diluted earnings per share weighted average common shares and potential common shares outstanding 
+ Stock awards excluded from the calculation of earnings per share because the effect was anti-dilutive (award price greater than average market price of the shares) 
+
+12. 
+ 
+ reporting segments: 
+ The Architectural Framing Systems segment designs, engineers, fabricates and finishes aluminum window, curtainwall, storefront and entrance systems for the exterior of buildings. 
+ The Architectural Services segment integrates technical services, project management, and field installation services to design, engineer, fabricate, and install building glass and curtainwall systems. 
+ The Architectural Glass segment coats and fabricates, high-performance glass used in custom window and wall systems on commercial buildings. 
+ The Large-Scale Optical (LSO) segment manufactures high-performance glass and acrylic products for custom framing, museum, and technical glass markets. 
+ 
+ At the beginning of the first quarter of fiscal 2023, we began management of the Sotawall and Harmon businesses under the Architectural Services segment in order to create a single, unified offering for larger custom curtainwall projects. The fiscal 2022 segment results were recast for comparability. 
+ 18 
+
+Table of Contents 
+
+ Architectural Services Architectural Glass Large-Scale Optical Intersegment eliminations ) ) Net sales Operating income (loss) Architectural Framing Systems Architectural Services Architectural Glass Large-Scale Optical Corporate and other ) ) Operating income 
+ 
+ Due to the varying combinations and integration of individual window, storefront and curtainwall systems, it is impractical to report product revenues generated by class of product, beyond the segment revenues currently reported. 
+
+13. Restructuring 
+ 
+ million. The remaining assets had a carrying value of million, and we recognized a gain on the sale of approximately million, net of associated transaction costs, which is included as a reduction of cost of sales within our consolidated statements of operations. 
+ 
+ Restructuring expense Payments ) ) ) ) Other adjustments ) ) Balance at February 26, 2022 Payments ) ) ) ) Other adjustments ) ) ) Balance at May 28, 2022 
+
+14. Subsequent Events 
+ 
+ shares. 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Forward-looking statements 
+ This Quarterly Report on Form 10-Q, including the section, Management s Discussion and Analysis of Financial Condition and Results of Operations, contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements reflect our current views with respect to future events and financial performance. The words believe, expect, anticipate, intend, estimate, forecast, project, should, "will," "continue" and similar expressions are intended to identify forward-looking statements within the meaning of the Private Securities Litigation 
+ 19 
+
+Table of Contents 
+
+ Reform Act of 1995. All forecasts and projections in this document are forward-looking statements, and are based on management s current expectations or beliefs. From time to time, we may also provide oral and written forward-looking statements in other materials we release to the public, such as press releases, presentations to securities analysts or investors, or other communications by the Company. Any or all of our forward-looking statements in this report and in any public statements we make could be materially different from actual results. 
+ 
+ Accordingly, we wish to caution investors that any forward-looking statements made by or on behalf of the Company are subject to uncertainties and other factors that could cause actual results to differ materially from such statements. Information about factors that could materially affect our results can be found in the Risk Factors section of our Annual Report on Form 10-K for the year ended February 26, 2022 and in subsequent filings with the U.S. Securities and Exchange Commission, including this Quarterly Report on Form 10-Q. 
+ 
+ We also wish to caution investors that other factors might in the future prove to be important in affecting the Company s results of operations. New factors emerge from time to time; it is not possible for management to predict all such factors, nor can it assess the impact of each such factor on the business or the extent to which any factor, or a combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. We undertake no obligation to update publicly or revise any forward-looking statements, whether as a result of new information, future events or otherwise. 
+
+Overview 
+ We are a leader in the design and development of value-added glass and metal products and services. Our four reporting segments are: Architectural Framing Systems, Architectural Glass, Architectural Services and Large-Scale Optical (LSO). 
+ 
+ During fiscal 2022, we conducted a strategic review of our business and the markets we serve in order to establish a new enterprise strategy with three key elements, as discussed below: 
+ 1. Become the economic leader in our target markets. We will achieve this by developing a deep understanding of our target markets and aligning our businesses with clear go-to-market strategies to drive value for our customers through differentiated product and service offerings. We will also build a relentless focus on operational execution, driving productivity improvements, and maintaining a competitive cost structure, so that we may bring more value to our customers and improve our own profitability. 
+ 2. Actively manage our portfolio to drive higher margins and returns. We intend to shift our business mix toward higher operating margin offerings and improve our return on invested capital performance. We will accomplish this by allocating resources to grow our top performing businesses, actively addressing underperforming businesses, and investing to add new differentiated product and service offerings to accelerate our growth. 
+ 3. Strengthen our core capabilities. We are shifting from our historical, decentralized operating model, to one with center-led functional expertise that enables us to leverage the scale of the enterprise to better support the needs of the business. We are establishing a Company-wide operating system with common tools and processes that are based on the foundation of Lean and Continuous Improvement. This will be supported by a robust talent management program and a commitment to strong governance to ensure compliance and drive sustainable performance. 
+ 
+ At the beginning of the first quarter of fiscal 2023, we began management of the Sotawall and Harmon businesses under the Architectural Services segment in order to create a single, unified offering for larger custom curtainwall projects. The comparative fiscal 2022 segment results for the Architectural Framing Systems and Architectural Services segments have been recast to reflect the move of the Sotawall business into the Architectural Services segment from the Architectural Framing Systems segment, effective at the start of the first quarter of fiscal 2023. 
+ 
+ The following selected financial data should be read in conjunction with the Company s Form 10-K for the year ended February 26, 2022 and the consolidated financial statements, including the notes to consolidated financial statements, included therein. 
+
+Highlights of First Quarter of Fiscal 2023 Compared to First Quarter of Fiscal 2022 
+ 
+ Net sales 
+ Consolidated net sales increased 9.4 percent, or 30.6 million, for the three-month period ended May 28, 2022, compared to the same period in the prior year, primarily driven by growth in the Architectural Framing Systems and Architectural Services segments. 
+ 
+ 20 
+
+Table of Contents 
+
+ The relationship between various components of operations, as a percentage of net sales, is presented below: 
+ Three Months Ended May 28, 2022 May 29, 2021 Net sales 100.0 100.0 Cost of sales 76.0 79.2 Gross profit 24.0 20.8 Selling, general and administrative expenses 14.7 15.8 Operating income 9.3 4.9 Interest expense, net 0.3 0.4 Other expense, net 0.4 0.1 Earnings before income taxes 8.6 4.4 Income tax expense 2.2 1.1 Net earnings 6.4 3.3 Effective tax rate 26.0 25.3 
+ 
+ Gross profit 
+ Gross profit as a percent of sales (gross margin) was 24.0 percent for the three-month period ended May 28, 2022, compared to 20.8 percent for the three-month period ended May 29, 2021. Gross margin increased in the current year three-month period compared to the prior year period, primarily driven by inflation-related pricing actions in the Architectural Framing Systems segment, partially offset by negative performance impacts of certain projects within the Architectural Services segment. 
+ 
+ Selling, general and administrative (SG A) expenses 
+ SG A expenses as a percent of sales were 14.7 percent for the three-month period ended May 28, 2022, compared to 15.8 percent for the prior year three-month period. SG A decreased as a percent of sales compared to the same period in the prior year primarily due to the benefits realized from previously completed restructuring actions. 
+ 
+ Income tax expense 
+ The effective income tax rate in the first quarter of fiscal 2023 was 26.0 percent, compared to 25.3 percent in the same period last year. 
+
+Segment Analysis 
+ 
+ Architectural Framing Systems 
+ Three Months Ended (In thousands) May 28, 2022 May 29, 2021 Change Net sales 163,292 136,768 19.4 Operating income 23,665 8,371 182.7 Operating margin 14.5 6.1 
+ 
+ Architectural Framing Systems net sales increased 26.5 million, or 19.4 percent, for the three-month period ended May 28, 2022, compared to the prior year period, primarily driven by inflation-related pricing actions. 
+ 
+ Operating margin increased 840 basis points for the three-month period of the current year, compared to the same period in the prior year, reflecting improved pricing and the benefits from previously completed restructuring and cost actions, which further strengthened our competitive position and offset the impact of cost inflation. Architectural Framing Systems operating income also benefited from the timing of inventory flows and the volatility of aluminum prices, as it sold products this quarter using aluminum that was purchased in previous periods at lower costs. 
+ 
+ As of May 28, 2022, segment backlog was approximately 310 million, compared to approximately 281 million at the end of the prior quarter. Backlog represents the dollar amount of signed contracts or firm orders, generally as a result of a competitive bidding process, which may be expected to be recognized as revenue in the future. Backlog is not a term defined under U.S. GAAP and is not a measure of contract profitability. We view backlog as one indicator of future revenues, particularly in our longer-lead time businesses. In addition to backlog, we have a substantial amount of projects with short lead times that book-and-bill within the same reporting period and are not included in backlog. We have strong visibility beyond backlog, as projects awarded, verbal commitments and bidding activities are not included in backlog. 
+ 21 
+
+Table of Contents 
+
+Architectural Services 
+ Three Months Ended (In thousands) May 28, 2022 May 29, 2021 Change Net sales 103,388 90,732 13.9 Operating income 2,927 4,226 (30.7) Operating margin 2.8 4.7 Architectural Services net sales increased 12.7 million, or 13.9 percent, for the three-month period ended May 28, 2022, compared to the same period in the prior year, driven by increased volume from executing projects in backlog. 
+ 
+ Operating margin decreased 190 basis points in the three-month period of the current year, compared to the same period in the prior year, primarily reflecting performance write downs on a discrete number of projects, increased costs for investments to support future growth, and a less favorable project mix, partially offset by the higher volume. 
+ 
+ As of May 28, 2022, segment backlog was approximately 681 million, compared to approximately 665 million at the end of the prior quarter. Segment backlog at the end of the first quarter of fiscal 2022 was approximately 722 million. Backlog, a non-GAAP financial measure, is described within the Architectural Framing Systems discussion above. 
+ 
+ Architectural Glass 
+ Three Months Ended (In thousands) May 28, 2022 May 29, 2021 Change Net sales 76,265 83,031 (8.1) Operating income 5,169 2,128 142.9 Operating margin 6.8 2.6 
+ 
+ Net sales decreased 6.8 million, or 8.1 percent, for the three-month period ended May 28, 2022, compared to the same period in the prior year, primarily reflecting lower volume. 
+ 
+ Operating margin increased 420 basis points in the three-month period of the current year, compared to the same period in the prior year, driven by productivity gains, the positive impact of restructuring actions completed last year, and improved pricing, which offset the impact of cost inflation and lower volume driven by the strategic shift from lower margin work, including the closure of the Velocity business and lower project awards in non-residential construction during the downturn. 
+ 
+ Large-Scale Optical (LSO) 
+ Three Months Ended (In thousands) May 28, 2022 May 29, 2021 Change Net sales 25,162 24,228 3.9 Operating income 6,498 5,847 11.1 Operating margin 25.8 24.1 
+ 
+ LSO net sales increased 0.9 million or 3.9 percent, for the three-month period ended May 28, 2022, compared to the same period in the prior year, driven by improved pricing and a more favorable sales mix. 
+ 
+ Operating margin increased 170 basis points in the three-month period of the current year, compared to the same period in the prior year, primarily reflecting improved productivity and pricing, partially offset by cost inflation. 
+
+22 
+
+Table of Contents 
+
+ Liquidity and Capital Resources 
+ Selected cash flow data Three Months Ended (In thousands) May 28, 2022 May 29, 2021 Operating Activities Net cash (used) provided by operating activities (30,462) 6,883 Investing Activities Capital expenditures (5,125) (4,705) Proceeds from sales of property, plant and equipment 4,087 438 Financing Activities Borrowings on line of credit 161,000 Payments on line of credit (62,000) Repurchase and retirement of common stock (74,312) (12,625) Dividends paid (4,793) (5,035) 
+ 
+ Operating Activities. Net cash used by operating activities was 30.5 million for the first three months of fiscal 2023, compared to 6.8 million of net cash provided by operating activities in the prior year period, reflecting increased working capital related to revenue growth. 
+ 
+ Investing Activities. Net cash used by investing activities was 0.9 million for the first three months of fiscal 2023, driven primarily by capital expenditures of 5.1 million, partially offset by proceeds received from sales of property, plant and equipment of 4.1 million. In the first three months of the prior year, net cash used by investing activities was 4.1 million, primarily driven by capital expenditures of 4.7 million. 
+ 
+ Financing Activities. Net cash provided by financing activities was 17.6 million for the first three months of fiscal 2023, compared to net cash used by financing activities of 14.3 million in the prior year period. The current year period was primarily driven by net debt borrowings of 99.0 million partially offset by share repurchases totaling 74.3 million, compared to 12.6 million in the prior year period. 
+ 
+ We paid dividends totaling 4.8 million 0.2200 per share) in the first three months of fiscal 2023, compared to 5.0 million 0.2000 per share) in the comparable prior year period. During the first three months of fiscal 2023, we repurchased 1,571,139 shares under our authorized share repurchase program, for a total cost of 74.3 million. In the first three months of fiscal 2022, we repurchased 341,000 shares under the share repurchase program, for a total cost of 12.2 million. Since the inception of the share repurchase program in 2004, we have purchased a total of 10,996,601 shares, at a total cost of 381.6 million. As of May 28, 2022, we had remaining authority to repurchase an additional 253,399 shares under this program. We will continue to evaluate making future share repurchases, considering our cash flow, debt levels and market conditions, in the context of all our capital allocation options, with the goal of maximizing long-term value for our shareholders. 
+ 
+ Additional Liquidity Considerations. We periodically evaluate our liquidity requirements, capital needs and availability of resources in view of inventory levels, expansion plans, and other working capital needs. 
+ 
+ As of May 28, 2022, we had a committed revolving credit facility with maximum borrowings of up to 235 million and a 150 million term loan, both with a maturity of June 2024. As of May 28, 2022, outstanding borrowings under our revolving credit facility were 99.0 million, while there were no outstanding borrowings under the revolving credit facility as of February 26, 2022. We are required to make periodic interest payments on our outstanding indebtedness, and future interest payments will be determined based on the amount of outstanding borrowings and prevailing interest rates during that time. 
+ 
+ Our revolving credit facility and term loan contain two financial covenants that require us to stay below a maximum debt-to-EBITDA ratio and maintain a minimum ratio of interest expense-to-EBITDA. Both ratios are computed quarterly, with EBITDA calculated on a rolling four-quarter basis. At May 28, 2022, we were in compliance with both financial covenants. 
+ 
+ We acquire the use of certain assets through operating leases, such as property, manufacturing equipment, vehicles and other equipment. Future payments for such leases, excluding leases with initial terms of one year or less, were 51.9 million at May 28, 2022, with 10.2 million payable during the remainder of fiscal 2023. 
+ 
+ As of May 28, 2022, we had 196.5 million of open purchase obligations, of which payments totaling 169.7 million are expected to become due within the next 12 months. These purchase obligations primarily relate to raw material commitments 
+ 23 
+
+Table of Contents 
+
+ and capital expenditures, and are not expected to impact future liquidity as amounts should be recovered through customer billings. 
+ 
+ We expect to make contributions of 0.7 million to our defined-benefit pension plans in fiscal 2023, which will equal or exceed our minimum funding requirements. 
+ 
+ As of May 28, 2022, we had reserves of 3.4 million for unrecognized tax benefits. We are unable to reasonably estimate in which future periods the remaining unrecognized tax benefits will ultimately be settled. 
+ 
+ We are required, in the ordinary course of business, to provide surety or performance bonds that commit payments to our customers for any non-performance. At May 28, 2022, 1.2 billion of these types of bonds were outstanding, of which 409.3 million is in our backlog. These bonds do not have stated expiration dates. We have never been required to make payments under surety or performance bonds with respect to our existing businesses. 
+ 
+ During calendar year 2020, we took advantage of the option to defer remittance of the employer portion of Social Security tax as provided in the Coronavirus Aid, Relief, and Economic Security Act. This deferral allowed us to retain cash during calendar year 2020 that would have otherwise been remitted to the federal government. Our first installment of these deferred social security taxes, totaling approximately 6.8 million, was paid in the fourth quarter of fiscal 2022, and our second installment of approximately 6.8 million is expected to be paid in the fourth quarter of fiscal 2023. 
+ 
+ Due to our ability to generate strong cash from operations and our borrowing capability under our committed revolving credit facility, we believe that our sources of liquidity will be adequate to meet our short-term and long-term liquidity and capital expenditure needs. In addition, we believe we have the ability to obtain both short-term and long-term debt to meet our financing needs for the foreseeable future. We also believe we will be able to operate our business so as to continue to be in compliance with our existing debt covenants over the next fiscal year. 
+ 
+ We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures, or capital resources that is material to investors. 
+
+Outlook 
+ Based on our first-quarter results and impact of the share repurchase leading to lower share count in our outlook, we have raised our guidance for full-year adjusted earnings to a range of 3.50 to 3.90 per diluted share, up from the previously announced range of 2.90 to 3.30. The company continues to expect full-year capital expenditures of 35 million to 40 million. 
+ 
+ A reconciliation of non-GAAP guidance on adjusted earnings per diluted share Adjusted EPS to GAAP guidance is not available on a forward-looking basis without unreasonable effort due to the uncertainty of the magnitude and timing of future adjustments. These adjustments may include the impact of such items as impairment charges, restructuring costs, acquired project-related charges, and gains or losses from significant asset sales. Accordingly, the company is unable to provide a reconciliation of Adjusted EPS to the most directly comparable GAAP financial measure or address the probable significance of the unavailable information, which could be material to the company's future financial results computed in accordance with GAAP. 
+ 
+ Related Party Transactions 
+ No material changes have occurred in the disclosure with respect to our related party transactions set forth in our Annual Report on Form 10-K for the fiscal year ended February 26, 2022. 
+
+Critical Accounting Policies 
+ There have been no material changes to our critical accounting policies from those disclosed in our Annual Report on Form 10-K for the fiscal year ended February 26, 2022, except as noted below. 
+ 
+ Impairment of goodwill, indefinite-lived intangible assets and long-lived assets 
+ Goodwill 
+ At the beginning of the first quarter of fiscal 2023, we began management of the Sotawall and Harmon businesses under the Architectural Services segment in order to create a single, unified offering for larger custom curtainwall projects. In connection with the transition, leadership of our Sotawall and Harmon businesses have been combined to form the Architectural Services reporting unit. We evaluated goodwill on a qualitative basis prior to and subsequent to this change for these reporting units and concluded no adjustment to the carrying value of goodwill was necessary as a result of this change. Concurrent with this change in composition of the operating segments effective at the start of our first quarter of fiscal 2023, goodwill was reallocated to the affected reporting units within each operating segment, using a relative fair value approach as outlined in ASC 350, Intangibles 
+ 24 
+
+Table of Contents 
+
+ - Goodwill and Other. In addition, for all reporting units, no qualitative indicators of impairment were identified during the first quarter, and therefore, no interim quantitative goodwill impairment evaluation was performed. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ Refer to the Company s Annual Report on Form 10-K for the fiscal year ended February 26, 2022 for a discussion of the Company s market risk. There have been no material changes in market risk since February 26, 2022. 
+
+Item 4. Controls and Procedures 
+ a) Evaluation of disclosure controls and procedures: As of the end of the period covered by this report (the Evaluation Date), we carried out an evaluation, under the supervision and with the participation of management, including the Chief Executive Officer and the Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) or 15d-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act)). Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that, as of the Evaluation Date, our disclosure controls and procedures were effective to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in applicable rules and forms, and (ii) accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure. 
+ b) Changes in internal controls: There was no change in the Company s internal control over financial reporting that occurred during the fiscal quarter ended May 28, 2022, that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting. 
+
+PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 
+ The Company is a party to various legal proceedings incidental to its normal operating activities. In particular, like others in the construction supply and services industry, the Company is routinely involved in various disputes and claims arising out of construction projects, sometimes involving significant monetary damages or product replacement. We have in the past and are currently subject to product liability and warranty claims, including certain legal claims related to a commercial sealant product formerly incorporated into our products. The Company is also subject to litigation arising out of areas such as employment practices, workers compensation and general liability matters. Although it is very difficult to accurately predict the outcome of any such proceedings, facts currently available indicate that no matters will result in losses that would have a material adverse effect on the results of operations, cash flows or financial condition of the Company. 
+ 
+ Item 1A. Risk Factors 
+ 
+ There have been no material changes or additions to our risk factors discussed in our Annual Report on Form 10-K for the fiscal year ended February 26, 2022. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ The following table provides information with respect to purchases made by the Company of its own stock during the first quarter of fiscal 2023: 
+ Period Total Number of Shares Purchased (a) Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (b) Maximum Number of Shares that May Yet Be Purchased under the Plans or Programs (b) February 27, 2022 to March 26, 2022 553,539 47.27 553,539 1,270,999 March 27, 2022 to April 23, 2022 1,019,451 47.19 1,017,600 253,399 April 24, 2022 to May 28, 2022 28,233 44.00 253,399 Total 1,601,223 47.13 1,571,139 253,399 
+ (a) The shares in this column represent the total number of shares that were repurchased by us pursuant to our publicly announced repurchase program, plus the shares surrendered to us by plan participants to satisfy withholding tax obligations related to share-based compensation. 
+ 25 
+
+Table of Contents 
+
+ (b) In fiscal 2004, announced on April 10, 2003, the Board of Directors authorized the repurchase of 1,500,000 shares of Company stock. The Board increased the authorization by 750,000 shares, announced on January 24, 2008; by 1,000,000 shares on each of the announcement dates of October 8, 2008, January 13, 2016, January 9, 2018, January 14, 2020, and October 7, 2021; and by 2,000,000 shares, announced on October 3, 2018 and January 14, 2022. The repurchase program does not have an expiration date. 
+
+Item 6. Exhibits 
+ 3.1 
+ Restated Articles of Incorporation. (Incorporated by reference to Exhibit 3.1 to Registrant's Annual Report on Form 10-K for the year-ended February 28, 2004.) 
+ 3.2 
+ Articles of Amendment to Restated Articles of Incorporation. (Incorporated by reference to Exhibit 3.1 to Registrant's Current Report on Form 8-K filed on January 16, 2020.) 
+ 3.3 
+ Amended and Restated Bylaws of Apogee Enterprises, Inc. (Incorporated by reference to Exhibit 3.3 to the Registrant s Quarterly Report on Form 10-Q for the quarter-ended May 29, 2021). 
+ 10.1 
+ Form of Restricted Stock Agreement (incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed on April 26, 2021). 
+ 10.2 
+ Form of Performance Award Agreement (incorporated by reference to Exhibit 10.2 to the Company s Current Report on Form 8-K filed on April 26, 2021). 
+ 10.3 
+ Form of Executive Short-Term Incentive Plan Memorandum (incorporated by reference to Exhibit 10.3 to the Company s Current Report on Form 8-K filed on April 26, 2021). 
+ 10.4 
+ Executive Short-Term Incentive Plan Terms and Conditions (incorporated by reference to Exhibit 10.4 to the Company s Current Report on Form 8-K filed on April 26, 2021). 
+ 31.1# 
+ Certification of Chief Executive Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934. 
+ 31.2# 
+ Certification of Chief Financial Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934. 
+ 32.1# 
+ Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2# 
+ Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101# The following materials from Apogee Enterprises, Inc. s Quarterly Report on Form 10-Q for the quarter ended May 28, 2022, formatted in iXBRL (Inline Extensible Business Reporting Language): (i) the Consolidated Balance Sheets as of May 28, 2022 and February 26, 2022, (ii) the Consolidated Results of Operations for the three-months ended May 28, 2022 and May 29, 2021, (iii) the Consolidated Statements of Comprehensive Earnings for the three-months ended May 28, 2022 and May 29, 2021, (iv) the Consolidated Statements of Cash Flows for the three-months ended May 28, 2022 and May 29, 2021, (v) the Consolidated Statements of Shareholders' Equity for the three-months ended May 28, 2022 and May 29, 2021, and (vi) Notes to Consolidated Financial Statements. 
+ 104# Cover Page Interactive Data File (formatted as iXBRL and contained in Exhibit 101) Exhibits marked with a (#) sign are filed herewith. 
+ 26 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ APOGEE ENTERPRISES, INC. Date: July 1, 2022 By: /s/ Ty R. Silberhorn Ty R. Silberhorn President and Chief Executive Officer (Principal Executive Officer) 
+ 
+ Date: July 1, 2022 By: /s/ Nisheet Gupta Nisheet Gupta Executive Vice President and Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+27 
+
+<EX-31.1>
+ 2
+ apog-ex311_20220528.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION 
+ I, Ty R. Silberhorn, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Apogee Enterprises, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrants most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date July 1, 2022 
+ s Ty R. Silberhorn 
+ Ty R. Silberhorn 
+ President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ apog-ex312_20220528.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION 
+ I, Nisheet Gupta, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Apogee Enterprises, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrants most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date July 1, 2022 
+ 
+ s Nisheet Gupta Nisheet Gupta Executive Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ apog-ex321_20220528.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Apogee Enterprises, Inc. (the Company on Form 10-Q for the period ended May 28, 2022 as filed with the Securities and Exchange Commission (the Report ), I, Ty R. Silberhorn, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that based on my knowledge 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Ty R. Silberhorn Ty R. Silberhorn President and Chief Executive Officer July 1, 2022 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ apog-ex322_20220528.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Apogee Enterprises, Inc. (the Company on Form 10-Q for the period ended May 28, 2022 as filed with the Securities and Exchange Commission (the Report ), I, Nisheet Gupta, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that based on my knowledge 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Nisheet Gupta Nisheet Gupta Executive Vice President and Chief Financial Officer July 1, 2022 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ apog-20220528.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ apog-20220528_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ apog-20220528_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ apog-20220528_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ apog-20220528_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

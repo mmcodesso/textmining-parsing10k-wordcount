@@ -1,0 +1,2978 @@
+<Header>
+<FileStats>
+    <FileName>20220701_10-Q_edgar_data_82473_0001493152-22-018408.txt</FileName>
+    <GrossFileSize>5206546</GrossFileSize>
+    <NetFileSize>119972</NetFileSize>
+    <NonText_DocumentType_Chars>948777</NonText_DocumentType_Chars>
+    <HTML_Chars>1338294</HTML_Chars>
+    <XBRL_Chars>1306255</XBRL_Chars>
+    <XML_Chars>1390269</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-22-018408.hdr.sgml : 20220701
+<ACCEPTANCE-DATETIME>20220701170748
+ACCESSION NUMBER:		0001493152-22-018408
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		76
+CONFORMED PERIOD OF REPORT:	20220430
+FILED AS OF DATE:		20220701
+DATE AS OF CHANGE:		20220701
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INNSUITES HOSPITALITY TRUST
+		CENTRAL INDEX KEY:			0000082473
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				346647590
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07062
+		FILM NUMBER:		221062261
+
+	BUSINESS ADDRESS:	
+		STREET 1:		INNSUITES HOTELS CENTRE
+		STREET 2:		1625 E NORTHERN AVE STE 105
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85020
+		BUSINESS PHONE:		2166220046
+
+	MAIL ADDRESS:	
+		STREET 1:		925 EUCLID AVENUE
+		STREET 2:		SUITE 1750
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44115
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REALTY REFUND TRUST
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0001493152-22-018408.txt : 20220701
+
+10-Q
+ 1
+ form10-q.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+D.C. 20549 
+
+FORM
+
+QUARTERLY
+REPORT 
+
+ PURSUANT
+TO SECTION 13 OR 15(d) 
+
+ OF
+THE SECURITIES EXCHANGE ACT OF 1934 
+
+ FOR
+THE QUARTERLY PERIOD ENDED 
+
+Commission
+File Number 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State
+ or other jurisdiction 
+ of incorporation
+ or organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ Number) 
+
+, 
+
+ ,
+
+(Address
+of principal executive offices) 
+
+Registrant s
+telephone number, including area code: 
+
+Indicate
+by check mark whether the registrant: (l) has filed all reports required to be filed by Section 13 or l5(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+(Do not check if a smaller reporting company) 
+
+Smaller
+ reporting company 
+ 
+ Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+Aggregate
+market value of Shares of Beneficial Interest held by non-affiliates of the registrant as of July 31, 2021, based upon the closing sales
+price of the registrant s Shares of Beneficial Interest on that date, as reported on the NYSE AMERICAN: 17,006,992. 
+
+Number
+of outstanding Shares of Beneficial Interest, without par value, as of July 1, 2022: . 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+
+-American 
+
+TABLE
+OF CONTENTS 
+
+ FOR
+THE QUARTERLY PERIOD ENDED APRIL 30, 2022 
+
+Page
+ No. 
+ 
+ PART I. FINANCIAL INFORMATION 
+
+Item
+ 1 
+ Financial Statements 
+ 3 
+
+Condensed Consolidated Balance Sheets January 31, 2022 (audited) and April 30, 2022 (unaudited) 
+ 3 
+
+Condensed Consolidated Statements of Operations Three Months Ended April 30, 2022 and April 30, 2021 (unaudited) 
+ 4 
+
+Condensed Consolidated Statements of Shareholders Equity Three Months Ended April 30, 2022 and April 30, 2021 (unaudited) 
+ 5 
+
+Condensed Consolidated Statements of Cash Flows Three Months ended April 30, 2022 and April 30, 2021 (unaudited) 
+ 6 
+
+Notes to Condensed Consolidated Financial Statements (unaudited) 
+ 7 
+ 
+ Item
+ 2 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 26 
+ 
+ Item
+ 3 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 38 
+ 
+ Item
+ 4 
+ Controls and Procedures 
+ 38 
+
+PART II. OTHER INFORMATION 
+
+Item
+ 1 
+ Legal Proceedings 
+ 40 
+ 
+ Item
+ 1A 
+ Risk Factors 
+ 40 
+ 
+ Item
+ 2 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 40 
+ 
+ Item
+ 3 
+ Defaults Upon Senior Securities 
+ 41 
+ 
+ Item
+ 4 
+ Mine Safety Disclosures 
+ 41 
+ 
+ Item
+ 5 
+ Other Information 
+ 41 
+ 
+ Item
+ 6 
+ Exhibits 
+ 41 
+
+Signature 
+ 42 
+
+Exhibit
+ Index 
+
+2 
+
+PART
+I 
+
+ FINANCIAL
+INFORMATION 
+
+ITEM
+1. FINANCIAL STATEMENTS 
+
+ INNSUITES
+HOSPITALITY TRUST AND SUBSIDIARIES 
+
+ CONDENSED
+CONSOLIDATED BALANCE SHEETS 
+
+APRIL 30, 2022 
+ JANUARY 31, 2022 
+
+(Unaudited) 
+
+ASSETS 
+
+Current Assets: 
+
+Cash 
+
+Accounts Receivable 
+
+Employee Retention Credit Receivable 
+
+Current Portion of Note Receivable (net) 
+ - 
+ - 
+ 
+ Prepaid Expenses and Other Current Assets 
+
+Total Current Assets 
+
+Property and Equipment, net 
+
+Note Receivable (net) 
+
+Operating Lease Right of Use 
+
+Finance Lease Right of Use 
+
+Convertible Note Receivable 
+
+Investment in Private Company Stock 
+
+TOTAL ASSETS 
+
+LIABILITIES AND SHAREHOLDERS EQUITY 
+
+LIABILITIES 
+
+Current Liabilities: 
+
+Accounts Payable and Accrued Expenses 
+
+Current Portion of Mortgage Notes Payable, net of Discount 
+
+Current Portion of Other Notes Payable 
+
+Current Portion of Operating Lease Liability 
+
+Current Portion of Finance Lease Liability 
+
+Total Current Liabilities 
+
+Notes Payable - Related Party 
+ - 
+
+Mortgage Notes Payable, net of Discount 
+
+Other Notes Payable 
+ - 
+
+Operating Lease Liability, net of current portion 
+
+Finance Lease Liability, net of current portion 
+
+TOTAL LIABILITIES 
+
+COMMITMENTS AND CONTINGENCIES 
+ - 
+
+SHAREHOLDERS EQUITY 
+
+Shares of Beneficial Interest, without 
+ par value, unlimited 
+ authorization; and
+ shares issued and 
+ and shares
+ outstanding at April 30, 2022 and January 31, 2022, respectively 
+
+Treasury Stock, 
+ and shares held at cost at April 30, 2022 and January 31, 2022, respectively 
+
+TOTAL TRUST SHAREHOLDERS EQUITY 
+
+NON-CONTROLLING INTEREST 
+
+TOTAL EQUITY 
+
+TOTAL LIABILITIES AND EQUITY 
+
+See
+accompanying notes to unaudited condensed consolidated financial statements 
+
+3 
+
+INNSUITES
+HOSPITALITY TRUST AND SUBSIDIARIES 
+
+ UNAUDITED
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+FOR THE THREE MONTHS ENDED APRIL 30, 
+
+2022 
+ 2021 
+ 
+ REVENUE 
+
+Room 
+
+Food and Beverage 
+
+Other 
+
+TOTAL REVENUE 
+
+OPERATING EXPENSES 
+
+Room 
+
+Food and Beverage 
+
+General and Administrative 
+
+Sales and Marketing 
+
+Repairs and Maintenance 
+
+Hospitality 
+
+Utilities 
+
+Depreciation 
+
+Real Estate and Personal Property Taxes, Insurance and Ground Rent 
+
+Other 
+
+TOTAL OPERATING EXPENSES 
+
+OPERATING INCOME (LOSS) 
+
+Other Income 
+
+Interest Income 
+
+PPP Loan Forgiveness 
+ - 
+
+TOTAL OTHER INCOME 
+
+Interest on Mortgage Notes Payable 
+
+Interest on Other Notes Payable 
+
+TOTAL INTEREST EXPENSE 
+
+CONSOLIDATED NET INCOME BEFORE EMPLOYEE RETENTION CREDIT 
+
+Employee Retention Credit 
+ 
+ - 
+ 
+ CONSOLIDATED NET INCOME 
+
+LESS: NET INCOME ATTRIBUTABLE TO NON-CONTROLLING INTEREST 
+
+NET INCOME LOSS) ATTRIBUTABLE TO CONTROLLING INTERESTS 
+
+NET INCOME (LOSS) PER SHARE BASIC DILUTED 
+
+WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING - BASIC DILUTED 
+
+See
+accompanying notes to unaudited condensed consolidated financial statements 
+
+4 
+
+INNSUITES
+HOSPITALITY TRUST AND SUBSIDIARIES 
+
+ UNAUDITED
+CONDENSED CONSOLIDATED STATEMENT OF SHAREHOLDERS EQUITY 
+
+FOR
+THE THREE MONTHS ENDED APRIL 30, 2022 
+
+Shares of Beneficial Interest 
+ Treasury Stock 
+ Trust Shareholders 
+ Non- Controlling 
+ Total 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Equity 
+ Interest 
+ Equity 
+ 
+ Balance, January 31, 2022 
+
+Net Income 
+ - 
+ 
+ - 
+ - 
+
+Purchase of Treasury Stock 
+ 
+ - 
+
+- 
+
+Distribution to Non-Controlling Interests 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance, April 30, 2022 
+
+FOR
+THE THREE MONTHS ENDED APRIL 30, 2021 
+
+Shares of Beneficial Interest 
+ Treasury Stock 
+ Trust Shareholders 
+ Non- Controlling 
+ Total 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Equity 
+ Interest 
+ Equity 
+ 
+ Balance, January 31, 2021 
+
+Net Income 
+ - 
+ 
+ - 
+ - 
+
+Shares of Beneficial Interest Issued for Services Rendered 
+
+- 
+ - 
+ 
+ - 
+
+Balance, April 30, 2021 
+
+See
+accompanying notes to unaudited condensed consolidated financial statements 
+
+5 
+
+INNSUITES
+HOSPITALITY TRUST AND SUBSIDIARIES 
+
+ UNAUDITED
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+FOR
+ THE THREE MONTHS ENDED 
+
+ APRIL 30, 
+
+2022 
+ 2021 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Consolidated Net Income 
+
+Adjustments to Reconcile Consolidated Net Income to Net Cash Provided By Operating Activities: 
+
+PPP Loan Forgiveness 
+ - 
+
+Employee Retention Credit 
+ 
+ - 
+ 
+ Stock-Based Compensation 
+ - 
+
+Depreciation 
+
+Changes in Assets and Liabilities: 
+
+Accounts Receivable 
+
+Income Tax Receivable 
+ - 
+
+Prepaid Expenses and Other Assets 
+
+Operating Lease 
+
+Finance Lease 
+
+Accounts Payable and Accrued Expenses 
+
+NET CASH PROVIDED BY OPERATING ACTIVITIES 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Improvements and Additions to Hotel Properties 
+
+Issuance of Payments on Convertible Note Receivable - UniGen 
+ 
+ - 
+ 
+ NET CASH USED IN INVESTING ACTIVITIES 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Principal Payments on Mortgage Notes Payable 
+
+Borrowings on Mortgage Notes Payable 
+ 
+ - 
+ 
+ Borrowings on Note Payable - Related Party 
+
+Payments on Notes Payable - Related Party 
+
+Payments on Other Notes Payable 
+
+Borrowings on Other Notes Payable 
+ - 
+
+Distributions to Non-Controlling Interest Holders 
+ 
+ - 
+ 
+ Repurchase of Treasury Stock 
+ 
+ - 
+ 
+ NET CASH PROVIDED BY (USED IN) FINANCING ACTIVITIES 
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 
+
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD 
+
+CASH AND CASH EQUIVALENTS AT END OF PERIOD 
+
+See
+accompanying notes to unaudited condensed consolidated financial statements 
+
+6 
+
+INNSUITES
+HOSPITALITY TRUST AND SUBSIDIARIES 
+
+ NOTES
+TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS 
+
+ AS
+OF APRIL 30, 2022, AND JANUARY 31, 2022 
+
+ AND
+FOR THE THREE MONTHS ENDED APRIL 30, 2022 AND 2021 
+
+million 
+ convertible debenture in UniGen Power Inc., UniGen ),
+approximately 
+ in UniGen s privately-held common stock,
+and hold warrants to make further UniGen Investments in the future. 
+
+Hotel
+Operations: 
+
+Our
+Tucson, Arizona Hotel and our Hotel located in Albuquerque, New Mexico are moderate service hotels. Both hotels offer swimming pools,
+fitness centers, business centers, and complimentary breakfast. In addition the Hotels offer social areas and modest conference facilities.
+The Tucson hotel has PJ s Pub and Caf , as well. 
+
+The
+Trust is the sole general partner of RRF Limited Partnership, a Delaware limited partnership (the Partnership ), and owned
+a interest in the Partnership as of April 30, 2022 and January 31, 2022, respectively. The Trust s weighted average ownership
+for the three months ended April 30, 2022 and 2021 was and , respectively. As of April 30, 2022, the Partnership owned a
+ interest in an InnSuites hotel located in Tucson, Arizona. The Trust owns a direct interest in an InnSuites hotel
+located in Albuquerque, New Mexico. 
+
+RRF
+Limited Partnership, a subsidiary, manages the Hotels daily operations under 2 management agreements. The Trust also provides
+the use of the InnSuites trademark to the Hotels. All expenses and reimbursements between the Trust, RRF and the Partnership
+have been eliminated in consolidation. 
+
+The
+Trust classified the Hotels as operating assets, but these assets are available for sale. At this time, the Trust is unable to predict
+when, and if, either of these will be sold. Neither the Tucson Hotel nor the Albuquerque Hotel is currently listed but the Trust is willing
+to consider offers for each Hotel. Each of the Hotels is being made available at a price that management believes is reasonable in relation
+to its current fair market value, earnings, profits, and replacement cost. 
+
+PRINCIPLES
+OF CONSOLIDATION AND BASIS OF PRESENTATION 
+
+These
+unaudited condensed consolidated financial statements have been prepared by management in accordance with accounting principles in conformity
+with accounting principles generally accepted in the United States of America GAAP ), and include all assets, liabilities,
+revenues and expenses of the Trust and its subsidiaries, as listed in the table below. All material intercompany transactions and balances
+have been eliminated. Certain items have been reclassified to conform to the current fiscal year presentation. The Trust exercises unilateral
+control over the Partnership and the entities listed below. Therefore, the unaudited condensed financial statements of the Partnership
+and the entities listed below are consolidated with the Trust, and all intercompany transactions and balances have been eliminated. 
+
+- 
+ 
+ Tucson Hospitality Properties, LLLP 
+ - 
+
+RRF Limited Partnership 
+ 
+ - 
+
+(i) 
+
+PARTNERSHIP
+AGREEMENT 
+
+The
+Partnership Agreement of the Partnership provides for the issuance of two classes of Limited Partnership units, Class A and Class B.
+Class A and Class B Partnership units are identical in all respects. On April 30, 2022 and January 31, 2022, 
+ Class A Partnership units were issued and
+outstanding, representing 
+ of the total Partnership units, respectively.
+Additionally, as of April 30, 2022 and January 31, 2022, 
+ Class B Partnership units were outstanding to
+and owned by James Wirth, the Trust s Chairman and Chief Executive Officer, and Mr. Wirth s affiliates, representing 
+ ownership in the Partnership. If all the Class
+A and B Partnership units were converted on April 30, 2022 and January 31, 2022, the limited partners in the Partnership would receive
+ 
+ Shares of Beneficial Interest of the Trust.
+As of April 30, 2022, and January 31, 2022, the Trust owns 
+ general partner units in the Partnership,
+representing 
+ of the total Partnership units. 
+
+LIQUIDITY 
+
+Two
+of the Trust s principal sources of cash to meet its cash requirements, including distributions to its shareholders, is monthly
+hotel management fee income and our share of the Partnership quarterly distributions coming from the Tucson Hotel and cash flow; and
+quarterly distributions and cash flow from the Albuquerque, New Mexico property. The Trust s liquidity, including our ability to
+make distributions to its shareholders, will depend upon the ability of the Trust and the Partnership s ability to generate sufficient
+cash flow from hotel operations and to service debt, as well as to generate funds from repayment of loans and sale of assets. The virus
+related travel slowdown caused hotel quarterly distributions from both the Albuquerque and Tucson hotels to be temporarily put on hold
+May 15, 2020, which was reinstated on February 15, 2022. 
+
+At
+a future date, the Trust may receive cash from hotel and energy operations and/or full or partial sale of one or both hotels, and/or
+its UniGen diversification investment. 
+
+As
+of April 30, 2022, the Trust had a related party Demand/Revolving Line of Credit/Promissory Note with an amount payable of approximately
+ .
+ The Demand/Revolving Line of Credit/Promissory Note
+accrues interest at 
+ per annum and requires interest only payments.
+The Demand/Revolving Line of Credit/Promissory Note has a maximum borrowing capacity to ,
+which is available through December 31, 2022, and automatically renews annually. This is a two-way Line of Credit, with both the Trust
+and an Affiliate lender having access to draw on the credit amount of up to 
+ for either party. 
+
+As
+of April 30, 2022, the Trust had three Revolving lines of Credit totaling with the Republic Bank of Arizona. The lines had a
+zero balance as of April 30, 2022. 
+
+With
+approximately 
+ of cash, as of April 30, 2022, the availability of 
+ from the combined 
+ Advance to Affiliate credit facilities, and the
+ 
+ Revolving Lines of Credit with Republic Bank,
+the Trust believes that it has and will have enough cash on hand to meet all of the financial obligations as they become due for twelve
+months from the date of filing this 10-Q. In addition, management is analyzing strategic options available to the Trust, including the
+sale of one or both Hotel properties, or a possible merger. However, such transactions may not be available on terms that are favorable
+to the Trust, or at all. 
+
+There
+can be no assurance that the Trust will be successful selling properties, merging, or raising additional or replacement funds, or that
+these funds may be available on terms that are favorable to it. If the Trust is unable to raise additional or replacement funds, it may
+be required to sell or refinance certain of our assets to meet liquidity needs, which may not be on terms that are favorable. 
+
+BASIS
+OF PRESENTATION 
+
+The
+accompanying unaudited condensed consolidated financial statements have been prepared by the Trust in accordance with GAAP for interim
+financial information, and pursuant to the instructions to Form 10-Q and Article 10 of Regulation S-X promulgated by the Securities and
+Exchange Commission SEC ). Accordingly, they do not include all the information and footnotes required by U.S. GAAP for
+complete financial statement presentation. However, the Trust believes that the disclosures are adequate to make the information presented
+not misleading. In the opinion of management, all adjustments (consisting primarily of normal recurring accruals) considered necessary
+for a fair presentation have been included. 
+
+Operating
+results for the three months ended April 30, 2022 are not necessarily indicative of the results that may be expected for the year ending
+January 31, 2023. The unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated
+financial statements and related notes thereto included in the Trust s Annual Report on Form 10-K for the year ended January 31,
+2022. 
+
+The
+Trust has evaluated subsequent events through the date of the filing of its Form 10-Q with the Securities and Exchange Commission. Other
+than those events disclosed indicating the recovery of economic and business activity, the Company is not aware of any other significant
+events that occurred subsequent to the balance sheet date but prior to the filing of this report that would have a material impact on
+the Trust s financial statements. 
+
+As
+the general partner of the Partnership, the Trust exercises unilateral control over the Partnership. Therefore, the financial statements
+of the Partnership are consolidated with the Trust, and all significant intercompany transactions and balances have been eliminated. 
+
+Under
+Accounting Standards Codification ASC Topic 810-10-25, Albuquerque Suite Hospitality, LLC has been determined to be a
+variable interest entity with the Partnership as the primary beneficiary (see Note 4 Variable Interest Entity ).
+Therefore, the financial statements of Albuquerque Suite Hospitality, LLC, are consolidated with the Trust, and all significant intercompany
+transactions and balances have been eliminated. 
+
+The
+financial statements of the Partnership and Tucson Hospitality Properties, LLLP are consolidated with the Partnership and the Trust,
+and all significant intercompany transactions and balances have been eliminated. 
+
+SEASONALITY
+OF THE HOTEL BUSINESS 
+
+The
+Hotels operations historically have been somewhat seasonal. The Tucson Arizona Hotel historically experiences the highest occupancy
+in the first fiscal quarter (the winter high season) and, to a lesser extent, the fourth fiscal quarter. The second fiscal quarter historically
+tends to be the lowest occupancy period at this Arizona Hotel. This seasonality pattern can be expected to cause fluctuations in the
+Trust s quarterly revenues. The Hotel located in Albuquerque, New Mexico historically experiences its most profitable periods during
+the second and third fiscal quarters (the summer high season), providing some balance to the general seasonality of the Trust s
+hotel business. 
+
+The
+seasonal nature of the Trust s business increases its vulnerability to risks such as travel disruptions, labor force shortages
+and cash flow issues. Further, if an adverse event such as an actual or threatened virus pandemic, terrorist attack, international conflict,
+data breach, regional economic downturn or poor weather should occur at either of its two hotels, the adverse impact to the Trust s
+revenues and profit could be significant. 
+
+years for buildings and improvements, and to years for furniture, fixtures and equipment. 
+
+Land
+is an indefinite-lived asset. The Trust tests its land for impairment annually, or whenever events or changes in circumstances indicates
+an impairment may have occurred, by comparing its carrying value to its implied fair value. 
+
+For
+tax purposes the Trust takes advantage of accelerated depreciation methods (MACRS) for new capital additions and improvements to its
+Hotels. 
+
+Management
+applies guidance ASC 360-10-35, to determine when it is required to test an asset for recoverability of its carrying value and whether,
+or not, an impairment exists. Under ASC 360-10-35, the Trust is required to test a long-lived asset for impairment when there is an indicator
+of impairment. Impairment indicators may include, but are not limited to, a drop in the performance of a long-lived asset, a decline
+in the hospitality industry or a decline in the economy. If an indicator of potential impairment is present, then an assessment is performed
+of whether the carrying amount of an asset exceeds its estimated undiscounted future cash flows over its estimated remaining life. 
+
+If
+the estimated undiscounted future cash flows over the asset s estimated remaining life are greater than the asset s carrying
+value, no impairment is recognized; however, if the carrying value of the asset exceeds the estimated undiscounted future cash flows,
+then the Trust would recognize an impairment expense to the extent the asset s carrying value exceeds its fair value, if any. The
+estimated future cash flows are based upon, among other things, assumptions about expected future operating performance, and may differ
+from actual cash flows. Long-lived assets evaluated for impairment are analyzed on a property-specific basis independent of the cash
+flows of other groups of assets. Evaluation of future cash flows is based on historical experience and other factors, including certain
+economic conditions, and committed future bookings. Management has determined that no further impairment is required of long-lived assets
+for the fiscal period ended April 30, 2022. 
+
+We
+are required to collect certain taxes and fees from customers on behalf of government agencies and remit these back to the applicable
+governmental agencies on a periodic basis. We have a legal obligation to act as a collection agent. We do not retain these taxes and
+fees and, therefore, they are not included in revenues. We record a liability when the amounts are collected and relieve the liability
+when payments are made to the applicable taxing authority or other appropriate governmental agency. 
+
+of balances over 90 days due and of balances over 120 days due. Accounts receivable are
+written off when collection efforts have been exhausted and they are deemed uncollectible. Recoveries, if any, of receivables previously
+written off are recorded when received. The Trust does not charge interest on accounts receivable balances and these receivables are
+unsecured. There is in the allowance for doubtful accounts for the three months ended April 30, 2022 and the fiscal year ended January
+31, 2022. 
+
+IHT fully paid restricted Shares per year. All shares vest over one year
+from date of grant. The Trust has paid the annual fees due to its Trustees by issuing Shares of Beneficial Interest out of its authorized
+but unissued Shares. Upon issuance, the Trust recognizes the shares as outstanding. The Trust recognizes expense related to the issuance
+based on the fair value of the shares upon the date of the restricted share grant and amortizes the expense equally over the period during
+which the shares vest to the Trustees. From time to time, the Trustees and key employees receive one-time fully paid restricted share
+grants, as well. 
+
+Shares of the Beneficial Interest, as discussed in Note 1. 
+
+For
+the three months ended April 30, 2022 and 2021, there were Class A and Class B Partnership units outstanding, which are convertible into
+Shares of Beneficial Interest of the Trust. Assuming conversion at the beginning of each period, the aggregate weighted-average of these
+Shares of Beneficial Interest would have been 
+ and 
+in addition to the basic shares outstanding for the three months ended April 30, 2022 and 2021, respectively. These Shares of Beneficial
+Interest issuable upon conversion of the Class A and Class B Partnership units were anti-dilutive during the three months ended April
+30, 2022 and 2021 and are excluded in the calculation of diluted earnings per share for those periods. 
+
+and 
+ for the three months ended April 30, 2022
+and 2021 respectively, and is reported in the consolidated Statement of Operations. 
+
+Level
+ 2 Valuation techniques in which significant inputs include quoted prices from active markets for assets or liabilities that
+ are similar to the assets or liabilities being measured and / or quoted prices for assets or liabilities that are identical or similar
+ to the assets or liabilities being measured from markets that are not active. Also, model-derived valuations in which all significant
+ inputs and significant value drivers are observable in active markets are level 2 valuation techniques. 
+
+Level
+ 3 Valuation techniques in which one or more significant inputs or significant value drivers are unobservable. Unobservable
+ inputs are valuation technique inputs that reflect a company s own judgments about the assumptions that market participants
+ would use in pricing an asset or liability. 
+
+The
+Trust has assets that are carried at fair value on a recurring basis, including stock and warrants in a 3 rd party private
+company on the unaudited condensed consolidated balance sheet. 
+
+Due
+to their short maturities, the carrying value of cash and cash equivalents, accounts receivable, accounts payable and accrued expenses
+approximate fair value. The fair value of mortgage notes payable, notes payable to banks and notes and advances payable to related parties
+is estimated by using the current rates which would be available for similar loans having the same remaining maturities and are based
+on level 3 inputs. 
+
+(the Loan Amount at an annual interest rate of (approximately per quarter). The Debentures are convertible into Class A shares of
+UniGen Common Stock at an initial conversion rate of per share. 
+
+UniGen
+issued the Trust common stock purchase warrants (the Debenture Warrants to purchase up to shares of Class A
+Common Stock. The Debenture Warrants are exercisable at an exercise price of per share of Class A Common Stock. 
+
+UniGen,
+also, issued the Trust additional common stock purchase warrants Additional Warrants to purchase up to shares
+of Class A Common Stock. The Additional Warrants are exercisable at an exercise price of per share of Class A Common Stock. In
+February 2021, UniGen separately issued an additional warrants at . 
+
+UniGen
+has agreed to allow IHT to fund a line of credit at the option of IHT convertible into shares of UniGen stock at 
+per share. The balance on this line of credit as of April 30, 2022 is . Subsequent to April 30, 2022, no activity has occurred with
+this line of credit and thus no draws have been taken. 
+
+The
+total of all stock ownership upon conversion of the note receivable and exercise of all warrants would total approximately million
+UniGen shares, which amounts to approximately of fully diluted UniGen equity. 
+
+On
+the Trust s balance sheet, the investment of the consists of approximately in note receivables and approximately
+ as the fair value of the warrant issued with the Trust s investment in UniGen. The value of the premium related to the
+fair value of the warrants will accrete over the life of the debentures. 
+
+Exercise (Strike) price 
+
+Time to maturity (years) 
+
+Annualized risk-free rate 
+
+Annualized volatility 
+
+Additional
+Warrants 
+
+Type of option 
+ Call option 
+ 
+ Stock price 
+
+Exercise (Strike) price 
+
+Time to maturity (years) 
+
+Annualized risk-free rate 
+
+Annualized volatility 
+
+During
+the year ended January 31, 2021, the Trust reinvested of interest income to exercise warrants for shares of common
+stock in UniGen. 
+
+During
+the year ended January 31, 2022, the Trust reinvested of interest income to exercise warrants for shares of common
+stock in UniGen. Additionally, the Trust exercised warrants for a total of for shares of common stock in UniGen. 
+
+During
+the first Fiscal Quarter (February 1, 2022 to April 30, 2022), three months ended April 30, 2022, the Trust reinvested of interest
+income to exercise warrants for shares of common stock in UniGen. Additionally, the Trust exercised warrants for
+a total of for shares of common stock in UniGen. 
+
+As
+of April 30, 2022, IHT held common shares of UniGen. Management believes recording the investment at cost approximates fair value
+since there have been no significant changes in the operations of UniGen and UniGen s projects are still in the R D phase. 
+
+UniGen
+Power Inc. management recently reported progress on several fronts of the InnSuites Hospitality Trust (IHT) efficient clean energy innovation
+diversification investment including the following: 
+
+1.
+Despite travel and supply chain disruptions including reshoring of a portion of UniGen parts, UniGen management targets
+the UPI 1000 NG first prototype to be in operation on or before December 2022 subject to continuing supply chain delay challenges, and
+subject to available cash of UniGen. 
+
+2.
+Due to global travel and economic events, an increasingly unreliable American power grid, inflation, and supply chain pressures, the
+UniGen marketing team estimates product s market has grown, and has increased the planned power plant price. The initial order
+for thirty units was recently reaffirmed. 
+
+3.
+UniGen recently raised an additional million through early existing UniGen warrant exercises, including a commitment from
+IHT, of which is to be funded later this year as part of a pre-production GenSet capital raise. 
+
+James
+Wirth (President) and Marc Berg (Executive Vice President) both lack significant control. They have two of the six Board of Directors
+seats or and were elected in December 2019 to serve on the board of UNIGEN to closely monitor and assist in the success of this potentially
+power industry disruptive relatively clean energy generation innovation. 
+
+The
+Trust has valued UniGen investment as a level 3 fair value measurement, for the following reasons: The investment does not qualify for
+level 1 since there are no identical actively traded instruments or level 2 identical or similar unobservable markets. 
+
+per unit
+with a two-unit minimum subscription. The Trust maintains at least of the units in one of the entities and intends to maintain
+this minimum ownership percentage. Generally, the units in the each of the entities are allocated to three classes with differing cumulative
+discretionary priority distribution rights through a certain time period. Class A units are owned by unrelated third parties and have
+priority for distributions. Class B units are owned by the Trust and have second priority for distributions. Class C units are owned
+by Rare Earth or other affiliates of Mr. Wirth and have the lowest priority for distributions. Priority distributions of per unit
+per year are cumulative until a certain date; however, after that date, generally Class A unit holders continue to hold a preference
+on distributions over Class B and Class C unit holders. The Trust does not accrue for these distributions as the preference periods have
+expired. 
+
+On
+February 15, 2017, the Trust and Partnership entered into a restructuring agreement with Rare Earth Financial, LLC REF to allow for the sale of non-controlling partnership units in Albuquerque Suite Hospitality LLC Albuquerque for 
+ per unit, which operates the Best Western InnSuites
+Albuquerque Hotel and Suites Airport hotel property, a 112 unit hotel in Albuquerque, New Mexico (the Property ). REF and
+IHT restructured the Albuquerque Membership Interest by creating 
+ additional Class A membership interests from
+General Member majority-owned to accredited investor member-owned. In the event of sale of 
+ Class A Interests, total interests outstanding
+will change from 
+ to 
+ with Class A, Class B and Class C Limited Liability
+Company Interests (referred to collectively as Interests restructured with IHT selling approximately 
+ Class B Interests to accredited investors as
+Class A Interest. REF, as a General Partner of Albuquerque, will coordinate the offering and sale of Class A Interests to qualified third
+parties. REF and other REF Affiliates may purchase Interests under the offering. This restructuring is part of the Trust s Equity
+Enhancement Plan to comply with Section 1003(a)(iii) of the NYSE American Company Guide. For the three months ending April 30, 2022 and
+2021, the Trust sold 
+ units for 
+ per unit, respectively. 
+
+Building and improvements 
+
+Furniture, fixtures and equipment 
+
+Total hotel properties 
+
+Less accumulated depreciation 
+
+Hotel properties, net 
+
+As
+of April 30, 2022, and January 31, 2022, corporate property, plant, and equipment consisted of the following: 
+
+CORPORATE PP E 
+
+April 30, 2022 
+ January 31, 2022 
+ 
+ Land 
+
+Building and improvements 
+
+Furniture, fixtures and equipment 
+
+Total property, plant and equipment 
+
+Less accumulated depreciation 
+
+Property, Plant and Equipment, net 
+
+owned by RRF Limited partnership, a subsidiary of InnSuites Hospitality Trust, funded a new loan for 
+ million to refinance it s relatively low 
+ million first position debt along with 
+ million in inter-company advances from IHT used to complete the Best Western Product Improvement Plan PIP refurbishment
+of the Hotel at an interest rate of 
+financed on a 
+ year amortization with no prepayment penalty and no balloon. This credit facility is guaranteed by InnSuites Hospitality Trust,
+RRF Limited Partnership, Rare Earth Financial, LLC, James F. Wirth and Gail J. Wirth, and the Wirth Family Trust dated July 14, 2016. 
+
+As
+of April 30, 2022, and January 31, 2022, the mortgage loan balance was approximately 
+ and ,
+ respectively. The mortgage note payable is due in
+monthly installments of . 
+
+On
+December 2, 2019, Albuquerque Suites Hospitality, LLC entered into a 
+ million Business Loan Agreement Albuquerque
+Loan as a first mortgage credit facility with Republic Bank of Arizona. The Albuquerque Loan has a maturity date of . The Albuquerque Loan has an initial
+interest rate of 
+for the first five years and thereafter a with a floor
+of 
+and no prepayment penalty. This credit facility is guaranteed by InnSuites Hospitality Trust. As of April 30, 2022, the mortgage loan
+balance was approximately ,
+ net of financing fees of approximately . 
+
+See
+Note 9 Minimum Debt Payments for scheduled minimum payments on the mortgage notes payable. 
+
+per annum for both a payable and receivable,
+interest is due quarterly, matures on , and automatically renews annually each
+calendar year. No prepayment penalty exists on the Demand/Revolving Line of Credit/Promissory Note. The balance fluctuates significantly
+through the period. On December 30, 2020, the Demand/Revolving Line of Credit/Promissory Note was extended and increased to the current
+level of .
+As of April 30, 2022, and January 31, 2022, the Trust had an amount payable of approximately 
+ and ,
+ respectively. During the three months ended April
+30, 2022 and 2021, the Trust accrued approximately , respectively, of interest expense. 
+
+in promissory notes outstanding to unrelated third parties arising from the repurchase
+of Class A Partnership units in privately negotiated transactions. These promissory notes bear interest at per year and are
+due in varying monthly payments through . 
+
+As
+of April 30, 2022, the Trust had a unsecured note payable with an individual lender. The promissory note is payable on demand,
+or on , whichever occurs first. The loan accrues interest at and interest only payments shall be made monthly.
+The Trust may pay all of part of this note without any repayment penalties. The total principal amount of this loan is as of
+April 30, 2022. 
+
+On
+July 1, 2019, the Trust and the Partnership together entered into an unsecured loan totaling with an individual investor at
+ , interest only, payable monthly. . The Trust may pay all or part of this
+note without any repayment penalties. The total principal amount of this loan is as of April 30, 2022. 
+
+On
+July 1, 2019, the Trust and Partnership together entered into an unsecured loan, totaling with an individual investor at 
+interest only, payable monthly. . The total principal amount of this loan is
+ as of April 30, 2022. 
+
+As
+a result of the Virus Pandemic, and the subsequent Legislation passed within the CARES Act of 2020, the Trust applied for and received
+Small Business Administration SBA loans through the Paycheck Protection Program PPP ). Loans in the amount
+of approximately , , and , for Tucson, Albuquerque, InnSuites Hospitality, respectively, were granted and received. 
+
+As
+of January 31, 2021 the PPP Loan in other income received by the Trust was fully forgiven in the amount of approximately recorded
+in other income in the statement of operations. The PPP loan received by Tucson for was forgiven in March 2021. The remaining
+Albuquerque Hotel loan forgiveness for was completed in March 2021. The forgiveness was recognized as income for GAAP Financial
+Statement purposes, and is tax free for tax purposes. 
+
+On
+March 5, 2021, the Albuquerque hotel received another PPP Loan in the amount of . On March 15, 2021, the Tucson hotel received
+an additional PPP Loan in the amount of . Both of these loans were forgiven in July, 2021. The forgiveness was recognized as
+other income for GAAP Financial Statement purposes, and is also tax free for tax purposes. 
+
+See
+Note 9 Minimum Debt Payments for scheduled minimum payments on the debt liabilities. 
+
+- 
+
+2024 
+ 
+ - 
+ - 
+
+2025 
+ 
+ - 
+ - 
+
+2026 
+ 
+ - 
+ - 
+
+2027 
+ 
+ - 
+ - 
+
+Thereafter 
+ 
+ - 
+
+- 
+
+and 
+ Shares of Beneficial Interest at an average
+price of 
+ and 
+ per share, respectively. The average price
+paid includes brokerage commissions. The Trust intends to continue repurchasing Shares of Beneficial Interest in compliance with applicable
+legal and NYSE AMERICAN requirements. 
+
+Class B Partnership units, which represented
+ 
+of the total outstanding Partnership units, respectively. As of April 30, 2022, and January 31, 2022, Mr. Wirth and his affiliates held
+ 
+ Shares of Beneficial Interest in the Trust, respectively, which represented and 
+respectively, of the total issued and outstanding Shares of Beneficial Interest. 
+
+As
+of April 30, 2022, and January 31, 2022, the Trust owned of the Partnership, respectively. As of April 30, 2022, the Partnership
+owned a interest in the InnSuites hotel located in Tucson. The Trust also owned a direct interest in one InnSuites 
+hotel located in Albuquerque, New Mexico. 
+
+The
+Trust directly manages the Hotels through the Trust s majority-owned subsidiary, RRF Limited Partnership. Under the management
+agreements, RRF manages the daily operations of both Trust Hotels. All Trust managed Hotel expenses, revenues and reimbursements among
+the Trust, and the Partnership have been eliminated in consolidation. The management fees for the Hotels are of room revenue and a
+monthly accounting fee of per hotel. These agreements have no expiration dates but may be cancelled by either party with 30-days
+written notice, or potentially sooner in the event the property changes ownership. 
+
+The
+Trust employs an immediate family member of Mr. Wirth, Brian James Wirth, who provides technology support services to the Trust, currently
+receiving a annual salary. 
+
+and
+ in
+cash for interest for the three months ended April 30, 2022 and 2021, respectively for operations. The amounts related to Notes Payables
+- IHT Shares of Beneficial Interest and Partnership Units repurchases amounted to 
+ for the three months ended April 30, 2022 and
+2021, respectively. Cash paid for taxes for the three months ended April 30, 2022 and 2021 was ,
+respectively. 
+
+of the individual hotel s room revenue
+into an escrow account to be used for capital expenditures. The escrow funds applicable to the Tucson Oracle property for which a mortgage
+lender escrow exists is reported on the Trust s Consolidated Balance Sheet as Restricted Cash. Since a cash balance
+existed in Restricted Cash as of April 30, 2022 and January 31, 2022, Restricted Cash line was omitted on the Trust s Consolidated
+Balance Sheet. 
+
+Membership
+Agreements: 
+
+InnSuites
+Hotels has entered into membership agreements with Best Western International, Inc. Best Western for both hotel properties.
+In exchange for use of the Best Western name, trademark and reservation system, all Hotels pay fees to Best Western based on reservations
+received through the use of the Best Western reservation system and the number of available suites at the Hotels. The agreements with
+Best Western have no specific expiration terms and may be cancelled by either party. Best Western requires that the hotels meet certain
+requirements for room quality, and the Hotels are subject to removal from its reservation system if these requirements are not met. The
+Hotels with third-party membership agreements received significant reservations through the Best Western reservation system. Under these
+arrangements, fees paid for membership fees and reservations were approximately 
+ and 
+ for the three months ended April 30, 2022
+and 2021, respectively. These costs include fees for the Albuquerque and Tucson hotels in 2022. These fees are included in room operating
+expenses on the unaudited condensed consolidated statements of operations for Albuquerque and Tucson. 
+
+Litigation: 
+
+The
+Trust is involved from time to time in various other claims and legal actions arising in the ordinary course of business. In the opinion
+of management, the ultimate disposition of these matters will not have a material adverse effect on the Trust s consolidated financial
+position, results of operations or liquidity. 
+
+The
+nature of the operations of the Hotels exposes them to risks of claims and litigation in the normal course of their business. Although
+the outcome of these matters cannot be determined and is covered by insurance, management does not expect that the ultimate resolution
+of these matters will have a material adverse effect on the consolidated financial position, results of operations or liquidity of the
+Trust. 
+
+Indemnification: 
+
+The
+Trust has entered into indemnification agreements with all our executive officers and Trustees. The agreements provide for indemnification
+against all liabilities and expenses reasonably incurred by an officer or Trustee in connection with the defense or disposition of any
+suit or other proceeding, in which he or she may be involved or with which he or she may be threatened, while in office or thereafter,
+because of his or her position at the Trust. There is no indemnification for any matter as to which an officer or Trustee is adjudicated
+to have acted in bad faith, with willful misconduct or reckless disregard of his or her duties, with gross negligence, or not in good
+faith in the reasonable belief that his or her action was in the Trust s best interests. These agreements require the Trust, among
+other things, to indemnify the director or officer against specified expenses and liabilities, such as attorneys fees, judgments,
+fines and settlements, paid by the individual in connection with any action, suit or proceeding arising out of the individual s
+status or service as our director or officer, other than liabilities arising from willful misconduct or conduct that is knowingly fraudulent
+or deliberately dishonest, and to advance expenses incurred by the individual in connection with any proceeding against the individual
+with respect to which the individual may be entitled to indemnification by us. The Trust may advance payments in connection with indemnification
+under the agreements. The level of indemnification is to the full extent of the net equity based on appraised and/or market value of
+the Trust. Historically, the Trust has not incurred any payments for these obligations and, therefore, no liabilities have been recorded
+for these indemnities in the accompanying consolidated balance sheets. 
+
+See
+Note 14 Leases, for discussion on lease payment commitments. 
+
+Lease obligations: 
+
+Operating leases, net 
+
+Long-term obligations 
+
+Weighted average discount rate Operating leases 
+
+2024 
+
+2025 
+
+2026 
+
+2027 
+
+Thereafter 
+
+Total minimum lease payments 
+
+Less: amount representing interest 
+
+Total present value of minimum payments 
+
+Less: current portion 
+
+Long term portion of operating lease liability 
+
+Finance
+Leases 
+
+The
+Company s Tucson Oracle Hotel is subject to non-cancelable cable lease. 
+
+Interest on lease obligations 
+
+Lease obligations: 
+
+Finance leases, net 
+
+Long-term obligations 
+
+Weighted average discount rate 
+
+Finance leases 
+
+2024 
+
+Total minimum lease payments 
+
+Less: amount representing interest 
+
+Total present value of minimum payments 
+
+Less: current portion 
+
+Long term portion of finance lease liability 
+
+fully paid IHT restricted shares were issued. The aggregate grant date fair value of these Shares was approximately .
+These shares partially vest on December 31, 2022, and May 31, 2023, in two equal amounts. 
+
+See
+Note 2 Summary of Significant Accounting Policies for information related to grants of restricted shares under
+ Stock-Based Compensation. 
+
+with interest to be accrued at per annum, which is recorded in
+the accompanying consolidated balance sheet in continuing operations. 
+
+No
+ interest accrued through May 2023, and no payments on the note receivable including principal and interest based on the recently
+ extended time period are due through May 2023. 
+
+Note
+ is secured by (1) pledge of the Buyer s interest in IBC, and (2) a security interest in all assets of IBC, provided IHT shall
+ agree to subordinate such equity interest to commercially reasonable debt financing upon request. 
+
+The
+ note matures on June 1, 2024 
+
+Future
+ payments on this note are shown in the table below. 
+
+2024 
+
+Total 
+
+Management s
+ evaluation of the current financial position of the Buyer, based on unaudited financial statements provided. 
+
+Management s
+ best, conservative valuation of IBC s assets, and their marketability, in the case of a default by the Buyer. 
+
+The
+ current and future impact of the COVID-19 pandemic, on the travel and hospitality industry, in which IBC s reservation and
+ booking technology operates. 
+
+As
+of April 30, 2022, management evaluated the carrying value of the note determined no further impairment is needed at this time. This
+is detailed further with an extension to May 2023, which allows time for IBC to benefit from the current rebound in the travel, hospitality
+services, and hotel industries currently being experienced. 
+
+IHT
+has no managerial control nor does IHT have the ability to direct the operations or capital requirements of IBC as of August 1, 2018.
+IHT has no rights to any benefits or losses from IBC as of August 1, 2018. 
+
+million which includes cumulative net operating loss carryforwards of million and syndications
+of million, and deferred tax liability associated with book/tax differences of million as of January 31, 2022. We have evaluated
+the net deferred tax asset and determined that it is not more likely than not we will receive full benefit from the net operating loss
+carryforwards. Therefore, we have determined a valuation allowance of approximately million. 
+
+million in a combination of Employment Tax Refunds
+and Credits, for the two calendar years 2020, and 2021, respectively. As a result, 
+
+per share per Fiscal Year. In the Fiscal Years ended January 31, 2022 and 2021, the Trust paid dividends
+of per share per share in each of the second and the fourth quarters. The Trust has paid dividends each Fiscal Year since its inception
+in 1971. The Trust will pay the scheduled semiannual dividend payable on July 31, 2022. 
+
+Hotel
+Operation results of the Albuquerque Hotel and the Tucson Hotel both achieved record results for the First Fiscal Quarter combined months
+of February, March, and April 2022. Furthermore, May has also started the Second Fiscal Quarter (May 1, 2022, through July 31, 2022),
+with tentative record-breaking results. These are all encouraging signs for InnSuites and the Southwest Travel Industry, and continue
+to indicate that things are progressing positively and heading in the right direction as the Travel Industry, the Economy as a whole,
+and InnSuites Hospitality Trust (IHT) specifically, continue to rebound and recover. 
+
+On
+May 31, 2022, the Trust s Board of Trustees approved a grant to issue Officers, Trustees, and Key Employees totaling fully
+paid IHT restricted shares. The aggregate grant date fair value of these Shares was approximately . These shares partially vest
+on December 31, 2022, and May 31, 2023, in two equal amounts. 
+
+25 
+
+ITEM
+2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+GENERAL 
+
+The
+following discussion should be read in conjunction with our unaudited condensed consolidated financial statements and notes thereto appearing
+elsewhere in this Form 10-Q and our audited consolidated Form 10-K for the fiscal year ended January 31, 2022. 
+
+FORWARD-LOOKING
+STATEMENTS 
+
+Certain
+statements in this Form 10-Q, including statements containing the phrases believes, intends, expects, 
+ anticipates, predicts, projects, will be, should be, looking
+ahead, may or similar words, constitute forward-looking statements within the meaning of Section 27A
+of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. We intend that such forward-looking
+statements be subject to the safe harbors created by such Acts. These forward-looking statements include statements regarding our intent,
+belief or current expectations in respect of (i) the declaration or payment of dividends; (ii) the leasing, management or operation of
+the Hotels; (iii) the adequacy of reserves for renovation and refurbishment; (iv) our financing plans; (v) our position regarding investments,
+acquisitions, developments, financings, conflicts of interest and other matters; (vi) expansion of UniGen; (vii) our plans and expectations
+regarding future sales of hotel properties; and (viii) trends affecting our or any Hotel s financial condition or results of operations. 
+
+These
+forward-looking statements reflect our current views in respect of future events and financial performance, but are subject to many uncertainties
+and factors relating to the operations and business environment of the Hotels that may cause our actual results to differ materially
+from any future results expressed or implied by such forward-looking statements. Examples of such uncertainties include, but are not
+limited to: 
+
+Virus
+ Pandemic and its effect on the Travel Industry; 
+
+inflation
+ and economic recession; 
+
+terrorist
+ attacks or other acts of war; 
+
+local,
+ national, or international, political economic and business conditions, including, without limitation, conditions that may, or may
+ continue to, affect public securities markets generally, the hospitality industry or the markets in which we operate or will operate; 
+
+available
+ cash, supply chain issues, and increased labor costs for diversified clean energy development and production; 
+
+fluctuations
+ in hotel occupancy rates; 
+
+changes
+ in room rental rates that may be charged by InnSuites Hotels in response to market rental rate changes or otherwise; 
+
+seasonality
+ of our hotel operations business; 
+
+our
+ ability to sell any of our Hotels at market value, listed sale price, or at all; 
+
+interest
+ rate fluctuations; 
+
+changes
+ in, or reinterpretations of, governmental regulations, including, but not limited to, environmental and other regulations, the Americans
+ with Disability Act and federal income tax laws and regulations; 
+
+competition
+ including supply and demand for hotel rooms and hotel properties; 
+
+availability
+ of credit or other financing; 
+
+our
+ ability to meet present and future debt service obligations; 
+
+our
+ ability to refinance or extend the maturity of indebtedness at, prior to, or after the time it matures; 
+
+any
+ changes in our financial condition or operating results due to acquisitions or dispositions of hotel properties; 
+
+insufficient
+ resources to pursue our current strategy; 
+
+concentration
+ of our investments in the InnSuites Hotels brand; 
+
+loss
+ of membership contracts; 
+
+the
+ financial condition of franchises, brand membership companies and travel related companies; 
+
+ability
+ to develop and maintain positive relations with Best Western and potential future franchises or brands; 
+
+real
+ estate and hospitality market conditions; 
+
+hospitality
+ industry factors; 
+
+our
+ ability to carry out our strategy, including our strategy regarding diversification and investments; 
+
+26 
+
+the
+ Trust s ability to remain listed on the NYSE American; 
+
+effectiveness
+ of the Trust s software program; 
+
+the
+ need to periodically repair and renovate our Hotels at a cost at or in excess of our standard 4 reserve; 
+
+tariffs
+ may affect trade and travel; 
+
+our
+ ability to cost effectively integrate any acquisitions with the Trust in a timely manner; 
+
+increases
+ in the cost of labor, energy, healthcare, insurance and other operating expenses as a result of changed or increased regulation or
+ otherwise; 
+
+outbreaks
+ of communicable diseases attributed to our hotels or impacting the hotel industry in general; 
+
+natural
+ disasters, including adverse climate changes in the areas where we have or serve hotels; 
+
+airline
+ strikes; 
+
+transportation
+ and fuel price increases; 
+
+adequacy
+ of insurance coverage and increases in cost for health care coverage for employees and potential government regulation with respect
+ to health care coverage; 
+
+data
+ breaches or cybersecurity attacks, including breaches impacting the integrity and security
+ of employee and guest data; and 
+
+loss
+ of key personnel and uncertainties in the interpretation and application of the 2017 Tax Cuts and Jobs Act. 
+
+We
+do not undertake any obligation to update publicly or revise any forward-looking statements whether as a result of new information, future
+events or otherwise except as may be required by law. Pursuant to Section 21E(b)(2)(E) of the Securities Exchange Act of 1934, as amended,
+the qualifications set forth hereinabove are inapplicable to any forward-looking statements in this Form 10-K relating to the operations
+of the Partnership. 
+
+OVERVIEW 
+
+We
+are engaged in the ownership and operation of hotel properties. On April 30, 2022 the Trust had two moderate service hotels in Tucson,
+Arizona and Albuquerque, New Mexico with 270 hotel suites. Both of our Hotels are branded through membership agreements with Best Western,
+and both are also trademarked as InnSuites . We are also involved in various operations incidental to the operation of hotels,
+such as the operation of a restaurant and bar, and meeting/banquet room rentals. 
+
+At
+April 30, 2022, we owned a direct 21.00 interest in the Albuquerque, New Mexico Hotel, and, together with the Partnership, owned an
+indirect 51.01 interest in the Tucson, Arizona Hotel. 
+
+Our
+operations consist of one reportable segment Hotel Ownership Hotel Management Services. Hotel Ownership Operations derives
+its revenue from the operation of the Trust s two hotel properties with an aggregate of 270 hotel suites in Arizona and New Mexico.
+Hotel management services, provides management services for the Trust s two Hotels. As part of our management services, we also
+provide trademark and licensing services. 
+
+Our
+results are significantly affected by the overall economy and travel, occupancy and room rates at the Hotels, our ability to manage costs,
+changes in room rates, and changes in the number of available suites caused by the Trust s disposition activities. Results are
+also significantly impacted by overall economic conditions and conditions in the hotel and travel industries. Although hotel operations
+have now bounced back, virus-related travel slowdown in the Fiscal Year 2021, (February 1, 2020 to January 31, 2021), and Fiscal Year
+2022, (February 1, 2021 to January 31, 2022), negatively impacted hotel room demand and pricing, which reduced our profit margins. Increases
+in supply or decline in demand could result in increased competition, which could have an adverse effect on the rates and occupancy revenue
+of the Hotels in their respective markets. 
+
+27 
+
+Over
+time, we expect our UniGen diversification efficient clean energy generation investment to grow and provide a substantial source of income
+in the foreseeable future. 
+
+We
+expect the current Fiscal Year 2023 to be continued recovery of the travel industry, continued recovery of our Hotel s occupancy
+levels, continued recovery of room rates, as well as continuation of current cost control all leading to improved profitability of our
+hotels. We believe that we have positioned the Hotels to remain competitive through our now fully completed Tucson and Albuquerque hotel
+refurbishments, by offering fully refurbished studios and two-room suites at each location, and by maintaining complementary guest items,
+including complimentary breakfast and free Internet access. 
+
+Our
+strategic plan is to continue to obtain the full benefit of our real estate equity, by ultimately obtaining full market value for our
+two Hotels at market value which is believed by management to be substantially higher than lower book values, over the next 12-36 months.
+In addition, the Trust is seeking a larger private reverse merger partner that may benefit from a merger that would afford that partner
+access to our listing on the NYSE AMERICAN. 
+
+In
+the process of reviewing merger opportunities, the Trust identified in December 2019, and invested 1 million in UniGen Power, Inc. UniGen ),
+an innovative efficient clean energy power generation company. The Trust has invested 1 million in debentures convertible into 1 million
+shares of UniGen Power Inc., and in addition has acquired warrants to purchase approximately an additional 2 million UniGen shares over
+the next approximately three years, which could result up to 25 ownership in UniGen. For more information on our strategic plan, including
+information on our progress in disposing of our hotel properties and expanding energy diversification, see Future Positioning 
+in this Management Discussion and Analysis of Financial Condition and Results of Operations 
+
+HOTEL
+OPERATIONS 
+
+Our
+expenses consist primarily of property taxes, insurance, corporate overhead, interest on mortgage debt, professional fees, depreciation
+of the Hotels and hotel operating expenses. Hotel operating expenses consist primarily of payroll, guest and maintenance supplies, marketing,
+and utilities expenses. Under the terms of its Partnership Agreement, the Partnership is required to reimburse us for all such expenses.
+Accordingly, management believes that a review of the historical performance of the operations of the Hotels, particularly with respect
+to occupancy, which is calculated as rooms sold divided by total rooms available, average daily rate ADR ),
+calculated as total room revenue divided by number of rooms sold, and revenue per available room REVPAR ),
+calculated as total room revenue divided by number of rooms available, is appropriate for understanding revenue from the Hotels. 
+
+The
+following tables show historical financial and other information for the periods indicated: 
+
+For the Fiscal Year Ended 
+ 
+ Albuquerque 
+ January 31, 
+
+2022 
+ 2021 
+ Change 
+ -Incr/Decr 
+ 
+ Occupancy 
+ 83.40 
+ 78.60 
+ 4.80 
+ 6.11 
+ 
+ Average Daily Rate (ADR) 
+ 94.23 
+ 68.08 
+ 26.15 
+ 38.41 
+ 
+ Revenue Per Available Room (REVPAR) 
+ 78.59 
+ 53.50 
+ 25.09 
+ 46.90 
+
+For the Fiscal Year Ended 
+ 
+ Tucson 
+ January 31, 
+
+2022 
+ 2021 
+ Change 
+ -Incr/Decr 
+ 
+ Occupancy 
+ 81.06 
+ 79.00 
+ 2.06 
+ 2.61 
+ 
+ Average Daily Rate (ADR) 
+ 113.54 
+ 76.89 
+ 36.65 
+ 47.67 
+ 
+ Revenue Per Available Room (REVPAR) 
+ 92.04 
+ 60.74 
+ 31.30 
+ 51.53 
+
+For the Fiscal Year Ended 
+ 
+ Combined 
+ January 31, 
+
+2022 
+ 2021 
+ Change 
+ -Incr/Decr 
+ 
+ Occupancy 
+ 82.02 
+ 78.85 
+ 3.17 
+ 4.02 
+ 
+ Average Daily Rate (ADR) 
+ 105.45 
+ 74.84 
+ 30.61 
+ 40.90 
+ 
+ Revenue Per Available Room (REVPAR) 
+ 86.50 
+ 59.01 
+ 27.49 
+ 46.59 
+
+No
+assurance can be given that occupancy, ADR and/or REVPAR will not increase or decrease as a result of changes in national or local economic
+or hospitality industry conditions. 
+
+We
+enter transactions with certain related parties from time to time. For information relating to such related party transactions see the
+following: 
+
+For
+ a discussion of management and licensing agreements with certain related parties, see Note 2 to our Unaudited Condensed Consolidated
+ Financial Statements Summary of Significant Policies Revenue Recognition Hotel Operations 
+
+For
+ a discussion of guarantees of our mortgage notes payable by certain related parties, see Note 6 to our Unaudited Condensed Consolidated
+ Financial Statements Mortgage Notes Payable. 
+
+For
+ a discussion of our equity sales and restructuring agreements involving certain related parties, see Note 3 to our Unaudited Condensed
+ Consolidated Financial Statements Sale of Ownership Interests in Subsidiaries . 
+
+For
+ a discussion of other related party transactions, see Note 11 to our Unaudited Condensed
+ Consolidated Financial Statements Related Party Transactions. 
+
+RESULTS
+OF OPERATIONS FOR THE FISCAL TWELVE MONTH TRAILING ENDED APRIL 30, 2022 COMPARED TO THE FISCAL TWELVE MONTH TRAILING
+ENDED APRIL 30, 2021. 
+
+A
+summary of total operating results of the Trust for the twelve month trailing periods ended April 30, 2022 and 2021 is as follows: 
+
+FY 2022/23 
+ FY 2021/22 
+ Change 
+ Change 
+ 
+ Total Revenues 
+ 7,146,769 
+ 4,155,622 
+ 2,991,147 
+ 72 
+ 
+ Operating Expenses 
+ 7,098,385 
+ 6,891,526 
+ 206,859 
+ 3 
+ 
+ Operating Income (Loss) 
+ 48,384 
+ (2,735,904 
+ 2,784,288 
+ 102 
+ 
+ Interest Income and Other 
+ 623,645 
+ 712,114 
+ (88,469 
+ (12 
+ 
+ Interest Expense 
+ (412,900 
+ (362,693 
+ (50,207 
+ (14 
+ 
+ Employee Retention Benefit 
+ 701,582 
+ - 
+ 701,582 
+ 100 
+ 
+ Income Tax Benefit 
+ 50 
+ 68,661 
+ (68,611 
+ (100 
+ 
+ Consolidated Net Income (Loss) 
+ 960,761 
+ (2,317,822 
+ 3,278,583 
+ 141 
+
+28 
+
+RESULTS
+OF OPERATIONS FOR THE FISCAL THREE MONTHS ENDED APRIL 30, 2022 COMPARED TO THE FISCAL THREE MONTHS ENDED APRIL 30, 2021 
+
+A
+summary of total operating results of the Trust for the three months ended April 30, 2022 and 2021 is as follows: 
+
+Q1 2022 
+ Q1 2021 
+ Change 
+ Change 
+ 
+ Total Revenues 
+ 2,136,095 
+ 1,399,126 
+ 736,969 
+ 53 
+ 
+ Operating Expenses 
+ 1,990,955 
+ 1,605,705 
+ 385,250 
+ 24 
+ 
+ Operating Income (Loss) 
+ 145,140 
+ (206,579 
+ 351,719 
+ 170 
+ 
+ Interest Income and Other 
+ 15,731 
+ 453,550 
+ (437,819 
+ (97 
+ 
+ Interest Expense 
+ (135,475 
+ (89,810 
+ (45,665 
+ (51 
+ 
+ Employee Retention Benefit 
+ 350,791 
+ - 
+ 350,791 
+ 0 
+ 
+ Consolidated Net Income 
+ 376,187 
+ 157,161 
+ 219,026 
+ 139 
+
+The
+Trust operations are comprised of one reportable segment, Hotel Ownership Hotel Management Services (continuing operations) segment
+that performs management services and has ownership interest in two hotel properties with an aggregate of 270 suites in Arizona and New
+Mexico. 
+
+The
+Trust has chosen to focus its hotel investments on the southwest region of the United States. The Trust does not review assets by geographical
+region; therefore, no income statement or balance sheet information by geographical region is provided. 
+
+REVENUE: 
+
+For
+ the First Fiscal Quarter three months ended April 30, 2022, we had total revenue of approximately
+ 2.14 million compared to approximately 1.40 million for the three months
+ ended April 30, 2021, an increase of approximately 0.7 million. In the prior
+ fiscal years ended January 31, 2022, 2020 and 2019, we made significant improvements to our
+ Albuquerque, New Mexico and Tucson, Arizona hotels. During the three months ended April 30,
+ 2022, we had an increase in total revenue resulting from the recovery of demand after the
+ virus related travel restrictions imposed due to COVID-19, and benefitting from prior refurbishments. 
+
+Total Consolidated Net Income for the three
+months ended April 30, 2022 was approximately 376,000 which is an increase of approximately 220,000 from the same prior Fiscal Quarter
+for the same period of 157,161. Earnings Per Share based on this Consolidated Net Income amount were 0.05, up 0.03 from the prior
+year of 0.02, and also far exceeding their pre-Covid counterpart of Fiscal Year 2020. Earnings Per Share based on net income (loss)
+attributable to Controlling Interest was 0.02, up from the prior year similar three month period of 0.01). 
+
+Total Trust Equity increased to 4,312,186
+at the end of Fiscal First Quarter 2023, up approximately 1.6 million, from the 2,760,288 reported at the end of the prior Fiscal First
+Quarter 2021. Net Income before non-cash depreciation expense was 359,806 for the Fiscal First Quarter ended April 30, 2022, compared
+to 78,537 for the Fiscal First Quarter ended April 30, 2021, which is an increase of approximately 281,269. 
+
+We
+realized a 53 increase in room revenues during the three months ended April 30, 2022 as room revenues were approximately 2.09
+million for the three months ending April 30, 2022 as compared to approximately 1.36 million for the three months ending
+April 30, 2021. Due to increased demand as the hospitality and travel industry recovers, food and beverage revenue increased 2 to approximately
+ 16,000 for the three months ending April 30, 2022 as compared to approximately 15,000 during the three months ending
+April 30, 2021, an increase of approximately 1,000. During Fiscal Year 2023, we expect additional improvements in occupancy,
+modest improvements in rates and steady food and beverage revenues. 
+
+EXPENSES: 
+
+Total
+expenses net of interest expense was approximately 2.0 million for the three months ended April 30, 2022 reflecting an increase
+of approximately 0.4 million, or 24 , compared to total expenses net of interest expense of approximately 1.6
+million for the three months ended April 30, 2021. The increase was primarily due to an increase in operating expenses related
+to increased occupancy and revenues at the hotel properties. 
+
+Room
+expenses consisting of salaries and related employment taxes for property management, front office, housekeeping personnel, reservation
+fees and room supplies were approximately 567,000 for the three months ended April 30, 2022 compared to approximately 474,000
+in the prior year three month period for an increase of approximately 93,000, or 20 . Room expenses increased as occupancy at the
+hotels increased, and increased expenses were incurred with the increased occupancy. 
+
+Food
+and beverage expenses included food and beverage costs, personnel and miscellaneous costs to provide banquet events. For the three months
+ended April 30, 2022, food and beverage expenses increased approximately 16,000, or 40 , to approximately 56,000
+for the three months ended April 30, 2022, compared to approximately 40,000 for the three months ended April 30, 2021. The increase
+in cost relative to the increase in food and beverage revenue is due to increasing food and beverage purchasing costs. 
+
+General
+and administrative expenses include overhead charges for management, accounting, shareholder and legal services. General and administrative
+expenses of approximately 601,000 for the three months ended April 30, 2022, increased approximately 145,000 from approximately
+ 456,000 for the three months ended April 30, 2021 primarily due to higher charges in corporate staffing in support of
+the hotels and property sales efforts. 
+
+29 
+
+Sales
+and marketing expense increased approximately 69,000, or 85 , to approximately 150,000 for the three months ended April 30, 2022
+from approximately 81,000 for the three months ended April 30, 2021. Increased focus on sales and marketing due to the rebound
+in hotel occupancy drove the increase. 
+
+Repairs
+and maintenance expense increased by approximately 16,000, or 18 , from approximately 91,000 reported for the three months ended April
+30, 2021 compared to approximately 108,000 for the three months ended April 30, 2022. Having completed the property improvements at
+our Tucson, Arizona hotel Management anticipates the improvements which complies with the increasing Best Western standards, will (after
+the adverse effects of travel restrictions and slowdown), lead to improvement in guest satisfaction and will drive additional revenue
+growth through increased occupancy and increased rates. 
+
+Hospitality
+expense increased by approximately 25,000, or 48 , from 52,000 for the three months ended April 30, 2021 to approximately
+ 77,000 for the three months ended April 30, 2022. The increase was primarily due to COVID-19 regulations minimizing and reducing
+food service availability, restricting our complimentary breakfast and social hour offerings. 
+
+Utility
+expenses increased approximately 25,000, or 30 , to approximately 110,000 reported for the three months ended
+April 30, 2021 compared with approximately 85,000 for the three months ended April 30, 2022. 
+
+Hotel
+property depreciation expenses decreased by approximately 13,000 from approximately 185,000 reported for the three months ended April
+30, 2021 compared to approximately 172,000 for the three months ended April 30, 2022. Decreased depreciation resulted from the
+capital expenditures being fully depreciated. 
+
+Real
+estate and personal property taxes, Insurance and Ground Rent expenses increased approximately 21,000, or 17 , to approximately
+ 144,000 reported for the three months ended April 30, 2022 compared with approximately 123,000 for the three months ended
+April 30, 2021. 
+
+LIQUIDITY
+AND CAPITAL RESOURCES 
+
+Overview
+ Hotel Operations Corporate Overhead 
+
+Two
+principal sources of cash to meet our cash requirements, include monthly management fees from our two hotels and distributions to our investors of our share of the Partnership s cash flow of the Tucson hotel, and quarterly distributions from the Albuquerque, New Mexico properties.
+Potential future real estate hotel sales is another future source of cash. The Partnership s principal source of revenue is hotel
+operations for the hotel property it owns in Tucson, Arizona and Albuquerque, New Mexico. Our liquidity, including our ability to make
+distributions to our shareholders, will depend upon our ability, and the Partnership s ability, to generate sufficient cash flow
+from hotel operations, from management fees, and from the potential sale and/or refinance of the hotel, and to service our debt and the
+source of repayment of intercompany loan from Tucson and Albuquerque. 
+
+Hotel
+operations were significantly affected by improved occupancy and substantially increased room rates at the Hotels in the Fiscal Year
+2022, as the travel industry continues to rebound. 
+
+With
+approximately 3.8 million of cash as of April 30, 2022 and the availability of three 250,000 bank lines of credit, and 2,000,000
+available from the 2,000,000 related party Demand/Revolving Line of Credit/Promissory Note, and the availability of Advances to
+Affiliate credit facilities and available Bank line of Credit, we believe that we will have enough cash on hand to meet all of our financial
+obligations as they become due for at least the next twelve months from the issuance date of the these consolidated financial statements.
+Our management is analyzing other strategic options available to us, including raising additional funds, asset sales, and benefitting
+from clean energy investment cash flow as our diversification investment matures. 
+
+30 
+
+IHT
+and InnDependent Boutique Collections Hotels (IBC), agreed to extend the payment schedule on IBC s note receivable to allow IBC
+to fully use its revenues to build market share as the hotel industry rebounds. Management believes that with an additional extension
+repayment term, that the future collectability of the current carrying value of the note is probable and not subject to further impairment,
+or allowance for the Quarter ended April 30, 2022. 
+
+There
+can be no assurance that we will be successful in refinancing debt or raising additional or replacement funds, or that these funds may
+be available on terms that are favorable to us. If we are unable to raise additional or replacement funds, we may be required to sell
+certain of our assets to meet our liquidity needs, which may not be on terms that are favorable. 
+
+We
+anticipate no additional new-build hotel supply in our markets during the remaining Fiscal Year 2023, and accordingly we anticipate a
+continued rebound of revenues and operating margins. We expect challenges for the upcoming fiscal year to be inflation, cost control,
+travel, leisure, corporate, group, and government business continued rebound to grow occupancy and further increase room rates while
+maintaining and/or building market share. 
+
+Cash
+provided by operating activities from continuing operations totaled approximately 92,000 during the three months ended April
+30, 2022 as compared to net cash provided of approximately 50,000 during the three months ended April 30, 2021. Consolidated
+net income was approximately 376,000 for the three months ended April 30, 2022 as compared to consolidated net income
+for the three months ended April 30, 2021 of approximately 157,000. Explanation of the differences between these fiscal years
+are explained above in the results of operations of the Trust. 
+
+Changes
+in the adjustments to reconcile net income for the three months ended April 30, 2022 and 2021, respectively, consist primarily of operating
+lease costs, stock-based compensation, hotel property depreciation, and changes in assets and liabilities. Hotel property depreciation
+was approximately 172,000 during the three months ended April 30, 2022 compared to approximately 185,000 during the three months
+ended April 30, 2021, a decrease of 13,000 as the Trust recognized less depreciation as capitalized fixed assets became fully
+depreciated. 
+
+Changes
+in assets and liabilities for accounts receivable, prepaid expenses and other assets and accounts payable and accrued expenses totaled
+approximately 105,000 and 30,000 for the three months ended April 30, 2022 and 2021, respectively. This significant decrease
+in changes in assets and liabilities for the three months ended April 30, 2022 compared to the three months ended April 30, 2021
+was due to the decrease in operating liabilities related to ongoing operations. 
+
+Net
+cash used in investing activities totaled approximately 160,000 for the three months ended April 30, 2022 compared to net cash
+used in investing activities of approximately 59,000 for the three months ended April 30, 2021. The increase in net cash used
+in activities during the three months ended April 30, 2022 was due primarily due to the additional investment into UniGen in 2022. 
+
+Net
+cash provided by (used in) financing activities totaled approximately 2,697,000 and 134,000), respectively, for the
+three months ended April 30, 2022 and 2021. The increase of approximately 2,831,000 was primarily due to the refinance of
+the Tucson Oracle mortgage, offset by repayments to Rare Earth on the Note Payable Related Party. 
+
+Principal
+payments on mortgage notes payable for continuing operations was approximately 26,000 and 58,000 during the three months
+ended April 30, 2022 and 2021, respectively. Net payments and borrowings on other notes payable was approximately 4,000) and
+approximately 22,000) during the three months ended April 30, 2022 and 2021, respectively. 
+
+Payments
+on notes payables related party, netted against borrowings on note payable related party, was approximately 977,000)
+and 605,000) of cash used in financing activities during the three months ended April 30, 2022 and 2021, respectively. 
+
+31 
+
+Borrowings
+on other notes payables netted against payments on other note payable was approximately 0 and 551,000 of net cash
+used in financing activities during the three months ended April 30, 2022 and 2021, respectively. 
+
+We
+had no sales of our IHT stock for cash for the three months ended April 30, 2022 and 2021. 
+
+During
+the three months ended April 30, 2022, our distributions to non-controlling interest holders was approximately 156,000 compared
+with approximately 0 for the three months ended April 30, 2021. 
+
+We
+continue to contribute to a Capital Expenditures Fund (the Fund an amount equal to 4 of our Tucson InnSuites Hotel revenues
+from operation of the Hotel. The Fund is restricted by the mortgage lender for our Tucson property. As of April 30, 2022, and 2021,
+there were no monies held in these accounts reported on our unaudited condensed consolidated Balance Sheet as Restricted Cash. 
+The Fund is intended to be used for capital improvements to the Hotels and refurbishment and replacement of furniture, fixtures and equipment.
+During the three months ended April 30, 2022 and 2021, the Hotel spent approximately 50,000 and 59,000 respectively, for capital
+expenditures. The capital expenditures were primarily associated with the property improvements at the Hotel, as required to meet continuing
+Best Western standards. We consider most of these improvements to be revenue producing. Therefore, these amounts are capitalized and
+depreciated over their estimated useful lives. For the remaining Fiscal Year 2023 capital expenditures, we plan on spending less on capital
+improvements as we have completed our property improvements at our Tucson, Arizona hotel and our Albuquerque hotel, both of which required
+significant amounts of capital improvements in prior periods. Repairs and maintenance were charged to expense as incurred and approximated
+ 107,000 and 91,000 for the three months ended April 30, 2022 and 2021, respectively. 
+
+We
+have minimum debt payments, net of debt discounts, of approximately 743,000 and approximately 224,000 due during Fiscal
+Years 2023 and 2024, respectively. Minimum debt payments due during Fiscal Year 2023 and 2024 include approximately 158,000 and
+ 224,000 of mortgage notes payable, and approximately 586,000 and 0 of other notes payable, which are secured
+promissory notes outstanding to unrelated third parties arising from the Shares of Beneficial Interest and Partnership unit repurchases,
+respectively. 
+
+We
+may seek to negotiate additional credit facilities or issue debt instruments. Any debt incurred or issued by us may be secured or unsecured,
+long-term, medium-term, or short-term, bear interest at a fixed or variable rate and be subject to such other terms as we consider prudent. 
+
+COMPETITION
+IN THE HOTEL INDUSTRY 
+
+The
+hotel industry is competitive. The hotel industry has been recovering and growing since April, 2021. While none of the Hotels 
+competitors dominate any of their geographic markets, some of those competitors may have greater marketing and financial resources than
+the Trust. 
+
+32 
+
+Certain
+additional hotel property refurbishments have been completed by competitors in both Hotels markets, and additional hotel property
+developments may be built in the future. Such hotel developments could have an adverse effect on the revenue of our Hotels in their respective
+markets. 
+
+The
+Trust s hotel investments are located in Arizona and New Mexico. With the completed renovations at our Tucson, Arizona and Albuquerque,
+New Mexico hotel properties, those hotels are expected to see incremental demand during the next 18 months, as supply had been steady
+in those respective markets, and is expected to increase. Either an increase in supply or a decline in demand could result in increased
+competition, which could have an adverse effect on occupancy, room rates and revenues of our Hotels in their respective markets. The
+hotels experienced a decrease in demand due to the impact of virus-related restrictions and reduction of travel after February 1, 2021
+to January 31, 2022. The recovery is benefitting our hotels in the First Fiscal Quarter of 2023, February 1, 2022 to April 30, 2022.
+This improvement and continued upward trend is expected to continue for the balance of Fiscal Year 2023, through January 31, 2023, as
+the Travel Industry continues its recovery. 
+
+The
+Trust may not invest further in hotels, but rather diversify into investments such as the investment made by the Trust in December 2019
+in the innovative UniGen Power, Inc. (UniGen), efficient clean energy power generation company. The Trust may continue to seek further
+diversification through a reverse merger with a larger non-public entity seeking an NYSE-American public stock market listing. 
+
+CRITICAL
+ACCOUNTING POLICIES AND ESTIMATES 
+
+As
+a partial offset to the current hotel industry virus induced drop in demand pressure, the Trust looks to benefit from, and expand, its
+UniGen clean energy operation diversification investments in the months, and years ahead. See Note 2 of the unaudited consolidated financial
+statements for discussion on UniGen. 
+
+In
+our Annual Report on Form 10-K for the Fiscal Year ended January 31, 2022 filed with the SEC on May 27, 2022, we identified the critical
+accounting policies that affect our more significant estimates and assumptions used in preparing our condensed consolidated financial
+statements. We believe that the policies we follow for the valuation of our Hotel properties, which constitute most of our assets, are
+our most critical policies which has not changed in the period ended April 30, 2022. Those policies include methods used to recognize
+and measure any identified impairment of our Hotel property assets. 
+
+Asset
+Impairment 
+
+We
+believe that the policies we follow for the valuation of our hotel properties, which constitute most of our assets, are our most critical
+policies. The Financial Accounting Standards Board FASB has issued authoritative guidance related to the impairment or
+disposal of long-lived assets, codified in ASC Topic 360-10-35, which we apply to determine when it is necessary to test an asset for
+recoverability. On an events and circumstances basis, we review the carrying value of our hotel properties. We will record an impairment
+loss and reduce the carrying value of a property when anticipated undiscounted future cash flows and the current market value of the
+property do not support it carrying value. In cases where we do not expect to recover the carrying cost of hotel properties held for
+use, we will reduce the carrying value to the fair value of the hotel, as determined by a current appraisal or other acceptable valuation
+methods. We did not recognize a hotel properties impairment loss for the three months ended April 30, 2022 or 2021. As of April 30, 2022,
+our management does not believe that the carrying values of any of our hotel properties are impaired. 
+
+Sale
+of Hotel Assets 
+
+Management
+believes that our currently owned Hotels are valued at prices that are reasonable in relation to their current fair market value. At
+this time, the Trust is unable to predict when, and if, either of its Hotel properties will be sold. The Trust seeks to sell one hotel
+per year or both over the next 12-36 months. We believe that each of the assets is available at a price that is reasonable in relation
+to its current fair market value. The plan is to work to sell the remaining two hotel properties over the next 12-36 months, and if needed
+beyond. 
+
+33 
+
+Revenue
+Recognition 
+
+Revenues
+are primarily derived from the sources below and are recognized as services are rendered and when collectability is reasonably assured.
+Amounts received in advance of revenue recognition are considered deferred liabilities and are generally not significant. 
+
+Revenues
+primarily consist of room rentals, food and beverage sales, management and trademark fees and other miscellaneous revenues from our properties.
+Revenues are recorded when rooms are occupied and when food and beverage sales are delivered. 
+
+Each
+room night consumed by a guest with a cancellable reservation represents a contract whereby the Trust has a performance obligation to
+provide the room night at an agreed upon price. For cancellable reservations, the Trust recognizes revenue as each performance obligation
+(i.e., each room night) is met. Such contract is renewed if the guest continues their stay. For room nights consumed by a guest with
+a non-cancellable reservation, the entire reservation period represents the contract term whereby the Trust has a performance obligation
+to provide the room night or nights at an agreed upon price. For non-cancellable reservations, the Trust recognizes revenue over the
+term of the performance period (i.e., the reservation period) as room nights are consumed. For these reservations, the room rate is typically
+fixed over the reservation period. The Trust uses an output method based on performance completed to date (i.e., room nights consumed)
+to determine the amount of revenue it recognizes on a daily basis if the length of a non-cancellable reservation exceeds one night since
+consumption of room nights indicates when services are transferred to the guest. In certain instances, variable consideration may exist
+with respect to the transaction price, such as discounts, coupons and price concessions made upon guest checkout. 
+
+In
+evaluating its performance obligation, the Trust bundles the obligation to provide the guest the room itself with other obligations (such
+as free Wi-Fi, grab and go breakfast, access to on-site laundry facilities and parking), as the other obligations are not distinct and
+separable because the guest cannot benefit from the additional amenities without the consumed room night. The Trust s obligation
+to provide the additional items or services is not separately identifiable from the fundamental contractual obligation (i.e., providing
+the room and its contents). The Trust has no performance obligations once a guest s stay is complete. 
+
+We
+are required to collect certain taxes and fees from customers on behalf of government agencies and remit these back to the applicable
+governmental agencies on a periodic basis. We have a legal obligation to act as a collection agent. We do not retain these taxes and
+fees and, therefore, they are not included in revenues. We record a liability when the amounts are collected and relieve the liability
+when payments are made to the applicable taxing authority or other appropriate governmental agency. 
+
+COMPLIANCE
+WITH CONTINUED LISTING STANDARDS OF NYSE AMERICAN 
+
+On
+November 15, 2021, the Trust received a letter from the NYSE American indicating it did not meet certain financial requirements to remain
+listed, and set a timeframe of 18 months to May 2023, to once again meet those standards of earnings, capitalization, and/or profitability.
+The Trust provided the required Plan by December 15, 2021, and the NYSE American has granted the additional 18 months to execute the
+Plan. 
+
+IHT
+temporarily fell out of compliance with the NYSE-American listing standards due to the Covid related reduction in travel. IHT regained
+compliance immediately following its 10-K Filing for the Fiscal year ended January 31, 2022, in May 2022. 
+
+The
+Trust s Management believes it is now fully compliant with the Continued Listing Standards Equity Requirements of the NYSE-American. 
+
+34 
+
+NON-GAAP
+FINANCIAL MEASURES 
+
+The
+following non-GAAP presentations of earnings before interest, taxes, depreciation, and amortization EBITDA and
+funds from operations FFO are made to assist our investors in evaluating our operating performance. 
+
+Adjusted
+EBITDA is defined as earnings before interest expense, amortization of loan costs, interest income, income taxes, depreciation and amortization,
+and non-controlling interests in the Trust. We present Adjusted EBITDA because we believe these measurements (a) more accurately reflect
+the ongoing performance of our hotel real estate assets and other investments, (b) provide more useful information to investors as indicators
+of our ability to meet our future debt payments and working capital requirements, and (c) provide an overall evaluation of our financial
+condition. Adjusted EBITDA as calculated by us may not be comparable to Adjusted EBITDA reported by other companies that do not define
+Adjusted EBITDA exactly as we define the term. Adjusted EBITDA does not represent cash generated from operating activities determined
+in accordance with GAAP and should not be considered as an alternative to (a) GAAP net income or loss as an indication of our financial
+performance or (b) GAAP cash flows from operating activities as a measure of our liquidity. 
+
+A
+reconciliation of net income (loss) attributable to controlling interests to Adjusted EBITDA for the three and three months ended April
+30, 2022 and 2021 is approximately as follows: 
+
+Three Months Ended April 30, 
+
+2022 
+ 2021 
+ 
+ Net income (loss) attributable to controlling interests 
+ 188,000 
+ (106,000 
+ 
+ Add back: 
+
+Depreciation 
+ 172,000 
+ 185,000 
+ 
+ Interest expense 
+ 135,000 
+ 90,000 
+ 
+ Less: 
+
+Interest Income 
+ (16,000 
+ (454,000 
+ 
+ Adjusted EBITDA 
+ 479,000 
+ (285,000 
+
+FFO
+is calculated on the basis defined by the National Association of Real Estate Investment Trusts NAREIT ),
+which is net income (loss) attributable to common shareholders, computed in accordance with GAAP, excluding gains or losses on sales
+of properties, asset impairment adjustments, and extraordinary items as defined by GAAP, plus depreciation and amortization of real estate
+assets, and after adjustments for unconsolidated joint ventures and non-controlling interests in the operating partnership. NAREIT developed
+FFO as a relative measure of performance of an equity REIT to recognize that income-producing real estate historically has not depreciated
+on the basis determined by GAAP. The Trust is an unincorporated Ohio real estate investment trust; however, the Trust is not a real estate
+investment trust for federal taxation purposes. Management uses this measurement to compare itself to REITs with similar depreciable
+assets. We consider FFO to be an appropriate measure of our ongoing normalized operating performance. We compute FFO in accordance with
+our interpretation of standards established by NAREIT, which may not be comparable to FFO reported by other companies that either do
+not define the term in accordance with the current NAREIT definition or interpret the NAREIT definition differently than us. FFO does
+not represent cash generated from operating activities as determined by GAAP and should not be considered as an alternative to (a) GAAP
+net income or loss as an indication of our financial performance or (b) GAAP cash flows from operating activities as a measure of our
+liquidity, nor is it indicative of funds available to satisfy our cash needs, including our ability to make cash distributions. However,
+to facilitate a clear understanding of our historical operating results, we believe that FFO should be considered along with our net
+income or loss and cash flows reported in the consolidated financial statements. 
+
+35 
+
+An
+approximate reconciliation of net income (loss) attributable to controlling interests to FFO for the three and three months ended April
+30, 2022 and 2021: 
+
+Three Months Ended April 30, 
+
+2022 
+ 2021 
+ 
+ Net income (loss) attributable to controlling interests 
+ 188,000 
+ (106,000 
+ 
+ Add back: 
+
+Depreciation 
+ 172,000 
+ 185,000 
+ 
+ Non-controlling interest 
+ 188,000 
+ 264,000 
+ 
+ FFO 
+ 548,000 
+ 343,000 
+
+FUTURE
+POSITIONING 
+
+In
+viewing the hotel industry cycles, recently reconfirmed by the disruption of travel and hospitality, the Board of Trustees determined
+that it was appropriate to continue to actively seek buyers for our two remaining Hotel properties. We continue to make our Tucson Hotel
+and Albuquerque Hotel available for sale at market value, on the website www.suitehotelsrealty.com. 
+
+The
+table below provides book values, mortgage balances and listed asking price for the Hotels. 
+
+Hotel Property 
+ Book Value 
+ Mortgage 
+ Balance 
+ Estimated Market Asking Price 
+ 
+ Albuquerque 
+ 1,181,154 
+ 1,299,000 
+ 8,595,000 
+ 
+ Tucson Oracle 
+ 6,346,071 
+ 8,447,000 
+ 17,950,000 
+
+7,527,225 
+ 9,746,000 
+ 26,545,000 
+
+The
+ Estimated Market Asking Price is the amount at which we believe would sell each of the Hotels and is adjusted to reflect
+hotel sales in the Hotels areas of operation and projected upcoming 12 month earnings of each of the Hotels. The Estimated Market
+Asking Price is not based on appraisals of the properties. 
+
+We
+have from time to time listed each of the properties with a local real estate hotel broker who has successfully sold five of our hotel
+properties and we believe that each of the assets are being marketed at a price that is reasonable in relation to its current fair value.
+We plan to sell our remaining two Hotel properties one within 12-36 months, based on current fair market value feedback received by our
+local hotel real estate property professional brokers, who specialize in the selling/buying hotel real estate properties. We can provide
+no assurance that we will be able to sell either or both of the Hotel properties on terms favorable to us or within our expected time
+frame, or at all. 
+
+Although
+believed feasible, we may be unable to realize the asking price for the individual Hotel properties or to sell and/or refinance one or
+both. However, we believe that the asking price values are reasonable based on rebounding local market conditions, comparable sales,
+and anticipated upturns in occupancy, rates, and profits per hotel. Changes in market conditions have in part resulted, and may in the
+future result, in our changing one or all of the asking prices. 
+
+Our
+long-term strategic plan is to obtain the full benefit of our real estate equity, to benefit from our UniGen Power, Inc., (UniGen) clean
+energy operation diversified investment, and to pursue a merger with another company, likely a private larger entity that seeks to go
+public to list on the NYSE AMERICAN Exchange. 
+
+SHARE
+REPURCHASE PROGRAM 
+
+For
+information on the Trust s Share Repurchase Program, see Part II, Item 5. Market for the Registrant s Common Equity
+Related Stockholder Matters and Issuer Purchases of Equity Securities. of our most recent 10-K Annual Report filed on May 27,
+2022. The stock and unit Repurchase Program was highly successful during the Covid-19 Pandemic, throughout Fiscal Year 2022 (February
+1, 2021 to January 31, 2022). We plan to continue and accelerate the stock and unit buy backs in the current Fiscal Year 2023. 
+
+36 
+
+OFF-BALANCE
+SHEET ARRANGEMENTS 
+
+We
+do not have any off-balance sheet financing arrangements or liabilities. We do not have any majority-owned or controlled subsidiaries
+that are not included in our consolidated financial statements. 
+
+SEASONALITY 
+
+The
+Hotels operations historically have been somewhat seasonal. The Tucson Hotel typically experiences its highest occupancy in the
+first fiscal quarter and, to a lesser extent, the fourth fiscal quarter (the winter high season). The second fiscal quarter tends to
+be the lowest occupancy period at the Tucson Hotel. This seasonality pattern can be expected to cause fluctuations in the Trust s
+quarterly revenues. The hotel located in New Mexico historically experiences their most profitable periods during the second and third
+fiscal quarters (the summer high season), providing balance to the general seasonality of the Trust s hotel business. 
+
+The
+seasonal nature of the Trust s business increases its vulnerability to risks such as labor force shortages and cash flow issues.
+Further, if an adverse event such as an actual or threatened terrorist attack, viral outbreak or pandemic, international conflict, data
+breach, regional economic downturn or poor weather conditions should occur during the high season, the adverse impact to the Trust s
+revenues could likely be greater as a result of its seasonal business. 
+
+INFLATION 
+
+We
+rely entirely on the performance of the Hotels and InnSuites Hotels ability to increase revenue to keep pace with inflation. Operators
+of hotels in general, and InnSuites Hotels in particular, can change room rates quickly, but competitive pressures may limit InnSuites
+Hotels ability to raise rates as fast as or faster than inflation. 
+
+INVESTMENT
+IN UNIGEN POWER, INC. 
+
+On
+December 16, 2019, the Trust entered into a Convertible Debenture Purchase Agreement with UniGen Power Inc. UniGen ). 
+
+The
+Trust purchased secured convertible debentures Debentures in the aggregate amount of 1,000,000 (the Loan Amount (the Loan at an annual interest rate of 6 (approximately 15,000 per quarter). The Debentures are convertible into 1,000,000
+Class A shares of UniGen Common Stock at an initial conversion rate of 1.00 per share. 
+
+UniGen
+issued the Trust common stock purchase warrants (the Debenture Warrants including to purchase up to 1,000,000 shares of
+Class A Common Stock. The Debenture Warrants are exercisable at an exercise price of 1.00 per share of Class A Common Stock. 
+
+UniGen,
+also, issued the Trust additional common stock purchase warrants Additional Warrants to purchase up to 200,000 shares
+and another 300,000 shares of Class A Common Stock. The Additional Warrants are exercisable at an exercise price of 2.25 per share of
+Class A Common Stock. 
+
+UniGen
+has also agreed to allow IHT to fund a 500,000 line of credit at the option of IHT convertible into 500,000 shares of UniGen stock at
+ 1 per share. The balance on this line of credit as of January 31, 2022 is 0. 
+
+The
+total of all stock ownership upon conversion of the note receivable is 1 million shares and if all stock warrants available but not outstanding
+are exercised, these would total approximately 3 million UniGen shares, which amounts to approximately 25 of fully diluted UniGen equity. 
+
+On
+the Trust s balance sheet, the investment of the 1,000,000 consists of approximately 700,000 in note receivables and approximately
+ 300,000 as the fair value of the warrant issued with the Trust s investment in UniGen. The value of the premium related to the
+fair value of the warrants will accrete over the life of the debentures. 
+
+Privately
+held UniGen Power, Inc. (UniGen) is developing a patented high profit potential new efficient clean energy generation innovation. The
+investment is valued at fair value (level 3), as defined in Note 2 of the Consolidated Financial Statements. There is no Investment Commitment
+to UniGen requiring any restriction of cash. IHT has indicated its intention to exercise an additional 190,000 investment in 1 warrants
+in October and November, 2022. 
+
+37 
+
+UniGen
+is currently in pursuit of three additional valuable patents. 
+
+UniGen
+Power Inc. management recently reported substantial progress on several fronts of the InnSuites Hospitality Trust (IHT) efficient clean
+energy innovation diversification investment including the following: 
+
+1.
+Despite Covid travel and supply chain disruptions including reshoring of a portion of UniGen parts, UniGen management
+targets the UPI 1000 NG first prototype to be in operation on or before December 2022 subject to continuing supply chain delay
+challenges, and UniGen cash available. 
+
+2.
+Due to Covid, global economic events, an increasingly unreliable American power grid, inflation, and supply chain pressures, the UniGen
+marketing team estimates market position has grown and the planned power plant price has been increased. The initial order for thirty
+units was recently reaffirmed. 
+
+3.
+UniGen Recently raised an additional 1.3 million through early existing UniGen warrant exercises, including a 190,000 additional commitment
+from IHT as part of a pre-production GenSet capital raise. 
+
+UniGen
+continues to seek additional development and pre-production financing. 
+
+James
+Wirth (President) and Marc Berg (Executive Vice President) both lack significant control. They have two of the six Board of Directors
+seats or 33 and were elected in December 2019 to serve on the board of UNIGEN to closely monitor and assist in the success of this potentially
+power industry disruptive relatively clean energy generation innovation. 
+
+ITEM
+3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not
+required for smaller reporting companies. 
+
+ITEM
+4. CONTROLS AND PROCEDURES 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+As
+of the end of the period covered by this report, we conducted an evaluation under the supervision and with the participation of our management,
+including our principal executive officer and principal financial officer, of the effectiveness of the design and operation of our disclosure
+controls and procedures. The term disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under
+the Securities Exchange Act of 1934, as amended (the Exchange Act ), means controls and other procedures of a company that
+are designed to ensure that information required to be disclosed by the company in the reports it files or submits under the Exchange
+Act is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. Based on this
+evaluation, our Chief Executive Officer (CEO), and our Chief Financial Officer (CFO), concluded that our disclosure controls and procedures
+were not fully effective as of April 30, 2022. 
+
+Our
+management, including our CEO and CFO, do not expect that our disclosure controls and procedures or our internal controls will prevent
+all error or fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance
+that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource
+constraints, and the benefits of controls must be considered relative to their costs. Due to the inherent limitations in all control
+systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. 
+
+Management s
+Report on Internal Control Over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting and for the assessment of the effectiveness
+of internal control over financial reporting. Internal control over financial reporting is a process designed by, or under the supervision
+of the Trust s CEO and CFO and effected by the Trust s Board of Trustees, management and other personnel, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with U.S. generally accepted accounting principles. 
+
+38 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Assessment
+of Internal Control over Financial Reporting 
+
+Our
+management assessed the effectiveness of our internal control over financial reporting as of January 31, 2022. In making this assessment,
+management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission COSO in
+Internal Control - Integrated Framework (2013). Based on management s assessment, management concluded our internal control over
+financial reporting was not fully effective as of April 30, 2022. 
+
+Management s
+Remediation Initiatives 
+
+We
+need to take appropriate and reasonable steps to make necessary improvements to our Accounting staff and internal control over financial
+reporting, which will require management to support the hiring and training of sufficient personnel with appropriate training and expertise
+in accounting principles generally accepted in the United States. This increase to staffing and training will allow us to make the necessary
+improvements, including: 
+
+Continuing
+ to improve the control environment through (i) being staffed with sufficient number of personnel to address segregation of duties
+ issues, ineffective controls and to perform control monitoring activities, (ii) increasing the level of GAAP knowledge by retaining
+ additional technical accountants, (iii) implementing formal process to account for non-standard transactions, and (iv) implementing
+ and formalizing management oversight of financial reporting at regular intervals; 
+
+Continuing
+ to update the documentation of our internal control processes, including implementing formal risk assessment processes and entity
+ level controls; 
+
+Implementing
+ control activities that address relevant risks and assure that all transactions are subject to such control activities; Ensure systems
+ that impact financial information and disclosures have effective information technology controls; 
+
+Implementing
+ plan to increase oversight and review of ad hoc spreadsheets while also working to reduce their use; 
+
+We
+ are in the process of further enhancing the supervisory procedures to include additional
+ levels of analysis and quality control reviews within the accounting and financial reporting
+ functions; and 
+
+We
+ previously filled the previously vacant position of Chief Financial Officer (CFO), to assist with the Trust s internal controls
+ oversight. 
+
+We
+believe that the remediation measures described above have and will continue to strengthen our internal control over financial reporting
+and remediate the material weaknesses we have identified. We expect these remediation efforts will be implemented throughout Fiscal Year
+2023. 
+
+Despite
+the deficiencies reported above, our management believes that our financial statements included in this Quarterly Report on Form 10-Q
+for the three months ended April 30, 2022 fairly present in all material respects our financial condition, results of operations and
+cash flows for the periods presented and that this report does not contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements, in light of the circumstances under which such statements were made, not misleading with
+respect to the periods covered by this report. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+There
+were no changes in our internal control over financial reporting during the three months ended April 30, 2022 that have materially affected,
+or are reasonably likely to materially affect, our internal control over financial reporting. We have had significant turnover in our
+accounting department over the last 36 months. Continued training and experience should further assist with the Trust s stability,
+technical accounting, and internal control issues. 
+
+39 
+
+PART
+II 
+
+OTHER
+INFORMATION 
+
+ITEM
+1. LEGAL PROCEEDINGS 
+
+None. 
+
+ITEM
+1A. RISK FACTORS 
+
+Risks
+Relating to COVID-19 
+
+In
+Fiscal year 2022, ended January 31, 2022, COVID-19 had shrinking impact on our business, financial results and liquidity. The start of
+Fiscal Year 2023, starting February 1, 2022 and ending January 31, 2023, has shown significantly strong rebound and encouraging progress,
+with signs of future additional recovery imminent. 
+
+COVID-19
+and its consequences previously reduced travel and demand for hotel rooms, which previously had an impact our business, operations, and
+financial results. We believe that lodging demand and revenue level is rebounding and close to fully recovery. The extent to which COVID-19
+currently impacts our business, operations, and financial results, including the duration and magnitude of such effects, is diminished
+and negligible. The negative impact COVID-19 had on global and regional economies and economic activity, including the duration and magnitude
+of its impact on unemployment rates and consumer discretionary spending has been reduced significantly, and its short and longer-term
+impact on the demand for travel, transient and group business, and levels of consumer confidence is no longer a considered much of a
+factor for Fiscal Year 2023, (February 1, 2022 to January 31, 2023). 
+
+ITEM
+2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+
+Holders
+of the Trust s Shares of Beneficial Interest are entitled to receive dividends when and if declared by the Board of Trustees of
+the Trust out of funds legally available. The holders of Shares of Beneficial Interest, upon any liquidation, dissolution or winding-down
+of the Trust, are entitled to share ratably in any assets remaining after payment in full of all liabilities of the Trust. The Shares
+of Beneficial Interest possess ordinary voting rights, each share entitling the holder thereof to one vote. Holders of Shares of Beneficial
+Interest do not have cumulative voting rights in the election of Trustees and do not have preemptive rights. 
+
+For
+the three months ended April 30, 2022 and 2021, the Trust repurchased 15,795 and 0 Shares of Beneficial Interest at an average
+price of 2.53 and 0 per share, respectively. The average price paid includes brokerage commissions. The Trust intends
+to continue repurchasing Shares of Beneficial Interest in compliance with applicable legal and NYSE AMERICAN requirements. The Trust s
+management believes the Trust share price does not fully recognize the Trust s full value and/or full potential. During the three
+months ended April 30, 2022, the Trust acquired 0 Shares of Beneficial Interest in open market transactions. During Fiscal Year 2022
+(February 1, 2021 to January 31, 2022), the Trust repurchased 44,076 IHT Shares at an average price of 2.96 per share. 
+
+40 
+
+ITEM
+3. DEFAULTS UPON SENIOR SECURITIES 
+
+None. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+None. 
+
+ITEM
+5. OTHER INFORMATION 
+
+None. 
+
+ITEM
+6. EXHIBITS 
+
+Exhibit
+ No. 
+ 
+ Exhibit 
+
+31.1 
+ 
+ Section
+ 302 Certification by Chief Executive Officer 
+
+31.2 
+ 
+ Section
+ 302 Certification by Chief Financial Officer 
+
+32.1
+
+Section
+ 906 Certification of Principal Executive Officer and Principal Financial Officer 
+
+101 
+ 
+ Inline
+ XBRL Exhibits 
+
+101.INS 
+ 
+ Inline
+ XBRL Instance Document 
+
+101.SCH 
+ 
+ Inline
+ XBRL Schema Document 
+
+101.CAL 
+ 
+ Inline XBRL
+ Calculation Linkbase Document 
+
+101.LAB 
+ 
+ Inline XBRL
+ Labels Linkbase Document 
+
+101.PRE 
+ 
+ Inline XBRL
+ Presentation Linkbase Document 
+
+101.DEF 
+ 
+ Inline XBRL
+ Definition Linkbase Document 
+
+104 
+ 
+ Cover Page Interactive Data File (embedded within the Inline XBRL
+document) 
+
++
+Management contract or compensation plan or arrangement. 
+
+Furnished, note filed. 
+
+41 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized. 
+
+INNSUITES
+ HOSPITALITY TRUST 
+
+Date:
+ July 1, 2022 
+ /s/
+ James F. Wirth 
+
+James
+ F. Wirth 
+
+Chairman
+ and Chief Executive Officer 
+
+(Principal
+ Executive Officer) 
+
+Date:
+ July 1, 2022 
+ /s/
+ Sylvin R. Lange 
+
+Sylvin
+ R. Lange 
+
+Sylvin
+ Lange, Chief Financial Officer 
+ (Principal
+ Financial and Accounting Officer) 
+
+42 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+CERTIFICATION
+BY CHIEF EXECUTIVE OFFICER 
+
+I,
+James F. Wirth, certify that: 
+
+1.
+I have reviewed this quarterly report on Form 10-Q of InnSuites Hospitality Trust; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; 
+
+(c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing
+the equivalent functions): 
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+Date:
+ July 1, 2022 
+
+/s/
+ James F. Wirth 
+
+James
+ F. Wirth 
+
+Chairman
+ and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+Exhibit
+31.2 
+
+CERTIFICATION
+BY CHIEF FINANCIAL OFFICER 
+
+I,
+Sylvin R. Lange, certify that: 
+
+1.
+I have reviewed this quarterly report on Form 10-Q of InnSuites Hospitality Trust; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; 
+
+(c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing
+the equivalent functions): 
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the
+registrant s internal control over financial reporting. 
+
+Date:
+ July 1, 2022 
+
+/s/
+ Sylvin R. Lange 
+
+Sylvin
+ R. Lange 
+
+Chief
+ Financial Officer 
+ (Principal
+ Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+Exhibit
+32.1 
+
+CERTIFICATION
+PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the filing of the Quarterly Report of InnSuites Hospitality Trust (the Trust on Form 10-Q for the quarter
+ended April 30, 2021, as filed with the Securities and Exchange Commission (the SEC on or about the date hereof
+(the Report ), each of the undersigned officers of the Trust certifies pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002, that, to such officer s knowledge: 
+
+1. 
+ The
+ Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+ of the Trust. 
+
+Date:
+ July 1, 2022 
+ /s/
+ James F. Wirth 
+
+James
+ F. Wirth 
+
+Chairman
+ and Chief Executive Officer 
+
+/s/
+ Sylvin R. Lange 
+
+Sylvin
+ R. Lange 
+
+Chief
+ Financial Officer 
+ (Principal
+ Financial and Accounting Officer) 
+
+A
+signed original of this written statement has been provided to the Trust and will be retained by the Trust and furnished to the SEC or
+its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ iht-20220430.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ iht-20220430_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ iht-20220430_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ iht-20220430_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

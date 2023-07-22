@@ -1,0 +1,1780 @@
+<Header>
+<FileStats>
+    <FileName>20220103_10-Q-A_edgar_data_1842659_0001140361-22-000145.txt</FileName>
+    <GrossFileSize>5617057</GrossFileSize>
+    <NetFileSize>97864</NetFileSize>
+    <NonText_DocumentType_Chars>819458</NonText_DocumentType_Chars>
+    <HTML_Chars>1570785</HTML_Chars>
+    <XBRL_Chars>1657849</XBRL_Chars>
+    <XML_Chars>1314297</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001140361-22-000145.hdr.sgml : 20220103
+<ACCEPTANCE-DATETIME>20220103161527
+ACCESSION NUMBER:		0001140361-22-000145
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		56
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20220103
+DATE AS OF CHANGE:		20220103
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Corsair Partnering Corp
+		CENTRAL INDEX KEY:			0001842659
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40285
+		FILM NUMBER:		22502258
+
+	BUSINESS ADDRESS:	
+		STREET 1:		717 FIFTH AVENUE
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 224-9476
+
+	MAIL ADDRESS:	
+		STREET 1:		717 FIFTH AVENUE
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+</SEC-Header>
+</Header>
+
+ 0001140361-22-000145.txt : 20220103
+
+10-Q/A
+ 1
+ brhc10030367_10qa.htm
+ 10-Q/A
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549 
+
+FORM 
+
+(Amendment No. 1) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934 
+
+For the period ended 
+
+OR
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ EXCHANGE ACT OF 1934 
+
+For the transition period from to 
+
+ORATION 
+
+(Exact name of registrant as specified in its charter)
+
+N/A 
+
+(State or other jurisdiction of incorporation or organization)
+
+(Commission File Number) 
+
+(I.R.S. Employer Identification Number)
+
+, New York 
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+) 
+
+Registrant s telephone number, including area code:
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class
+
+Trading
+
+ Symbol(s)
+
+Name of each exchange
+
+ on which registered
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was
+ required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.Yes 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such
+ shorter period that the registrant was required to submit such files). No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated
+ filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+ accounting standards provided pursuant to Section 13(a) of the Exchange Ac t. 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+As of January 3, 2022, Class A ordinary shares, par
+ value 0.0001 per share, Class B ordinary shares, par value 0.0001 per share, and Class F ordinary shares, par value 0.0001 per share, were issued and outstanding, respectively .
+
+EXPLANATORY NOTE
+
+References throughout this Amendment No. 1 to the Quarterly Report on Form 10-Q to we, us, the Company or our company are to
+ Corsair Partnering Corp. unless the context otherwise indicates.
+
+This Amendment No. 1 Amendment No. 1 to the Quarterly Report on Form 10-Q/A amends the Quarterly Report on Form 10-Q of Corsair Partnering
+ Corporation (the Company as of and for the period ended September 30, 2021, as filed with the Securities and Exchange Commission SEC on November 12, 2021.
+
+On November 12, 2021, the Company filed its Form 10-Q for the quarterly period ending September 30, 2021 (the Q3 Form 10-Q ), which included a section
+ within Note 2, Revision of Previously Issued Financial Statements, Note 2 that describes a revision to the Company s classification of its Class A ordinary shares subject to possible redemption issued as part of the units sold in the Company s
+ initial public offering IPO on July 6, 2021. As described in Note 2, upon its IPO, the Company classified a portion of the Class A ordinary shares as permanent equity to maintain net tangible assets greater than 5,000,000 on the basis that the
+ Company will consummate its initial business combination only if the Company has net tangible assets of at least 5,000,001. Previously, the Company did not consider redeemable shares classified as temporary equity as part of net tangible assets.
+ Effective with these condensed financial statements, the Company revised this interpretation to include temporary equity in net tangible assets. As a result, management corrected the error by restating all Class A ordinary shares subject to
+ possible redemption as temporary equity. This resulted in an adjustment to the initial carrying value of the Class A ordinary shares subject to possible redemption with the offset recorded to additional paid-in capital (to the extent available),
+ accumulated deficit and Class A ordinary shares.
+
+The Company determined the changes were not qualitatively material to the Company s previously issued financial statements and did not restate its
+ financial statements. Instead, the Company revised its previous financial statements in Note 2 to its Q3 Form 10-Q. Although the qualitative factors that management assessed tended to support a conclusion that the misstatements were not material,
+ these factors were not strong enough to overcome the significant quantitative errors in the financial statements. The qualitative and quantitative factors support a conclusion that the misstatements are material on a quantitative basis. Management
+ concluded that the misstatement was of such a magnitude that it is probable that the judgment of a reasonable person relying upon the financial statements would have been influenced by the inclusion or correction of the foregoing items. As such,
+ upon further consideration of the change, the Company determined the change in classification of the Class A ordinary shares and change to its presentation of earnings per share is quantitatively material and it should restate its previously issued
+ financial statement.
+
+Therefore, on December 30, 2021, the Company s management and the audit committee of the Company s board of directors concluded that the Company s
+ previously issued revision to the (i) audited balance sheet as of July 6, 2021, filed with SEC on July 12, 2021; and (ii) Note 2 to the unaudited interim financial statements and Item 4 of Part 1 included in the Company s Quarterly Report on Form
+ 10-Q for the quarterly period ended September 30, 2021, filed with the SEC on November 12 , 2021 (the Affected Period ), should be restated to report all Public Shares as temporary equity and should no longer be relied upon. As such, the Company will restate its financial statements for the Affected Period
+ in this Quarterly Report on Form 10-Q/A.
+
+The above changes did not have any impact on its cash position and cash held in the trust account established in connection with the IPO (the Trust
+ Account ).
+
+After re-evaluation, the Company s management has concluded that in light of the error described above, a material weakness existed in the Company s
+ internal control over financial reporting during the Affected Period and that the Company s disclosure controls and procedures were not effective. The Company s remediation plan with respect to such material weakness is described in more detail in
+ Item 4 to Part 1 of this filing.
+
+CORSAIR PARTNERING CORPORATION
+
+Form 10-Q/A
+
+For the Period Ended September 30, 2021
+
+Table of Contents
+
+Page
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1.
+
+Condensed Financial Statements 
+
+1
+
+Unaudited Condensed Balance Sheet as of September 30, 2021 
+
+1
+
+Unaudited Condensed Statements of Operations for the Three Months Ended September 30, 2021 and the period from January 1, 2021 (Commencement of Operations) through
+ September 30, 2021 
+
+2
+
+Unaudited Condensed Statements of Changes in Shareholders Deficit for the Three Months Ended September 30, 2021 and the Period from January 1, 2021
+ (Commencement of Operations) Through September 30, 2021 
+
+3
+
+Unaudited Condensed Statement of Cash Flows for the Period from January 1, 2021 (Commencement of Operations) Through September 30, 2021 
+
+4
+
+Notes to Unaudited Condensed Financial Statements 
+
+5
+
+Item 2.
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+21 
+
+Item 3.
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+27
+
+Item 4.
+
+Controls and Procedures (as restated) 
+
+27
+
+PART II. OTHER INFORMATION 
+
+Item 1.
+
+Legal Proceedings 
+
+27
+
+Item 1A.
+
+Risk Factors 
+
+27
+
+Item 2.
+
+Unregistered Sales of Equity Securities and Use of Proceeds from Registered Securities 
+
+28
+
+Item 3.
+
+Defaults Upon Senior Securities 
+
+28
+
+Item 4.
+
+Mine Safety Disclosures 
+
+28
+
+Item 5.
+
+Other Information 
+
+28
+
+Item 6.
+
+Exhibits 
+
+28
+
+Signatures 
+
+29 
+
+Table of Contents 
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1. 
+
+Condensed Financial Statements
+
+CORSAIR PARTNERING CORPORATION
+
+UNAUDITED CONDENSED BALANCE SHEET
+
+September 30, 2021 
+
+Assets:
+
+Current assets:
+
+Cash
+
+Prepaid expenses
+
+Total current assets
+
+Investments held in Trust Account
+
+Total Assets
+
+Liabilities, Class A Ordinary Shares Subject to Possible Redemption and Shareholders Deficit:
+
+Current liabilities:
+
+Accounts payable
+
+Accrued expenses
+
+Total current liabilities
+
+Derivative warrant liabilities
+
+Deferred underwriting commissions in connection with the initial public offering
+
+Total liabilities
+
+Commitments and Contingencies
+
+Class A ordinary shares subject to possible redemption; 
+ par value; shares at redemption value of per share
+
+Shareholders Deficit:
+
+Preference shares, par value shares authorized 
+ issued and outstanding
+
+Class A ordinary shares, par value; shares authorized
+
+Class B ordinary shares, par value; shares authorized; 
+ shares issued and outstanding
+
+Class F ordinary shares, par value; shares authorized; 
+ shares issued and outstanding
+
+Additional paid-in capital
+
+Accumulated deficit
+
+Total shareholders deficit
+
+Total Liabilities, Class A Ordinary Shares Subject to Possible Redemption and Shareholders Deficit
+
+The
+ accompanying notes are an integral part of these unaudited condensed financial statements. 
+
+1 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+UNAUDITED CONDENSED STATEMENTS OF OPERATIONS
+
+For the Three Months
+
+ Ended September 30, 2021
+
+From January 1, 2021
+
+ (Commencement of Operations)
+
+ Through September 30, 2021
+
+General and administrative expenses
+
+Loss from operations
+
+Other income (expenses):
+
+Change in fair value of derivative warrant liabilities
+
+Offering costs associated with derivative warrant liabilities
+
+Income from investments held in Trust Account
+
+Net income
+
+Weighted average number of shares outstanding of Class A ordinary shares, basic and diluted
+
+Basic net income per share, Class A ordinary shares
+
+Diluted net income per share, Class A ordinary shares 
+
+Weighted average number of shares outstanding of Class B ordinary shares, basic and diluted
+
+Basic net income per share, Class B ordinary shares
+
+Diluted net income per share, Class B ordinary shares 
+
+Weighted average number of shares outstanding of Class F ordinary shares, basic
+
+Basic net income per share, Class F ordinary shares
+
+Weighted average number of shares outstanding of Class F ordinary shares, diluted
+
+Diluted net income per share, Class F ordinary shares
+
+The accompanying notes are an integral part of these unaudited condensed financial statements.
+
+2 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+UNAUDITED CONDENSED STATEMENTS OF CHANGES IN SHAREHOLDERS DEFICIT
+
+For the Three Months Ended September 30, 2021 and for the Period from January 1, 2021
+ (Commencement of Operations) Through September 30 , 2021
+
+Ordinary shares
+
+Total
+
+Class A
+
+Class B
+
+Class F
+
+Additional Paid-In
+
+Accumulated
+
+Shareholders 
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Shares
+
+Amount
+
+Capital
+
+Deficit
+
+Deficit
+
+Balance - January 1, 2021
+
+Issuance of Class B ordinary shares to Sponsor
+
+-
+
+-
+
+-
+
+-
+
+Issuance of Class F ordinary shares to Sponsor
+
+-
+
+-
+
+-
+
+-
+
+Net loss
+
+-
+
+-
+
+-
+
+Balance - March 31, 2021 (unaudited)
+
+Net loss
+
+-
+
+-
+
+-
+
+Balance - June 30, 2021 (unaudited)
+
+Excess of cash received over fair value of private placement warrants 
+
+- 
+
+- 
+
+- 
+
+Forfeiture of Class F ordinary shares
+
+- 
+
+- 
+
+- 
+
+- 
+
+Accretion of Class A ordinary shares subject to possible redemption amount 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net income 
+
+- 
+
+- 
+
+- 
+
+Balance - September 30, 2021 (unaudited) 
+
+The accompanying notes are an integral part of these unaudited condensed financial statements.
+
+3 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+UNAUDITED CONDENSED STATEMENT OF CASH FLOWS
+
+For the Period from January 1, 2021 (Commencement of Operations) Through the Period of September 30, 2021 
+
+Cash Flows from Operating Activities:
+
+Net income
+
+Adjustments to reconcile net income to net cash from operating activities:
+
+General and administrative expenses paid by related party in exchange for issuance of Class B and Class F ordinary shares
+
+Offering costs associated with derivative warrant liabilities
+
+Change in fair value of derivative warrant liabilities
+
+Income from investments held in Trust Account
+
+Changes in operating assets and liabilities:
+
+Prepaid expenses
+
+Accounts payable
+
+Accrued expenses
+
+Net cash used in operating activities
+
+Cash Flows from Investing Activities
+
+Cash deposited in Trust Account
+
+Net cash used in investing activities
+
+Cash Flows from Financing Activities:
+
+Loan proceeds received from related party
+
+Repayment of loan to related party
+
+Proceeds received from initial public offering, gross
+
+Proceeds received from private placement
+
+Offering costs paid
+
+Net cash provided by financing activities
+
+Net change in cash
+
+Cash - beginning of the period
+
+Cash - end of the period
+
+Supplemental disclosure of noncash financing activities:
+
+Offering costs included in accounts payable
+
+Offering costs included in accrued expenses
+
+Deferred underwriting commissions in connection with the initial public offering
+
+The accompanying notes are an integral part of these unaudited condensed financial statements. 
+
+4 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+Founder Shares (as defined in Note 4) in exchange for a capital contribution of , or approximately 
+ per share and (b) Class B Performance Shares (as defined in Note 4) for a capital contribution of , or approximately 
+ per share and on January 21, 2021 (x) exchanged Founder Shares on a one for basis for Performance Shares and (y) surrendered Founder Shares. Such Founder Shares and Performance Shares were assigned to the Sponsor on January 28, 2021. On April 30, 2021, the Sponsor surrendered Founder Shares for consideration, such that
+ there were Founder Shares and Performance Shares issued and outstanding (with up to 
+ Founder Shares subject to forfeiture depending on the extent to which the underwriters over-allotment option was exercised). On July 15, 2021 the underwriter purchased an additional Units pursuant to the partial exercise of the over-allotment option. As a result, the Sponsor subsequently forfeited Class F ordinary shares on July 15, 2021 and there are Class F ordinary shares outstanding as of September 30, 2021. All shares and associated amounts have been retroactively restated to reflect the share exchange
+ and the share surrenders. 
+
+units (the Units and, with
+ respect to the Class A ordinary shares included in the Units being offered, the Public Shares ), at per Unit, generating gross proceeds of million , and
+ incurring offering costs of approximately million , of which approximately million and approximately was for deferred underwriting commissions (see Note 5) and offering costs allocated to
+ derivate warrant liabilities, respectively. On July 15, 2021, the underwriters purchased an additional Units (the Option Units pursuant to the partial exercise of the over-allotment option. The Option Units were sold at an
+ offering price of per Unit, generating additional gross proceeds to the Company of
+ million. The Company incurred
+ additional offering cost of approximately million in connection with the over-allotment, of which approximately million was for deferred underwriting commissions and approximately was offering costs allocated to derivative warrant liabilities. 
+
+5 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+warrants (each, a Private Placement Warrant and collectively, the
+ Private Placement Warrants at a price of per Private Placement Warrant to the Sponsor, generating proceeds of million . In connection with the exercise of the over-allotment option on July 15, 2021, the Sponsor purchased an additional Private Placement Warrants at a purchase price of per
+ Private Placement Warrant, generating additional gross proceeds to the Company of (see Note 4). 
+
+million per Unit) of
+ the net proceeds of the sale of the Units in the Initial Public Offering and of the Private Placement Warrants in the Private Placement were placed in a trust account Trust Account ), located in the United States and will be invested only
+ in United States government securities within the meaning of Section 2(a)(16) of the Investment Company Act of 1940, as amended (the Investment Company Act having a maturity of 185 days or less or in money market funds meeting certain
+ conditions under Rule 2a-7 promulgated under the Investment Company Act which invest only direct U.S. government treasury obligations, until the earlier of: (i) the completion of a Partnering Transaction and (ii) the distribution of the Trust
+ Account as described below. 
+
+or more partner candidate businesses having an aggregate fair market value of at least of the net assets held in the Trust
+ Account (excluding the taxes payable on the income earned on the Trust Account) at the time of the agreement to enter into the initial Partnering Transaction. However, the Company will only complete a Partnering Transaction if the
+ post-transaction company owns or acquires or more of the voting securities of the partner candidate or otherwise acquires a controlling interest in the partner candidate sufficient for it not to be required to register as an investment
+ company under the Investment Company Act. 
+
+in dissolution expenses in the event the Company does not complete the
+ Partnering Transaction within the Partnering Period (as defined below), none of the funds held in the Trust Account will be released until the earlier of: (i) the completion of the Partnering Transaction; (ii) the redemption of any of the
+ Public Shares by its holders (the Public Shareholders properly tendering Public Shares in connection with a shareholder vote to amend certain provisions of the Company s Amended and Restated Memorandum and Articles of Association prior to a Partnering Transaction or (iii) the redemption of 
+ of the Public Shares if the Company does not complete a Partnering Transaction within the Partnering Period (defined below). 
+
+per Public Share. The decision as to whether the Company will seek shareholder approval of the Partnering Transaction or will allow
+ shareholders to sell their shares in a tender offer will be made by the Company, solely in its discretion, and will be based on a variety of factors such as the timing of the transaction and whether the terms of the transaction would
+ otherwise require the Company to seek shareholder approval. If the Company seeks shareholder approval, it will complete its Partnering Transaction only if a majority of the outstanding ordinary shares voted are voted in favor of the
+ Partnering Transaction. However, in no event will the Company redeem its Public Shares in an amount that would cause its net tangible assets to be less than immediately prior to or upon consummation of the Company s initial Partnering Transaction. In such case, the Company would not proceed with the redemption of its Public Shares and the related
+ Partnering Transaction, and instead may search for an alternate Partnering Transaction. 
+
+6 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+months (or months if the
+ Company has executed a letter of intent, agreement in principle or definitive agreement for the Partnering Transaction within 
+ months) from the closing of the Initial Public Offering to complete its initial Partnering Transaction (the Partnering Period ). If the Company does not complete a Partnering Transaction within this period of time (and shareholders do not
+ approve an amendment to the Amended and Restated Memorandum and Articles of Association to extend this date), it will (i) cease all operations except for the
+ purpose of winding up, (ii) as promptly as reasonably possible but not more than ten business days thereafter, redeem the Public
+ Shares, at a per-share price, payable in cash, of , and (iii) as promptly as reasonably possible following such redemption,
+ subject to the approval of our remaining shareholders and our board of directors, liquidate and dissolve, subject in the case of clauses (ii) and (iii), to our obligations under Cayman Islands law to provide for claims of creditors and in all
+ cases subject to the other requirements of applicable law.
+
+of its Public Shares if the Company has not consummated a Partnering Transaction within the Partnering Period or with respect to any other material provisions relating to shareholders rights or pre-Partnering Transaction activity and (iii)
+ waive their rights to liquidating distributions from the Trust Account with respect to any Founder Shares they hold if the Company fails to complete the Partnering Transaction within months of the Partnering Period (although they will be entitled to liquidating distributions from the Trust Account with respect to any Public Shares they hold if the Company fails to
+ complete the Partnering Transaction within the Partnering Period).
+
+per Public Share and (ii) the actual amount per Public Share held in the Trust Account as of the date of the liquidation of the Trust Account, if less than per Public Share due to reductions in the value of the Trust assets, less taxes payable, provided that such liability will not apply to any claims by a third party or
+ prospective target business who executed a waiver of any and all rights to the monies held in the Trust Account (whether or not such waiver is enforceable) nor will it apply to any claims under the Company s indemnity of the underwriters of
+ the Initial Public Offering against certain liabilities, including liabilities under the Securities Act (as defined below).
+
+7 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+,000 in its operating bank account and working capital of approximately million.
+
+from related parties to cover certain expenses on the Company s behalf in exchange for issuance of Founder Shares and Performance Shares
+ (as defined in Note 4), a loan from the Sponsor under the Note (as defined in Note 4) of approximately , and an advance
+ from the Sponsor of to be used in case the over-allotment option was exercised in full by the underwriters. The Company
+ repaid the Note balance of approximately on July 6, 2021. Subsequent to the consummation of the Initial Public Offering,
+ the Company s liquidity has been satisfied through the net proceeds from the consummation of the Initial Public Offering and the Private Placement held outside of the Trust Account. In addition, in order to finance transaction costs in
+ connection with a Partnering Transaction, the Sponsor or an affiliate of the Sponsor, or certain of the Company s officers and directors may, but are not obligated to, provide the Company Working Capital Loans (as defined in Note 4). As of
+ September 30, 2021, there were amounts outstanding under any Working Capital Loan.
+
+8 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+cash equivalents held outside the Trust Account as of September
+ 30, 2021.
+
+9 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+10 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+Class A ordinary shares subject to
+ possible redemption are presented at redemption value as temporary equity, outside of the shareholders equity section of the Company s condensed balance sheet.
+
+Class A ordinary shares in the calculation of diluted income (loss) per ordinary share, because their exercise is contingent
+ upon future events and their inclusion would be anti-dilutive under the treasury stock method. As a result, diluted net income (loss) per ordinary share is the same as basic net income (loss) per share for the three months ended
+ September 30, 2021 and for the period from January 1, 2021 (commencement of operations) through September 30, 2021. Accretion associated with the redeemable Class A ordinary shares is excluded from earnings per share as the redemption
+ value approximates fair value.
+
+11 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+Denominator:
+
+Basic weighted average ordinary shares outstanding
+
+Basic net income per ordinary share
+
+Denominator:
+
+Diluted weighted average ordinary shares outstanding
+
+Diluted net income per ordinary share
+
+unrecognized tax benefits and amounts accrued for interest and
+ penalties as of September 30, 2021. The Company is currently not aware of any issues under review that could result in significant payments, accruals or material deviation from its position.
+
+Units, at per Unit, generating gross proceeds of million, and
+ incurring offering costs of approximately million, of which approximately million and approximately was for deferred
+ underwriting commissions and offering costs allocated to derivate warrant liabilities, respectively. Of the Units sold
+ in the Initial Public Offering, Units with respect to which no underwriting discount is payable were purchased by
+ certain parties . On July 15, 2021, the underwriters purchased an additional 
+ Units pursuant to the partial exercise of the over-allotment option. The over-allotment units were sold at an offering price of 
+ per Unit, generating additional gross proceeds to the Company of million. The Company incurred additional offering cost
+ of approximately million in connection with the over-allotment, of which approximately million was for deferred underwriting commissions. 
+
+Class A ordinary share, and one-third 
+ of redeemable warrant (each, a Public Warrant ). Each Public Warrant entitles the holder to purchase one Class A ordinary
+ share at a price of per share, subject to adjustment.
+
+12 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+in exchange for Class F ordinary shares (the Founder Shares ), and (b) of 
+ in exchange for Class B ordinary shares (the Performance Shares ). On January 21, 2021, such affiliate surrendered Class F ordinary shares and exchanged 
+ Class F ordinary shares for a corresponding number of Class B ordinary shares by way of repurchase of each Class F ordinary share at par and applying such repurchase consideration for the payment of the Class B ordinary shares. Such Founder
+ Shares and Performance Shares were assigned to the Sponsor on January 28, 2021. On April 30, 2021 the Sponsor surrendered 
+ Founder Shares for consideration. Of the Founder Shares then outstanding, up to of the Founder Shares were subject to
+ forfeiture depending on the extent to which the underwriters over-allotment is exercised. The Founder Shares are entitled to (together with the Performance Shares) a number of votes representing of the Company s outstanding ordinary share capital prior to the completion of the Partnering Transaction. On July 15, 2021, the underwriters purchased an additional Units pursuant to the partial exercise of the over-allotment option. As a result, the Sponsor subsequently forfeited Class F ordinary shares such that there are Class F ordinary shares outstanding as of the date hereof. 
+
+years following the completion of the Partnering Transaction. In
+ connection with this arrangement, the Sponsor will also agree not to transfer, assign or sell any of its Founder Shares until the earlier to occur of: (i) days after the completion of the Partnering Transaction and (ii) the date on which the Company completes a liquidation, merger, share capital exchange or other similar transaction after the Partnering
+ Transaction that results in all of the Company s shareholders having the right to exchange their Class A ordinary shares for cash, securities or other property; except to certain permitted transferees and under certain circumstances as
+ described herein. Any permitted transferees will be subject to the same restrictions and other agreements of the Initial Shareholders with respect to any Founder Shares.
+
+Private Placement Warrants at a price of per Private Placement Warrant to the Sponsor, generating proceeds of 
+ million. In connection with the exercise of the over-allotment option on July 15, 2021, the Sponsor purchased an additional Private Placement Warrants at a purchase price of 
+ per Private Placement Warrant, generating additional gross proceeds to the Company of . 
+
+whole Class A ordinary share at a price of 
+ per share. A portion of the proceeds from the Private Placement Warrants was added to the proceeds from the Initial Public Offering held in the Trust Account. If the Company does not complete a Partnering Transaction within the Partnering
+ Period, the Private Placement Warrants will expire worthless. The Private Placement Warrants will be non-redeemable and exercisable on a cashless basis so long as they are held by the Sponsor or its permitted transferees. The Sponsor and the
+ Company s officers and directors agreed, subject to limited exceptions, not to transfer, assign or sell any of their Private Placement Warrants until 
+ days after the completion of the initial Partnering Transaction.
+
+pursuant to an unsecured promissory
+ note (the Note ). This loan was payable without interest upon the completion of the Initial Public Offering. As of June 30, 2021, the Company borrowed approximately under the Note and repaid the Note in full on July 6, 2021. Subsequent to the repayment, the facility is no longer available to the Company.
+
+to be used in case the over-allotment option was
+ exercised in full by the underwriters. On July 15, 2021, in connection with the exercise of the over-allotment option, the Sponsor purchased an additional Private Placement Warrants at a purchase price of per Private Placement Warrant
+ generating proceeds of and the remaining advance of was returned to the Sponsor.
+
+13 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+million of such Working
+ Capital Loans may be convertible into warrants of the post Partnering Transaction entity at a price of per warrant. The
+ warrants would be identical to the Private Placement Warrants. As of September 30, 2021, the Company had borrowings under the
+ Working Capital Loans.
+
+per month. have been incurred and paid as of the three months ended September 30, 2021 and for the period from
+ January 1, 2021 (commencement of operations) through September 30, 2021. 
+
+in due to related party for such expense reimbursement, which is included in the accrued expenses
+ in the condensed balance sheet. 
+
+Units, with each Unit consisting of 
+ Class A ordinary share and one-third of one warrant to purchase Class A ordinary share at per share, subject
+ to adjustment, at a purchase price of per Unit, in private placements to occur concurrently, and only in connection with,
+ the closing of the initial Partnering Transaction. The obligations of the investors under the Forward Purchase Agreement will not depend on whether any Class A ordinary shares are redeemed by the Public Shareholders. The obligations of such
+ investors to purchase the forward purchase securities are subject to the approval, prior to the Company entering into a definitive agreement for the initial Partnering
+ Transaction, of their respective investment committees and the Forward Purchase Agreement contains customary closing conditions. The Forward Purchase Agreement is not a firm commitment by either party to the agreement. The proceeds from
+ the sale of forward purchase securities, if any, may be used as part of the consideration to the sellers in the initial Partnering Transaction, expenses in connection with the initial Partnering Transaction or for working capital in the
+ post-transaction company. 
+
+demands, excluding short form demands, that the Company registers such securities. In
+ addition, the holders have certain piggy-back registration rights with respect to registration statements filed subsequent to the completion of the Partnering Transaction. The Company will bear the expenses incurred in connection with the
+ filing of any such registration statements.
+
+14 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+days after the closing of the initial Partnering Transaction a registration statement with the SEC for a secondary offering of the forward purchase shares and the
+ forward purchase warrants (and underlying Class A ordinary shares), (ii) to cause such registration statement to be declared effective promptly thereafter but in no event later than days after the initial filing, (iii) to maintain the effectiveness of such registration statement until the earliest of (A) the date on which the Forward Purchasers or
+ its assignees cease to hold the securities covered thereby and (B) the date all of the securities covered thereby can be sold publicly without restriction or limitation under Rule 144 under the Securities Act and (iv) after such registration
+ statement is declared effective, cause the Company to conduct firm commitment underwritten offerings, subject to certain limitations. In addition, the Forward Purchase Agreement provides for certain piggy-back registration rights to the
+ holders of forward purchase securities to include their securities in other registration statements filed by the Company. 
+
+-day option from the date of the final prospectus relating to the Initial Public Offering to purchase up to 
+ additional Units to cover over-allotments, if any, at the Initial Public Offering price less the underwriting discounts and commissions. On July 15, 2021, the underwriters purchased an additional Option Units pursuant to the partial exercise of the over-allotment option. The Option Units were sold at an offering price of per Unit, generating additional gross proceeds to the Company of .
+
+Units purchased by certain parties in the Initial Public Offering, the underwriters were entitled to an underwriting discount of 
+ per unit, or million in the aggregate, paid upon the closing of the Initial Public Offering and exercise of the over-allotment option .
+
+per unit, or approximately million in the aggregate will be payable to the underwriters for deferred underwriting commissions.
+ The deferred fee will become payable to the underwriters from the amounts held in the Trust Account solely in the event that the Company completes a Partnering Transaction, subject to the terms of the underwriting agreement. 
+
+Class A ordinary shares with a par value of 
+ per share. Holders of the Company s Class A ordinary shares are entitled to for each share. As of September 30, 2021, there
+ were Class A ordinary shares outstanding subject to possible redemption.
+
+Less:
+
+Fair value of Public Warrants at issuance
+
+Offering costs allocated to Class A ordinary shares subject to possible redemption
+
+Plus:
+
+Accretion on Class A ordinary shares subject to possible redemption amount
+
+Class A ordinary shares subject to possible redemption
+
+15 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+preference shares with a par value of per share. As of September 30, 2021, there are preference shares issued or outstanding.
+
+Class A ordinary
+ shares with a par value of per share. As of September 30, 2021, there were Class A ordinary shares issued and outstanding, which were all subject to possible redemption and have been classified as temporary equity (see Note 6). 
+
+Class F ordinary shares with a par value of per share. As of September 30, 2021, the Company had Class F ordinary shares issued and outstanding, which amounts have been adjusted to reflect the share exchange and share surrenders as discussed in Note 4.
+
+of the total number
+ of as-converted Class A ordinary shares outstanding after such conversion (including the forward purchase securities), including the total number of Class A ordinary shares issued, or deemed issued or issuable upon conversion or exercise of any
+ equity-linked securities or rights issued or deemed issued, by the Company in connection with or in relation to the consummation of the Partnering Transaction; provided that such conversion of Founder Shares into Class A ordinary shares will
+ never occur on a less than one-for-one basis.
+
+Class B ordinary shares with a par value of per share. As of September 30, 2021, there were Class B ordinary shares and issued and outstanding, which amounts have been adjusted to reflect the share exchange as discussed in Note 4.
+
+Class B ordinary shares will automatically convert into Class A ordinary shares conversion shares ), as
+ follows:
+
+for 
+ out of consecutive trading days at any time following completion of the Partnering Transaction, the number of conversion
+ shares for any fiscal year will be Class A ordinary shares.
+
+for 
+ out of any consecutive trading days at any time following completion of the Partnering Transaction, then the number of
+ conversion shares for any fiscal year will be the greater of:
+
+16 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+of the increase in the price of one Class A share, year-over-year but in respect of the increase above the relevant price threshold (as defined below),
+ multiplied by the number of Class A ordinary shares outstanding at the close of the Partnering Transaction, excluding those Class A ordinary shares received by the Sponsor through the Class F ordinary shares, divided by the annual
+ volume weighted average price of Class A ordinary shares for such fiscal year (the annual VWAP and
+
+Class A ordinary shares.
+
+Performance Shares], the calculation described in the immediately preceding bullet will be based on the greater of (i) the annual
+ VWAP for such fiscal year and (ii) the volume-weighted average price of Class A ordinary shares over the last trading
+ days for such fiscal year.
+
+for the first fiscal year following completion of the Partnering Transaction and will
+ thereafter be adjusted at the beginning of each subsequent fiscal year to be equal to the greater of (i) the annual VWAP for the immediately preceding fiscal year and (ii) the price threshold for the preceding fiscal year.
+
+or more of the Company s total assets or (G) issue any Class A ordinary shares in excess of of the Company s then outstanding Class A ordinary shares or that would otherwise require a shareholder vote pursuant to the rules of the stock exchange on which the
+ Class A ordinary shares are then listed.
+
+Public Warrants and Private Placement Warrants were issued as of September 30, 2021. 
+
+fractional warrants will be issued upon separation of the units and only whole warrants will trade. Each whole warrant entitles the registered holder to purchase share of Class A ordinary shares at a price of 
+ per share, subject to adjustment, as discussed below, at any time commencing days after the completion of a Partnering
+ Transaction, provided in each case that the Company has an effective registration statement under the Securities Act covering the Class A ordinary shares issuable upon exercise of the warrants and a current prospectus relating to them is
+ available (or the Company permits holders to exercise their warrants on a cashless basis under the circumstances specified in the warrant agreement) and such shares are registered, qualified or exempt from registration under the securities, or
+ blue sky, laws of the state of residence of the holder. The Company has agreed that as soon as practicable, but in no event later than fifteen )
+ business days after the closing of the Partnering Transaction, the Company will use its commercially reasonable efforts to file with the SEC a registration statement, under the Securities Act, of the Class A ordinary shares issuable upon
+ exercise of the warrants. The Company will use its commercially reasonable efforts to cause the same to become effective and to maintain the effectiveness of such registration statement, and a current prospectus relating thereto, until the
+ expiration of the warrants in accordance with the provisions of the warrant agreement. If a registration statement covering the Class A ordinary shares issuable upon exercise of the warrants is not effective by the sixtieth th) business day after the closing of the Partnering Transaction, warrant holders may, until such time as there is an effective registration
+ statement and during any period when the Company will have failed to maintain an effective registration statement, exercise warrants on a cashless basis in accordance with Section 3(a)(9) of the Securities Act or another exemption.
+ Notwithstanding the above, if the Class A ordinary shares are at the time of any exercise of a warrant not listed on a national securities exchange such that they satisfy the definition of a covered security under Section 18(b)(1) of the
+ Securities Act, the Company may, at its option, require holders of Public Warrants who exercise their warrants to do so on a cashless basis in accordance with Section 3(a)(9) of the Securities Act and, in the event the Company so elects, it
+ will not be required to file or maintain in effect a registration statement, and in the event the Company does not so elect, it will use its commercially reasonable efforts to register or qualify the shares under applicable blue sky laws to the
+ extent an exemption is not available.
+
+17 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+after the completion of the Partnering Transaction, or earlier upon redemption or liquidation. In addition, if (x) the Company issues
+ additional Class A ordinary shares or equity-linked securities for capital raising purposes in connection with the Partnering Transaction, including the forward purchase shares, at an issue price or effective issue price of less than per share of Class A ordinary shares (with such issue price or effective issue price to be determined in good faith by the board of directors
+ and, in the case of any such issuance to the Sponsor or its affiliates, without taking into account any shares held by the Sponsor or such affiliates, as applicable, prior to such issuance) (the Newly Issued Price ), (y) the aggregate gross
+ proceeds from such issuances represent more than of the total equity proceeds, and interest thereon, available for the funding
+ of the Partnering Transaction on the date of the consummation of the Partnering Transaction (net of redemptions), and (z) the volume weighted average trading price of the Class A ordinary shares during the trading day period starting on the trading day after the day on which the Company consummates the Partnering Transaction (such price, the Market
+ Value is below per share, the exercise price of the warrants will be adjusted (to the nearest cent) to be equal to of the higher of the Market Value and the 
+ redemption price trigger described below will be equal to of the higher of the Market Value and the Newly Issued Price.
+
+days after the completion of a Partnering Transaction, subject to certain limited exceptions. Additionally, the Private Placement Warrants will be non-redeemable so long
+ as they are held by the Sponsor or its permitted transferees. If the Private Placement Warrants are held by someone other than the Sponsor or its permitted transferees, the Private Placement Warrants will be redeemable by the Company and
+ exercisable by such holders on the same basis as the Public Warrants.
+
+per warrant:
+
+prior written notice of redemption,
+
+per share for any trading days within a trading day period (the trading period ending three 
+ business days before the Company sends the notice of redemption, and
+
+trading period and continuing each day thereafter until the date of redemption.
+
+18 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+Liabilities: 
+
+Derivative warrant liabilities - Public warrants 
+
+Derivative warrant liabilities - Private placement warrants 
+
+other transfers between Levels in the three months ended September 30,
+ 2021.
+
+million presented as change in fair
+ value of derivative warrant liabilities on the accompanying unaudited condensed statements of operations.
+
+Stock price 
+
+Volatility 
+
+Term (years) 
+
+Risk-free rate 
+
+Dividend yield 
+
+19 
+
+Table of Contents 
+
+CORSAIR PARTNERING CORPORATION
+
+NOTES TO UNAUDITED CONDENSED FINANCIAL STATEMENTS
+
+Issuance of Public and Private Warrants 
+
+Transfer of Public Warrants to Level 1 
+
+Change in fair value of derivative warrant liabilities 
+
+Derivative warrant liabilities at September 30, 2021 (unaudited) 
+
+20 
+
+Table of Contents 
+
+Item 2. 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Quarterly Report on Form 10-Q/A includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Exchange Act. We have
+ based these forward-looking statements on our current expectations and projections about future events. These forward-looking statements are subject to known and unknown risks, uncertainties and assumptions about us that may cause our actual
+ results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by such forward-looking statements. In some cases, you can identify
+ forward-looking statements by terminology such as may, should, could, would, expect, plan, anticipate, believe, estimate, continue, or the negative of such terms or other similar expressions. Factors that might cause or
+ contribute to such a discrepancy include, but are not limited to, those described in our other SEC filings.
+
+Corsair Partnering Corporation (the Company was incorporated as a Cayman Islands exempted company on December 29, 2020. The Company was formed for the purpose of identifying a company to partner with in order to
+ effectuate a merger, share exchange, asset acquisition, share purchase, reorganization or similar partnering transaction with one or more businesses Partnering Transaction ). The Company may pursue a Partnering Transaction in any business or
+ industry but expect to focus on a business where the Company believes its strong network, operational background, and aligned economic structure will provide the Company with a competitive advantage. The Company has not generated revenue to date.
+
+The Company s management has broad discretion with respect to the specific application of the net proceeds of its initial public offering (the Initial Public Offering as it is described below, although
+ substantially all of the net proceeds of the Initial Public Offering are intended to be generally applied toward completing a Partnering Transaction. Furthermore, there is no assurance that the Company will be able to successfully complete a
+ Partnering Transaction.
+
+The registration statement for the Company s Initial Public Offering was declared effective on June 30, 2021. On July 6, 2021, the Company consummated its Initial Public Offering of 25,000,000 units (the Units and,
+ with respect to the Class A ordinary shares included in the Units being offered, the Public Shares ), at 10.00 per Unit, generating gross proceeds of 250.0 million, and incurring offering costs of approximately 14.4 million, of which
+ approximately 8.8 million and approximately 481,000 was for deferred underwriting commissions (see Note 5) and offering costs allocated to derivate warrant liabilities, respectively. On July 15, 2021, the underwriters purchased an additional
+ 3,090,000 Units (the Option Units pursuant to the partial exercise of the over-allotment option. The Option Units were sold at an offering price of 10.00 per Unit, generating additional gross proceeds to the Company of 30.9 million. The
+ Company incurred additional offering cost of approximately 1.7 million in connection with the over-allotment, of which approximately 1.1 million was for deferred underwriting commissions and approximately 55,000 was offering costs allocated to
+ derivative warrant liabilities.
+
+Simultaneously with the closing of the Initial Public Offering, the Company consummated the private placement Private Placement of 5,000,000 warrants (each, a Private Placement Warrant and collectively, the
+ Private Placement Warrants at a price of 1.50 per Private Placement Warrant to the Sponsor, generating proceeds of 7.5 million (see Note 4).
+
+Upon the closing of the Initial Public Offering and the Private Placement, 250.0 million 10.00 per Unit) of the net proceeds of the sale of the Units in the Initial Public Offering and of the Private Placement
+ Warrants in the Private Placement were placed in a trust account Trust Account ), located in the United States and will be invested only in United States government securities within the meaning of Section 2(a)(16) of the Investment Company Act
+ of 1940, as amended (the Investment Company Act having a maturity of 185 days or less or in money market funds meeting certain conditions under Rule 2a-7 promulgated under the Investment Company Act which invest only in direct U.S. government
+ treasury obligations, until the earlier of: (i) the completion of a Partnering Transaction and (ii) the distribution of the Trust Account as described below.
+
+The Company must complete a Partnering Transaction with one or more partner candidate businesses having an aggregate fair market value of at least 80 of the net assets held in the Trust Account (excluding the taxes
+ payable on the income earned on the Trust Account) at the time of the agreement to enter into the initial Partnering Transaction. However, the Company will only complete a Partnering Transaction if the post-transaction company owns or acquires 50 
+ or more of the voting securities of the partner candidate or otherwise acquires a controlling interest in the partner candidate sufficient for it not to be required to register as an investment company under the Investment Company Act.
+
+21 
+
+Table of Contents 
+
+The Company s Amended and Restated Memorandum and Articles of Association provides that, other than the withdrawal of interest earned on the funds that may be released to the Company for withdrawals to pay taxes
+ including income and franchise taxes and to withdraw up to 100,000 in dissolution expenses in the event the Company does not complete the Partnering Transaction within the Partnering Period (as defined below), none of the funds held in the Trust
+ Account will be released until the earlier of: (i) the completion of the Partnering Transaction; (ii) the redemption of any of the Public Shares by its holders (the Public Shareholders properly tendering Public Shares in connection with a
+ shareholder vote to amend certain provisions of the Company s Amended and Restated Memorandum and Articles of Association prior to a Partnering Transaction or (iii) the redemption of 100 of the Public Shares if the Company does not complete a
+ Partnering Transaction within the Partnering Period (defined below).
+
+The Company, after signing a definitive agreement for a Partnering Transaction, will either (i) seek shareholder approval of the Partnering Transaction at a meeting called for such purpose in connection with which
+ Public Shareholders may seek to redeem their Public Shares, regardless of whether they vote for or against the Partnering Transaction or do not vote at all, for cash equal to their pro rata share of the aggregate amount then on deposit in the Trust
+ Account calculated as of two business days prior to the consummation of the initial Partnering Transaction, including interest earned on the funds held in the Trust Account and not previously released to the Company to pay its taxes, or (ii)
+ provide the Public Shareholders with the opportunity to sell their shares to the Company by means of a tender offer (and thereby avoid the need for a shareholder vote) for an amount in cash equal to their pro rata share of the aggregate amount then
+ on deposit in the Trust Account calculated as of two business days prior to commencement of the tender offer, including interest earned on the funds held in the Trust Account and not previously released to the Company to pay its taxes. As a result,
+ such ordinary shares subject to possible redemption were recorded at redemption amount and classified as temporary equity, in accordance with FASB, ASC 480, Distinguishing Liabilities from Equity. The amount in the Trust Account was initially at
+ 10.00 per Public Share. The decision as to whether the Company will seek shareholder approval of the Partnering Transaction or will allow shareholders to sell their shares in a tender offer will be made by the Company, solely in its discretion,
+ and will be based on a variety of factors such as the timing of the transaction and whether the terms of the transaction would otherwise require the Company to seek shareholder approval. If the Company seeks shareholder approval, it will complete
+ its Partnering Transaction only if a majority of the outstanding ordinary shares voted are voted in favor of the Partnering Transaction. However, in no event will the Company redeem its Public Shares in an amount that would cause its net tangible
+ assets to be less than 5,000,001 immediately prior to or upon consummation of the Company s initial Partnering Transaction. In such case, the Company would not proceed with the redemption of its Public Shares and the related Partnering
+ Transaction, and instead may search for an alternate Partnering Transaction.
+
+The Company will only have 24 months (or 27 months if the Company has executed a letter of intent, agreement in principle or definitive agreement for the Partnering Transaction within 24 months) from the closing of
+ the Initial Public Offering to complete its initial Partnering Transaction (the Partnering Period ). If the Company does not complete a Partnering Transaction within this period of time (and shareholders do not approve an amendment to the Amended
+ and Restated Memorandum and Articles of Association to extend this date), it will (i) cease all operations except for the purpose of winding up, (ii) as promptly as reasonably possible but not more than ten business days thereafter, redeem the
+ public shares, at a per-share price, payable in cash, of 10.00, and (iii) as promptly as reasonably possible following such redemption, subject to the approval of our remaining shareholders and our board of directors, liquidate and dissolve,
+ subject in the case of clauses (ii) and (iii), to our obligations under Cayman Islands law to provide for claims of creditors and in all cases subject to the other requirements of applicable law.
+
+The holders of the Founder Shares (as defined in Note 4) immediately prior to the Initial Public Offering entered into a letter agreement with the Company, pursuant to which they agreed to (i) waive their redemption
+ rights with respect to any Founder Shares and Public Shares they hold in connection with the completion of the Partnering Transaction, (ii) waive their redemption rights with respect to any Founder Shares and Public Shares they hold in connection
+ with a shareholder vote to approve an amendment to the Company s Amended and Restated Memorandum and Articles of Association, to modify the substance or timing of the Company s obligation to redeem 100 of its Public Shares if the Company has not
+ consummated a Partnering Transaction within the Partnering Period or with respect to any other material provisions relating to shareholders rights or pre-Partnering Transaction activity and (iii) waive their rights to liquidating distributions
+ from the Trust Account with respect to any Founder Shares they hold if the Company fails to complete the Partnering Transaction within 24 months of the Partnering Period (although they will be entitled to liquidating distributions from the Trust
+ Account with respect to any Public Shares they hold if the Company fails to complete the Partnering Transaction within the Partnering Period).
+
+22 
+
+Table of Contents 
+
+Pursuant to the letter agreement, the Sponsor (as defined in Note 1) agreed that it will be liable to the Company if and to the extent any claims by a third party for services rendered or products sold to the
+ Company, or a prospective target business with which the Company has entered into a written letter of intent, confidentiality or other similar agreement or Partnering Transaction agreement, reduce the amount of funds in the Trust Account to below
+ the lesser of (i) 10.00 per Public Share and (ii) the actual amount per Public Share held in the Trust Account as of the date of the liquidation of the Trust Account, if less than 10.00 per Public Share due to reductions in the value of the Trust
+ assets, less taxes payable, provided that such liability will not apply to any claims by a third party or prospective target business who executed a waiver of any and all rights to the monies held in the Trust Account (whether or not such waiver is
+ enforceable) nor will it apply to any claims under the Company s indemnity of the underwriters of the Initial Public Offering against certain liabilities, including liabilities under the Securities Act.
+
+Prior to the Partnering Transaction or the liquidation, the Company agreed to pay the Sponsor up to 15,000 per month for office space, administrative support and other services provided to members of the Company s
+ management team. In addition, the Sponsor, officers and directors, or any of their respective affiliates will be reimbursed for any out-of-pocket expenses incurred in connection with activities on the Company s behalf such as identifying potential
+ target businesses and performing due diligence on suitable Partnering Transactions. The audit committee will review on a quarterly basis all payments that were made by the Company to the Sponsor, officers or directors, or the Company s or their
+ affiliates. Any such payments prior to an initial Partnering Transaction will be made from funds held outside the Trust Account. As of September 30, 2021, the Company had approximately 44,000 in due to related party for such expense reimbursement,
+ which is included in the accrued expenses in the condensed balance sheet.
+
+Liquidity and Capital Resources 
+
+As of September 30, 2021, the Company had approximately 1,054,000 in its operating bank account and a working capital of approximately 1.5 million.
+
+The Company s liquidity needs prior to the consummation of the Initial Public Offering were satisfied through the payment of 25,000 from related parties to cover for certain expenses on the Company s behalf in
+ exchange for issuance of Founder Shares and Performance Shares (as defined in Note 4), a loan from the Sponsor under the Note (as defined in Note 4) of approximately 231,000, and an advance from the Sponsor of 750,000 to be used in case the
+ over-allotment option was exercised in full by the underwriters. The Company repaid the Note balance of approximately 231,000 on July 6, 2021. Subsequent to the consummation of the Initial Public Offering, the Company s liquidity has been
+ satisfied through the net proceeds from the consummation of the Initial Public Offering and the Private Placement held outside of the Trust Account. In addition, in order to finance transaction costs in connection with a Partnering Transaction, the
+ Sponsor or an affiliate of the Sponsor, or certain of the Company s officers and directors may, but are not obligated to, provide the Company Working Capital Loans (as defined in Note 4). As of September 30, 2021, there were no amounts outstanding
+ under any Working Capital Loan.
+
+Based on the foregoing, management believes that the Company will have sufficient working capital and borrowing capacity to meet its needs through the earlier of the consummation of a Partnering Transaction or one
+ year from this filing. Over this time period, the Company will be using the funds held outside of the Trust Account for paying existing accounts payable, identifying and evaluating prospective initial Partnering Transaction candidates, performing
+ due diligence on prospective target businesses, paying for travel expenditures, selecting the target business to merge with or acquire, and structuring, negotiating and consummating the Partnering Transaction.
+
+Results of Operations
+
+Our entire activity from January 1, 2021 (commencement of operations) through September 30, 2021 was in preparation for our formation and the Initial Public Offering, and since the Initial Public Offering, our search
+ for a Partnering Transaction. We will not be generating any operating revenues until the closing and completion of our initial Partnering Transaction.
+
+23 
+
+Table of Contents 
+
+For the three months ended as of September 30, 2021, we had net income of approximately 2,232,000, which consisted of a non-cash gain of approximately 3,103,000 for the change in fair value of derivative warrant
+ liabilities, and approximately 28,000 of income from investments held in the Trust Account, offset by approximately 363,000 of general and administrative expenses, and approximately 535,000 in offering costs associated with derivative warrant
+ liabilities.
+
+For the period from January 1, 2021 (commencement of operations) through September 30, 2021, we had net income of approximately 2,188,000, which consisted of a non-cash gain of approximately 3,103,000 for the
+ change in fair value of derivative warrant liabilities, and approximately 28,000 of income from investments held in the Trust Account, offset by approximately 408,000 of general and administrative expenses, and approximately 535,000 in offering
+ costs associated with derivative warrant liabilities.
+
+Contractual Obligations
+
+Forward Purchase Agreement
+
+On June 30, 2021, the Company entered into a forward purchase agreement (the Forward Purchase Agreement with affiliates of Corsair Capital LLC (the Forward Purchasers ), pursuant to which the Forward Purchasers
+ agreed to purchase in the aggregate, up to 10,000,000 Units, with each Unit consisting of one Class A ordinary share and one- third of one warrant to purchase one Class A ordinary share at 11.50 per share, subject to adjustment, at a purchase
+ price of 10.00 per Unit, in private placements to occur concurrently, and only in connection with, the closing of the initial Partnering Transaction. The obligations of the investors under the Forward Purchase Agreement will not depend on whether
+ any Class A ordinary shares are redeemed by the Public Shareholders. The obligations of such investors to purchase the forward purchase securities are subject to the approval, prior to the Company entering into a definitive agreement for the
+ initial Partnering Transaction, of their respective investment committees and the Forward Purchase Agreement contains customary closing conditions. The Forward Purchase Agreement is not a firm commitment by either party to the agreement. The
+ proceeds from the sale of Forward Purchase Securities, if any, may be used as part of the consideration to the sellers in the initial Partnering Transaction, expenses in connection with the initial Partnering Transaction or for working capital in
+ the post-transaction company.
+
+Registration Rights
+
+The holders of the Founder Shares, Performance Shares, Forward Purchase Securities, Private Placement Warrants and private placement warrants that may be issued upon conversion of Working Capital Loans (and any Class
+ A ordinary shares issuable upon the exercise of the Private Placement Warrants, and private placement warrants that may be issued upon conversion of Working Capital Loans and upon conversion of the Founder Shares and the Performance Shares) were
+ entitled to registration rights pursuant to a registration rights agreement signed upon the effective date of the Initial Public Offering, requiring the Company to register such securities for resale. The holders of these securities are entitled to
+ make up to three demands, excluding short form demands, that the Company registers such securities. In addition, the holders have certain piggy-back registration rights with respect to registration statements filed subsequent to the completion of
+ the Partnering Transaction. The Company will bear the expenses incurred in connection with the filing of any such registration statements.
+
+Pursuant to the Forward Purchase Agreement, in the event of a sale, if any, of the Forward Purchase Securities, the Company expects to agree to use its reasonable best efforts (i) to file within 30 days after the
+ closing of the initial Partnering Transaction a registration statement with the SEC for a secondary offering of the forward purchase shares and the forward purchase warrants (and underlying Class A ordinary shares), (ii) to cause such registration
+ statement to be declared effective promptly thereafter but in no event later than 60 days after the initial filing, (iii) to maintain the effectiveness of such registration statement until the earliest of (A) the date on which the Forward
+ Purchasers or its assignees cease to hold the securities covered thereby and (B) the date all of the securities covered thereby can be sold publicly without restriction or limitation under Rule 144 under the Securities Act and (iv) after such
+ registration statement is declared effective, to cause the Company to conduct firm commitment underwritten offerings, subject to certain limitations. In addition, the Forward Purchase Agreement provides for certain piggy-back registration rights
+ to the holders of forward purchase securities to include their securities in other registration statements filed by the Company.
+
+24 
+
+Table of Contents 
+
+Underwriting Agreement
+
+The Company granted the underwriters a 45-day option from the date of the final prospectus relating to the Initial Public Offering to purchase up to 3,750,000 additional Units to cover over-allotments, if any, at the
+ Initial Public Offering price less the underwriting discounts and commissions. On July 15, 2021, the underwriters purchased an additional 3,090,000 Option Units pursuant to the partial exercise of the over-allotment option. The Option Units were
+ sold at an offering price of 10.00 per Unit, generating additional gross proceeds to the Company of 30,900,000.
+
+Except for the 1,000,000 Units purchased by certain parties in the Initial Public Offering, the underwriters were entitled to an underwriting discount of 0.20 per unit, or 5.4 million in the aggregate, paid upon
+ the closing of the Initial Public Offering and exercise of the over-allotment option.
+
+In addition, 0.35 per unit, or approximately 9.8 million in the aggregate, will be payable to the underwriters for deferred underwriting commissions. The deferred fee will become payable to the underwriters from
+ the amounts held in the Trust Account solely in the event that the Company completes a Partnering Transaction, subject to the terms of the underwriting agreement.
+
+Critical Accounting Policies and Estimates
+
+This management s discussion and analysis of our financial condition and results of operations is based on our unaudited condensed financial statements, which have been prepared in accordance with U.S. GAAP. The
+ preparation of these unaudited condensed financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and the disclosure of contingent assets and liabilities in our
+ unaudited condensed financial statements. On an ongoing basis, we evaluate our estimates and judgments, including those related to fair value of financial instruments and accrued expenses. We base our estimates on historical experience, known
+ trends and events and various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from
+ other sources. Actual results may differ from these estimates under different assumptions or conditions. We have identified the following as our critical accounting policies:
+
+Derivative Warrant Liabilities
+
+We do not use derivative instruments to hedge exposures to cash flow, market, or foreign currency risks. We evaluate all of our financial instruments, including issued share purchase warrants, to determine if such
+ instruments are derivatives or contain features that qualify as embedded derivatives, pursuant to ASC 480 and FASB ASC Topic 815, Derivatives and Hedging ASC 815 ). The classification of derivative instruments, including whether such
+ instruments should be recorded as liabilities or as equity, is re-assessed at the end of each reporting period.
+
+The Public Warrants and the Private Placement Warrants are recognized as derivative liabilities in accordance with ASC 815. Accordingly, we recognize the warrant instruments as liabilities at fair value and adjusts
+ the carrying value of the instruments to fair value at each reporting period until they are exercised. The initial fair value of the Public Warrants issued in connection with the Initial Public Offering were estimated using a Monte-Carlo simulation
+ model. The fair value of the Public Warrants as of September 30, 2021 is based on observable listed prices for such warrants. The fair value of the Private Placement Warrants as of September 30, 2021 is determined using Black-Scholes option pricing
+ model. The determination of the fair value of the warrant liability may be subject to change as more current information becomes available and accordingly the actual results could differ significantly. Derivative warrant liabilities are classified
+ as non-current liabilities as their liquidation is not reasonably expected to require the use of current assets or require the creation of current liabilities.
+
+Class A Ordinary Shares Subject to Possible Redemption
+
+We account for our Class A ordinary shares subject to possible redemption in accordance with the guidance in ASC Topic 480 Distinguishing Liabilities from Equity. Class A ordinary shares subject to mandatory
+ redemption (if any) are classified as liability instruments and are measured at fair value. Conditionally redeemable Class A ordinary shares (including Class A ordinary shares that feature redemption rights that are either within the control of the
+ holder or subject to redemption upon the occurrence of uncertain events not solely within our control) are classified as temporary equity. At all other times, Class A ordinary shares is classified as shareholders equity. Our Class A ordinary
+ shares feature certain redemption rights that are considered to be outside of our control and subject to the occurrence of uncertain future events. Accordingly, 28,090,000 Class A ordinary shares subject to possible redemption are presented at
+ redemption value as temporary equity, outside of the shareholders equity section of our condensed balance sheet.
+
+25 
+
+Table of Contents 
+
+Under ASC 480-10-S99, we have elected to recognize changes in the redemption value
+ immediately as they occur and adjust the carrying value of the security to equal the redemption value at the end of the reporting period. This method would view the end of the reporting period as if it were also the redemption date of the
+ security. Effective with the closing of the Initial Public Offering (including exercise of the over-allotment option), we recognized the accretion from initial book value to redemption amount, which resulted in charges against additional
+ paid-in capital (to the extent available) and accumulated deficit. 
+
+Net Income Per Ordinary Share
+
+We comply with accounting and disclosure requirements of FASB ASC Topic 260, Earnings Per Share. We have three classes of shares, which are referred to as Class A ordinary shares, Class B ordinary shares, and Class
+ F ordinary shares. Income and losses are shared pro rata between the three classes of shares. Net income (loss) per ordinary share is calculated by dividing the net income (loss) by the weighted average shares of ordinary shares outstanding for the
+ respective period.
+
+The calculation of diluted net income (loss) per ordinary share does not consider the effect of the warrants issued in connection with the Initial Public Offering (including exercise of the over-allotment option) and
+ the Private Placement to purchase an aggregate of 14,775,333 Class A ordinary shares in the calculation of diluted income (loss) per ordinary share, because their exercise is contingent upon future events and their inclusion would be anti-dilutive
+ under the treasury stock method. As a result, diluted net income (loss) per ordinary share is the same as basic net income (loss) per share for the three months ended September 30, 2021 and for the period from January 1, 2021 (commencement of
+ operations) through September 30, 2021. Accretion associated with the redeemable Class A ordinary shares is excluded from earnings per share as the redemption value approximates fair value.
+
+We have considered the effect of Class F ordinary shares that were excluded from the weighted average number as they were contingent on the exercise of over-allotment option by the underwriters. Since the contingency
+ was satisfied, the Company included these shares in the weighted average number as of the beginning of the interim period to determine the dilutive impact of these shares.
+
+Recent Accounting Pronouncements
+
+Management does not believe that any recently issued, but not yet effective, accounting pronouncements, if currently adopted, would have a material effect on the Company s financial statements.
+
+Off-Balance Sheet Arrangements
+
+As of September 30, 2021, we did not have any off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of Regulation S-K and did not have any commitments or contractual obligations.
+
+JOBS Act
+
+On April 5, 2012, the JOBS Act was signed into law. The JOBS Act contains provisions that, among other things, relax certain reporting requirements for qualifying public companies. We qualify as an emerging growth
+ company and under the JOBS Act are allowed to comply with new or revised accounting pronouncements based on the effective date for private (not publicly traded) companies. We are electing to delay the adoption of new or revised accounting
+ standards, and as a result, we may not comply with new or revised accounting standards on the relevant dates on which adoption of such standards is required for non-emerging growth companies. As such, our unaudited condensed financial statements
+ may not be comparable to companies that comply with public company effective dates.
+
+26 
+
+Table of Contents 
+
+Additionally, we are in the process of evaluating the benefits of relying on the other reduced reporting requirements provided by the JOBS Act. Subject to certain conditions set forth in the JOBS Act, if, as an
+ emerging growth company, we choose to rely on such exemptions we may not be required to, among other things, (i) provide an auditor s attestation report on our system of internal controls over financial reporting pursuant to Section 404, (ii)
+ provide all of the compensation disclosure that may be required of non-emerging growth public companies under the Dodd-Frank Wall Street Reform and Consumer Protection Act, (iii) comply with any requirement that may be adopted by the PCAOB
+ regarding mandatory audit firm rotation or a supplement to the auditor s report providing additional information about the audit and the unaudited condensed financial statements (auditor discussion and analysis) and (iv) disclose certain executive
+ compensation related items such as the correlation between executive compensation and performance and comparisons of the CEO s compensation to median employee compensation. These exemptions will apply for a period of five years following the
+ completion of our Initial Public Offering or until we are no longer an emerging growth company, whichever is earlier.
+
+Item 3. 
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information otherwise required under this item.
+
+Item 4. 
+
+Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+Under the supervision and with the participation of our management, including our principal executive officer and principal financial
+ officer, we conducted an evaluation of the effectiveness of our disclosure controls and procedures as of the end of the fiscal quarter ended September 30, 2021, as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act.
+ Based on this evaluation, our principal executive officer and principal financial officer have concluded that during the period covered by this report, our disclosure controls and procedures were not effective as of September 30, 2021, because
+ of a material weakness in our internal control over financial reporting. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a
+ material misstatement of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. Specifically, the Company s management has concluded that our control around the interpretation and accounting
+ for certain complex equity instruments issued by the Company was not effectively designed or maintained. This material weakness resulted in the restatement of the Company s balance sheet as of July 6, 2021. Additionally, this material weakness
+ could result in a misstatement of the carrying value of equity, equity-linked instruments and related accounts and disclosures that would result in a material misstatement of the financial statements that would not be prevented or detected on a
+ timely basis. As a result, our management performed additional analysis as deemed necessary to ensure that our financial statements were prepared in accordance with generally accepted in the United States of America. Accordingly, management
+ believes that the financial statements included in this Form 10-Q/A present fairly, in all material respects, our financial position, result of operations and cash flows of the period presented. Management understands that the accounting
+ standards applicable to our financial statements are complex and has since the inception of the Company benefited from the support of experienced third-party professionals with whom management has regularly consulted with respect to accounting
+ issues. Management intends to continue to further consult with such professionals in connection with accounting matters.
+
+Disclosure controls and procedures are designed to ensure that information required to be disclosed by us in our Exchange Act reports
+ is recorded, processed, summarized, and reported within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and
+ principal financial officer or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure.
+
+Changes in Internal Control over Financial Reporting
+
+There was no change in our internal control over financial reporting that occurred during the fiscal quarter ended September 30,
+ 2021, covered by this Quarterly Report on Form 10-Q/A that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting except for the below.
+
+Our principal executive officer and principal financial officer performed additional accounting and financial analyses and other
+ post-closing procedures including consulting with subject matter experts related to the accounting for certain complex equity instruments. The Company s management has expended, and will continue to expend, a substantial amount of effort and
+ resources for the remediation and improvement of our internal control over financial reporting. While we have processes to properly identify and evaluate the appropriate accounting technical pronouncements and other literature for all
+ significant or unusual transactions, we have expanded and will continue to improve these processes to ensure that the nuances of such transactions are effectively evaluated in the context of the increasingly complex accounting standards.
+
+PART II - OTHER INFORMATION
+
+Item 1. 
+
+Legal Proceedings
+
+None.
+
+Item 1A. 
+
+Risk Factors
+
+As of the date of this Quarterly Report on Form 10-Q/A, there have been no material changes to the risk factors disclosed in our final prospectus filed with the SEC on June 30, 2021, except for the below: 
+
+We have identified a material weakness in our internal control over financial reporting for the Affected Period.
+ If we are unable to develop and maintain an effective system of internal control over financial reporting, we may not be able to accurately report our financial results in a timely manner, which may adversely affect investor confidence in us and
+ materially and adversely affect our business and operating results.
+
+In light of the restatement of our balance sheet, our management and our audit committee concluded that we identified a material weakness in our internal
+ controls over financial reporting.
+
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable
+ possibility that a material misstatement of our annual or interim financial statements will not be prevented, or detected and corrected on a timely basis.
+
+Effective internal controls are necessary for us to provide reliable financial reports and prevent fraud. We continue to evaluate steps to remediate the
+ material weakness. These remediation measures may be time consuming and costly and there is no assurance that these initiatives will ultimately have the intended effects. If we identify any new material weaknesses in the future, any such newly
+ identified material weakness could limit our ability to prevent or detect a misstatement of our accounts or disclosures that could result in a material misstatement of our annual or interim financial statements. In such case, we may be unable to
+ maintain compliance with securities law requirements regarding timely filing of periodic reports in addition to applicable stock exchange listing requirements, investors may lose confidence in our financial reporting and our stock price may
+ decline as a result. We cannot assure you that the measures we have taken to date, or any measures we may take in the future, will be sufficient to avoid potential future material weaknesses.
+
+27 
+
+Table of Contents 
+
+Item 2. 
+
+Unregistered Sales of Equity Securities and Use of Proceeds from Registered Securities
+
+On January 8, 2021, one of our affiliates purchased an aggregate of (a) 2,300,000 founder shares in exchange for a capital contribution of 6,250, or approximately 0.0027 per share and (b) 120,000 performance shares
+ for a capital contribution of 18,750, or approximately 0.1563 per share, and on January 21, 2021 (x) exchanged 130,000 founder shares on a one for one basis for performance shares and (y) surrendered 157,500 founder shares. Such founder shares
+ and performance shares were assigned to our sponsor on January 28, 2021. On April 30, 2021, our sponsor surrendered 575,000 founder shares for no consideration, such that as of June 30, 2021, there were 1,437,500 founder shares and 250,000
+ performance shares issued and outstanding. Such securities were issued in connection with our organization pursuant to the exemption from registration contained in Section 4(a)(2) of the Securities Act, and were subsequently transferred to our
+ sponsor pursuant to Regulation S under the Securities Act. The number of founder shares outstanding was determined based on the expectation that the total size of the Initial Public Offering would be a maximum of 28,750,000 units if the
+ underwriters over-allotment option was exercised in full and therefore that such founder shares would represent 5 of the outstanding Class A ordinary shares issued in the Initial Public Offering. On July 15, 2021, 33,000 of these founder shares
+ were forfeited as a result of the underwriters partial exercise of their over-allotment option in connection with the Initial Public Offering such that there are 1,404,500 Class F ordinary shares outstanding as of the date hereof.
+
+Use of Proceeds
+
+Upon the closing of the Initial Public Offering, the Private Placement and the underwriters partial exercise of their over-allotment option, 280,900,000 of the net proceeds of the Initial Public Offering and
+ certain of the proceeds of the Private Placement was placed in a trust account.
+
+We paid a total of 5.6 million in underwriting discounts and commissions and approximately 2.2 million for other offering costs related to the Initial Public Offering.
+
+There has been no material change in the planned use of the proceeds from the Initial Public Offering and the Private Placement as is described in our final prospectus related to the Initial Public Offering.
+
+Item 3. 
+
+Defaults upon Senior Securities
+
+None.
+
+Item 4. 
+
+Mine Safety Disclosures .
+
+Not applicable.
+
+Item 5. 
+
+Other Information.
+
+None.
+
+Item 6. 
+
+Exhibits.
+
+Exhibit
+
+ Number
+
+Description
+
+31.1 
+
+Certification of Chief Executive Officer (Principal Executive Officer) Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the
+ Sarbanes-Oxley Act of 2002.
+
+31.2 
+
+Certification of Chief Financial Officer (Principal Financial and Accounting Officer) Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of
+ the Sarbanes-Oxley Act of 2002.
+
+32.1 
+
+Certification of Chief Executive Officer (Principal Executive Officer) Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+32.2 
+
+Certification of Chief Financial Officer (Principal Financial and Accounting Officer) Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+101.INS 
+
+XBRL Instance Document
+
+101.SCH 
+
+XBRL Taxonomy Extension Schema Document
+
+101.CAL 
+
+XBRL Taxonomy Extension Calculation Linkbase Document
+
+101.DEF 
+
+XBRL Taxonomy Extension Definition Linkbase Document
+
+101.LAB 
+
+XBRL Taxonomy Extension Label Linkbase Document
+
+101.PRE 
+
+XBRL Taxonomy Extension Presentation Linkbase Document
+
+Filed herewith.
+
+These certifications are furnished to the SEC pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and are deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, nor shall they be deemed
+ incorporated by reference in any filing under the Securities Act of 1933, except as shall be expressly set forth by specific reference in such filing. 
+
+28 
+
+Table of Contents 
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: January 3, 2022 
+
+CORSAIR PARTNERING CORPORATION
+
+By:
+
+/s/ D.T Ignacio Jayanti
+
+Name:
+
+D.T Ignacio Jayanti
+
+Title:
+
+Chief Executive Officer
+
+ (Principal Executive Officer)
+
+Dated: January 3, 2022
+
+By:
+
+/s/ Paul Cabral
+
+Name:
+
+Paul Cabral
+
+Title:
+
+Chief Financial Officer
+
+ (Principal Financial and Accounting Officer)
+
+29 
+
+<EX-31.1>
+ 2
+ brhc10030367_ex31-1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1
+
+ CERTIFICATION PURSUANT TO RULES 13a-14(a) AND 15d-14(a)
+
+ UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+ I, D.T Ignacio Jayanti, certify that:
+
+1. 
+ 
+ I have reviewed this Quarterly Report on Form 10-Q/A for the quarter ended September 30, 2021 of Corsair Partnering Corporation;
+
+2. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+ circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of
+ operations and cash flows of the registrant as of, and for, the period presented in this report;
+
+4. 
+ 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+ 15d-15(e)) for the registrant and have:
+
+a. 
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to
+ the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+
+b. 
+ 
+ [Paragraph intentionally omitted pursuant to SEC Release Nos. 33-8238/34-47986 and 33-8392/34-49313];
+
+c. 
+ 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and
+ procedures, as of the end of the period covered by this report based on such evaluation; and
+
+d. 
+ 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+ fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and
+
+5. 
+ 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the
+ audit committee of the registrant s board of directors (or persons performing the equivalent functions):
+
+a. 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+ registrant s ability to record, process, summarize and report financial information; and
+
+b. 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.
+
+Date: January 3, 2022
+
+By:
+
+/s/ D.T Ignacio Jayanti
+
+D.T Ignacio Jayanti
+
+Chief Executive Officer
+
+(Principal Executive Officer)
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ brhc10030367_ex31-2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2
+
+ CERTIFICATION PURSUANT TO RULES 13a-14(a) AND 15d-14(a)
+
+ UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+ I, Paul Cabral, certify that:
+
+1. 
+ 
+ I have reviewed this Quarterly Report on Form 10-Q/A for the quarter ended September 30, 2021 of Corsair Partnering Corporation;
+
+2. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+ circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of
+ operations and cash flows of the registrant as of, and for, the period presented in this report;
+
+4. 
+ 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+ 15d-15(e)) for the registrant and have:
+
+a. 
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to
+ the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+
+b. 
+ 
+ [Paragraph intentionally omitted pursuant to SEC Release Nos. 33-8238/34-47986 and 33-8392/34-49313];
+
+c. 
+ 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and
+ procedures, as of the end of the period covered by this report based on such evaluation; and
+
+d. 
+ 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+ fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and
+
+5. 
+ 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the
+ audit committee of the registrant s board of directors (or persons performing the equivalent functions):
+
+a. 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the
+ registrant s ability to record, process, summarize and report financial information; and
+
+b. 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.
+
+Date: January 3, 2022
+
+By:
+
+/s/ Paul Cabral
+
+Paul Cabral
+
+Chief Financial Officer
+
+(Principal Financial and Accounting Officer)
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ brhc10030367_ex32-1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1
+
+CERTIFICATION PURSUANT TO
+
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Corsair Partnering Corporation (the Company on Form 10-Q/A for the quarter ended September 30, 2021, as filed with the
+ Securities and Exchange Commission on the date hereof (the Report ), I, D.T Ignacio Jayanti, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+ 2002, that, to my knowledge:
+
+(1) 
+ 
+ the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+(2) 
+ 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.
+
+Date: January 3, 2022
+
+/s/ D.T Ignacio Jayanti
+
+Name:
+
+D.T Ignacio Jayanti
+
+Title:
+
+Chief Executive Officer
+
+(Principal Executive Officer)
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ brhc10030367_ex32-2.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2
+
+CERTIFICATION PURSUANT TO
+
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Corsair Partnering Corporation (the Company on Form 10-Q/A for the quarter ended September 30, 2021, as filed with the
+ Securities and Exchange Commission on the date hereof (the Report ), I, Paul Cabral, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+ that, to my knowledge:
+
+(1) 
+ 
+ the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+(2) 
+ 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.
+
+Date: January 3, 2022
+
+/s/ Paul Cabral
+
+Name:
+
+Paul Cabral
+
+Title:
+
+Chief Financial Officer
+
+(Principal Financial and Accounting Officer)
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ cors-20210930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ cors-20210930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ cors-20210930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ cors-20210930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ cors-20210930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

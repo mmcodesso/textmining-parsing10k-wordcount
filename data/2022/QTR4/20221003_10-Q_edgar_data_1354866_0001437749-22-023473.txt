@@ -1,0 +1,1627 @@
+<Header>
+<FileStats>
+    <FileName>20221003_10-Q_edgar_data_1354866_0001437749-22-023473.txt</FileName>
+    <GrossFileSize>6335685</GrossFileSize>
+    <NetFileSize>87355</NetFileSize>
+    <NonText_DocumentType_Chars>992054</NonText_DocumentType_Chars>
+    <HTML_Chars>1794865</HTML_Chars>
+    <XBRL_Chars>1754578</XBRL_Chars>
+    <XML_Chars>1563323</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-22-023473.hdr.sgml : 20221003
+<ACCEPTANCE-DATETIME>20221003160706
+ACCESSION NUMBER:		0001437749-22-023473
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		90
+CONFORMED PERIOD OF REPORT:	20220831
+FILED AS OF DATE:		20221003
+DATE AS OF CHANGE:		20221003
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Byrna Technologies Inc.
+		CENTRAL INDEX KEY:			0001354866
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				711050654
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40385
+		FILM NUMBER:		221287561
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 BURTT ROAD
+		STREET 2:		SUITE 115
+		CITY:			ANDOVER
+		STATE:			MA
+		ZIP:			01810
+		BUSINESS PHONE:		978-868-5011
+
+	MAIL ADDRESS:	
+		STREET 1:		100 BURTT ROAD
+		STREET 2:		SUITE 115
+		CITY:			ANDOVER
+		STATE:			MA
+		ZIP:			01810
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Security Devices International Inc.
+		DATE OF NAME CHANGE:	20060301
+
+</SEC-Header>
+</Header>
+
+ 0001437749-22-023473.txt : 20221003
+
+10-Q
+ 1
+ byrn20220712_10q.htm
+ FORM 10-Q
+
+byrn20220712_10q.htm 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the quarterly period ended 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from _________ to _________ 
+ 
+ Commission File No. 
+ 
+ Byrna Technologies Inc. 
+ (Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of incorporation or (I.R.S. Employer Identification No.) 
+ organization) 
+ 
+ , 
+ (Address of Principal Executive Offices, including zip code) 
+ 
+ ) 
+ (Registrant s telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+ 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ The Stock Market LLC 
+
+Securities registered pursuant to Section 12(g) of the Act: None. 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ 
+ Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): Yes No 
+ 
+ As of September 30, 2022, the Company had 24,016,560 issued and outstanding shares of common stock. 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART 1 FINANCIAL INFORMATION 
+ 2 
+
+Item 1. 
+ Condensed Consolidated Financial Statements 
+ 2 
+
+Condensed Consolidated Balance Sheets as of August 31, 2022 (unaudited) and November 30, 2021 
+ 2 
+
+Condensed Consolidated Statements of Operations and Comprehensive Loss for the Three and Nine Months Ended August 31, 2022 and 2021 (unaudited) 
+ 3 
+
+Condensed Consolidated Statements of Cash Flows for the Nine Months Ended August 31, 2022 and 2021 (unaudited) 
+ 4 
+
+Condensed Consolidated Statements of Changes in Stockholders Equity for the Three and Nine Months Ended August 31, 2022 and 2021 (unaudited) 
+ 5 
+
+Notes to Condensed Consolidated Financial Statements 
+ 6 
+
+Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 22 
+
+Item 3. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 29 
+
+Item 4. 
+ Controls and Procedures 
+ 29 
+
+PART II OTHER INFORMATION 
+ 30 
+
+Item 1. 
+ Legal Proceedings 
+ 30 
+
+Item 1A. 
+ Risk Factors 
+ 30 
+
+Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 30 
+
+Item 3. 
+ Defaults Upon Senior Securities 
+ 30 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 30 
+
+Item 5. 
+ Other Information 
+ 30 
+
+Item 6. 
+ Exhibits 
+ 31 
+
+SIGNATURES 
+ 32 
+
+References in this Quarterly Report on Form 10-Q to the Company, we, us or our refer to Byrna Technologies Inc. 
+
+1
+
+PART 1 FINANCIAL INFORMATION 
+
+ITEM 1. 
+ Condensed Consolidated Financial Statements 
+
+BYRNA TECHNOLOGIES INC. 
+ Condensed Consolidated Balance Sheets 
+ (Amounts in thousands, except share and per share data) 
+
+August 31, November 30, 
+ 2022 2021 
+ Unaudited 
+ ASSETS 
+ CURRENT ASSETS 
+ Cash and cash equivalents 24,457 
+ Restricted cash 
+ Accounts receivable, net 
+ Inventory, net 
+ Prepaid expenses and other current assets 
+ Total current assets 
+ LONG TERM ASSETS 
+ Intangible assets, net 
+ Deposits for equipment 
+ Right-of-use asset, net 
+ Property and equipment, net 
+ Goodwill 
+ Other assets 
+ TOTAL ASSETS 
+ 
+ LIABILITIES 
+ CURRENT LIABILITIES 
+ Accounts payable and accrued liabilities 
+ Operating lease liabilities, current 
+ Deferred revenue, current 
+ Total current liabilities 
+ LONG TERM LIABILITIES 
+ Deferred revenue - non-current 
+ Operating lease liabilities, non-current 
+ Total liabilities 
+ 
+ COMMITMENTS AND CONTINGENCIES (NOTE 21) 
+ 
+ STOCKHOLDERS EQUITY 
+ Preferred stock, 0.001 par value, 5,000,000 shares authorized, no shares issued 
+ Common stock, 0.001 par value, 50,000,000 shares authorized. 24,016,612 shares issued and 22,236,602 outstanding as of August 31, 2022 and, 23,754,096 shares issued and outstanding as of November 30, 2021 
+ Additional paid-in capital 
+ Treasury stock 1,779,958 and 0 shares purchased as of August 31, 2022 and November 30, 2021, respectively) 
+ Accumulated deficit 
+ Accumulated other comprehensive loss 
+ 
+ Total Stockholders Equity 
+ 
+ TOTAL LIABILITIES AND STOCKHOLDERS EQUITY 
+
+See accompanying notes to the unaudited condensed consolidated financial statements. 
+
+2
+
+BYRNA TECHNOLOGIES INC. 
+ Condensed Consolidated Statements of Operations and Comprehensive Loss 
+ (Amounts in thousands except share and per share data) 
+ (Unaudited) 
+
+For the Three Months Ended 
+
+For the Nine Months Ended 
+
+August 31, 
+
+August 31, 
+
+2022 
+
+2021 
+
+2022 
+
+2021 
+
+Net revenue 
+
+Cost of goods sold 
+
+Gross profit 
+
+Operating expenses 
+
+LOSS FROM OPERATIONS 
+
+() 
+
+() 
+
+() 
+
+() 
+
+OTHER INCOME (EXPENSE) 
+
+Foreign currency transaction gain (loss) 
+
+() 
+
+() 
+
+Interest income (expense) 
+
+() 
+
+() 
+
+Other income - forgiveness of Paycheck Protection Program loan 
+
+Other expenses 
+
+() 
+
+() 
+
+() 
+
+() 
+
+LOSS BEFORE INCOME TAXES 
+
+() 
+
+() 
+
+() 
+
+Income tax benefit (provision) 
+
+() 
+
+() 
+
+() 
+
+NET LOSS 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Dividends on preferred stock 
+
+() 
+
+NET LOSS AVAILABLE TO COMMON SHAREHOLDERS 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Foreign currency translation adjustment for the period 
+
+() 
+
+() 
+
+() 
+
+COMPREHENSIVE INCOME (LOSS) 
+
+() 
+
+() 
+
+() 
+
+Net loss per share basic and diluted 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Weighted-average number of common shares outstanding - basic and diluted 
+
+See accompanying notes to the unaudited condensed consolidated financial statements. 
+
+3
+
+BYRNA TECHNOLOGIES INC. 
+ Condensed Consolidated Statements of Cash Flows 
+ (Amounts in thousands) 
+ (Unaudited) 
+
+For the Nine Months Ended 
+ August 31, 
+ 2022 2021 
+ CASH FLOWS FROM OPERATING ACTIVITIES 
+ Net loss for the period 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+ Stock-based compensation expense 
+ Forgiveness of Paycheck Protection Program loan 
+ Depreciation and amortization 
+ Operating lease costs 
+ Changes in assets and liabilities: 
+ Accounts receivable 
+ Deferred revenue 
+ Inventory 
+ Prepaid expenses and other current assets 
+ Other assets 
+ Accounts payable and accrued liabilities 
+ Operating lease liabilities 
+ NET CASH USED IN OPERATING ACTIVITIES 
+ 
+ CASH FLOWS FROM INVESTING ACTIVITIES 
+ Purchases of property and equipment 
+ Purchases of patent rights 
+ Cash paid for asset acquisition, net of cash acquired 
+ NET CASH USED IN INVESTING ACTIVITIES 
+ 
+ CASH FLOWS FROM FINANCING ACTIVITIES 
+ Proceeds from warrant exercises 
+ Proceeds from stock option exercises 
+ Proceeds from sale of common stock, net of underwriting discounts 
+ Payment of offering costs 
+ Payment of debt issuance costs 
+ Proceeds from line of credit 
+ Payment to line of credit 
+ Repurchase of common stock 
+ NET CASH (USED IN) PROVIDED BY FINANCING ACTIVITIES 
+ Effects of foreign currency exchange rate changes 
+ NET DECREASE IN CASH, CASH EQUIVALENTS, AND RESTRICTED CASH FOR THE PERIOD 
+ CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF PERIOD 
+ CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD 
+
+See accompanying notes to the unaudited condensed consolidated financial statements. 
+
+4
+
+BYRNA TECHNOLOGIES INC. 
+ Condensed Consolidated Statements of Changes in Stockholders Equity 
+ For the Three and Nine Months Ended August 31, 2022 and 2021 
+ (Amounts in thousands except share numbers) 
+ (Unaudited) 
+
+Series A Treasury Additional Accumulated Other 
+ Preferred Stock Common Stock Stock Paid-in Accumulated Comprehensive 
+ Shares Shares Shares Capital Deficit (Loss) Income Total 
+ Balance, May 31, 2022 
+ Stock-based compensation 
+ Issuance of common stock pursuant to vesting of restricted stock units 
+ Settlement of obligation to grant stock options 
+ Net loss 
+ Foreign currency translation 
+ Balance, August 31, 2022 
+ 
+ Balance, May 31, 2021 
+ Issuance of common stock pursuant to exercise of stock options 
+ Stock-based compensation 
+ Cancellation of shares 
+ Warrant exercises 
+ Sale of common stock, net of underwriting discount and offering costs 
+ Net loss 
+ Foreign currency translation 
+ Balance, August 31, 2021 
+
+Series A Treasury Additional Accumulated Other 
+ Preferred Stock Common Stock Stock Paid-in Accumulated Comprehensive 
+ Shares Shares Shares Capital Deficit (Loss) Income Total 
+ Balance, November 30, 2021 
+ Issuance of common stock pursuant to exercise of stock options 
+ Reclassification of stock-based compensation due to modification 
+ Settlement of obligation to grant stock options 
+ Stock-based compensation 
+ Issuance of common stock pursuant to vesting of restricted stock units 
+ Repurchase of common shares under Stock Buyback Plan 
+ Net loss 
+ Foreign currency translation 
+ Balance, August 31, 2022 
+ 
+ Balance, November 30, 2020 
+ Issuance of common stock pursuant to exercise of stock options 
+ Conversion of preferred shares and accrued dividends on preferred shares 
+ Stock-based compensation 
+ Cancellation of shares 
+ Warrant exercises 
+ Dividends declared on preferred shares 
+ Sale of common stock, net of underwriting discount and offering costs 
+ Net income 
+ Foreign currency translation 
+ Balance, August 31, 2021 
+
+See accompanying notes to the unaudited condensed consolidated financial statements. 
+
+5
+
+BYRNA TECHNOLOGIES INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+ For the three and nine months ended August 31, 2022 and 2021 
+
+manufacturing facilities, a square foot facility in located in Fort Wayne, Indiana and a square foot manufacturing facility located in Pretoria, South Africa. 
+ 
+ The Company was incorporated under the laws of the state of Delaware on March 1, 2005. 
+
+million. The Company has funded operations through the issuance of common stock. The Company generated million in revenue and net loss of million for the nine months ended August 31, 2022 . It still is expected to incur significant losses before the Company's revenues sustain its operations. The Company s future success is dependent upon its ability to continue to raise sufficient capital or generate adequate revenues, to cover its ongoing operating expenses, and also to continue to develop and be able to profitably market its products. 
+ 
+ In July 2021, the Company issued and sold an aggregate of registered shares of its common stock (including shares sold pursuant to the exercise of the underwriters' overallotment option) at a price of per share. The net proceeds to the Company, after deducting million in underwriting discounts and commissions, and offering expenses, were approximately million. Management projects that all cash needs will be met beyond one year from the time these financial statements are issued. 
+
+million total cost of which million were acquisition-related expenses. The Company accounted for the transaction as an asset acquisition where the assets acquired were measured based on the amount of cash paid to Kore as well as transaction costs incurred as the fair value of the assets given was more readily determinable than the fair value of the assets received. The Company classified and designated identifiable assets acquired and assessed and determined the useful lives of the acquired intangible assets subject to amortization. 
+ 
+ Business Combination 
+ Fox Labs International 
+ On May 25, 2022, the Company acquired Fox Labs International, a producer of defensive pepper sprays, catering primarily to law enforcement and other security professionals (domestically and internationally). The cash consideration was million. There were no acquisition-related expenses. As part of the transaction, the Company acquired 10 trademarks (including one pending). The Company classified and designated identifiable assets acquired and assessed and determined the useful lives of the acquired intangible assets subject to amortization. 
+ 
+ The estimated fair values of assets acquired and liabilities assumed on May 25, 2022 are as follows (in thousands): 
+
+Inventory 
+
+Trademarks 
+
+Customer list intangible 
+
+Accounts payable 
+
+(59) 
+
+Deferred revenue 
+
+(14) 
+
+Goodwill 
+
+Total acquired assets 
+
+2,173 
+
+Adjustments were made to the acquired assets and liabilities subsequent to the acquisition date. 
+ 
+ Ballistipax 
+ On August 18, 2021, the Company acquired Ballistipax , a developer of single-handed rapidly deployable bulletproof backpacks. The purchase price of million was paid in cash. As part of the transaction, the Company has acquired two patents, finished goods and raw materials inventory. 
+
+and million at August 31, 2022 and November 30, 2021 , respectively. The million consists of cash that the Company was contractually obligated to maintain in accordance with the terms of its lease agreement. The restricted cash was returned to the Company in January 2022. 
+
+million as of August 31, 2022 and November 30, 2021 . 
+
+Deferred Revenue 
+ Changes in deferred revenue, which relate to unfulfilled e-commerce orders and amounts to be recognized under extended 3 -year service warranty, for the nine months ended August 31, 2022 and the year ended November 30, 2021 , are summarized below (in thousands): 
+
+Net additions to deferred revenue during the period 
+ Reductions in deferred revenue for revenue recognized during the period 
+ Deferred revenue balance, end of period 
+ Less current portion 
+ Deferred revenue, non-current 
+
+Revenue Disaggregation 
+ The following table presents disaggregation of the Company s revenue by distribution channel (in thousands): 
+
+E-commerce 
+ Total 
+
+Furniture and fixtures 
+ Leasehold improvements 
+ Machinery and equipment 
+ 
+ Less: accumulated depreciation 
+ Total 
+
+The Company recognized approximately million and million in depreciation expense during the nine months ended August 31, 2022 and 2021 , respectively. The Company recognized approximately million and million in depreciation expense during the three months ended August 31, 2022 and 2021 , respectively. Depreciation expense is presented in the operating expenses and within cost of goods sold in the accompanying Condensed Consolidated Statements of Operations and Comprehensive Loss. 
+ 
+ At August 31, 2022 and November 30, 2021 , the Company had deposits of million and million, respectively, with vendors primarily for supply of machinery (molds) and equipment where the vendors have not completed the supply of these assets and is presented as Deposits for equipment in the Condensed Consolidated Balance Sheets. 
+
+Work in process 
+
+Finished goods 
+
+Total 
+
+() 
+
+() 
+
+Trademarks 
+
+Customer List 
+
+() 
+
+Total 
+
+() 
+
+() 
+
+The trademarks have an indefinite life and will be assessed annually for impairment. All other intangible assets are finite-lived. 
+ 
+ Intangible assets amortization expenses are recorded within operating expenses in the accompanying Condensed Consolidated Statements of Operations and Comprehensive Loss. Total intangible assets amortization expense for the nine months ended August 31, 2022 and 2021 were million and million, respectively. Total intangible assets amortization expense for the three months ended August 31, 2022 and 2021 were million and million, respectively. 
+ 
+ Estimated future amortization expense related to intangible assets as of August 31, 2022 are as follows (in thousands): 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+Thereafter 
+
+Total 
+
+Accrued sales and use tax 
+
+Accrued people costs 
+
+Accrued marketing 
+
+Accrued professional fees 
+
+Other accrued liabilities 
+
+Total 
+
+million of funding under the Paycheck Protection Program PPP on May 4, 2020. The PPP loan was disbursed by the Coronavirus Aid Relief and Economic Security CARES Act as administered by the U.S. Small Business Administration ("SBA"). The loan was made pursuant to a PPP Promissory Note and Agreement. Loans obtained through the PPP are eligible to be forgiven as long as the proceeds are used for qualifying purposes and certain other conditions are met. The receipt of these funds, and the forgiveness of the loan was dependent on the Company having initially qualified for the loan and qualifying for the forgiveness of such loan based on its adherence to the forgiveness criteria. In June 2020, Congress passed the Payroll Protection Program Flexibility Act that made several significant changes to PPP loan provisions, including providing greater flexibility for loan forgiveness. On February 10, 2021, the Company received approval from the SBA for million of PPP loan forgiveness. This amount was recorded as Forgiveness of Paycheck Protection Program loan in the accompanying Condensed Consolidated Statements of Operations and Comprehensive (Loss) Income during the nine months ended August 31, 2021. 
+ 
+ The SBA reserves the right to audit any PPP loan, regardless of size. These audits may occur after forgiveness has been granted. In accordance with the CARES Act, all borrowers are required to maintain the PPP loan documentation for six years after the PPP loan was forgiven or repaid in full and to provide that documentation to the SBA upon request. 
+
+million revolving line of credit with a bank ("Revolving Note"). The revolving line of credit bears interest at a rate equal to the Wall Street Journal Prime Rate plus , subject to a floor of . The interest rate on the revolving line of credit was on August 31, 2022 . The revolving line of credit is secured by the Company s accounts receivable and inventory. The line of credit is subject to an unused fee of paid once annually. The line of credit expires on January 19, 2024. 
+ 
+ Also on January 19, 2021, the Company entered into a million equipment financing line of credit with a bank ("Nonrevolving Equipment Line"). The line of credit bears interest at a rate equal to the Wall Street Journal Prime Rate plus , subject to a floor of . The interest rate on the equipment financing line of credit was on August 31, 2022 . The line of credit is secured by the Company s equipment. The line of credit is subject to an unused fee of paid once annually. The line of credit expires on January 19, 2024. 
+ 
+ As of August 31, 2022 , there was outstanding balance on the Revolving Note and the Company had not drawn on the Nonrevolving Equipment Line. Debt issuance costs related to the line of credit were approximately million presented as part of Other Assets in the Condensed Consolidated Balance Sheets. Amortization of million for the nine months ended August 31, 2022 and 2021 and million for the three months ended August 31, 2022 and 2021 is included in Interest expense in the Condensed Consolidated Statements of Operations and Comprehensive Loss. 
+
+to . The decrease became effective upon filing of a Certificate of Amendment to the Company's Certificate Incorporation on June 17, 2022. Additionally, following approval of the Company's stockholders at the Annual Meeting, the total number of shares of common stock authorized for issuance of the Company's 2020 Equity Incentive Plan increased by from to . 
+ 
+ Stock Buyback Plan 
+ On February 15, 2022, the Company's Board of Directors approved a plan to buy back up to million worth of shares of the Company's common stock from the open market Stock Buyback Plan ). The Company's Stock Buyback Plan was used to return capital to shareholders and to minimize the dilutive impact of stock options and other share-based awards. The Company completed the full million for the repurchases under the Stock Buyback Plan during March 2022. 
+ 
+ On April 28, 2022, the Company's Board of Directors approved a plan to buy back up to an additional million worth of shares of the Company's common stock. The Company completed the full million repurchase of shares during May 2022. 
+ 
+ The following table summarizes the treasury stock activity during the nine months ended August 31, 2022 : 
+
+Shares purchased - March 2022 
+
+Shares purchased - May 2022 
+
+Total 
+
+. The 2017 Plan was administered by the Compensation Committee of the Board. The Compensation Committee determined the persons to whom options to purchase shares of common stock, and other stock-based awards may be granted. Persons eligible to receive awards under the 2017 Plan were employees, officers, directors, and consultants of the Company. Awards were at the discretion of the Compensation Committee. On February 24, 2021, the Company terminated the 2017 Plan and adopted the 2020 Plan (defined below). 
+ 
+ 2020 Plan 
+ On October 23, 2020, the Board approved and on November 19, 2020 the stockholders approved the Byrna Technologies Inc. 2020 Equity Incentive Plan (the 2020 Plan ). The aggregate number of shares of common stock available for issuance in connection with options and other awards granted under the 2020 Plan was . On April 26, 2022, the Company s Board of Directors approved and on June 17, 2022 the Company's stockholders approved the increase of the number of shares of common stock available for issuance under the 2020 Plan by shares to a total of shares. The 2020 Plan is administered by the Compensation Committee of the Board. The Compensation Committee determines the persons to whom options to purchase shares of common stock, stock appreciation rights SARs ), restricted stock units RSUs ), and restricted or unrestricted shares of common stock may be granted. Persons eligible to receive awards under the 2020 Plan are employees, officers, directors, consultants, advisors and other individual service providers of the Company. Awards are at the discretion of the Compensation Committee. 
+ 
+ On February 24, 2021, following the termination of the 2017 Plan, the Company replaced outstanding options under the 2017 Plan with options under the 2020 Plan. In connection with the adoption of the 2020 Plan, the Company cancelled outstanding option awards granted under the 2017 plan. There were no substantive changes to the rights of any holder of options granted under the 2017 plan other than replacing their award certificates with award agreements under the 2020 plan. The grant dates, exercise prices, expiration dates, and vesting provisions of any of the new award agreements under the 2020 plan that replace the certificates issued under the 2017 plan are identical for each grant and no change in valuation or accounting was required. The Board also amended the definition of Disability in the 2020 Plan to provide that Disability has the meaning assigned to such term in any individual employment agreement or award agreement with a plan participant and that if no such definition is provided in an award or employment agreement Disability is defined as in the 2020 Plan. 
+
+Stock-Based Compensation Expense 
+ Total stock-based compensation expense was million and million for the nine months ended August 31, 2022 and 2021 , respectively. Total stock-based compensation expense was million and million for the three months ended August 31, 2022 and 2021 , respectively. Total stock-based compensation expense was recorded in Operating expenses in the accompanying Condensed Consolidated Statements of Operations and Comprehensive Loss. 
+ 
+ During the first half of 2022, the Board of Directors authorized granting of restricted stock unit awards (" RSUs") in excess of the limit stipulated under the 2020 Plan. Additionally, the Company agreed to grant RSUs to the Chief Technology Officer ("CTO") in exchange for his waiver of rights to future royalty payments. See Note 21, "Commitments and Contingencies - Royalty Payments," for additional information. Because these awards were contingent on shareholder approval at the next annual shareholder meeting, these RSUs were not considered granted under Accounting Standards Codification ("ASC") 718, Compensation - Stock Compensation ("ASC 718" and were treated as obligation to issue RSU's and were remeasured at the end of each reporting period until the settlement date on June 17, 2022 and August 3, 2022 for the RSUs to the CTO). 
+ 
+ Additionally, on March 23, 2022, the Board of Directors approved the issuance of RSU Amendment Agreements to each grantee of the double trigger RSUs in which of the RSUs RSUs) were exchanged for stock options. In accordance with ASC 718 , a cancellation of an award accompanied by the concurrent grant of a replacement award shall be accounted for as a modification of the terms of the cancelled award. Similarly, because these stock options were not considered granted under ASC 718, they were therefore treated as obligation to issue stock options and were remeasured at the end of each reporting period until the settlement date on June 17, 2022. 
+ 
+ On June 17, 2022, the stockholders approved to increase the stock compensation plan by shares to shares. Consequently, the Company settled the obligation to issue RSUs and options by issuing the related RSUs and stock options and reclassified the fair value of the issuances at June 17, 2022 of million from accounts payable and accrued liabilities to additional paid-in capital. Additionally, the amounts recognized as employee incentive expense for the three months ended August 31, 2022 and 2021 of and million, respectively, were reclassified to stock compensation expense. The non-cash expense associated with these rewards were valued at the grant date of June 17, 2022, using a Monte Carlo model for double trigger RSUs and a Black Scholes model for simple employment period vesting stock options. 
+ 
+ Restricted Stock Units 
+ During the nine months ended August 31, 2022 and 2021 , the Company granted and RSUs, respectively. Stock-based compensation expense for the RSUs for the nine months ended August 31, 2022 and 2021 , was million for each of the years. Stock-based compensation expense for the RSUs for the three months ended August 31, 2022 and 2021 , was million and million, respectively. 
+ 
+ During the nine months ended August 31, 2022 , the Company accelerated the vesting of RSUs to a former director and RSUs to current board members for 2021 services. During the nine months ended August 31, 2022 , RSUs were forfeited due to a former employee who was terminated for cause. These RSU's did not vest, as they were based on triggers and performance that were not met. As a result, no expenses were reversed, and going forward no expenses will be recognized. The forfeited RSUs were returned to the pool of shares available for issuance under the 2020 Plan. 
+ 
+ As of August 31, 2022 , there was million of unrecognized stock-based compensation cost related to unvested RSUs which is expected to be recognized over a weighted average of years. 
+ 
+ The following table summarizes the RSU activity during the nine months ended August 31, 2022 : 
+
+Granted 
+ Settled 
+ Cancelled 
+ Forfeited 
+ Unvested and outstanding at August 31, 2022 
+
+Stock Options 
+ During the nine months ended August 31, 2022 and 2021 , the Company granted options to employees and directors to purchase and shares of common stock, respectively. The Company recorded stock-based compensation expense for options granted to its employees and directors of million and million during the nine months ended August 31, 2022 and 2021 , respectively. The Company recorded stock-based compensation expense for options granted to its employees and directors of million and million during the three months ended August 31, 2022 and 2021 , respectively. 
+ 
+ As of August 31, 2022 , there was million of unrecognized stock-based compensation cost related to unvested stock options which is expected to be recognized over a weighted average period of years. 
+ 
+ Stock Option Valuation 
+ The fair value of stock options at the date of grant was estimated using the Black Scholes option pricing model. The expected volatility is based upon historical volatility of the Company's stock. The expected term for the options is based upon observation of actual time elapsed between employees. The assumption that the Company used to determine the grant-date fair value of stock options granted for the nine months ended nine months ended August 31, 2022 were as follows: 
+
+Expected dividends 0.0 
+ Expected volatility 
+ Expected life (in years) 
+ Market price of the Company s common stock on date of grant 
+ Exercise price 
+
+The following table summarizes option activity under the 2020 Plan during the nine months ended August 31, 2022 : 
+
+Granted 
+ Exercised 
+ Forfeited 
+ Outstanding, August 31, 2022 
+ Exercisable, August 31, 2022 
+
+() 
+
+() 
+
+() 
+
+Preferred stock dividends 
+
+() 
+
+Net loss available to common shareholders 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Weighted-average number of shares used in computing net loss per share, basic and diluted 
+
+Net loss per share -- basic 
+
+() 
+
+() 
+
+() 
+
+() 
+
+The Company s potential dilutive securities, which may include stock options, unvested restricted stock units, convertible preferred stock, and outstanding warrants to purchase shares of common stock, have been excluded from the computation of diluted net loss per share as the effect would be to reduce the net loss per share. Therefore, the weighted-average number of common shares outstanding used to calculate both basic and diluted net loss per share attributable to common stockholders is the same. 
+ 
+ The following potential common shares, presented based on amounts outstanding at each period end, were excluded from the calculation of diluted net loss per share attributable to common stockholders for the periods indicated because including them would have had an anti-dilutive effect: 
+
+Options 
+
+RSUs 
+
+Total 
+
+and approximately million for royalties due to the Company s CTO, during the nine months ended August 31, 2022 and 2021 , respectively. Balances payable to the CTO for royalties were and million as of August 31, 2022 and November 30, 2021 , respectively. The Company terminated the royalty payments in December 2021 and the Company granted RSUs during the three months ended August 31, 2022 in exchange to waive all future rights and entitlements to the CTO. Refer to Note 21, "Commitments and Contingencies - Royalty Payments," for additional information. 
+ 
+ The Company subleases office premises at its Massachusetts headquarters to a corporation owned and controlled by the Chief Executive Officer ("CEO") of the Company beginning July 1, 2020, with no stated termination date. Sublease payments received were million and million for the nine months ended August 31, 2022 and 2021 , respectively. Sublease payments received were thousand and thousand for three months ended August 31, 2022 and 2021 . 
+
+million per month. 
+ 
+ The Company leases office and warehouse space in South Africa that expires in November 2024 . The base rent during the nine months ended August 31, 2022 is approximately million per month. In October 2021, the Company entered into an additional lease in South Africa for a storage facility. The lease expires October 31, 2022. 
+ 
+ The Company leases warehouse and manufacturing space in Fort Wayne, Indiana. The lease expires on July 31, 2025 . The base rent is approximately million per month. The Company sub-leases the former Fort Wayne facility which commenced in August 2022. In November 2021, the Company entered into a lease which commenced in August 2022. The lease expires July 31, 2027 . The base rent is approximately million per month. 
+ 
+ The Company also leases office space in Las Vegas, Nevada, which expires on January 31, 2027. The base rent is less than million per month. 
+ 
+ Certain of the Company s leases contain options to renew and extend lease terms and options to terminate leases early. Reflected in the right-of-use asset and lease liability on the Company s balance sheets are the periods provided by renewal and extension options that the Company is reasonably certain to exercise, as well as the periods provided by termination options that the Company is reasonably certain to not exercise. 
+
+As of August 31, 2022 and 2021 the elements of lease expense were as follows (in thousands): 
+
+Future lease payments under non-cancelable operating leases as of August 31, 2022 are as follows (in thousands): 
+
+2023 
+ 2024 
+ 2025 
+ 2026 
+ Thereafter 
+ Total lease payments 
+ Less: imputed interest 
+ Total lease liabilities 
+
+million and an income tax benefit of million, respectively. For the three months ended August 31, 2022 and 2021 , the effective tax rate was and , respectively. For the nine months ended August 31, 2022 and 2021 , the Company recorded an income tax expense of million and million, respectively. For the nine months ended August 31, 2022 and 2021 the effective tax rate was and , respectively. The Company s tax rate differs from the statutory rate of due to the effects of state taxes net of federal benefit, the foreign tax rate differential as a result of Byrna South Africa, effects of permanent non-deductible expenses, the recording of a valuation allowance against the deferred tax assets generated in the current period, and other effects. 
+
+million per year. Royalties on CO2 pistols were to be paid for so long as patents remain effective beginning at 2 of the agreed upon net price of Stipulated Net Price for the first year and reduced by each year thereafter until it reaches . For each substantially new product in this category, the rate would begin again at 2 . Royalties on the fintail projectiles (and any improved versions thereof) will be paid so long as patents remain effective at a rate of of the agreed upon Stipulated Net Price for fintail projectile products. 
+ 
+ On January 7, 2022, the Company and the CTO agreed to waive all future rights and entitlements under such agreement, including without limitation any right, title, or interest in the intellectual property or royalty fees except for those on the fintail projectiles. In exchange for the royalty termination, the Company agreed to grant RSU's upon stockholder's approval and renegotiation of the employment contract of the increase in the number of shares of common stock available for issuance under the 2020 Plan. The RSU s will vest two years from January 7, 2022. As a result, the Company did not recognize any royalty expense in the first quarter of 2022 and recognized stock compensation expense of 0.6 million associated with the RSUs during the three and nine months ended August 31, 2022 . 
+ 
+ COVID- 19 Pandemic and CARES Act 
+ On January 30, 2020, the World Health Organization WHO announced a global health emergency because of a new strain of coronavirus originating in Wuhan, China (the COVID- 19 outbreak and the risks to the international community as the virus spreads globally beyond its point of origin. In March 2020, the WHO classified the COVID- 19 outbreak as a pandemic, based on the rapid increase in exposure globally. 
+ 
+ The full impact of the COVID- 19 outbreak continues to evolve as of the date of this report. As such, it is uncertain as to the full magnitude that the pandemic may have on the Company s financial condition, liquidity, and future results of operations. Management is actively monitoring the impact of the global situation on its financial condition, liquidity, operations, suppliers, industry, and workforce. Given the daily evolution of the COVID- 19 outbreak and the global responses to curb its spread, the Company is not able to estimate the effects of the COVID- 19 outbreak on its results of operations, financial condition, or liquidity for fiscal year 2022. 
+ 
+ The Company faces various risks related to COVID- 19 outbreak. The Company is dependent on its workforce to deliver its products. If significant portions of the Company s workforce are unable to work effectively, or if customers operations are curtailed due to illness, quarantines, government actions, facility closures, or other restrictions in connection with the COVID- 19 pandemic, the Company s operations will likely be impacted. The Company may be unable to perform fully on its contracts and costs may increase as a result of the COVID- 19 outbreak. These cost increases may not be fully recoverable or adequately covered by insurance. Since the COVID- 19 outbreak began, no facilities have been fully shut down. Certain of the Company s vendors may be unable to deliver materials on time due to the COVID- 19 outbreak. Such delays may negatively impact the Company s production, and the Company plans to continue to monitor these and its other vendors and, if necessary, seek alternative suppliers. 
+ 
+ Legal Proceedings 
+ In the ordinary course of our business, the Company may be subject to certain other legal actions and claims, including product liability, consumer, commercial, tax and governmental matters, which may arise from time to time. The Company does not believe it is currently a party to any pending legal proceedings. Notwithstanding, legal proceedings are subject-to inherent uncertainties, and an unfavorable outcome could include monetary damages, and excessive verdicts can result from litigation, and as such, could result in a material adverse impact on the Company s business, financial position, results of operations, and/or cash flows. Additionally, although the Company has specific insurance for certain potential risks, the Company may in the future incur judgments or enter into settlements of claims which may have a material adverse impact on the Company s business, financial position, results of operations, and/or cash flows. 
+
+August 31, 2021 
+
+August 31, 2021 
+
+million and million related to the South African rand during the three months ended August 31, 2022 and 2021 , respectively. The Company recorded a translation adjustment loss of million and translation adjustment gain of million during the nine months ended August 31, 2022 and 2021. 
+ 
+ The Company s South African subsidiary revenues, cost of goods sold, operating costs and capital expenditures are denominated in South African rand. Consequently, fluctuations in the U.S. dollar exchange rate against the South African rand increases the volatility of sales, cost of goods sold and operating costs and overall net earnings when translated into U.S. dollars. The Company is not using any forward or option contracts to fix the foreign exchange rates. Using a fluctuation in the U.S. exchange rate, the impact on the loss and stockholders equity (deficit) is not material. 
+
+ii) 
+ Credit Risk 
+
+Credit risk is the risk that one party to a financial instrument will cause a financial loss for the other party by failing to discharge an obligation. The financial instruments that potentially subject the Company to credit risk consist of cash, cash equivalents, and accounts receivable. The Company maintains cash with high credit quality financial institutions located in the U.S. and South Africa. The Company maintains cash and cash equivalent balances with financial institutions in the U.S. in excess of amounts insured by the Federal Deposit Insurance Corporation. 
+ 
+ The Company provides credit to its customers in the normal course of its operations. It carries out, on a continuing basis, credit checks on its customers. 
+
+ITEM 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+References in this quarterly report on Form 10-Q (the Quarterly Report to we, us or the Company refer to Byrna Technologies Inc. References to our management or our management team refer to our officers and directors. The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the financial statements and the notes thereto contained elsewhere in this Quarterly Report. Certain information contained in the discussion and analysis set forth below includes forward-looking statements that involve risks and uncertainties. 
+ 
+ Special Note Regarding Forward-Looking Statements 
+ 
+ This Quarterly Report includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act and Section 21E of the Exchange Act that are not historical facts and involve risks and uncertainties that could cause actual results to differ materially from those expected and projected. All statements, other than statements of historical fact included in this Quarterly Report including, without limitation, statements in this Management s Discussion and Analysis of Financial Condition and Results of Operations regarding our financial position, business strategy and the plans and objectives of management for future operations, are forward-looking statements. Words such as expect, believe, anticipate, intend, "may," estimate, seek and variations and similar words and expressions are intended to identify such forward-looking statements. Such forward-looking statements relate to future events or future performance, but reflect management s current beliefs, based on information currently available. A number of factors could cause actual events, performance or results to differ materially from the events, performance and results discussed in the forward-looking statements. For information identifying important risk factors that could cause actual results to differ materially from those anticipated in the forward-looking statements, please refer to the Risk Factors section of our Annual Report on Form 10-K for the period ended November 30, 2021 filed with the U.S. Securities and Exchange Commission (the SEC on February 11, 2022 (the 2021 10-K ), the Company s subsequent filings with the SEC, which can be accessed on the EDGAR section of the SEC s website at www.sec.gov. Except as expressly required by applicable securities law, we disclaim any intention or obligation to update or revise any forward-looking statements whether as a result of new information, future events or otherwise, including but not limited to the potential global impact of the COVID-19 pandemic, the impact of new strains on our personnel and operations, our ability to design, introduce and sell new products, services and features, the impact of any regulatory proceedings or litigation, our ability to protect our intellectual property and compete with existing and new products, the impact of stock compensation expense, dividends, warrant exercises and related accounting, impairment expense and income tax expense on our financial results, our ability to manage our supply chain and avoid production delays, shortages or other factors, including product mix, cost of parts and materials and cost of labor that may impact our gross margins, our ability to retain and incentivize key management personnel, product defects, the success of our entry to new markets, customer purchase behavior and negative media publicity or public perception of our brand or products, loss of customer data, breach of security or an extended outage related to our e-commerce storefronts, including a breach or outage by our third party cloud based storage providers, exposure to international operational risks, delayed cash collections or bad debt, determinations or audits by taxing authorities, changes in government regulations, the impact of existing or future regulation by the Bureau of Alcohol, Tobacco, and Firearms, import and export regulators, or other federal or state authority, or changes in international law in key jurisdictions including South Africa or our inability to obtain needed exemptions from such existing or future regulation. 
+ 
+ OVERVIEW 
+ 
+ The following discussion and analysis is intended to help you understand us, our operations and our financial performance. It should be read in conjunction with our condensed consolidated financial statements and the accompanying notes, which are included in Item 1 of this report. 
+ 
+ Byrna Technologies is a designer, manufacturer, retailer and distributor of innovative technological solutions for security situations that do not require the use of lethal force. Our mantra is Live Safe , and our core mission is to empower individuals to safely and fully engage in life and adventure. Our design team s directive is to build easy-to-use self-defense tools to enhance the safety of our customers and their loved ones at home and outdoors. We are also focused on developing tools that can be used instead of firearms by professional law enforcement and private security customers to reduce shootings and facilitate trust between police and the communities they seek to serve. Our strategy is to establish Byrna as a consumer lifestyle brand associated with the confidence people can achieve by knowing they can protect themselves, their loved ones and those around them. We believe we have a significant opportunity to leverage the Byrna brand to expand our product line, broaden our user base and generate increasing sales from new and existing customers. 
+
+22
+
+Our business strategy is twofold: (1) to fulfill the growing demand for less-lethal products in the law enforcement, correctional services, and private security markets and (2) to provide civilians including those whose work or daily activities may put them at risk of being a victim with easy access to an effective, non-lethal way to protect themselves and their loved ones from threats to their person or property. 
+ 
+ We believe that the United States, along with many other parts of the world, is experiencing a significant spike in the demand for less-lethal products and that the less-lethal market will be one of the faster growing segments of the security market over the next decade, particularly given the fear caused by the recent COVID-19 pandemic. The less lethal market has been projected to approach 12 billion per year by 2023 (Statistics MRC. Non-Lethal Weapons Global Market Outlook (2017-2023)). We plan to respond to this demand for less-lethal products through the serial production and distribution of the Byrna SD and expansion of the Byrna product line. 
+ 
+ RESULTS OF OPERATIONS 
+ 
+ Results for the third quarter of 2022 demonstrate a continuing demand for our Byrna SD personal security device and growth of the production capacity and administrative and control structures necessary to supply that demand. Revenue increased to 12.4 million from 8.7 million in the third quarter of last year. Most of the growth in revenue continues to be in high margin direct sales or Amazon, as e-commerce orders accounted for 65.3 of total net revenue this quarter. In addition, the Company introduced products from Fox Labs, which the Company acquired at the end of the second quarter of this year. Sales related to Fox Lab branded products totaled 0.4 million in the third quarter of 2022. 
+ 
+ Over the past year, the structural growth required to manage a larger company with higher sales volumes has required an increase in structural operating expenses such as payroll, insurance and marketing expenses. We also incur expenses associated with operating as a public company, including expenses related to compliance with the rules and regulations of the SEC and Nasdaq, insurance expenses, audit expenses, investor relations activities, Sarbanes-Oxley compliance expenses and other administrative expenses and professional services. 
+ 
+ Three months ended August 31, 2022 as compared to three months ended August 31, 2021: 
+ 
+ Net Revenue 
+ Revenues were 12.4 million in the third quarter of 2022 which represents an increase of 3.7 million or 42.7 as compared to the prior year period revenues of 8.7 million. Website sales, increased by 2.4 million from 5.7 million in the third quarter of 2021 to 8.1 million in the third quarter of 2022. This increase includes a 1.7 million increase in Amazon sales. Additionally, sales through all other channels, with the exception of law enforcement, increased in comparison with the same quarter of the prior year. International sales increased by 0.5 million from 1.6 million in the third quarter of 2021 to 2.1 million in the third quarter of 2022 due to a strong quarter for exports to Asia and Latin America. Sales to domestic dealers/distributors increased from 1.2 million in the third quarter of 2021 to 1.7 million in the third quarter of 2022. In addition, Fox Labs, which was acquired on May 25, 2022, added 0.4 million in sales pepper sprays the third quarter of 2022. 
+ 
+ Cost of Goods Sold 
+ Cost of goods sold was 5.5 million in the third quarter of 2022 compared to 3.8 million in the prior year period. This 1.7 million increase is primarily due to the increase in related sales volume. 
+ 
+ Gross Profit 
+ Gross profit is calculated as total revenue less cost of goods sold and gross margin is calculated as gross profit divided by total revenue. Included as cost of goods sold are costs associated with the production and procurement of products, such as labor and overhead, inbound freight costs, manufacturing depreciation, purchasing and receiving costs, and inspection costs. Gross profit was 6.9 million in the third quarter of 2022, or 55.4 of net revenue, as compared to gross profit of approximately 4.9 million, or 56.2 of net revenue, in the prior year period. While improvements in shipping efficiency lowered freight costs and improved gross profit by approximately 1 , one-time increases to inventory reserves decreased gross profit by approximately 2 . 
+
+23
+
+Operating Expenses / Income (Loss) from Operations 
+ Operating expenses were 8.3 million in the third quarter of 2022, an increase of 1.6 million, as compared to the prior year period expenses of 6.7 million. This increase is due to the growth of the Company. 
+ 
+ During fiscal year 2021, management made the strategic decision to support continued revenue growth through increased marketing expenditure which increased 0.8 million to 1.4 million for the third quarter of 2022 as compared to 0.6 million in the third quarter of 2021. 
+ 
+ The structural growth required to manage a larger business with higher sales volumes drove up structural costs. Payroll related costs increased 0.3 million from 3.6 million in the third quarter of 2021 to 3.9 million in the third quarter of 2022, mainly due to the increase in stock compensation expense. IT subscriptions increased 0.1 million from 0.03 million in the third quarter of 2021 to 0.2 million in the third quarter of 2022. 
+ 
+ Income Tax Provision 
+ For the three months ended August 31, 2022 and 2021, the Company recorded an income tax expense of 0.2 million and an income tax benefit of 0.1 million, respectively. For the three months ended August 31, 2022 and 2021, the effective tax rate was (10.8 and 3.9 , respectively. The Company s tax rate differs from the statutory rate of 21.0 due to the effects of state taxes net of federal benefit, the foreign tax rate differential as a result of Byrna South Africa, effects of permanent non-deductible expenses, the recording of a valuation allowance against the deferred tax assets generated in the current period, and other effects. 
+ 
+ Non-GAAP Financial Measures 
+ In addition to providing financial measurements based on generally accepted accounting principles in the United States (GAAP), we provide the following additional financial metrics that are not prepared in accordance with GAAP (non-GAAP): adjusted EBITDA, non-GAAP adjusted net loss, and non-GAAP adjusted net loss per share. Management uses these non-GAAP financial measures, in addition to GAAP financial measures, to understand and compare operating results across accounting periods, for financial and operational decision making, for planning and forecasting purposes and to evaluate our financial performance. We believe that these non-GAAP financial measures help us to identify underlying trends in our business that could otherwise be masked by the effect of certain expenses that we exclude in the calculations of the non-GAAP financial measures. 
+ 
+ Accordingly, we believe that these non-GAAP financial measures reflect our ongoing business in a manner that allows for meaningful comparisons and analysis of trends in the business and provides useful information to investors and others in understanding and evaluating our operating results, enhancing the overall understanding of our past performance and future prospects. 
+ 
+ These non-GAAP financial measures do not replace the presentation of our GAAP financial results and should only be used as a supplement to, not as a substitute for, our financial results presented in accordance with GAAP. There are limitations in the use of non-GAAP measures, because they do not include all the expenses that must be included under GAAP and because they involve the exercise of judgment concerning exclusions of items from the comparable non-GAAP financial measure. In addition, other companies may use other non-GAAP measures to evaluate their performance, or may calculate non-GAAP measures differently, all of which could reduce the usefulness of our non-GAAP financial measures as tools for comparison. 
+
+24
+
+Adjusted EBITDA 
+ 
+ Adjusted EBITDA is defined as net (loss) income as reported in our condensed consolidated statements of operations and comprehensive (loss) income excluding the impact of (i) depreciation and amortization; (ii) income tax provision (benefit); (iii) interest income (expense); (iv) stock-based compensation expense; and (v) other expenses. Our Adjusted EBITDA measure eliminates potential differences in performance caused by variations in capital structures (affecting finance costs), tax positions, the cost and age of tangible assets (affecting relative depreciation expense) and the extent to which intangible assets are identifiable (affecting relative amortization expense). We also exclude certain one-time and non-cash costs. Reconciliation of Adjusted EBITDA to net (loss) income, the most directly comparable GAAP measure, is as follows (in thousands): 
+
+For the Three Months Ended 
+
+August 31, 
+
+2022 
+
+2021 
+
+Net loss 
+
+(1,534) 
+
+(1,841) 
+
+Adjustments: 
+
+Interest (income) expense 
+
+3 
+
+(13) 
+
+Income tax provision (benefit) 
+
+150 
+
+(74) 
+
+Depreciation and amortization 
+
+250 
+
+136 
+
+Non-GAAP EBITDA 
+
+(1,131) 
+
+(1,792) 
+
+Stock-based compensation expense 
+
+2,689 
+
+981 
+
+Non-cash incentive compensation expense 
+
+(1,415) 
+
+Other expenses 
+
+3 
+
+9 
+
+Severance/Separation 
+
+138 
+
+Non-GAAP adjusted EBITDA 
+
+284 
+
+(802) 
+
+Non-GAAP adjusted net loss per share 
+ 
+ Non-GAAP adjusted net loss is defined as net (loss) income as reported in our condensed consolidated statements of operations and comprehensive (loss) income excluding the impact of (i) stock-based compensation expense and (ii) other expenses. Our non-GAAP adjusted net loss measure eliminates potential differences in performance caused by certain non-cash and one-time costs. We also provide non-GAAP adjusted net loss per share by dividing non-GAAP adjusted net loss by the average basic shares outstanding for the period. Reconciliation of Non-GAAP adjusted (loss) income to net (loss) income, the most directly comparable GAAP measure, is as follows (in thousands): 
+
+For the Three Months Ended 
+
+August 31, 
+
+2022 
+
+2021 
+
+Net loss 
+
+(1,534) 
+
+(1,841) 
+
+Adjustments: 
+
+Stock-based compensation 
+
+2,689 
+
+981 
+
+Non-cash incentive compensation expense 
+
+(1,415) 
+
+Other expenses 
+
+3 
+
+9 
+
+Severance/Separation 
+
+138 
+
+NON-GAAP ADJUSTED NET (LOSS) INCOME 
+
+(119) 
+
+(851) 
+
+Net income applicable to preferred stock 
+
+NON-GAAP ADJUSTED NET INCOME (LOSS) AVAILABLE TO COMMON SHAREHOLDERS 
+
+(119) 
+
+(851) 
+
+Non-GAAP adjusted net income (loss) per share basic and diluted 
+
+(0.01) 
+
+(0.04) 
+
+Weighted-average number of common shares outstanding during the period basic and diluted 
+
+21,751,879 
+
+22,047,571 
+
+Nine months ended August 31, 2022 as compared to nine months ended August 31, 2021: 
+ 
+ Net Revenue 
+ Revenues were 32.0 million in the nine months ended August 31, 2022 which represents an increase of 1.0 million as compared to the prior year period revenues of 31.0 million. The prior year period sales included the fulfillment of approximately 4.0 million of backorders received in fiscal year 2020 and a surge in the Company's website sales due to the Company's product being featured on a national news program in April of 2021. Thus, website sales (excluding Amazon) decreased by 6.3 million from 23.9 million in nine months ended August 31, 2021 to 17.6 million in nine months ended August 31, 2022. However, sales through all other channels increased year over year. International sales increased by 2.4 million from 2.5 million in the nine months ended August 31, 2021 to 4.9 million in the nine months ended August 31, 2022. This increase was driven by new customers in South America and Asia. Sales via Amazon were 3.7 million in the nine months ended August 31, 2022 compared to 0.05 million in the nine months ended August 31, 2021, before that site had been established. Sales to domestic dealers/distributors, and retail sales to large end-users such as security companies and law enforcement agencies increased from 4.5 million in the nine months ended August 31, 2021 to 5.5 million in the nine months ended August 31, 2022. In addition, Fox Labs, which was acquired on May 25, 2022, added 0.4 million in sales of pepper sprays in the nine months ended August 31, 2022. 
+ 
+ Cost of Goods Sold 
+ Cost of goods sold was 14.4 million in the nine months ended August 31, 2022 compared to 13.8 million in the prior year period. This 0.6 million increase is primarily due to the increase in related sales volume. 
+ 
+ Gross Profit 
+ Gross profit is calculated as total revenue less cost of goods sold and gross margin is calculated as gross profit divided by total revenue. Included as cost of goods sold are costs associated with the production and procurement of products, such as labor and overhead, inbound freight costs, manufacturing depreciation, purchasing and receiving costs, and inspection costs. Gross profit was 17.6 million in the nine months ended August 31, 2022, or 55.0 of net revenue, as compared to gross profit of approximately 17.2 million, or 55.5 of net revenue, in the prior year period. 
+
+25
+
+Operating Expenses / Income (Loss) from Operations 
+ Operating expenses were 25.0 million in the nine months ended August 31, 2022, as compared to the prior year period expenses of 17.4 million. This 7.7 million increase is due to the growth of the Company. 
+ 
+ During fiscal year 2021, management made the strategic decision to support continued revenue growth through increased marketing expenditure which increased 2.6 million to 3.9 million for the nine months ended August 31, 2022 as compared to 1.3 million in the nine months ended August 31, 2021. 
+ 
+ The structural growth required to manage a larger business with higher sales volumes drove up structural costs. Payroll related costs increased 3.0 million from 9.6 million in the nine months ended August 31, 2021 to 12.6 million in the nine months ended August 31, 2022. The increase was mostly due to an increase in non-cash stock compensation which increased by 1.6 million from 2.5 million in the nine months ended August 31, 2021 to 4.1 million in the nine months ended August 31, 2022. Salary, wages and bonuses increased by 1.2 million from 5.9 million in the nine months ended August 31, 2021 to 7.1 million in the nine months ended August 31, 2022. 
+ 
+ IT subscriptions increased 0.4 million from 0.06 million in the nine months ended August 31, 2021 to 0.5 million in the nine months ended August 31, 2022. 
+ 
+ Income Tax Provision 
+ For the nine months ended August 31, 2022 and 2021, the Company recorded an income tax provision of 0.1 million and 0.1 million, respectively. For the nine months ended August 31, 2022 and 2021, the effective tax rate was (1.1 and 320.6 , respectively. The Company s tax rate differs from the statutory rate of 21.0 due to the effects of state taxes net of federal benefit, the foreign tax rate differential as a result of Byrna South Africa, effects of permanent non-deductible expenses, the recording of a valuation allowance against the deferred tax assets generated in the current period, and other effects. 
+ 
+ Non-GAAP Financial Measures 
+ In addition to providing financial measurements based on generally accepted accounting principles in the United States (GAAP), we provide the following additional financial metrics that are not prepared in accordance with GAAP (non-GAAP): adjusted EBITDA, non-GAAP adjusted net loss, and non-GAAP adjusted net loss per share. Management uses these non-GAAP financial measures, in addition to GAAP financial measures, to understand and compare operating results across accounting periods, for financial and operational decision making, for planning and forecasting purposes and to evaluate our financial performance. We believe that these non-GAAP financial measures help us to identify underlying trends in our business that could otherwise be masked by the effect of certain expenses that we exclude in the calculations of the non-GAAP financial measures. 
+ 
+ Accordingly, we believe that these non-GAAP financial measures reflect our ongoing business in a manner that allows for meaningful comparisons and analysis of trends in the business and provides useful information to investors and others in understanding and evaluating our operating results, enhancing the overall understanding of our past performance and future prospects. 
+ 
+ These non-GAAP financial measures do not replace the presentation of our GAAP financial results and should only be used as a supplement to, not as a substitute for, our financial results presented in accordance with GAAP. There are limitations in the use of non-GAAP measures, because they do not include all the expenses that must be included under GAAP and because they involve the exercise of judgment concerning exclusions of items from the comparable non-GAAP financial measure. In addition, other companies may use other non-GAAP measures to evaluate their performance, or may calculate non-GAAP measures differently, all of which could reduce the usefulness of our non-GAAP financial measures as tools for comparison. 
+
+26
+
+Adjusted EBITDA 
+ 
+ Adjusted EBITDA is defined as net (loss) income as reported in our condensed consolidated statements of operations and comprehensive (loss) income excluding the impact of (i) depreciation and amortization; (ii) income tax provision (benefit); (iii) interest income (expense); (iv) stock-based compensation expense; and (v) other expenses. Our Adjusted EBITDA measure eliminates potential differences in performance caused by variations in capital structures (affecting finance costs), tax positions, the cost and age of tangible assets (affecting relative depreciation expense) and the extent to which intangible assets are identifiable (affecting relative amortization expense). We also exclude certain one-time and non-cash costs. Reconciliation of Adjusted EBITDA to net (loss) income, the most directly comparable GAAP measure, is as follows (in thousands): 
+
+For the Nine Months Ended 
+
+August 31, 
+
+2022 
+
+2021 
+
+Net loss 
+
+(7,752) 
+
+(75) 
+
+Adjustments: 
+
+Interest expense (income) 
+
+(10) 
+
+24 
+
+Income tax provision (benefit) 
+
+82 
+
+109 
+
+Depreciation and amortization 
+
+638 
+
+369 
+
+Non-GAAP EBITDA 
+
+(7,042) 
+
+427 
+
+Stock-based compensation expense 
+
+4,061 
+
+2,527 
+
+Other expenses 
+
+183 
+
+18 
+
+Forgiveness of PPP loan 
+
+(190) 
+
+Severance/Separation 
+
+556 
+
+Non-GAAP adjusted EBITDA 
+
+(2,242) 
+
+2,782 
+
+Non-GAAP adjusted net loss per share 
+ 
+ Non-GAAP adjusted net loss is defined as net (loss) income as reported in our condensed consolidated statements of operations and comprehensive (loss) income excluding the impact of (i) stock-based compensation expense and (ii) other expenses. Our non-GAAP adjusted net loss measure eliminates potential differences in performance caused by certain non-cash and one-time costs. We also provide non-GAAP adjusted net loss per share by dividing non-GAAP adjusted net loss by the average basic shares outstanding for the period. Reconciliation of Non-GAAP adjusted (loss) income to net (loss) income, the most directly comparable GAAP measure, is as follows (in thousands): 
+
+For the Nine Months Ended 
+
+August 31, 
+
+2022 
+
+2021 
+
+Net loss 
+
+(7,752) 
+
+(75) 
+
+Adjustments: 
+
+Stock-based compensation expense 
+
+4,061 
+
+2,527 
+
+Other expenses 
+
+183 
+
+18 
+
+Forgiveness of PPP loan 
+
+(190) 
+
+Severance/Separation 
+
+556 
+
+NON-GAAP ADJUSTED NET INCOME (LOSS) 
+
+(2,952) 
+
+2,280 
+
+Net income applicable to preferred stock 
+
+(1,043) 
+
+NON-GAAP ADJUSTED NET INCOME (LOSS) AVAILABLE TO COMMON SHAREHOLDERS 
+
+(2,952) 
+
+1,237 
+
+Non-GAAP adjusted net income (loss) per share basic and diluted 
+
+(0.13) 
+
+0.07 
+
+Weighted-average number of common shares outstanding during the period basic and diluted 
+
+22,704,565 
+
+18,269,360 
+
+27
+
+LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ Cash Flow Summary 
+ Cash as of August 31, 2022 totaled 24.5 million a decrease of 31.9 million from 56.4 million of cash and restricted cash as of November 30, 2021. 
+ 
+ Operating Activities 
+ Cash used in operating activities was 12.8 million for the nine months ended August 31, 2022 compared to cash used in operations of 3.3 million during the prior year period. Net loss was 1.5 million and 7.8 million for the three and nine months ended August 31, 2022. Net loss was 1.8 million and 0.1 million for the three and nine months ended August 31, 2021. Significant changes in noncash and working capital activity are as follows: 
+ 
+ Our non-cash activity adds back several non-cash items to net loss to calculate cash used in operations in the nine months ended August 31, 2022. These include stock-based expenses of 4.1 million, compared to 2.5 million for the nine months ended August 31, 2021; depreciation and amortization of 0.6 million compared to 0.4 million for the nine months ended August 31, 2021. 
+ 
+ During the nine months ended August 31, 2022, the growth of the Company was reflected in the use of cash for growing working capital needs. Inventory increased during the nine months ended August 31, 2022 by 8.9 million, compared to 2.3 million for the nine months ended August 31, 2021. The increase in inventory is a planned measure to ensure we have the ability to meet demand during the remainder of 2022. Accounts receivable decreased by 1.0 million during the nine months ended August 31, 2022 , due to decreased accounts receivables in South Africa, as compared to an increase of 0.4 million for the nine months ended August 31, 2021. Deferred revenue increased 0.2 during the nine months ended August 31, 2022, compared to a decrease of 4.2 million for the nine months ended August 31, 2021 as we fulfilled backlogged e-commerce orders. 
+ 
+ Investing Activities 
+ Cash used in investing activities was 4.2 million for the nine months ended August 31, 2022, compared to 4.9 million for the nine months ended August 31, 2021. The current year investing activities relate to purchase of property and equipment and the Fox Labs acquisition. The prior year investing activities relate to the Mission Less Lethal and Ballistipax acquisitions. 
+ 
+ Financing Activities 
+ Cash used by financing activities was 14.5 million during the nine months ended August 31, 2022, compared to cash provided by 57.2 million for the nine months ended August 31, 2021. The nine months ended August 31, 2022 amount was primarily composed of stock repurchased of 15.0 million compared to 56.8 million from proceeds from the sale of common stock during the nine months ended August 31, 2021. 
+ 
+ Off-Balance Sheet Arrangements 
+ The Company does not have any off-balance sheet arrangements that have, or are reasonably likely to have, a current or future effect on its financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. 
+ 
+ RECENT ACCOUNTING PRONOUNCEMENTS 
+ 
+ See Note 5, Recent Accounting Guidance, in the Notes to condensed consolidated financial statements included in Item 1 of this report for a discussion of recently issued and adopted accounting standards. 
+ 
+ CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+ 
+ The Company s condensed consolidated financial statements are based on the selection and application of significant accounting policies, which require management to make significant estimates and assumptions. Our significant accounting policies are outlined in Note 4, Summary of Significant Accounting Policies, in the Notes to Consolidated Financial Statements included in Item 8 of the 2021 10-K. During the three and nine months ended August 31, 2022, there were no significant changes to the Company s critical accounting policies from those described in our 2021 10-K. 
+
+28
+
+ITEM 3. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not applicable. 
+
+ITEM 4. 
+ CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+ 
+ The Company s management, including the Chief Executive Officer CEO and Chief Financial Officer CFO ), evaluated the effectiveness of our disclosure controls and procedures as of August 31, 2022 pursuant to Rule 13a-15(b) of the Securities Exchange Act of 1934. Disclosure controls and procedures are designed to ensure that material information required to be disclosed by the Company in the reports that the Company files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that material information is accumulated and communicated to the Company s management, including its CEO and CFO, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives. Management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. The Company s CEO and CFO concluded that as of August 31, 2022, due to the material weakness described below, our disclosure controls and procedures were not effective. 
+ 
+ Previously Reported Material Weakness 
+ 
+ As disclosed in Item 9A. Controls and Procedures of our Form 10-K for the fiscal year ended November 30, 2021, filed with the SEC on February 11, 2022, we previously identified material weakness in our internal control over financial reporting related to controls over user access within the Company s ERP system. 
+ 
+ The material weakness noted is that the Company did not design and maintain effective controls over user access within the Company s enterprise resources planning ERP system, SAP Business One, to ensure appropriate segregation of duties and to adequately restrict user access to appropriate personnel. Specifically, certain users were deemed to have excessive access rights within the ERP system. Therefore, a material weakness in the design and operating effectiveness of the internal controls over information technology was identified as of November 30, 2021. 
+ 
+ This material weakness did not result in any material misstatement in our financial statements or disclosures. Based on additional procedures and post-closing review, management concluded that the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q present fairly, in all material respects, our financial position, results of operations, and cash flows for the periods presented, in conformity with accounting principles generally accepted in the United States. 
+ 
+ Remediation Plan 
+ 
+ We have modified the designated SAP Business One access rights for each employee for which a conflict has been identified to remove any responsibilities deemed to be excessive or otherwise inappropriate for the employee s job function and are in the process of determining the effectiveness of our remediation. 
+ 
+ Changes in Internal Control Over Financial Reporting 
+ 
+ There were no changes that occurred during the first quarter of 2022, except for those related to our remediation plans, that have materially affected or are reasonably likely to materially affect our internal control over financial reporting. 
+
+29
+
+PART II - OTHER INFORMATION 
+
+ITEM 1. 
+ LEGAL PROCEEDINGS 
+
+In the normal course of business, the Company occasionally becomes involved in various legal proceedings. The results of any such proceedings cannot be predicted with certainty because such matters are inherently uncertain. Significant damages or penalties may be sought in some matters, and some matters may require years to resolve. In our opinion, at this time, any liability from such proceedings would not have a material adverse effect on the business or financial condition of the Company. 
+
+ITEM 1A. 
+ RISK FACTORS 
+
+Factors that could cause our actual results to differ materially from those in this report include the Risk Factors in Item 1A of our Annual Report on Form 10-K for the fiscal year ended November 30, 2021, filed with the SEC on February 11, 2022. As of the date of this Report, there have been no material changes to the risk factors disclosed in our 2021 Form 10-K. 
+
+ITEM 2. 
+ UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS. 
+
+On February 15, 2022, our Board of Directors approved a plan to buy back up to 10.0 million worth of shares of the Company's common stock from the open market Stock Buyback Plan ). The Stock Buyback Plan was used to return capital to shareholders and to minimize the dilutive impact of stock options and other share-based awards. Our Company's Board of Directors specified an expiration date of the sooner of April 30, 2022 or upon reaching the aggregate limit of 10.0 million for the repurchases under the Stock Buyback Plan. The Company completed the full 10.0 million for the repurchases during March 2022. No repurchases were made during the third fiscal quarter ended August 31, 2022. 
+ 
+ On April 28, 2022, our Board of Directors approved a plan to buy back up to an additional 5.0 million worth of shares of our common stock. We completed the full 5.0 million repurchase of shares during May 2022. See Note 15 of our notes to condensed consolidated financial statements for information regarding our Stock Buyback Program . 
+
+Number of Shares 
+
+Average Cost per Share 
+
+Total Number of Shares Purchased as Part of Publicly Announces Plans or Programs 
+
+Approximate Dollar Value of Shares that May Yet Be Purchased Under Plans or Programs 
+
+February 2022 
+
+296,168 
+
+8.96 
+
+296,168 
+
+March 2022 
+
+754,081 
+
+9.74 
+
+754,081 
+
+April 2022 
+
+May 2022 
+
+729,709 
+
+6.85 
+
+729,709 
+
+Total 
+
+1,779,958 
+
+1,779,958 
+
+ITEM 3. 
+ DEFAULTS UPON SENIOR SECURITIES. 
+
+None. 
+
+ITEM 4. 
+ MINE SAFETY DISCLOSURES. 
+
+Not applicable. 
+
+ITEM 5. 
+ OTHER INFORMATION. 
+
+None. 
+
+30
+
+ITEM 6. 
+ EXHIBITS. 
+
+The following exhibits are filed as part of, or incorporated by reference into, this Quarterly Report on Form 10-Q. 
+
+No. 
+ Description of Exhibit 
+
+3.1 
+ Certificate of Amendment to the Certificate of Incorporation of Byrna Technologies Inc., filed on June 17, 2022 (incorporated by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed with the Securities and Exchange Commission on June 17, 2022) 
+
+10.1# 
+ Byrna Technologies Inc. Amended and Restated 2020 Equity Incentive Plan (incorporated by reference to Annex B to the Company's Definitive Proxy Statement on Schedule 14A filed with the Securities and Exchange Commission on May 6, 2022) 
+
+31.1 
+ Certification of Principal Executive Officer Pursuant to Securities Exchange Act Rules 13a-14(a) and 15(d)-14(a), as adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+ Certification of Principal Financial and Accounting Officer Pursuant to Securities Exchange Act Rules 13a-14(a) and 15(d)-14(a), as adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+32.1 
+ Certification of Principal Executive Officer and Principal Financial and Accounting Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+101.INS 
+ Inline XBRL Instance Document 
+
+101.CAL 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.SCH 
+ Inline XBRL Taxonomy Extension Schema Document 
+
+101.DEF 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document 
+
+101.LAB 
+ Inline XBRL Taxonomy Extension Labels Linkbase Document 
+
+101.PRE 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+
+104 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+
+Filed herewith. 
+
+Furnished. 
+
+# 
+ Management contract or compensatory plan or arrangement 
+
+31
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Byrna Technologies Inc. 
+
+Date: October 3, 2022 
+ 
+ /s/ Bryan Ganz 
+
+Name: 
+ Bryan Ganz 
+
+Title: 
+ Chief Executive Officer, President and Director 
+
+(Principal Executive Officer) 
+
+Date: October 3, 2022 
+ 
+ /s/ David North 
+
+Name: 
+ David North 
+
+Title: 
+ Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+32
+
+<EX-31.1>
+ 2
+ ex_394462.htm
+ EXHIBIT 31.1
+
+ex_394462.htm 
+
+Exhibit 31.1 
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+
+ PURSUANT TO SECURITIES EXCHANGE ACT RULES 13A-14(A) AND 15D-14(A) 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Bryan Ganz, certify that: 
+
+1. 
+
+I have reviewed this Quarterly Report on Form 10-Q of Byrna Technologies Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 3, 2022 
+
+By: 
+
+/s/ Bryan Ganz 
+
+Bryan Ganz 
+
+Chief Executive Officer, President, and Director 
+			 (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex_394463.htm
+ EXHIBIT 31.2
+
+ex_394463.htm 
+
+Exhibit 31.2 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER 
+
+ PURSUANT TO SECURITIES EXCHANGE ACT RULES 13A-14(A) AND 15D-14(A) 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, David North, certify that: 
+
+1. 
+
+I have reviewed this Quarterly Report on Form 10-Q of Byrna Technologies Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 3, 2022 
+
+By: 
+
+/s/ David North 
+
+David North 
+
+Chief Financial Officer 
+			 (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex_394464.htm
+ EXHIBIT 32.1
+
+ex_394464.htm 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report on Form 10-Q of Byrna Technologies Inc. (the Company for the nine months ended August 31, 2022 , as filed with the Securities and Exchange Commission (the Report ), each of the undersigned, in the capacities and on the date indicated below, hereby certify pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+2. 
+
+To my knowledge, the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of and for the period covered by the Report. 
+
+Date: October 3, 2022 
+
+By: 
+
+/s/ Bryan Ganz 
+
+Bryan Ganz 
+
+			 Chief Executive Officer, President, and Director 
+			 (Principal Executive Officer) 
+
+By: 
+
+/s/ David North 
+
+David North 
+
+			 Chief Financial Officer 
+			 (Principal Financial and Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ byrn-20220831.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ byrn-20220831_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ byrn-20220831_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ byrn-20220831_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ byrn-20220831_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

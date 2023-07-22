@@ -1,0 +1,2426 @@
+<Header>
+<FileStats>
+    <FileName>20210104_10-Q_edgar_data_1556179_0001104659-20-141083.txt</FileName>
+    <GrossFileSize>3114929</GrossFileSize>
+    <NetFileSize>91943</NetFileSize>
+    <NonText_DocumentType_Chars>218309</NonText_DocumentType_Chars>
+    <HTML_Chars>912029</HTML_Chars>
+    <XBRL_Chars>1052795</XBRL_Chars>
+    <XML_Chars>773079</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-20-141083.hdr.sgml : 20210104
+<ACCEPTANCE-DATETIME>20201231190050
+ACCESSION NUMBER:		0001104659-20-141083
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		62
+CONFORMED PERIOD OF REPORT:	20190630
+FILED AS OF DATE:		20210104
+DATE AS OF CHANGE:		20201231
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rocky Mountain Industrials, Inc.
+		CENTRAL INDEX KEY:			0001556179
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS BUSINESS SERVICES [7380]
+		IRS NUMBER:				460750094
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55402
+		FILM NUMBER:		201429711
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4601 DTC BLVD.
+		STREET 2:		SUITE 130
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80237
+		BUSINESS PHONE:		720-614-5213
+
+	MAIL ADDRESS:	
+		STREET 1:		4601 DTC BLVD.
+		STREET 2:		SUITE 130
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80237
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RMR Industrials, Inc.
+		DATE OF NAME CHANGE:	20141209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ONLINE YEARBOOK
+		DATE OF NAME CHANGE:	20120813
+
+</SEC-Header>
+</Header>
+
+ 0001104659-20-141083.txt : 20210104
+
+10-Q
+ 1
+ tm2032599d1_10q.htm
+ FORM 10-Q
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+Form 10-Q 
+
+ (Mark One) 
+
+QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE 
+
+ ACT OF 1934 
+
+For the quarterly period ended June 30,
+2019 
+
+ or 
+
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE 
+
+ ACT OF 1934 
+
+For the transition period from _____________
+to _____________ 
+
+Commission file number: 0-55402 
+
+Rocky Mountain Industrials, Inc. (formerly
+RMR Industrials, Inc.) 
+
+ (Exact name of registrant as specified in
+its charter) 
+
+Nevada 
+ 
+ 46-0750094 
+ 
+ (State or jurisdiction of incorporation or organization) 
+ 
+ (IRS Employer Identification No.) 
+
+4601 DTC Blvd., Suite 130 
+
+ Denver, CO 80237 
+
+ (Address of principal executive offices) 
+
+(720) 614-5213 
+
+ (Registrant's telephone number, including
+area code) 
+
+Securities registered pursuant to Section
+12(b) of the Act: 
+
+Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ Name of each exchange on which registered 
+ 
+ N/A 
+ 
+ N/A 
+ 
+ N/A 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes 
+No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit such files). Yes No 
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See the definitions
+of large accelerated filer, accelerated filer, smaller reporting company, and emerging
+growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ Accelerated filer 
+ 
+ Non-accelerated filer 
+ Smaller reporting company 
+ 
+ Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+No 
+
+As of December 31, 2020, the registrant had
+35,785,858 shares of Class A Common Stock, 4,401,277 shares of Class B Common Stock outstanding and 118.5 shares of Preferred
+Stock outstanding. 
+
+ROCKY MOUNTAIN INDUSTRIALS, INC. 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING
+STATEMENTS 
+
+The statements contained in this Quarterly
+Report on Form 10-Q that are not historical facts are forward-looking statements. Forward-looking statements may include
+our statements regarding our goals, beliefs, strategies, objectives, plan, including product and service developments, future financial
+conditions, results or projections or current expectations. Such forward-looking statements may be identified by, among other things,
+the use of forward-looking terminology such as believes, estimates, intends, plan 
+ expects, may, will, should, predicts, anticipates, continues, 
+or potential, or the negative thereof or other variations thereon or comparable terminology, and similar expressions
+are intended to identify forward-looking statements. We remind readers that forward-looking statements are merely predictions and
+therefore inherently subject to uncertainties and other factors and involve known and unknown risks that could cause the actual
+results, performance, levels of activity, or our achievements, or industry results, to be materially different from any future
+results, performance, levels of activity, achievements, or industry results, expressed or implied by such forward-looking statements.
+Such uncertainties and risks include those discussed in the Risk Factors and similar sections of our Annual Report
+on Form 10-K for the year ended March 31, 2019 and our other filings with the Securities and Exchange Commission, all of which
+are incorporated by reference herein. Forward-looking statements appear in Item 2 - Management's Discussion and Analysis
+of Financial Condition and Results of Operations, as well as elsewhere in this Quarterly Report. 
+
+Our management has included projections
+and estimates in this Form 10-Q, which are based primarily on management s experience in the industry, assessments of our
+results of operations, discussions and negotiations with third parties and a review of information filed by our competitors with
+the SEC or otherwise publicly available. We caution readers not to place undue reliance on any such forward-looking
+statements, which speak only as of the date made. We disclaim any obligation subsequently to revise any forward-looking
+statements to reflect events or circumstances after the date of such statements or to reflect the occurrence of anticipated or
+unanticipated events except as otherwise required by law. 
+
+Unless otherwise specified or required by context, as used in
+this Report, the terms we, our, us and the Company refer collectively to RMR Industrials,
+Inc. RMR and its wholly/majority-owned subsidiaries, RMR Aggregates, Inc., RMR Logistics, Inc., Rail Land Company,
+LLC, RMR Recycling, Inc., RMR Water, LLC and RMR Ready Mix, Inc.. Unless otherwise indicated, the term common stock 
+refers to shares of our Class A Common Stock and Class B Common Stock. 
+
+Our financial statements are stated in
+United States Dollars (US and are prepared in accordance with United States generally accepted accounting principles (U.S. GAAP). 
+
+2 
+
+CAUTIONARY NOTE REGARDING EXPLORATION
+STAGE STATUS 
+
+ AND USE OF CERTAIN MINING TERMS 
+
+We are considered an exploration
+stage company under the U.S. Securities and Exchange Commission SEC Industry Guide 7, Description of Property
+by Issuers Engaged or to be Engaged in Significant Mining Operations Guide 7 ), because we do not have reserves as
+defined under Guide 7. Reserves are defined in Guide 7 as that part of a mineral deposit which can be economically and
+legally extracted or produced at the time of the reserve determination. The establishment of reserves under Guide 7
+requires, among other things, certain spacing of exploratory drill holes to establish the required continuity of mineralization
+and the completion of a detailed cost or feasibility study. Since we have no reserves as defined in Guide 7, we have
+not exited the exploration stage and continue to report our financial information as an exploration stage entity as required under
+relevant accounting principles. We will remain an exploration stage company under Guide 7 until such time as we demonstrate
+reserves in accordance with the criteria in Guide 7. 
+
+Since we have no reserves, we will expense
+all mine construction costs, even though these expenditures are expected to have a future economic benefit in excess of one year. We
+will also expense our reclamation and remediation costs at the time the obligation is incurred. Companies that have
+reserves and have exited the exploration stage typically capitalize these costs, and subsequently amortize them on a units-of-production
+basis as reserves are mined, with the resulting depletion charge allocated to inventory, and then to cost of sales as the inventory
+is sold. As a result of these and other differences, our financial statements will not be comparable to the financial
+statements of mining companies that have established reserves and have exited the exploration stage. 
+
+We use certain terms in this report such
+as production, mining or processing activities, and mine construction. Production
+means the estimated quantities (tonnage) delivered or shipped to our customers, which may result in disclosure of related limestone
+and dolomite sales. Mining or processing activities means the process of extracting limestone and dolomite from the
+earth and treating that material. Mine construction means work carried out to access areas in the mine containing limestone
+and dolomite, which principally includes road construction, ramp construction and ancillary activities. We use these terms
+in this report since we believe they are necessary and helpful for the reader to understand our business and operations. 
+However, we caution you that we do not have reserves and therefore have not exited the exploration stage as defined in Guide 7,
+and our use of the terminology described above is not intended to indicate that we have established reserves or have exited the
+exploration stage for purposes of Guide 7. Furthermore, since we do not have reserves, we cannot provide any indication or
+assurance as to how long we will likely continue mining activities at our mine site or whether such activities will be profitable. 
+
+ROCKY MOUNTAIN INDUSTRIALS, INC. 
+
+TABLE OF CONTENTS 
+
+PART I FINANCIAL INFORMATION 
+
+ITEM 1. 
+ FINANCIAL STATEMENTS 
+ 5 
+
+ITEM 2. 
+ MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 6 
+
+ITEM 3. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 9 
+
+ITEM 4. 
+ CONTROLS AND PROCEDURES 
+ 9 
+
+PART II OTHER INFORMATION 
+
+ITEM 1. 
+ LEGAL PROCEEDINGS 
+ 1 0 
+
+ITEM 1A. 
+ RISK FACTORS 
+ 10 
+
+ITEM 2. 
+ UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ 10 
+
+ITEM 3. 
+ DEFAULTS UPON SENIOR SECURITIES 
+ 10 
+
+ITEM 4. 
+ MINE SAFETY DISCLOSURES 
+ 10 
+
+ITEM 5. 
+ OTHER INFORMATION 
+ 10 
+
+ITEM 6. 
+ EXHIBITS 
+ 10 
+
+4 
+
+PART I FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+ROCKY MOUNTAIN INDUSTRIALS, INC. 
+
+INDEX TO UNAUDITED FINANCIAL STATEMENTS 
+
+ June 30, 2019 
+
+Page(s) 
+ 
+ Unaudited Condensed Consolidated Balance Sheets as of June 30, 2019 and March 31, 201 9 
+ F-1 
+
+Unaudited Condensed Consolidated Statements of Operations for the three months ended June 30, 2019 and 201 8 
+ F-2 
+
+Unaudited Statement of Changes
+ in Stockholder Equity for the three months ended June 30, 2019 and 2018 
+ F-3 
+
+Unaudited Condensed Consolidated Statements
+ of Cash Flows for the three months ended June 30, 2019 and 201 8 
+ F-4 
+
+Notes to Unaudited Condensed Consolidated Financial Statements 
+ F-5 
+
+5 
+
+ROCKY MOUNTAIN INDUSTRIALS, INC. 
+
+ Unaudited Condensed Consolidated Balance
+Sheets 
+
+June 30, 2019 
+ March 31, 2019 
+ 
+ ASSETS 
+
+Current assets 
+
+Cash 
+ 855,977 
+ 528,417 
+ 
+ Accounts receivable 
+ 241,273 
+ 102,870 
+ 
+ Inventory 
+ 32,246 
+ 48,976 
+ 
+ Prepaid expenses 
+ 134,747 
+ 140,223 
+ 
+ Restricted cash 
+ 112,130 
+ 111,694 
+ 
+ Total current assets 
+ 1,376,373 
+ 932,180 
+
+Right of use asset 
+ 450,546 
+ - 
+ 
+ Property, plant and equipment, net of accumulated depreciation 
+ 5,250,635 
+ 3,260,511 
+ 
+ Land under development 
+ 5,833,024 
+ 5,304,374 
+ 
+ Asset retirement obligation 
+ 26,810 
+ 43,323 
+ 
+ Goodwill 
+ 338,585 
+ 41,000 
+ 
+ Deposits and other assets 
+ 36,785 
+ 65,842 
+ 
+ Total assets 
+ 13,312,758 
+ 9,647,230 
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+
+Current liabilities 
+
+Accounts payable 
+ 1,294,942 
+ 875,465 
+ 
+ Accrued liabilities 
+ 231,868 
+ 182,348 
+ 
+ Accrued liabilities, related party 
+ 1,190,000 
+ 1,315,000 
+ 
+ Capital lease payable, current 
+ - 
+ 31,101 
+ 
+ Note Payable 
+ 1,059,426 
+ - 
+ 
+ Line of Credit 
+ 664,604 
+ - 
+ 
+ Equipment loan payable, current 
+ 304,786 
+ 330,230 
+ 
+ Total current liabilities 
+ 4,745,626 
+ 2,734,144 
+
+Note payable, net of discount 
+ 1,424,250 
+ - 
+ 
+ Deferred rent 
+ - 
+ 39,898 
+ 
+ Accrued reclamation liability 
+ 62,478 
+ 60,990 
+ 
+ Preferred
+ Shares Debt 
+ 203,814 
+ - 
+ 
+ Lease
+ Liability 
+ 450,546 
+ - 
+ 
+ Total liabilities 
+ 6,886,714 
+ 2,835,032 
+
+Stockholders' Deficit 
+
+Preferred Stock, 0.001 par value, 50,000,000 shares authorized: none issued and outstanding 
+ - 
+ - 
+ 
+ Class A Common Stock, 0.001 par value; 2,000,000,000 shares authorized; 35,785,858 shares issued and outstanding on June 30, 2019 and March 31, 2019, respectively. 
+ 35,786 
+ 35,786 
+ 
+ Class B Common Stock, 0.001 par value; 100,000,000 shares authorized, 4,103,252 and 4,032,752 shares issued outstanding on June 30, 2019 and March 31, 2019, respectively. 
+ 4,539 
+ 4,033 
+ 
+ Additional paid-in capital 
+ 44,651,787 
+ 42,102,105 
+ 
+ Accumulated deficit 
+ (38,217,961 
+ (35,428,938 
+ 
+ Total Rocky Mountain Industrials, Inc stockholders deficit 
+ 6,474,151 
+ 6,712,986 
+ 
+ Noncontrolling interest 
+ (48,107 
+ 99,212 
+ 
+ Total stockholders equity (deficit) 
+ 6,426,044 
+ 6,812,198 
+ 
+ Total liabilities and stockholders equity (deficit) 
+ 13,312,758 
+ 9,647,230 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+F- 1 
+
+ROCKY MOUNTAIN INDUSTRIALS, INC. 
+
+ Condensed Consolidated Statements of Operations
+(Unaudited) 
+
+For the three 
+ For the three 
+
+months ended 
+ months ended 
+
+June 30, 2019 
+ June 30, 2018 
+ 
+ Revenue 
+ 477,724 
+ 329,614 
+ 
+ Cost of goods sold 
+ 421,300 
+ 319,854 
+ 
+ Gross profit 
+ 56,424 
+ 9,760 
+ 
+ Selling, general and administrative (includes depreciation, depletion and amortization) 
+ 2,927,187 
+ 1,411,849 
+ 
+ Loss from operations 
+ (2,870,763 
+ (1,402,089 
+ 
+ Gain on sale of assets 
+ 18,000 
+ - 
+ 
+ Interest income (expense), net 
+ (83,579 
+ (235,775 
+ 
+ Loss before income tax provision 
+ (2,936,342 
+ (1,637,864 
+ 
+ Income tax expense 
+ - 
+ - 
+ 
+ Net loss 
+ (2,936,342 
+ (1,637,864 
+ 
+ Add: Net loss attributed to noncontrolling interest 
+ (147,319 
+ (74,506 
+ 
+ Net loss attributable to Rocky Mountain Industrials, Inc. 
+ (2,789,023 
+ (1,563,358 
+
+Basic and diluted loss attributable to Rocky Mountain Industrials, Inc. per common share 
+ (0.53 
+ (0.35 
+
+Weighted average shares outstanding 
+ 5,185,212 
+ 4,555,817 
+
+The accompanying notes are an integral
+part of these condensed consolidated financial statements. 
+
+F- 2 
+
+ROCKY MOUNTAIN INDUSTRIALS, INC. 
+
+ Statement of Changes in Stockholder Equity
+(Unaudited)(Continued) 
+
+Common Stock 
+Class A 
+ Common Stock 
+Class B 
+ Additional Paid-In 
+ Accumulated 
+ Noncontrolling 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Interest 
+ Total 
+ 
+ Balance, March 31, 2018 
+ 35,785,858 
+ 35,786 
+ 2,868,967 
+ 2,869 
+ 30,237,968 
+ (27,429,017 
+ (188,207 
+ 2,659,399 
+ 
+ Issuance of common stock for exercise of a warrant 
+
+209,040 
+ 209 
+ 3,123,468 
+
+3,123,677 
+ 
+ Issuance of restricted common shares for compensation 
+
+145,000 
+ 145 
+ (145 
+
+Stock-based compensation from stock options 
+
+344,386 
+
+344,386 
+ 
+ Net loss for the three months ended June 30, 2018 
+
+(1,563,358 
+ (74,506 
+ (1,637,864 
+ 
+ Balance, June 30, 2018 
+ 35,785,858 
+ 35,786 
+ 3,223,007 
+ 3,223 
+ 33,705,677 
+ (28,992,375 
+ (262,713 
+ 4,489,598 
+
+Common Stock 
+ Class A 
+ Common Stock 
+Class B 
+ Additional Paid-In 
+ Accumulated 
+ Noncontrolling 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Interest 
+ Total 
+ 
+ Balance, March 31, 2019 
+ 35,785,858 
+ 35,786 
+ 4,032,752 
+ 4,033 
+ 42,102,105 
+ (35,428,938 
+ 99,212 
+ 6,812,198 
+ 
+ Issuance of warrant for services 
+ - 
+ - 
+ - 
+ 436 
+ 299,723 
+ - 
+ - 
+ 300,159 
+ 
+ Issuance of common shares for subscription 
+ - 
+ - 
+ 75,000 
+ 75 
+ 1,499,925 
+ - 
+ - 
+ 1,500,000 
+ 
+ Issuance of restricted common shares for compensation 
+ - 
+ - 
+ 37,000 
+ 37 
+ (37 
+ - 
+ - 
+ - 
+ 
+ Issuance of common stock for services 
+ - 
+ - 
+ 12,000 
+ 12 
+ (12 
+ - 
+ - 
+ - 
+ 
+ Stock-based compensation from stock options 
+ - 
+ - 
+ - 
+ - 
+ 750,029 
+ - 
+ - 
+ 750,029 
+ 
+ Forfeiture of common stock 
+ - 
+ - 
+ (53,500 
+ (54 
+ 54 
+ - 
+ - 
+ - 
+ 
+ Net loss for the three months ended June 30, 2019 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (2,789,023 
+ (147,319 
+ (2,936,342 
+ 
+ Balance, June 30, 2019 
+ 35,785,858 
+ 35,786 
+ 4,103,252 
+ 4,539 
+ 44,651,787 
+ (38,217,961 
+ (48,107 
+ 6,426,044 
+
+The accompanying notes are an integral part
+of these condensed consolidated financial statements. 
+
+F- 3 
+
+ROCKY MOUNTAIN INDUSTRIALS, INC. 
+
+ Condensed Consolidated Statements of Cash
+Flows (Unaudited) 
+
+Three months ended June 30, 2019 
+ Three months ended June 30, 2018 
+ 
+ Cash flow from operating activities 
+
+Net loss 
+ (2,936,342 
+ (1,637,864 
+ 
+ Depreciation and amortization expense 
+ 102,011 
+ 85,806 
+ 
+ Stock-based compensation 
+ 1,050,189 
+ 344,594 
+ 
+ Amortization of debt discount 
+ - 
+ 165,671 
+ 
+ Paid-in-kind interest 
+ - 
+ 65,804 
+ 
+ Accretion expense 
+ 16,513 
+ - 
+ 
+ Deferred rent 
+ (39,898 
+ - 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities 
+
+Changes in operating assets and liabilities 
+
+Accounts receivable 
+ (138,403 
+ (26,343 
+ 
+ Prepaid expenses 
+ 5,476 
+ 2,420 
+ 
+ Inventory 
+ 16,730 
+ 25,595 
+ 
+ Restricted cash 
+ (436 
+ 97,940 
+ 
+ Deposits 
+ 29,057 
+ (2 
+ 
+ Accounts payable 
+ 419,477 
+ (22,172 
+ 
+ Accounts payable, related party 
+ - 
+ - 
+ 
+ Accrued liabilities 
+ (8,418 
+ (1,042 
+ 
+ Accrued liabilities, related party 
+ (125,000 
+ (365,000 
+ 
+ Deferred rent 
+ - 
+ (1,143 
+ 
+ Net cash used in operating activities 
+ (1,609,044 
+ (1,265,736 
+
+Acquisition of H2K 
+ (2,120,000 
+ - 
+ 
+ Acquisition of land for development 
+ (528,650 
+ - 
+ 
+ Acquisition of new accounting system 
+ - 
+ - 
+ 
+ Purchase of property, plant and equipment 
+ (269,719 
+ (450,211 
+ 
+ Net cash used in investing activities 
+ (2,918,369 
+ (450,211 
+
+Payments on equipment loan 
+ (56,547 
+ (45,413 
+ 
+ Payments on capital leases 
+ - 
+ (9,862 
+ 
+ Proceeds from note payable 
+ 1,424,250 
+ - 
+ 
+ Repayment of debt 
+ - 
+ - 
+ 
+ Proceeds from issuance of Class B common stock 
+ 1,500,000 
+ 3,123,468 
+ 
+ Proceeds from issuance of unsecured note 
+ 1,000,000 
+ - 
+ 
+ Proceeds from short term debt 
+ 783,456 
+ - 
+ 
+ Proceeds from issuance OF
+ PREFERRED SHARES 
+ 203,814 
+ - 
+ 
+ Net cash provided by financing activities 
+ 4,854,973 
+ 3,068,193 
+
+Net increase in cash 
+ 327,560 
+ 1,352,246 
+
+Cash at beginning of period 
+ 528,417 
+ 814,621 
+ 
+ Cash at end of period 
+ 855,977 
+ 2,166,867 
+
+Supplemental cash flow information 
+
+Cash paid for interest 
+ 22,511 
+ 4,452 
+ 
+ Cash paid for income taxes 
+ - 
+ - 
+ 
+ Right of use asset 
+ 450,546 
+ - 
+ 
+ Lease liability 
+ (450,546 
+ - 
+
+The accompanying notes are an integral part
+of these condensed consolidated financial statements. 
+
+F- 4 
+
+ROCKY MOUNTAIN INDUSTRIALS, INC. 
+
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED
+FINANCIAL STATEMENTS 
+
+NOTE A FORMATION, CORPORATE CHANGES, AND MATERIAL MERGERS
+AND ACQUISITIONS 
+
+Online Yearbook was incorporated in the
+State of Nevada on August 6, 2012. Online Yearbook was a development stage company with the principal business objective of developing
+and marketing an online yearbook. 
+
+On November 17, 2014, Rocky Mountain
+Resource Holdings Inc., a Nevada Corporation (the Purchaser became the majority shareholder of Online
+Yearbook, by acquiring 5,200,000 shares of common stock of Online Yearbook (the Shares ), or 69.06 of the
+issued and outstanding shares of common stock, pursuant to stock purchase agreements with Messrs. El Maraana and Salah Blal.
+The Shares were acquired for an aggregate purchase price of 357,670. The Purchaser was the source of the funds used to
+acquire the Shares. In connection with Online Yearbook s receipt of approval from the Financial Industry Regulatory
+Authority FINRA ), effective December 8, 2014, Online Yearbook amended its Articles of Incorporation to change
+its name from Online Yearbook to RMR INDUSTRIALS, INC. 
+
+RMR Industrials, Inc. (the
+ Company , RMR , we , our , us .) seeks to acquire and consolidate
+complementary industrial assets. RMI s consolidation strategy is to assemble a portfolio of mature and value-add
+industrial commodities businesses to generate scalable enterprises with a broad portfolio of products and services addressing
+a common and stable customer base. 
+
+On February 27, 2015 (the Closing
+Date ), the Company entered into and consummated a merger transaction pursuant to an Agreement and Plan of Merger (the Merger
+Agreement by and among the Company, OLYB Acquisition Corporation, a Nevada corporation and wholly owned subsidiary of the
+Company Merger Sub and RMR IP, Inc., a Nevada corporation RMR IP ). In accordance with the terms
+of Merger Agreement, on the Closing Date, Merger Sub merged with and into RMR IP (the Merger ), with RMR IP surviving
+the Merger as our wholly owned subsidiary. 
+
+RMR IP was formed to acquire and consolidate
+complementary industrial commodity assets through capitalizing on the volatile oil markets, down cycles in commodity markets, and
+other ancillary opportunities. RMR IP is focused on managing the supply chain in order to offer a large and diverse set of products
+and services. 
+
+For financial reporting purposes, the Merger
+represented a reverse merger rather than a business combination and RMR IP was deemed to be the accounting acquirer
+in the transaction. Consequently, the assets and liabilities and the historical operations reflected in the Company s financial
+statements post-Merger are those of RMR IP. The Company s assets, liabilities and results of operations have been consolidated
+with the assets, liabilities and results of operations of RMR IP after consummation of the Merger, and the historical financial
+statements of the Company before the Merger were replaced with the historical financial statements of RMR IP before the Merger
+in all post-Merger filings with the SEC. 
+
+On July 28, 2016, we formed RMR Aggregates,
+Inc., a Colorado corporation RMR Aggregates ), as our wholly owned subsidiary. RMR Aggregates was formed to hold
+assets whose primary focus is the mining and processing of industrial minerals for the manufacturing, construction and agriculture
+sectors. These minerals include limestone, aggregates, marble, silica, barite and sand. 
+
+On October 12, 2016, RMR Aggregates acquired
+substantially all of the assets from CalX Minerals, LLC, a Colorado limited liability company CalX through an Asset
+Purchase Agreement. Pursuant to the terms of the Asset Purchase Agreement, RMR Aggregates agreed to purchase, and CalX agreed to
+sell, substantially all of the assets associated with the Mid-Continent Quarry on 41 BLM unpatented placer mining claims in Garfield
+County, Colorado, including the mining claims, improvements, access rights, water rights, equipment, inventory, contracts, permits,
+certain intellectual property rights, and other tangible and intangible assets associated with the limestone mining operation. 
+
+On January 3, 2017, we amended the Articles
+of Incorporation of RMR IP, Inc. to rename the corporation to RMR Logistics, Inc. RMR Logistics ). RMR Logistics
+operates as a wholly-owned subsidiary of the Company to provide transportation and logistics services. 
+
+During January 2018, the Company formed
+Rail Land Company, LLC Rail Land Company as a wholly-owned subsidiary to acquire and develop a rail terminal and
+services facility (the Rail Park ). Rail Land Company purchased an approximately 470-acre parcel of real property
+located in Bennett, Colorado on February 1, 2018. During July 2018, we exercised our option to acquire an additional approximately
+150 acres for a total of 620 acres. 
+
+F- 5 
+
+On April 26, 2019, RMR Logistics
+entered into an asset purchase agreement with H2K, LLC, a Colorado limited liability company the Seller pursuant to which RMR Logistics acquired the Seller s trucking assets. 
+
+On January 1, 2020, the Company changed
+its name from RMR Industrials, Inc. to Rocky Mountain Industrials, Inc., (RMI). 
+
+Basis of Presentation and Consolidation 
+
+The accompanying consolidated financial
+statements for the period ended June 30, 2019 have been prepared in accordance with accounting principles generally accepted in
+the United States for interim financial information in accordance with Securities and Exchange Commission (SEC) regulations. 
+
+Business
+Acquisitions 
+
+When
+the Company acquires businesses where substantially all of the fair value of the gross assets acquired is concentrated in a single
+identifiable asset or group of similar identifiable assets it is not considered a business. As such, the Company accounts for these
+types of acquisitions as asset acquisitions. When substantially all of the fair value of the gross assets acquired is not concentrated
+in a single identifiable asset or a group of similar assets and contains acquired inputs and processes which have the ability to
+contribute to the creation of outputs, these acquisitions are accounted for as business combinations. 
+
+The
+Company considers single identifiable assets as tangible assets that are attached to and cannot be physically removed and used
+separately from another tangible asset without incurring significant cost or significant diminution in utility or fair value. The
+Company considers similar assets as assets that have a similar nature and risk characteristics. 
+
+Whether
+the Company s acquisitions are treated as an asset acquisition under ASC 360 or a business combination under ASC 805, the
+fair value of the purchase price is allocated among the assets acquired and any liabilities assumed by valuing the property as
+if it was vacant. The as-if-vacant value is allocated to land, buildings, improvements and any liabilities,
+based on management s determination of the relative fair values of such assets and liabilities as of the date of acquisition. 
+
+Upon
+acquisition, the Company allocates the purchase price based upon the fair value of the assets and liabilities acquired. The
+Company allocates the purchase price to the fair value of the tangible assets. The Company values improvements at replacement
+cost, adjusted for depreciation. 
+
+Management s
+estimates of value are made using a comparable sales analysis of similar businesses. Factors considered by management in its analysis
+of include equipment types and the sales prices of comparable assets. The Company includes an estimate of property taxes in
+the purchase price allocation of acquisitions to account for the expected liability that was assumed. 
+
+When
+above or below market leases are acquired, the Company values the intangible assets based on the present value of the difference
+between prevailing market rates and the in-place rates measured over a period equal to the remaining term of the lease for above
+market leases and the initial term plus the term of any below market fixed rate renewal options for below market leases that are
+considered bargain renewal options. The above market lease values are amortized as a reduction of rental income over the remaining
+term of the respective leases. The fair value of acquired below market leases, included in deferred revenue on the accompanying
+consolidated balance sheets, is amortized as an increase to rental income on a straight-line basis over the remaining non-cancelable
+terms of the respective leases, plus the terms of any below market fixed rate renewal options that are considered bargain renewal
+options of the respective leases. 
+
+The
+Company capitalizes acquisition costs and due diligence costs if the asset is expected to qualify as an asset acquisition. If the
+asset acquisition is abandoned, the capitalized asset acquisition costs are expensed to acquisition and due diligence costs in
+the period of abandonment. Costs associated with a business combination are expensed to acquisition and due diligence costs as
+incurred. 
+
+In
+the event of a business combination, using information available at the time of business combination, the Company allocates the
+total consideration to tangible assets and liabilities and identified intangible assets and liabilities. During the
+measurement period, which may be up to one year from the acquisition date, the Company may adjust the preliminary purchase price
+allocations after obtaining more information about assets acquired and liabilities assumed at the date of acquisition. 
+
+F- 6 
+
+NOTE B SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES 
+
+A summary of significant accounting policies
+of the Company is presented to assist in understanding the Company s consolidated financial statements. The accounting policies
+presented in these footnotes conform to accounting principles generally accepted in the United States of America GAAP and have been consistently applied in the preparation of the accompanying consolidated financial statements. 
+
+Consolidation 
+
+The consolidated financial statements have
+been prepared in accordance with generally accepted accounting principles in the United States GAAP ). The audited
+consolidated financial statements include the financial condition and results of operations of our wholly-owned subsidiaries, where
+intercompany balances and transactions have been eliminated in consolidation. 
+
+Use of Estimates 
+
+The preparation of financial statements
+in conformity with GAAP requires management to make estimates, judgments, and assumptions that impact the reported amounts of assets,
+liabilities, and expenses, and disclosure of contingent assets and liabilities in the financial statements and accompanying notes.
+Actual results could materially differ from those estimates. Management considers many factors in selecting appropriate financial
+accounting policies and controls, and in developing the estimates and assumptions that are used in the preparation of these financial
+statements. Management must apply significant judgment in this process. In addition, other factors may affect estimates, including:
+expected business and operational changes, sensitivity and volatility associated with the assumptions used in developing estimates,
+and whether historical trends are expected to be representative of future trends. The estimation process may yield a range of potentially
+reasonable estimates of the ultimate future outcomes and management must select an amount that falls within that range of reasonable
+estimates. Although these estimates are based on the Company s knowledge of current events and actions it may undertake in
+the future, actual results may ultimately materially differ from those estimated amounts and assumptions used in the preparation
+of the financial statements. 
+
+Revenue Recognition 
+
+As of January 1,2018, we adopted ASU NO.
+2014-09, Revenue from Contracts with Customers (Topic 606). The Company recognizes
+revenues, upon delivery of goods to the customer at which time the Company s performance obligation is satisfied
+ at an amount that the Company expects to be entitled to in exchange for those goods in accordance with the five step analysis
+outlined in Topic 606: (i) identify the contract with the customer, (ii) identify the performance obligations in the contract,
+(iii) determine the transaction price, (iv) allocate the transaction price to the performance obligations, and (v) recognize revenue
+when (or as) performance obligations are satisfied. 
+
+Revenue includes product sales of
+limestone, aggregate materials and other transportation charges to customers, net of discounts, allowances or taxes, as applicable. 
+
+Segment Reporting 
+
+Operating segments are
+identified as components of an enterprise about which separate discrete financial information is available for evaluation by
+the chief operating decision-maker in making decisions regarding resource allocation and assessing performance. As of June
+30, 2019, the Company views its operations and manages its business as three operating segments, Aggregates mining, Logistics
+and Rail Park. 
+
+Cash and Cash Equivalents 
+
+The Company considers all highly liquid
+securities with original maturities of three months or less at the date of purchase to be cash equivalents. As of June 30, 2019,
+the Company had cash of 855,977 and no cash equivalents. The Company may occasionally maintain cash balances in excess of amounts insured
+by the Federal Deposit Insurance Corporation FDIC ). The amounts are held with major financial institutions and
+are monitored by management to mitigate credit risk. 
+
+F- 7 
+
+Restricted Cash 
+
+The Company has 112,130 in
+restricted cash held as cash collateral for a reclamation bond for the Bureau of Land Management and Colorado Division of
+Reclamation, Mining and Safety, to be held for the rehabilitation costs of the Mid-Continent Quarry and conclusion of the
+mining at this location. 
+
+Accounts Receivable 
+
+Accounts receivables are recorded at the
+invoiced amount and do not bear interest. The Company analyzes collectability based on historical payment patterns and macroeconomic
+factors which may affect the customers industry. Past due balances over 90 days based on payment terms are reviewed individually
+for collectability. The Company does not have any off-balance sheet credit exposure related to its customers. Concentration of
+credit risk is limited to certain customers to whom we make substantial sales. As of June 30, 2019, the Company had one large customer
+that accounted for approximately 34 of our accounts receivable balance and 69 of our revenue. To reduce risk, we routinely assess
+the financial strength of our most significant customers, using standard credit risk evaluation methods with reference to publicly
+available and customer supplied information, and monitor the amounts owed and take appropriate action when necessary. As a result,
+we believe that accounts receivable credit risk exposure is limited. 
+
+Inventory 
+
+Inventories are valued at the lower of
+cost or market. Cost is determined by the weighted average method. 
+
+Property, Plant and Equipment 
+
+Property, plant and equipment are recorded
+at cost. Significant improvements are capitalized, while maintenance and repair expenses are charged to operations as incurred.
+The straight-line method of depreciation is used for substantially all of the assets for financial reporting purposes. 
+
+Depletion of acquired mineral properties
+is determined pursuant to a unit-of-extraction method which provides for depletion of such costs over the productive life of the
+mineral properties. The unit-of-extraction rate is determined by computing the production for the period as a percentage of total
+estimated and recoverable limestone as of that period. Significant judgement is involved in the determination of the estimate of
+total recoverable limestone in the unit-of-extraction method. Our internal engineering estimates of total estimated and recoverable
+limestone is a key component in determination of the unit-of-extraction rate. Our estimates of the recoverable limestone may change,
+possibly in the near term, resulting in changes to depletion rates in future periods. During the years ended June 30, 2019 and
+2018, depletion of mineral properties was approximately 7,992 and 10,618 
+
+We are considered an exploration
+stage company under the U.S. Securities and Exchange Commission SEC Industry Guide 7 as such the Company
+expenses any development costs as incurred. 
+
+Land Under Development 
+
+Land under development is recorded at cost.
+Significant improvements are capitalized, while maintenance and repair expenses are charged to operations as incurred. These costs
+relate to the ongoing development of the Rail Park. 
+
+Lease Obligations 
+
+On April 1, 2019, we adopted FASB ASU 2016-02, Leases: (Topic 842) ASU 2016-02 ), which sets out the principles for the
+recognition, measurement, presentation and disclosure of leases for both parties to a contract (i.e. lessees and
+lessors). The new standard requires lessees to apply a dual approach, classifying leases as either finance or
+operating leases based on the principle of whether or not the lease is effectively a financed purchase by the
+lessee. This classification will determine whether lease expense is recognized based on an effective interest
+method or on a straight-line basis over the term of the lease, respectively. A lessee is also required to record a
+right-of-use asset and a lease liability for all leases with a term of greater than 12 months regardless of their
+classification. Leases with a term of 12 months or less will be accounted for similar to existing guidance for
+operating leases today. The new standard requires lessors to account for leases using an approach that is substantially
+equivalent to existing guidance for sales-type leases, direct financing leases and operating leases. 
+
+For leases in which the Company is
+the lessee, the Company determined that the guidance has a material impact as the Company has three operating leases for
+office space. Two of these leases have greater than 12 months remaining on the term of these leases at the date of the
+adoption of this guidance and as such the Company recorded a right of use asset and a lease liability of 491,111 at the date
+of adoption. Leases with a term of 12 months or less will be accounted for similar to existing guidance for operating leases.
+The Company also is committed to a lease for a portable office space and for the use of a Dozer within the Company s
+aggregates operation, on adoption of the new lease accounting standard the Company recorded a right of use asset and lease
+liability of 35,625 for these leases. 
+
+F- 8 
+
+Equipment Loan 
+
+The Company has bought certain specialized
+mining and trucking equipment under finance terms. The financed equipment is recorded at cost at acquisition date. The straight-line
+method of depreciation is used for financial reporting purposes. 
+
+Goodwill 
+
+Goodwill represents the excess of a purchase
+price over the fair value of net tangible and identifiable intangible assets of the businesses acquired by the Company. Goodwill
+is tested for impairment annually or more often if impairment indicators are present at the reporting unit level. The Company has
+elected January 1st as its annual goodwill impairment assessment date. If the existence of events or circumstances indicates
+that it is more likely than not that fair values of the reporting units are below their carrying values, the Company performs additional
+impairment tests during interim periods to evaluate goodwill for impairment. 
+
+Deposits 
+
+Deposits consist of a security deposit
+in connection with various office leases. 
+
+Impairment of Long-Lived Assets 
+
+The Company evaluates its long-lived assets
+for impairment when events or changes in circumstances indicate that the related carrying amounts may not be recoverable. Asset
+impairment is considered to exist if the total estimated future cash flows on an undiscounted basis are less than the carrying
+amount of the asset. Any impairment losses are measured and recorded based on discounted estimated future cash flows and are
+charged to income on the Company s consolidated statements of operations. In estimating future cash flows, assets are grouped
+at the lowest level for which there are identifiable cash flows that are largely independent of future cash flows from other asset
+groups. The Company s estimates of future cash flows are based on numerous assumptions, including expected commodity prices,
+production levels, capital requirements and estimated salvage values. It is possible that actual future cash flows will be significantly
+different than the estimates, as actual future quantities of recoverable material, future commodity prices, production levels and
+costs and capital are each subject to significant risks and uncertainties. As of June 30, 2019, the Company s mineral resources
+do not meet the definition of proven or probable reserves or value beyond proven or probable reserves and any potential revenue
+has been excluded from the cash flow assumptions. Accordingly, recoverability of the long-lived assets capitalized
+cost is based primarily on estimated salvage values or alternative future uses. 
+
+Accrued Reclamation Liability 
+
+The Company incurs reclamation liabilities
+as part of its mining activities. Quarry activities require the removal and relocation of significant levels of overburden to access
+materials of usable quantity and quality. The same overburden material is used to reclaim depleted mine areas, which must be sloped
+to a certain gradient and seeded to prevent erosion in the future. Reclamation methods and requirements can differ depending on
+the quarry and state rules and regulations in existence for certain locations. As of June 30, 2019, the Company s undiscounted
+reclamation obligations totaled approximately 221,081. This obligation is expected to be settled within the next 20 years. 
+
+Reclamation costs resulting from the normal
+use of long-lived assets, either owned or leased, are recognized over the period the asset is in use. The obligation, which cannot
+be reduced by estimated offsetting cash flows, is recorded at fair value as a liability at the obligating event date and is accreted
+through charges to selling, general and administrative costs, inclusive of depreciation, depletion and amortization. The fair value
+is based on our estimate of the cost required for a third party to perform the legally required reclamation tasks including a reasonable
+profit margin. This fair value is also capitalized as part of the carrying amount of the underlying asset and depreciated over
+the estimated useful life of the asset. 
+
+The mining reclamation reserve is based
+on management s estimate of future cost requirements to reclaim property at its operating quarry site. Costs are estimated
+in current dollars and inflated until the expected time of payment using a future estimated inflation rate and then discounted
+back to present value using a credit-adjusted, risk-free rate on obligations of similar maturity adjusted to reflect our credit
+rating. The Company will review reclamation liabilities at least every three years for a revision to the cost or a change in the
+estimated settlement date. Additionally, reclamation liabilities are reviewed in the period in which a triggering event occurs
+that would result in either a revision to the cost or a change in the estimated settlement date. Examples of events that would
+trigger a change in the cost include a new reclamation law or amendment to an existing mineral lease. Examples of events that would
+cause a change in the estimated settlement date include the acquisition of additional reserves or early or delayed closure of a
+site. Any affect to earnings from cost revisions is included in cost of revenue. 
+
+A reconciliation of the carrying amount
+of our accrued reclamation liabilities is as follows: 
+
+Balance at April 1, 2019 
+ 60,990 
+ 
+ Liabilities incurred 
+ - 
+ 
+ Accretion expense 
+ 1,488 
+ 
+ Balance at June 30, 2019 
+ 62,478 
+
+F- 9 
+
+Fair Value Measurements 
+
+The fair value of a financial instrument
+is the amount that could be received upon the sale of an asset or paid to transfer a liability in an orderly transaction between
+market participants at the measurement date. Financial assets are marked to bid prices and financial liabilities are marked
+to offer prices. Fair value measurements do not include transaction costs. A fair value hierarchy is used to prioritize
+the quality and reliability of the information used to determine fair values. Categorization within the fair value hierarchy
+is based on the lowest level of input that is significant to the fair value measurement. The fair value hierarchy is defined
+into the following three categories: 
+
+- Level 1: Quoted market prices in active
+markets for identical assets or liabilities 
+
+ - Level 2: Observable market-based inputs
+or inputs that are corroborated by market data 
+
+ - Level 3: Unobservable inputs that are
+not corroborated by market data 
+
+The fair value of notes payable was 1,059,466 and 0 as at
+June 30, 2019 and March 31, 2019 respectively. 
+
+Net Loss per Common Share 
+
+Basic net loss per common share is calculated
+by dividing the net loss attributable to common stockholders by the weighted average number of common shares outstanding during
+the period, without consideration for the potentially dilutive effects of converting stock options or restricted stock purchase
+rights outstanding. Diluted net loss per common share is calculated by dividing the net loss attributable to common stockholders
+by the weighted average number of common shares outstanding during the period and the potential dilutive effects of stock options
+or restricted stock purchase rights outstanding during the period determined using the treasury stock method. There are no such
+anti-dilutive common share equivalents outstanding as June 30, 2019 which were excluded from the calculation of diluted loss per
+common share. 
+
+Income Taxes 
+
+The Company accounts for income taxes under
+the asset and liability method, which requires, among other things, that deferred income taxes be provided for temporary differences
+between the tax bases of the Company's assets and liabilities and their financial statement reported amounts. Under this method,
+deferred tax assets and liabilities are determined on the basis of the differences between the financial statements and tax basis
+of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The
+effect of a change in tax rates on deferred tax assets and liabilities is recognized in income in the period that includes the
+enactment date. 
+
+A valuation allowance is recorded by the
+Company when it is more likely than not that some portion or all of a deferred tax asset will not be realized. In making such a
+determination, management considers all available positive and negative evidence, including future reversals of existing taxable
+temporary differences, projected future taxable income, and ongoing prudent and feasible tax planning strategies in assessing the
+amount of the valuation allowance. When the Company establishes or reduces the valuation allowance against its deferred tax assets,
+its provision for income taxes will increase or decrease, respectively, in the period such determination is made. 
+
+Additionally, the Company recognizes the
+tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination
+by the taxing authorities based on the technical merits of the position. The tax benefit recognized in the financial statements
+for a particular tax position is based on the largest benefit that is more likely than not to be realized upon settlement. Accordingly,
+the Company establishes reserves for uncertain tax positions. The Company has not recognized interest or penalties in its statement
+of operations and comprehensive loss since inception. 
+
+Non-controlling Interests 
+
+The Company s non-controlling interests
+are interests in RMR Aggregates, Inc. not owned by the Company. The Company evaluates whether non-controlling interests are subject
+to redemption features outside of its control. The amounts reported for non-controlling interests on the Company s Consolidated
+Statements of Operations represent the portion of income or losses not attributable to the Company. 
+
+F- 10 
+
+NOTE C GOING CONCERN 
+
+The Company's financial statements
+are prepared using accounting principles generally accepted in the United States of America applicable to a going concern,
+which contemplates the realization of assets and liquidation of liabilities in the normal course of business. Under the going
+concern assumption, an entity is ordinarily viewed as continuing in business for the foreseeable future with neither the
+intention nor the necessity of liquidation, ceasing trading, or seeking protection from creditors pursuant to applicable laws
+and regulations. Accordingly, assets and liabilities are recorded on the basis that the entity will be able to realize its
+assets and discharge its liabilities in the normal course of business. However, the Company does not have sufficient cash or
+other current assets, nor does it have an established and adequate source of revenues, to cover its operating costs and to
+allow it to continue as a going concern. As a result, the Company s auditors issued a going concern opinion for the
+financial statements at March 31, 2019. 
+
+The ability of the Company to continue
+as a going concern is dependent upon its ability to successfully accomplish the business plan and eventually attain profitable
+operations. During the next year, the Company s foreseeable cash requirements will relate to continual development of the
+operations of its business, maintaining its good standing and making the requisite filings with the Securities and Exchange Commission,
+and the payment of expenses associated with research and development. The Company may experience a cash shortfall and be required
+to raise additional capital. 
+
+Historically, the Company has mostly relied
+upon funds from the sale of shares of stock and from acquiring loans to finance its operations and growth. Management may raise
+additional capital through future public or private offerings of the Company s stock or through loans from private investors,
+although there can be no assurance that it will be able to obtain such financing. The Company s failure to do so could have
+a material and adverse effect upon it and its shareholders. 
+
+In the past year, the Company funded
+operations by using cash proceeds received through the issuance of common and preferred stock and proceeds from debt financing. For
+the coming year, the Company plans to continue to fund the Company through debt and securities sales and issuances until the
+company generates enough revenues through the operations as stated above. 
+
+F- 11 
+
+The Company is currently working through
+a number of opportunities to ensure the business will continue as a going concern. These include: 
+
+1. 
+ The
+ development of the Rail Park will generate sustained annual revenues by providing transloading services and realized gains on
+ the sale of land while limiting future capital development costs. 
+ 
+ 2. 
+ Expansion of the Mid-Continent Quarry, which will allow greater volume production with limited fixed cost increases. 
+
+NOTE D ACCOUNTS RECEIVABLE 
+
+Accounts Receivable at June 30, 2019 was 241,273 compared to
+ 102,870 at March 31, 2019. The increase is due to a increase in production and product demand. No allowance is recorded, as all
+items are current. 
+
+NOTE E INVENTORY 
+
+Inventory, which primarily represents finished goods, packaging
+and fuel, are valued at the lower of cost (average) or market. 
+
+June 30, 2019 
+ March 31, 2019 
+ 
+ Blasted Rock 
+ 32,246 
+ 41,021 
+ 
+ Finished Goods 
+ - 
+ 923 
+ 
+ Packaging 
+ - 
+ 2,450 
+ 
+ Propane and Fuel 
+ - 
+ 4,582 
+ 
+ Total 
+ 32,246 
+ 48,976 
+
+NOTE F PROPERTY, PLANT AND EQUIPMENT 
+
+The following summarizes the Company s assets at June
+30, 2019 and March 31, 2019 respectively: 
+
+June 30, 
+2019 
+ March 31, 
+ 2019 
+ 
+ Recoverable Limestone 
+ 1,477,469 
+ 1,477,469 
+ 
+ Mill Equipment 
+ 1,273,395 
+ 1,287,743 
+ 
+ Mining Equipment 
+ 336,934 
+ 336,934 
+ 
+ Mobile Equipment 
+ 2,923,782 
+ 849,627 
+ 
+ Property improvements 
+ 69,263 
+ 65,637 
+ 
+ Office Equipment 
+ 9,710 
+ 1,630 
+ 
+ Total Fixed Assets 
+ 6,090,553 
+ 4,019,040 
+ 
+ Less Accumulated Depreciation 
+ (839,918 
+ (758,529 
+ 
+ Property, plant and equipment, net of accumulated depreciation 
+ 5,250,635 
+ 3,260,511 
+
+Years 
+ Depreciation rate 
+ 
+ Mill Equipment 
+ 3 15 
+ 6.7 - 33.3 
+ 
+ Mining Equipment 
+ 2 15 
+ 6.7 - 50.0 
+ 
+ Mobile Equipment 
+ 5 12 
+ 8.3 - 20.0 
+ 
+ Office Equipment 
+ 2 3 
+ 33.3 - 50.0 
+
+F- 12 
+
+NOTE G NOTE PAYABLE 
+
+On April 4, 2019, RMI entered into a Senior Unsecured
+Promissory Note with Bienville Capital Partners, LP, a New York based investment firm for 1,000,000. The note accrued to
+ 1,250,000 at maturity on April 4, 2020. Subsequent to the date of this filing, the note was paid off with proceeds from
+an issuance of preferred stock. 
+
+On April 26, 2019, RMR Logistics entered into an asset
+purchase agreement with H2K, LLC, a Colorado Limited liability company the seller ). Pursuant to the agreement
+which RMR Logistics acquired the sellers trucking assets. As a result of this acquisition RMR Logistics entered into a Term
+loan for 1,800,000. The loan matures on April 26 th , 2026 and accrues interest of 5.64 and is classified under
+long term liabilities, note payable, net of discount. Subsequent to the date of this filing, certain assets acquired in the
+sale were sold and used to pay down the term loan. 
+
+NOTE H EQUIPMENT LOAN AND CAPITAL LEASE PAYABLE 
+
+The Company has entered into various equipment
+loans with an equipment manufacturer in connection with the CalX acquisition, pursuant to which we acquired equipment with an aggregate
+principal value of approximately 528,593. The equipment loans require payments over 12 months at a fixed interest rate from 1.99 
+to 4.78 . The Company s obligations under these contracts are collateralized by the equipment purchased. 
+
+The Company also has a capital lease agreement,
+which was assumed in connection with the CalX acquisition. The capital lease has a remaining term of less than 12 months for mining
+equipment, which is included as part of property, plant and equipment. Depreciation related to capital lease assets is included
+in depreciation expense. 
+
+Future payments on capital lease obligations
+are as follows: 
+
+Fiscal year ended March 31: 
+
+2020 
+ 20,837 
+ 
+ 2021 
+ - 
+ 
+ Total future minimum lease payments 
+ 20,837 
+
+F- 13 
+
+NOTE I TRANSACTIONS WITH RELATED PARTIES 
+
+The Company has accrued 1,190,000
+for unpaid officers compensation expense in accordance with consulting agreements with our Non-executive Board
+Chairman and Chief Executive Officer. Under the terms of each consulting agreement, each consultant shall serve as an
+executive officer to the Company and receive monthly compensation of 35,000. The consulting agreements may be terminated by
+either party for breach or upon thirty days prior written notice. 
+
+NOTE J SHAREHOLDERS DEFICIT 
+
+Preferred Stock 
+
+The Company has authorized 50,000,000 shares
+of preferred stock for issuance. At June 30, 2019, no shares of preferred stock were issued and outstanding. 
+
+Common Stock 
+
+The Company has authorized
+2,100,000,000 shares of common stock for issuance, including 2,000,000,000 shares of Class A Common Stock and 100,000,000
+shares of Class B Common Stock. At June 30, 2019 and March 31, 2019, the Company had 35,785,858 of Class A Common Stock
+outstanding. On June 30, 2019 and March 31, 2019, the Company had 4,103,252 and 4,032,752 shares issued and outstanding,
+respectively. 
+
+The holders of Class A Common Stock have
+the right to vote on all matters on which stockholders have the right to vote. The holders of Class B Common Stock have the right
+to vote solely on matters where the vote of such holders is explicitly required under Nevada law. The holders of Class A
+Common Stock and Class B Common Stock have equal distribution rights, provided that distributions in securities shall be made in
+either identical securities or securities with similar voting characteristics. The holders of Class A Common Stock and Class
+B Common Stock are entitled to receive identical per-share consideration upon a merger, conversion or exchange of the Company with
+another entity, and have equal rights upon a dissolution, liquidation or winding-up of the Company. 
+
+During the period ended June 30,
+2019, an accredited investor exercised a warrant to purchase shares of Class B Common Stock for which the Company received
+ 1,500,000 in gross proceeds. 
+
+NOTE K SHARE-BASED COMPENSATION 
+
+The RMR Industrials,
+Inc. 2015 Equity Incentive Plan (the 2015 Plan ), authorizes the issuance of up to 30 of the outstanding shares
+of Common Stock at any time pursuant to awards made by the Company s board of directors. As of June 30, 2019, there
+were shares still available for future issuance under the 2015 Plan. 
+
+Stock Options 
+
+The Company grants stock options to certain
+employees that give them the right to acquire our Class B common stock under the 2015 Plan. The exercise price of options
+granted is equal to the closing price per share of our stock at the date of grant. The nonqualified options vest at a rate of 33 
+on each of the first three anniversaries of the grant date provided that the award recipient continues to be employed by us through
+each of those vesting dates and expire ten years from the date of grant. 
+
+F- 14 
+
+NOTE L SELLING GENERAL AND
+ADMINISTRATIVE COSTS 
+
+Selling general and administrative
+costs for the three month period ended June 30, 2019 were 2,927,187 compared to 1,411,849 in the prior year. Increases in
+salaries, employee benefits, and consulting fees were primarily responsible for the increase. 
+
+NOTE M INTEREST EXPENSE 
+
+The interest expense for the three
+month period ended June 30, 2019 was 83,579 compared to the prior year of 235,775 the decrease is the result of a note
+payable of 2,250,000 that was repaid on October 1, 2018. 
+
+NOTE N SEGMENT REPORTING 
+
+Rocky Mountain Industrials, Inc (RMI)
+has three reportable segments: aggregates, logistics and Rail Park. The aggregates segment produces chemical grade lime for
+use in the aggregates market. The logistics segment is in the process of developing a rail access delivery location and will
+generate sales through a combination of land sales as well as lease income and Rail services. The Rail Park segment will
+require significant future capital injections before the segment will start generating recurring revenue. The Company expects
+that the rail park development will conclude late in the Company s 2021 financial year or early in the Company s
+2022 financial year. The aggregates segment relied significantly on sales to the West Elk Mine for the period
+ended June 30, 2019. The sales to the West Elk Mine contributed 69 of revenue to this segment. 
+
+The accounting policies of the segments
+are the same as those described in the summary of significant accounting policies. RMI evaluates performance based on profit or
+loss from operations before income taxes not including nonrecurring gains and losses. 
+
+RMI accounts for intersegment sales and
+transfers as if the sales or transfers were to third parties, that is, at current market prices. 
+
+RMI s reportable segments are strategic
+business units that offer different products and services. They are managed separately because each business requires different
+technology and marketing strategies. 
+
+Description 
+ Aggregates 
+ Logistics 
+ Rail Park 
+ Other 
+ Total 
+ 
+ Revenues from external customers 
+ 233,950 
+ 325,461 
+ - 
+ (81,687 
+ 477,724 
+ 
+ Intersegment revenues 
+ (81,689 
+ 81,689 
+ - 
+ - 
+ - 
+ 
+ Interest revenue 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ Interest expense 
+ 1,254 
+ 18,996 
+ - 
+ 63,329 
+ 83,579 
+ 
+ Depreciation, depletion and amortization 
+ 73,179 
+ 58,178 
+ - 
+ 302 
+ 131,659 
+ 
+ Segment loss 
+ 483,321 
+ 51,949 
+ 6,773 
+ 2,404,334 
+ 2,936,342 
+ 
+ Segment assets 
+ 3,595,281 
+ 2,732,450 
+ 5,823,125 
+ 1,161,902 
+ 13,312,758 
+ 
+ Expenditure for segment assets 
+ - 
+ 2,271,025 
+
+2,271,025 
+
+F- 15 
+
+Item 2. Management's Discussion and Analysis of Financial
+Condition and Results of Operations 
+
+The following discussion should be read in conjunction with
+our consolidated financial statements and notes thereto included elsewhere in this Quarterly Report on Form 10-Q. This discussion
+includes forward-looking statements for purposes of U.S. federal securities laws. See Cautionary Note Regarding Forward-Looking
+Statements . 
+
+Overview 
+
+We were incorporated in the State of Nevada on August 6, 2012
+under the name Online Yearbook with the principal business objective of developing and marketing online yearbooks
+for schools, companies, and government agencies. 
+
+On November 17, 2014, Rocky Mountain Resource Holdings, Inc. RMR became our majority shareholder by acquiring 5,200,000 shares of our common stock (the Shares ),
+or 69.06 of the issued and outstanding shares of our common stock, pursuant to stock purchase agreements with Messrs. El Maraana
+and Salah Blal, our former officers and directors. The Shares were acquired for an aggregate purchase price of 357,670. 
+
+On December 8, 2014, we changed our name to RMR Industrials,
+Inc. in connection with a change in our business plan. 
+
+RMR Industrials, Inc. we , us , the
+ Company or RMR is dedicated to operating industrial assets in the United States which include minerals,
+materials, and services. Our vision is to become a key provider of industrial materials and services in the Rocky Mountain region.
+We have a strategy to own, operate, develop, acquire and vertically integrate complementary industrial businesses. 
+
+On February 27, 2015 (the Closing Date ), we entered
+into and consummated a merger transaction pursuant to an Agreement and Plan of Merger (the Merger Agreement by and
+among the Company, OLYB Acquisition Corporation, a Nevada corporation and wholly owned subsidiary of the Company Merger
+Sub ), and RMR IP, Inc., a Nevada corporation RMR IP ). In accordance with the terms of Merger Agreement, on
+the Closing Date, Merger Sub merged with and into RMR IP (the Merger ), with RMR IP surviving the Merger as our wholly
+owned subsidiary. Chad Brownstein and Gregory M. Dangler are directors of the Company and co-owners of RMRH, which was the majority
+shareholder of the Company prior to the Merger. Additionally, Messrs. Brownstein and Dangler were indirect controlling shareholders
+and directors of RMR IP prior to the Merger. As such, the Merger was among entities under the common control of Messrs. Brownstein
+and Dangler. 
+
+On July 28, 2016, we formed RMR Aggregates, Inc., a Colorado
+corporation RMR Aggregates ), as our wholly owned subsidiary. RMR Aggregates was formed to hold assets primarily
+relating to the mining and processing of industrial minerals for the manufacturing, construction, and agriculture sectors. These
+minerals include limestone, aggregates, marble, silica, barite, and sand. 
+
+On October 12, 2016, pursuant to an Asset Purchase Agreement
+with CalX Minerals, LLC, a Colorado limited liability company CalX ), we completed the purchase of substantially
+all of the assets associated with the business of operating the Mid-Continent Limestone Quarry on 41 BLM unpatented placer mining
+claims in Garfield County, Colorado. CalX assets include the mining claims, improvements, access rights, water rights, equipment,
+inventory, contracts, permits, certain intellectual property rights, and other tangible and intangible assets associated with the
+limestone mining operation. The acquisition of these CalX assets will promote the development and implementation of the Company s
+limestone mining operations in Colorado. 
+
+6 
+
+During January 2018, the Company formed Rail Land Company, LLC Rail Land Company as a wholly owned subsidiary to acquire and develop a rail terminal and services facility Rail
+Park ). Rail Land Company purchased 620 acres of real estate located in Bennett, Colorado. The Company s development of the Rail Park is intended
+to expand the Company s customer base for our products by utilizing rail freight capabilities to reach customers in the greater
+Denver area and by expanding our business to include rail transportation solutions and services. 
+
+On April 26, 2019 RMR Logistics entered into an asset
+Purchase agreement with H2K, LLC, a Colorado Limited Liability Company the Seller pursuant to which RMR
+Logistics acquired the sellers trucking assets. 
+
+On January 1, 2020 we changed our name to Rocky Mountain
+Industrials, Inc. in connection with a change in our business plan. 
+
+Results of Operations 
+
+Comparison of the Three Months Ended June 30, 2019 and June
+30, 2018 
+
+Revenues 
+
+Our revenues for the three-month period ended June 30, 2019
+were 477,724. This compares to revenue for the same period ended June 30, 2018 of 329,614. The increase in revenues were driven
+by the increased tons sold from the Company s Glenwood Springs mine. 
+
+Cost of Goods Sold 
+
+Our cost of goods sold for the three-month period ended June
+30, 2019 were 421,300 This compares to cost of goods sold for the same period ended June 30, 2018 of 319,854. The increase in
+costs related to increased production during the year. 
+
+Operating Expenses 
+
+Our operating expenses for the three-month period ended June
+30, 2019 were 2,927,187. This compares to operating expenses for the same periods ended June 30, 2018 of 1,411,849. Operating
+expenses consisted of overhead costs related to mining operations, consulting services from related parties, public company costs,
+salaries and wages, and depreciation and amortization. The increase was due to increased head count coupled with costs incurred
+by the Company in relation to the Company s rail park development. 
+
+Interest Expense (Income), net 
+
+Our interest expense, net for the three-month
+period ended June 30, 2019 was 83,579, compared to 235,775 of interest expense for the same period ended June 30, 2019. The 2,250,000
+note payable issued to an accredited investor in October 2016 was paid off on October 3, 2018. 
+
+7 
+
+Net Loss Attributable to Rocky Mountain
+Industrials, Inc. 
+
+Our net loss for the three-month period ended June 30, 2019
+was 2,936,342. This compares to a net loss for the same period ended June 30, 2018 of 1,637,864. 
+
+Liquidity and Capital Resources 
+
+As of June 30, 2019, we had current assets of 1,376,373, total
+current liabilities of 4,745,626 and working capital deficiency of 3,369,253. We have incurred an accumulated loss of 38,217,961
+since inception. Our independent auditors issued an audit opinion for our financial statements for the fiscal year ended March
+31, 2019 which includes a statement expressing substantial doubt as to our ability to continue as a going concern due to our limited
+liquidity and our lack of revenues. 
+
+We will be seeking additional capital to execute our business
+plan and reach positive cash flow from operations. Our base monthly expenses are approximately 200,000 per month. As evidenced
+by approximately 1.2 million of our current liabilities being owed to related parties, we have relied historically on related
+parties to sustain the Company s operations. In order to successfully execute our business plan, the net proceeds of a 10-20
+million offering will be required to finance our planned acquisition and for general working capital purposes. 
+
+We do not generate adequate cash flows to support our existing
+operations. Moreover, the historical and existing capital structure is not adequate to fund our planned growth. Our current cash
+requirements are significant due to our business plan which contemplates future acquisitions. We anticipate generating losses at
+least through the 2020 fiscal year. We anticipate that we will be able to raise sufficient amounts of working capital in the near
+term through debt or equity offerings as may be required to meet short-term obligations. 
+
+Other than as stated above, we currently do not have any arrangements
+for additional financing, and we may not be able to obtain financing when required. Our future is dependent upon our ability to
+obtain financing, a successful marketing and promotion program, and, further in the future, achieving a profitable level of operations.
+Obtaining commercial loans, assuming those loans would be available, will increase our liabilities and future cash commitments. We
+will require additional funds to maintain our reporting status with the SEC and remain in good standing with the state of Nevada.
+There are no assurances that we will be able to raise the required working capital on favorable terms, in a timely manner or at
+all. Any failure to secure additional financing may force us to modify our business plan. In addition, we cannot be assured of
+profitability in the future. 
+
+Going Concern 
+
+We have incurred net losses since our inception on October 15,
+2014 through June 30, 2019 totaling 38,217,961 and have completed the preliminary stages of our business plan. We anticipate
+incurring additional losses before realizing any revenues and will depend on additional financing in order to meet our continuing
+obligations and ultimately to attain profitability. Our ability to obtain additional financing, whether through the
+issuance of additional equity or through the assumption of debt, is uncertain. Accordingly, our independent auditors 
+report on our financial statements for the fiscal year ended March 31, 2019 includes an explanatory paragraph regarding concerns
+about our ability to continue as a going concern, including additional information contained in the notes to our financial statements
+describing the circumstances leading to this disclosure. The financial statements do not include any adjustments that
+might result from the uncertainty about our ability to continue our business. 
+
+Recently Issued Accounting Pronouncements 
+
+We do not expect the adoption of any recently issued accounting
+pronouncements to have a significant impact on our net results of operations, financial position, or cash flows. 
+
+8 
+
+Off-Balance Sheet Arrangements 
+
+We have no off-balance sheet arrangements. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market
+Risk 
+
+Not Required 
+
+Item 4. Controls and Procedures 
+
+Evaluation of Disclosure Controls and Procedures 
+
+As of the end of the period covered by this report, we conducted
+an evaluation, under the supervision and with the participation of our Chief Executive Officer and
+Chief Financial Officer of our disclosure controls and procedures (as defined in Rule 13a-15(e) and Rule 15d-15(e) of the Exchange Act). Based upon this
+evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures
+were not effective due to the material weakness described below. 
+
+In light of the material weakness described below, we performed
+additional analysis and other post-closing procedures to ensure that our condensed consolidated financial statements were prepared
+in accordance with generally accepted accounting principles. Accordingly, we believe that the condensed consolidated financial
+statements included in this report fairly present, in all material respects, our financial condition, results of operations and
+cash flows for the periods presented. 
+
+Material Weakness and Related Remediation Initiatives 
+
+Our Chief Executive Officer and Chief
+Financial Officer have concluded that as of June 30, 2019, there was a material weakness in our
+internal control over financial reporting in that, due to budget constraints, the Company s accounting department does not
+have sufficient accounting personnel (either in-house or external) necessary to ensure that complete and effective financial reporting
+controls are designed and implemented. Accordingly, we did not perform timely and sufficient internal or external review of our
+current fiscal year financial reporting, which resulted in untimely financial statement filings. 
+
+Remediation of Internal Control Deficiencies and Expenditures 
+
+We are developing a plan to address this material weakness,
+which includes hiring qualified accounting personnel and establishing a formal audit committee. We are uncertain at this time of
+the costs necessary to remediate the material weakness. Once implemented, remedial controls will have to be in place for at least
+several quarters before management is able to conclude that the material weakness has been remediated. We intend to continue to
+evaluate and strengthen our internal control over financial reporting systems. These efforts require significant time and resources.
+If we are unable to establish adequate internal control over financial reporting systems, we may encounter difficulties in the
+audit or review of our financial statements by our independent registered public accounting firm, which in turn may have a material
+adverse effect on our ability to prepare financial statements in accordance with GAAP and to comply with our SEC reporting obligations. 
+
+9 
+
+Changes in Internal Control Over Financial Reporting 
+
+There were no changes in our internal control over financial
+reporting, as defined in Rule 13a-15(f) and 15d-15(f) under the Exchange Act, during the fiscal quarter ended June 30, 2019
+that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II - OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+
+None. 
+
+Item 1A. Risk Factors 
+
+Not required. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of
+Proceeds 
+
+During the three months ended June 30, 2019, we sold to
+accredited investors two shares of preferred stock for gross proceeds of
+ 200,000. 
+
+Item 3. Defaults Upon Senior Securities 
+
+None. 
+
+Item 4. Mine Safety Disclosures 
+
+Information regarding mine safety violations is included in
+Exhibit 95 to this quarterly report. 
+
+Item 5. Other Information 
+
+None. 
+
+Item 6. Exhibits 
+
+Exhibit Number 
+ 
+ Exhibit Description 
+
+31.1 
+ 
+ Certification of the Principal Executive Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 31.2 
+ 
+ Certification of the Principal Financial Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 32.1 
+ 
+ Certification of the Principal Executive Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 32.2 
+ 
+ Certification of the Principal Financial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 95 
+ 
+ Mine Safety Disclosures 
+ 
+ 101 
+ 
+ Interactive Data Files 
+
+Filed
+herewith 
+
+10 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+ROCKY MOUNTAIN INDUSTRIALS, INC. 
+
+Date: December 31 , 2020 
+ By: 
+ /s/ Gregory M. Dangler 
+
+Gregory M. Dangler 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: December 31,
+2020 
+ By: 
+ /s/ William M. Brown 
+
+William M. Brown 
+
+Chief Financial Officer 
+
+(Principal Financial Officer and Principal Accounting Officer) 
+
+<EX-31.1>
+ 2
+ tm2032599d1_ex31-1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 
+
+CERTIFICATION PURSUANT TO 
+
+ EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a) 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+I, Gregory Dangler, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report of Rocky Mountain Industrials, Inc. for the period ended June 30, 2019. 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The Registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its subsidiaries, is made known to us by others within those entities, particularly during the period in which the report is being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the Registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+
+5. 
+ The Registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design of operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Date: December 31 ,
+ 2020 
+ By: 
+ /s/
+Gregory M. Dangler 
+
+Gregory M. Dangler 
+
+Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ tm2032599d1_ex31-2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+CERTIFICATION PURSUANT TO 
+
+ EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a) 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+I, William Brown, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report of Rocky Mountain Industrials, Inc. for the period ended June 30, 2019. 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The Registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its subsidiaries, is made known to us by others within those entities, particularly during the period in which the report is being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the Registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+
+5. 
+ The Registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design of operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Date: December 31 ,
+ 2020 
+ By: 
+ /s/
+William M. Brown 
+
+William M. Brown 
+
+Chief Financial Officer 
+ (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ tm2032599d1_ex32-1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+In connection with this Quarterly Report
+on Form 10-Q of Rocky Mountain Industrials, Inc. (the Company for the period ended June 30, 2019, as filed with
+the Securities and Exchange Commission on the date hereof (the Report ), the undersigned, in the capacity and on the
+date indicated below, hereby certifies pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that to his knowledge: 
+
+1. 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operation of the Company. 
+
+By: 
+ /s/ Gregory M. Dangler 
+
+Gregory M. Dangler 
+
+Chief Executive Officer 
+ (Principal Executive Officer) 
+
+Date: December 31,
+ 2020 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ tm2032599d1_ex32-2.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION
+1350 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+In connection with this Quarterly Report
+on Form 10-Q of Rocky Mountain Industrials, Inc. (the Company for the period ended June 30, 2019, as filed with
+the Securities and Exchange Commission on the date hereof (the Report ), the undersigned, in the capacity and on the
+date indicated below, hereby certifies pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that to his knowledge: 
+
+1. 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operation of the Company. 
+
+By: 
+ /s/ William M. Brown 
+
+William M. Brown 
+ 
+ Chief Financial Officer 
+ 
+ (Principal Financial Officer and Principal Accounting Officer) 
+
+Date: December 31, 2020 
+
+</EX-32.2>
+
+<EX-95>
+ 6
+ tm2032599d1_ex95.htm
+ EXHIBIT 95
+
+Exhibit 95 
+
+Mine Safety
+Disclosures 
+
+The operation of
+the Company s aggregate mine is subject to regulation by the Mine Safety and Health Administration MSHA under
+the Federal Mine Safety and Health Act of 1977 (the Mine Act ). MSHA inspects the Company s mine on a regular
+basis and issues various citations and orders when it believes a violation has occurred under the Mine Act. Whenever MSHA issues
+a citation or order, it also generally proposes a civil penalty, or fine, related to the alleged violation. Citations or orders
+can be contested and appealed, and as part of that process, are often reduced in severity and amount, and are sometimes dismissed. 
+
+Under the Dodd-Frank
+Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act ), the Company is required to present information
+regarding certain mining safety and health citations which MSHA has issued with respect to its aggregates mining operations in
+its periodic reports filed with the Securities and Exchange Commission (the SEC ). In evaluating this information,
+consideration should be given to factors such as: (i) the number of citations and orders will vary depending on the size of
+the quarry or mine and type of operations (underground or surface), (ii) the number of citations issued will vary from inspector
+to inspector and location to location, and (iii) citations and orders can be contested and appealed, and in that process,
+may be reduced in severity and amount, and are sometimes dismissed. 
+
+The Company presents
+the following items regarding certain mining safety and health matters for the three months ended June 30, 2019: 
+
+Total number of violations of mandatory health or safety standards that could significantly and substantially contribute to the cause and effect of a mine safety or health hazard under section 104 of the Mine Act for which the Company received a citation from MSHA (hereinafter, Section 104 S S Citations ). If MSHA determines that a violation of a mandatory health or safety standard is reasonably likely to result in a reasonably serious injury or illness under the unique circumstance contributed to by the violation, MSHA will classify the violation as a significant and substantial violation (commonly referred to as a S S violation). MSHA inspectors will classify each citation or order written as a S S violation or not. 
+
+Total number of orders issued under section 104(b) of the Mine Act (hereinafter, Section 104(b) Orders ). These orders are issued for situations in which MSHA determines a previous violation covered by a Section 104(a) citation has not been totally abated within the prescribed time period, so a further order is needed to require the mine operator to immediately withdraw all persons (except certain authorized persons) from the affected area of a quarry or mine. 
+
+Total number of citations and orders for unwarrantable failure of the mine operator to comply with mandatory health or safety standards under Section 104(d) of the Mine Act (hereinafter, Section 104(d) Citations and Orders ). These violations are similar to those described above, but the standard is that the violation could significantly and substantially contribute to the cause and effect of a safety or health hazard, but the conditions do not cause imminent danger, and the MSHA inspector finds that the violation is caused by an unwarranted failure of the operator to comply with the health and safety standards. 
+
+Total number of flagrant violations under section 110(b)(2) of the Mine Act (hereinafter, Section 110(b)(2) Violations ). These violations are penalty violations issued if MSHA determines that violations are flagrant , for which civil penalties may be assessed. A flagrant violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury. 
+
+Total number of imminent danger orders issued under section 107(a) of the Mine Act (hereinafter, Section 107(a) Orders ). These orders are issued for situations in which MSHA determines an imminent danger exists in the quarry or mine and results in orders of immediate withdrawal of all persons (except certain authorized persons) from the area of the quarry or mine affected by its condition until the imminent danger and the underlying conditions causing the imminent danger no longer exist. 
+
+Total Dollar Value of MSHA Assessments Proposed. These are the amounts of proposed assessments issued by MSHA with each citation or order for the time period covered by the report. Penalties are assessed by MSHA according to a formula that considers a number of factors, including the mine operator s history, size, negligence, gravity of the violation, good faith in trying to correct the violation promptly, and the effect of the penalty on the operator s ability to continue in business. 
+
+Total Number of Mining-Related Fatalities. Mines subject to the Mine Act are required to report all fatalities occurring at their facilities unless the fatality is determined to be non-chargeable to the mining industry. The final rules of the SEC require disclosure of mining-related fatalities at mines subject to the Mine Act. Only fatalities determined by MSHA not to be mining-related may be excluded. 
+
+Receipt of written notice from MSHA of a pattern (or a potential to have such a pattern) of violations of mandatory health or safety standards that are of such nature as could have significantly and substantially contributed to the cause and effect of other mine health or safety hazards under section 104(e) of the Mine Act. If MHSA determines that a mine has a pattern of these types of violations, or the potential to have such a pattern, MSHA is required to notify the mine operator of the existence of such a thing. 
+
+Legal Actions Pending as of the Last Day of Period. 
+
+Legal Actions Initiated During Period. 
+
+Legal Actions Resolved During Period. 
+
+The Federal Mine
+Safety and Health Review Commission (the Commission is an independent adjudicative agency that provides administrative
+trial and appellate review of legal disputes arising under the Mine Act. The cases may involve, among other questions, challenges
+by operators to citations, orders and penalties they have received from MSHA, or complaints of discrimination by miners under Section 105
+of the Mine Act. The table below shows that for the three-month period ended June 30, 2019,
+the number of legal actions pending before the Commission, along with the number of legal actions initiated before the Commission
+during the period as well as resolved during the period. In addition, the table below includes a footnote to the column for legal
+actions before the Commission pending as of the last day of the period, which footnote breaks down that total number of legal actions
+pending by categories according to the type of proceeding in accordance with various categories established by the procedural rules
+of the Commission. 
+
+Location 
+ 
+ MSHA 
+ ID 
+
+Section 
+ 104
+ S S 
+ Citations 
+ (#) 
+
+Section 
+ 104(b) 
+ Orders 
+ (#) 
+
+Section 
+ 104(d) 
+ Citations 
+ and 
+ Orders 
+ (#) 
+
+Section 
+ 110(b)(2) 
+ Violations 
+ (#) 
+
+Section 
+ 107(a) 
+ Orders 
+ (#) 
+
+Total 
+ Dollar 
+ Value of 
+ MSHA 
+ Assessment/ 
+ 
+ Proposed 
+
+Total 
+ Number 
+ of 
+ Mining 
+ Related 
+ Fatalities 
+ (#) 
+
+Received 
+ Notice 
+ of 
+ Pattern 
+ of 
+ Violation 
+ Under 
+ Section 
+ 104(e) 
+ (yes/no) 
+ 
+ Received 
+ Notice 
+ of 
+ Potential 
+ to have 
+ Pattern 
+ under 
+ Section 
+ 104(e) 
+ (yes/no) 
+
+Citation 
+ Contests 
+ Pending 
+ as of 
+ Last 
+ Day 
+ of 
+ Period 
+ (#) 
+
+Citation 
+ Contests 
+ Instituted 
+ During 
+ Period 
+ (#) 
+
+Citation 
+ Contests 
+ Resolved 
+ During 
+ Period 
+ (#) 
+
+Mid-Continent Quarry 
+
+0504954 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+ 
+ 0 
+
+0 
+
+0 
+
+0 
+
+</EX-95>
+
+<EX-101.INS>
+ 7
+ rmri-20190630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ rmri-20190630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ rmri-20190630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ rmri-20190630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ rmri-20190630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ rmri-20190630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

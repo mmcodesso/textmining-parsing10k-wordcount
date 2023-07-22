@@ -1,0 +1,1292 @@
+<Header>
+<FileStats>
+    <FileName>20210104_10-Q_edgar_data_1098009_0001185185-20-001804.txt</FileName>
+    <GrossFileSize>1355321</GrossFileSize>
+    <NetFileSize>49749</NetFileSize>
+    <NonText_DocumentType_Chars>102421</NonText_DocumentType_Chars>
+    <HTML_Chars>406502</HTML_Chars>
+    <XBRL_Chars>410756</XBRL_Chars>
+    <XML_Chars>348593</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001185185-20-001804.hdr.sgml : 20210104
+<ACCEPTANCE-DATETIME>20201231175924
+ACCESSION NUMBER:		0001185185-20-001804
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		37
+CONFORMED PERIOD OF REPORT:	20190331
+FILED AS OF DATE:		20210104
+DATE AS OF CHANGE:		20201231
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			America Great Health
+		CENTRAL INDEX KEY:			0001098009
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				980178621
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27873
+		FILM NUMBER:		201429586
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1609 W VALLEY BLVD UNIT 338A
+		CITY:			ALHAMBRA
+		STATE:			CA
+		ZIP:			91803
+		BUSINESS PHONE:		(626) 576-1299
+
+	MAIL ADDRESS:	
+		STREET 1:		1609 W VALLEY BLVD UNIT 338A
+		CITY:			ALHAMBRA
+		STATE:			CA
+		ZIP:			91803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CROWN MARKETING
+		DATE OF NAME CHANGE:	20111006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPACE LAUNCHES FINANCING INC
+		DATE OF NAME CHANGE:	19991028
+
+</SEC-Header>
+</Header>
+
+ 0001185185-20-001804.txt : 20210104
+
+10-Q
+ 1
+ amgreat20190331_10q.htm
+ FORM 10-Q
+
+amgreat20190331_10q.htm 
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-Q 
+
+QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended March 31, 2019 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from to 
+
+Commission File No. 000-27873 
+
+America Great Health 
+
+ (Exact name of registrant as specified in its charter) 
+
+Wyoming 
+
+			 (State or other jurisdiction of incorporation or organization) 
+
+98-0178621 
+
+			 (I.R.S. Employer Identification No.) 
+
+1609 W Valley Blvd Unit 338A 
+
+			 Alhambra, CA 
+
+			 (Address of principal executive offices) 
+
+91803 
+
+			 (Zip Code) 
+
+(626) 576-1299 
+
+			 (Registrant s telephone number, including area code) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No 
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+Indicate the number of shares outstanding of each of the registrant s classes of common stock, as of the latest practicable date. The number of shares outstanding of the registrant s common stock as of December 11, 2020 was 20,236,021,836. 
+
+AMERICA GREAT HEALTH AND SUBSIDIARIES 
+
+ TABLE OF CONTENTS 
+
+PART I FINANCIAL INFORMATION 
+
+3 
+
+ITEM 1 
+
+Condensed Consolidated Financial Statements (Unaudited) 
+
+3 
+
+ITEM 2 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+11 
+
+ITEM 3 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+14 
+
+ITEM 4 
+
+Controls and Procedures 
+
+14 
+
+PART II OTHER INFORMATION 
+
+15 
+
+ITEM 1 
+
+Legal Proceedings 
+
+15 
+
+ITEM 1A 
+
+Risk Factors 
+
+15 
+
+ITEM 2 
+
+Unregistered Sales of Equity Securities and Use of Proceeds 
+
+15 
+
+ITEM 3 
+
+Defaults Upon Senior Securities 
+
+15 
+
+ITEM 4 
+
+Mine Safety Disclosures 
+
+15 
+
+ITEM 5 
+
+Other Information 
+
+15 
+
+ITEM 6 
+
+Exhibits 
+
+16 
+
+PART I FINANCIAL INFORMATION 
+
+This Quarterly Report includes forward-looking statements within the meaning of the Securities Exchange Act of 1934 (the Exchange Act ). These statements are based on management s beliefs and assumptions, and on information currently available to management. Forward-looking statements include the information concerning our possible or assumed future results of operations set forth under the heading Management s Discussion and Analysis of Financial Condition and Results of Operations. Forward-looking statements also include statements in which words such as expect, anticipate, intend, plan, believe, estimate, consider or similar expressions are used. 
+
+Forward-looking statements are not guarantees of future performance. They involve risks, uncertainties and assumptions. Our future results and shareholder values may differ materially from those expressed in these forward-looking statements. Readers are cautioned not to put undue reliance on any forward-looking statements. 
+
+Item 1. Financial Statements 
+
+America Great Health and Subsidiaries (fka Crown Marketing 
+
+Condensed Consolidated Balance Sheets 
+
+March 31, 
+
+June 30, 
+
+2019 
+
+2018 
+
+(Unaudited) 
+
+ASSETS 
+
+CURRENT ASSETS 
+
+Cash 
+
+198 
+
+15 
+
+Other receivable 
+
+- 
+
+100 
+
+TOTAL CURRENT ASSETS 
+
+198 
+
+115 
+
+Long term investment 
+
+- 
+
+12,978 
+
+TOTAL ASSETS 
+
+198 
+
+13,093 
+
+LIABILITIES AND SHAREHOLDERS' DEFICIT 
+
+CURRENT LIABILITIES 
+
+Accounts payable and accrued expense 
+
+31,086 
+
+20,021 
+
+Income tax payable 
+
+800 
+
+- 
+
+Due to related party 
+
+127,470 
+
+100,525 
+
+TOTAL CURRENT LIABILITIES 
+
+159,356 
+
+120,546 
+
+SHAREHOLDERS' DEFICIT 
+
+Redeemable, convertible preferred stock, 10,000,000 shares authorized; 
+
+			 Series A voting preferred stock, zero shares issued and outstanding 
+
+- 
+
+- 
+
+Common stock, no par value, unlimited shares authorized; 
+
+			 20,236,021,836 and 20,236,021,836 shares issued and outstanding as of March 31, 2019 and June 30, 2018, respectively 
+
+- 
+
+- 
+
+Additional paid-in capital 
+
+3,062,230 
+
+3,062,230 
+
+Accumulated deficit 
+
+(3,221,388 
+
+(3,169,683 
+
+TOTAL SHAREHOLDERS' DEFICIT 
+
+(159,158 
+
+(107,453 
+
+TOTAL LIABILITIES AND SHAREHOLDERS' DEFICIT 
+
+198 
+
+13,093 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+3
+
+Table of Contents 
+
+America Great Health and Subsidiaries (fka Crown Marketing 
+
+Condensed Consolidated Statements of Operations 
+
+Three Months Ended March 31, 
+
+Nine Months Ended March 31, 
+
+2019 
+
+2018 
+
+2019 
+
+2018 
+
+(Unaudited) 
+
+(Unaudited) 
+
+Sales 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Cost of goods sold 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Gross profit 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Selling, general and administrative expenses 
+
+Professional fee 
+
+2,376 
+
+8,641 
+
+28,874 
+
+32,297 
+
+Other 
+
+5,155 
+
+458 
+
+9,053 
+
+4,781 
+
+7,531 
+
+9,099 
+
+37,927 
+
+37,078 
+
+Loss from operations 
+
+(7,531 
+
+(9,099 
+
+(37,927 
+
+(37,078 
+
+Other income (expenses) 
+
+Loss on investment 
+
+- 
+
+- 
+
+(966 
+
+- 
+
+Loss on disposal of investment 
+
+- 
+
+- 
+
+(12,012 
+
+- 
+
+- 
+
+- 
+
+(12,978 
+
+- 
+
+Loss before income taxes 
+
+(7,531 
+
+(9,099 
+
+(50,905 
+
+(37,078 
+
+Income tax provision 
+
+- 
+
+- 
+
+800 
+
+800 
+
+NET LOSS 
+
+(7,531 
+
+(9,099 
+
+(51,705 
+
+(37,878 
+
+BASIC AND DILUTED LOSS PER SHARE 
+
+(0.00 
+
+(0.00 
+
+(0.00 
+
+(0.00 
+
+WEIGHTED-AVERAGE COMMON SHARES OUTSTANDING 
+
+			 BASIC AND DILUTED 
+
+20,236,021,836 
+
+20,236,021,836 
+
+20,236,021,836 
+
+20,236,021,836 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+4
+
+Table of Contents 
+
+America Great Health and Subsidiaries (fka Crown Marketing 
+
+STATEMENTS OF STOCKHOLDERS' EQUITY 
+
+Additional 
+
+Total 
+
+Common Stock 
+
+Paid-in 
+
+Accumulated 
+
+Stockholders' 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Equity 
+
+BALANCE, JUNE 30, 2017 (Unaudited) 
+
+20,236,021,836 
+
+- 
+
+3,062,230 
+
+(3,110,297 
+
+(48,067 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+(28,779 
+
+(28,779 
+
+BALANCE, DECEMBER 31, 2017 (Unaudited) 
+
+20,236,021,836 
+
+- 
+
+3,062,230 
+
+(3,139,076 
+
+(76,846 
+
+Net Loss 
+
+- 
+
+- 
+
+- 
+
+(9,099 
+
+(9,099 
+
+BALANCE, MARCH 31, 2018 (Unaudited) 
+
+20,236,021,836 
+
+- 
+
+3,062,230 
+
+(3,148,175 
+
+(85,945 
+
+BALANCE, JUNE 30, 2018 (Unaudited) 
+
+20,236,021,836 
+
+- 
+
+3,062,230 
+
+(3,169,683 
+
+(107,453 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+(44,174 
+
+(44,174 
+
+BALANCE, DECEMBER 31, 2018 (Unaudited) 
+
+20,236,021,836 
+
+- 
+
+3,062,230 
+
+(3,213,857 
+
+(151,627 
+
+Net Loss 
+
+- 
+
+- 
+
+- 
+
+(7,531 
+
+(7,531 
+
+BALANCE , MARCH 31, 2019 (Unaudited) 
+
+20,236,021,836 
+
+- 
+
+3,062,230 
+
+(3,221,388 
+
+(159,158 
+
+5
+
+Table of Contents 
+
+America Great Health and Subsidiaries (fka Crown Marketing 
+
+Condensed Consolidated Statements of Cash Flows 
+
+Nine Months Ended March 31 
+
+2019 
+
+2018 
+
+(Unaudited) 
+
+Cash Flows from Operating Activities 
+
+Net loss 
+
+(51,705 
+
+(37,878 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Loss from equity investment 
+
+966 
+
+- 
+
+Loss on disposal of investment 
+
+12,012 
+
+- 
+
+Changes in operating Assets and Liabilities: 
+
+Other receivable 
+
+100 
+
+- 
+
+Accounts payable and accrued expense 
+
+11,064 
+
+7,281 
+
+Income tax payable 
+
+800 
+
+- 
+
+Net cash used in operating activities 
+
+(26,763 
+
+(30,597 
+
+Cash Flows from Financing Activities 
+
+Advances from related party 
+
+28,446 
+
+40,752 
+
+Repayment to related party 
+
+(1,500 
+
+(12,600 
+
+Net cash provided by financing activities 
+
+26,946 
+
+28,152 
+
+Net increase (decrease) in cash 
+
+183 
+
+(2,445 
+
+Cash beginning of period 
+
+15 
+
+3,827 
+
+Cash end of period 
+
+198 
+
+1,382 
+
+Interest paid 
+
+- 
+
+- 
+
+Taxes paid 
+
+- 
+
+800 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+6
+
+Table of Contents 
+
+AMERICA GREAT HEALTH AND SUBSIDIARIES 
+
+ FORMERLY CROWN MARKETING AND SUBSIDIARIES 
+
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+NOTE 1 BASIS OF PRESENTATION 
+
+The accompanying unaudited condensed consolidated financial statements of America Great Health, formerly Crown Marketing and Subsidiaries (the Company have been prepared in accordance with accounting principles generally accepted in the United States of America for interim financial information and with the instructions to Form 10-Q and Rule 10-01 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by generally accepted accounting principles for complete financial statements. In the opinion of management, all normal recurring adjustments considered necessary for a fair presentation have been included. Operating results for the nine months ended March 31, 2019 are not necessarily indicative of the results that may be expected for the year ending June 30, 2019. 
+
+Nature of the Business 
+
+Through December 31, 2016, the Company s primary business activity was the sale of various consumer products and accessories. A change of control of the Company was completed on January 19, 2017 from Jay Hooper, the former officer and director of the Company and its former majority shareholder. Control was obtained by the sale of 16,155,746,000 shares of Company common stock from Mr. Hooper to an investor group led by Mike Q. Wang. In connection with the change of control, the Company sold to its former majority shareholder one of its subsidiary for 100 and another subsidiary in exchange for the cancellation of all payables and accrued expenses. After December 31, 2016, the Company s operations are determined and structured by the new investor group. As such, the Company accounted for all of its assets, liabilities and results of operations up to January 1, 2017 as discontinued operations. 
+
+On March 1, 2017, the Company filed with the Secretary of State of the State of Wyoming an Articles of Amendment to change the corporate name from Crown Marketing to America Great Health. 
+
+On March 9, 2017, the Company formed a wholly owned subsidiary, America Great Health, under the laws of the State of California. 
+
+Going Concern 
+
+The accompanying condensed consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the settlement of liabilities and commitments in the normal course of business. As reflected in the accompanying condensed consolidated financial statements, the Company has incurred recurring net losses. For the nine months ended March 31, 2019, the Company recorded a net loss of 51,705, used cash to fund operating activities of 26,763, and at March 31, 2019, had a shareholders deficit of 159,158. These factors create substantial doubt about the Company s ability to continue as a going concern within the next twelve months from the date these financial statements are available to be issued. The financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern. 
+
+During the year ended June 30, 2017, the Company s former majority shareholder sold his shares to an investor group. The new owners plans to continue as a going concern revolve around its ability to achieve profitable operations, as well as raise necessary capital to pay ongoing general and administrative expenses of the Company. The ability of the Company to continue as a going concern is dependent on securing additional sources of capital and the success of the Company s plan. There is no assurance that the Company will be successful in raising the additional capital or in achieving profitable operations. 
+
+Our cash needs for the months ended March 31, 2019 were primarily met by loans and advances from current majority shareholder. As of March 31, 2019, we had a cash balance of 198. We intend to finance operating costs over the next twelve months with existing cash on hand and advance from current majority shareholder. 
+
+NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis of Consolidation 
+
+The condensed consolidated financial statements include the accounts of the Company and its current wholly owned subsidiary, America Great Health in California. Intercompany transactions and accounts have been eliminated in consolidation. 
+
+7
+
+Table of Contents 
+
+Reclassifications 
+
+Prior period numbers have been reclassified to conform to the current period presentation. Professional fee was reclassified to be separately disclosed on the Consolidated Statements of Operations for the nine months ended March 31, 2019. 
+
+Estimates 
+
+The preparation of the financial statements in conformity with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, and disclosure of contingent liabilities at the date of the financial statements and the reported amounts of expenses during the reporting period. Significant estimates include accounting for potential liabilities and the assumptions made in valuing stock instruments issued for services. Actual results could differ from those estimates. 
+
+Fair Value Measurements 
+
+Fair value measurements are determined using authoritative guidance issued by the FASB, with the exception of the application of the guidance to non-recurring, non-financial assets and liabilities as permitted. Fair value is defined in the authoritative guidance as the price that would be received to sell an asset or paid to transfer a liability in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants at the measurement date. A fair value hierarchy was established, which prioritizes the inputs used in measuring fair value into three broad levels as follows: 
+
+Level 1 Quoted prices in active markets for identical assets or liabilities. 
+
+ Level 2 Inputs, other than the quoted prices in active markets, are observable either directly or indirectly. 
+
+ Level 3 Unobservable inputs based on the Company s assumptions. 
+
+The Company is required to use observable market data if available without undue cost and effort. 
+
+The Company s financial instruments include cash and accounts payable. Management has estimated that the carrying amounts approximate their fair value due to the short-term nature. 
+
+Loss per Share 
+
+Basic earnings (loss) per share are computed by dividing income available to common shareholders by the weighted-average number of common shares available. Diluted earnings (loss) per share is computed similar to basic earnings per share except that the denominator is increased to include the number of additional common shares that would have been outstanding if the potential common shares had been issued and if the additional common shares were dilutive. The Company s diluted loss per share is the same as the basic loss per share for the nine months ended March 31, 2019 and 2018, as there are no potential shares outstanding that would have a dilutive effect. 
+
+Income Taxes 
+
+Income tax expense is based on pretax financial accounting income. Deferred tax assets and liabilities are recognized for the expected tax consequences of temporary differences between the tax bases of assets and liabilities and their reported amounts. Valuation allowances are recorded to reduce deferred tax assets to the amount that will more likely than not be realized. The Company recorded a valuation allowance against its deferred tax assets as of June 30, 2018 and 2017. 
+
+The Company accounts for uncertainty in income taxes using a two-step approach to recognizing and measuring uncertain tax positions. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50 likely of being realized upon settlement. The Company classifies the liability for unrecognized tax benefits as current to the extent that the Company anticipates payment (or receipt) of cash within one year. Interest and penalties related to uncertain tax positions are recognized in the provision for income taxes. 
+
+8
+
+Table of Contents 
+
+Recent Accounting Pronouncements 
+
+In July 2017, the FASB issued Accounting Standards Update 2017-11, Earnings Per Share (Topic 260); Distinguishing Liabilities from Equity (Topic 480); Derivatives and Hedging (Topic 815): (Part I) Accounting for Certain Financial Instruments with Down Round Features, (Part II) , which is the replacement of the Indefinite Deferral for Mandatorily Redeemable Financial Instruments of Certain Nonpublic Entities and Certain Mandatorily Redeemable Noncontrolling Interests with a Scope Exception. The amendments in Part I of this Update that relate to the recognition, measurement, and earnings per share of certain freestanding equity-classified financial instruments that include down round features affect entities that present earnings per share in accordance with the guidance in Topic 260, Earnings Per Share. The amendments in Part II of this Update do not have an accounting effect. The amendments in Part I of the update are effective for fiscal year, and interim periods within those fiscal years, beginning after December 15, 2018. The Company is assessing the impact to its accounting practices and financial reporting procedures as a result of the issuance of this standard. 
+
+Other recent accounting pronouncements issued by the FASB, including its Emerging Issues Task Force, the American Institute of Certified Public Accountants, and the Securities and Exchange Commission did not or is not believed by management to have a material impact on the Company s present or future consolidated financial statements. 
+
+NOTE 3 RELATED PARTY TRANSACTIONS 
+
+During the nine months ended March 31, 2019, the Company's current majority shareholder advanced 28,446 to the Company as working capital. As of March 31, 2019 and June 30, 2018, the Company owed its current majority shareholder of 127,470 and 100,525 respectively. The advances are non-interest bearing and are due on demand. 
+
+Currently the Company is using a premises for free, the premises is leased by a company owned by its current majority shareholder. 
+
+NOTE 4 CONVERTIBLE, REDEEMABLE PREFERRED STOCK 
+
+During the year ended June 30, 2016, the Company s Board of Directors authorized the creation of a series of preferred stock consisting of 1,000,000 shares designated as Series A Preferred Stock (the Series A ). The Series A is entitled to a dividend of 4 , when and as declared, and is entitled to a liquidation preference of 1 per share plus unpaid dividends. The Series A is redeemable at the option of the Company at any time, in whole or in part, at a price of 1.00 per share, plus 4 per annum thereupon from the date of issuance (the Stated Value ). In the event of any liquidation, dissolution or winding up of the Corporation, whether voluntary or involuntary, the Series A shall be entitled to a preferential amount equal to the Stated Value, prior to the holders of common stock receiving any distribution. Each share of Series A is automatically converted on the Conversion Date into a number of shares of common stock of the Company at the initial conversion rate (the Conversion Rate ), which shall be the Stated Value as of the date of conversion divided by the Market Price. The Market Price for purposes of this Section 5 shall be equal to the average closing sales price of the Common Stock over the 5 previous trading days. 
+
+The Series A is also subject to adjustments to the Conversion Rate. If the common stock issuable on conversion of the Series A is changed into the same or a different number of shares of any other class or classes of stock, whether by capital reorganization, reclassification, or otherwise (other than a subdivision or combination of shares provided for above), the holders of the Series A shall, upon its conversion, be entitled to receive, in lieu of the common stock which the holders would have become entitled to receive but for such change, a number of shares of such other class or classes of stock that would have been subject to receipt by the holders if they had exercised their rights of conversion of the Series A immediately before that change. 
+
+In August 2016, the Company filed an amendment to its Articles of Incorporation to increase the number of authorized shares of Series A Preferred Stock from 1,000,000 to 10,000,000. 
+
+There were no preferred shares outstanding as of March 31, 2019 and June 30, 2018. 
+
+NOTE 5 SHAREHOLDERS DEFICIT 
+
+At March 31, 2019 and June 30, 2018, the Company had 20,236,021,836 shares issued and outstanding. 
+
+9
+
+Table of Contents 
+
+NOTE 6 JOINT VENTURE 
+
+On March 5th, 2018, America Great Health, a California Corporation AAGH California ), a wholly owned subsidiary of the Company, entered into a Sino-foreign Co-operative Joint Venture Contract (the JV Agreement with Guangzhou Bona Biotechnology Co., Ltd. Bona pursuant to which the parties will establish a joint venture (the JV Company for the purpose of promoting and developing sales channels for health and cosmetics related products supplied by AAGH California in the mainland of the People s Republic of China, the Hong Kong Special Administration Region and the Macau Special Administration Region (together, the China Market ). 
+
+Pursuant to the JV Agreement, AAGH California and Bona will each own 49 and 51 of the JV Company, respectively, and AAGH California has the veto right to the majority shareholder s decision. The equity method has been used for this JV for the three months ended September 30, 2018. AAGH California will contribute the initial products supply in equivalent of cash amount of RMB 2.45 million to the JV Company and Bona will contribute any required operating capitals, experienced sales team, promotional effort, and customer services to ensure normal day to day operation of the JV Company. Bona will also be responsible for acquiring any required government permits, sales permits, and business licenses for the JV Company. 
+
+The following table summarizes the income statement of Pomeikang. 
+
+From date of equity 
+
+			 investment to 12/31 /2018 
+
+Sales 
+
+20,740 
+
+Gross profit 
+
+13,739 
+
+Net loss 
+
+(2,803 
+
+49 share 
+
+(1,373 
+
+The following table provides the summary of balance sheet information for Pomeikang. 
+
+As of December 3 1 , 2018 
+
+Total assets 
+
+20,565 
+
+Net assets 
+
+20,565 
+
+49 ownership 
+
+10,077 
+
+Ending balance of investment account before written off 
+
+12,012 
+
+Difference 
+
+(1,932 
+
+The difference of 1,932 was mainly due to the effect of exchange rate. 
+
+There was no operation during the period from October 1, 2018 to December 31, 2018, therefore at December 31, 2018, the Company decided to no longer participate in Pomeikang s operations. As a result, a loss on disposal of investment of 12,012 was recorded at December 31, 2018. On April 1, 2019, AAGH California transferred its 49 ownership to Bona for 1. 
+
+NOTE 7 INCOME TAXES 
+
+As of March 31, 2019, the Company had federal and California income tax net operating loss carryforwards of approximately 3.2 million. These net operating losses will begin to expire 20 years from the date the tax returns are filed. 
+
+Uncertain Tax Positions 
+
+Interest associated with unrecognized tax benefits are classified as income tax, and penalties are classified in selling, general and administrative expenses in the statements of operations. For the nine months ended March 31, 2019 and 2018, the Company had no unrecognized tax benefits and related interest and penalties expenses. Currently, the Company is not subject to examination by major tax jurisdictions. 
+
+10
+
+Table of Contents 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Forward Looking Statement Notice 
+
+Certain statements made in this Quarterly Report on Form 10-Q are forward-looking statements (within the meaning of the Private Securities Litigation Reform Act of 1995) regarding the plans and objectives of management for future operations. Such statements involve known and unknown risks, uncertainties and other factors that may cause actual results, performance or achievements of Crown Marketing, we , us , our or the Company to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. The forward-looking statements included herein are based on current expectations that involve numerous risks and uncertainties. The Company s plans and objectives are based, in part, on assumptions involving the continued expansion of business. Assumptions relating to the foregoing involve judgments with respect to, among other things, future economic, competitive and market conditions and future business decisions, all of which are difficult or impossible to predict accurately and many of which are beyond the control of the Company. Although the Company believes its assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate and, therefore, there can be no assurance the forward-looking statements included in this Quarterly Report will prove to be accurate. In light of the significant uncertainties inherent in the forward-looking statements included herein, the inclusion of such information should not be regarded as a representation by the Company or any other person that the objectives and plans of the Company will be achieved. 
+
+History and Organization 
+
+America Great Health, formerly Crown Marketing, is a Wyoming corporation (the Company ). Pursuant to an Agreement and Plan of Reorganization dated December 2, 2013, the Company acquired all of the common stock of Okra Energy, Inc., a California corporation that was subscribed for on December 2, 2013 and then incorporated on December 18, 2013, in exchange for 16,155,746,000 shares of Common Stock of the Company (the Common Stock at the closing of the Agreement on December 3, 2013. Immediately prior to the closing, there were approximately 3,825,275,800 shares of Common Stock outstanding. After the closing, the beneficial owner of Okra Energy, Inc. shareholder, Jay Hooper, owned approximately 98.8 of the outstanding shares of common stock of the Company. The transaction was accounted for as a reverse merger (recapitalization) with Okra Energy, Inc. deemed to be the accounting acquirer and the Company deemed to be the legal acquirer. 
+
+A change of control took place on January 19, 2017 from Jay Hooper. Control was obtained by the sale of 16,155,746,000 shares of the Company common stock from Mr. Hooper to an investor group led by Mike Q. Wang. In connection with the change of control, the Company sold to Jay Hooper, one of its subsidiary, Italiano, Inc., for 100 and another subsidiary, Crown Laboratory Inc., in exchange for the cancellation of all payables and accrued expenses. 
+
+On March 1, 2017, the Company filed with the Secretary of State of Wyoming an Articles of Amendment to change the corporate name from Crown Marketing to America Great Health. 
+
+On March 9, 2017, the Company formed a wholly owned subsidiary, America Great Health, under the laws of the State of California. 
+
+Overview of Business 
+
+The Company under the new management will focus its business in the health related industry. The Company s Chairman and president, Mike Wang, is the owner of several health related businesses below with which The Company is evaluating the possibilities of forming several joint ventures. The Company might effectuate the joint ventures using stocks. 
+
+1. 
+
+Health Beauty Group Inc. It is a California company in the business of R D and sale of vitamins and nutritional supplements. It owns more than 20 formulas and engages contract manufacturers to make these products. The company has built up solid sales records both in the US as well as in China. On January 04, 2018, the Company entered into a Stock Purchase Agreement with Health Beauty Group, Inc. (the Seller to purchase 51 of common shares of the Seller, for an aggregate purchase price of 765,000, which consisting of 63,750,000 outstanding shares of the Company s common stock at 0.012 per share. On April 05, 2018, the Company entered into a Rescission Agreement (the Rescission Agreement with the seller to rescind the transactions set forth in the Stock Purchase Agreement prior to the transaction closing. 
+
+2. 
+
+Pro Health Inc., a Tennessee company organized in 2016. It entered into a Sales Agreement with Provision Healthcare, LLC, a Tennessee limited liability company, in the selling of ProNova Equipment, which is a Proton Treatment device used in the treatment of cancer. Other than the sale of equipment, Pro Health will also be providing Total Solution Services related with the use of the Equipment. 
+
+11
+
+Table of Contents 
+
+3. 
+
+Sales Agreement between Mike Wang and Dr. William Fang for the marketing and sales of Dr. Fang s early detection system of Cardio Vascular diseases. The device provides unique 3D imaging for the Cardio Vascular conditions for patients and has already won approval of US FDA. It has very positive significance in helping preventing heart attacks, which are the number one killer in the US as well as in the world. 
+
+On March 5, 2018, America Great Health, a California Corporation AAGH CA ), a wholly owned subsidiary of the Company, entered into a Sino-foreign Co-operative Joint Venture Contract (the JV Agreement with Guangzhou Bona Biotechnology Co., Ltd. Bona to establish a JV,Pomeikang Biotechnology (Guangzhou) Co., Ltd. Pomeikang ), to promote and develop sales channels for health and cosmetics related products supplied by AAGH CA in the mainland of the People s Republic of China, the Hong Kong Special Administration Region and the Macau Special Administration Region (together, the China Market ). 
+
+Pursuant to the JV Agreement, AAGH CA and Bona each own 49 and 51 of Pomeikang, respectively, and AAGH California has the veto right to stop the majority shareholder s decision. AAGH CA will contribute the initial products supply in equivalent of cash amount of RMB 2.45 million 368,000) to Pomeikang and Bona will contribute any required operating capital, experienced sales team, promotional effort, and customer services to ensure normal day to day operation of Pomeikang. Bona will also be responsible for acquiring any required government permits, sales permits, and business licenses for Pomeikang. 
+
+At December 31, 2018, the Company decided to no longer participate in Pomeikang s operations. On April 1, 2019, AAGH California transferred its 49 ownership to Bona for 1. 
+
+On May 21, 2018, the Company, entered into an Exclusive Oversea Distribution Agreement (the Agreement with Foshan Wanshunbao Technology Co., Ltd. Wanshunbao ), a mainland China based company. According to the Agreement, Wanshunbao wishes to promote and develop overseas sales channels for its unique Mysteries Fruit tea and related products worldwide. The Company is appointed as Wanshunbao s exclusive distributor to market and sell the Mysteries Fruit herbal tea and related products in geographic areas covers all over the world except mainland China. 
+
+In the past 20 years, Wangshunbao has dedicated to improve its R D, and production of the unique Mysteries Fruit and related supplemental products, currently, Wangshunbao has developed a leading role in this industry, and is in the process of expanding its business model worldwide to a 10 billion RMB 1.5 billion) industry chain. To achieve that goal, Wangshunbao s management team had been actively seeking a qualified international distributor and business partner to execute its expansion plan. 
+
+The Company s management team was invited to Foshan, China in early May, 2018 to visit Wangshunbao and its production facilities, upon extensive discussion and negotiation, the Company was granted with exclusive distribution rights worldwide for Mysteries Fruit tea and related products. The Company believes by introducing Mysteries Fruit products to oversee consumers would have a huge beneficial effect; and the management is confident about this business opportunity, as the Company s core team members all have been in health and supplemental related industry for over 20 years, and has substantial nutrient products sales experiences and marketing channels. The Company is currently conducting preliminary sales campaigns for Mysteries Fruit products. 
+
+The Company is also planning to conduct additional acquisitions. Mike Wang has approached several health related companies in China and met the management of potential acquisition targets. Rapid economic advances in China in the last thirty years have greatly improved the living standards in China. This in turn brings demand in healthcare products and services. The Company feels strongly that despite the challenges of cross border business, it might be able to acquire some good growth companies and bring good values to our stockholders. 
+
+As inherent with any new business development, there are risks involved in such endeavor. For all the healthcare related businesses afore-mentioned, the Company is evaluating what kind of risks we are facing. The Company notices that vitamin and nutrition supplement business is a highly competitive market and faces multiple regulatory monitoring. The compliance challenge is constant. Regarding proton treatment sales, the device is very expensive and for such large ticket item, the procurement process can be long and arduous. The sale of cardio vascular device also has its challenges. The device is not well known and the acceptance of the use requires major efforts in educating not only the medical professionals but also consumers. This would demand financial as well as other resources. Although the Company is making some progress in the Merger and Acquisition efforts, any potential results, if any, are still not certain. 
+
+12
+
+Table of Contents 
+
+Critical Accounting Policies and Estimates 
+
+Estimates 
+
+The preparation of these consolidated financial statements in accordance with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the dates of the consolidated financial statements and the reported amounts of net sales and expenses during the reported periods. Actual results may differ from those estimates and such differences may be material to the financial statements. The more significant estimates and assumptions by management include among others, the fair value of shares of common stock issued for services. The current economic environment has increased the degree of uncertainty inherent in these estimates and assumptions. 
+
+Recent Accounting Pronouncements 
+
+See Footnote 2 of the financial statements for a discussion of recently issued accounting standards. 
+
+Results of Operations 
+
+Results of Operations for the three and nine months ended March 31, 2019 compared to the three and nine months ended March 31, 2018 . 
+
+There was no revenue and cost of sales for the three and nine months ended March 31, 2019. 
+
+Operating expenses incurred for the nine months ended March 31, 2019 and March 31, 2018 was 37,927 and 37,078, respectively. Operating expenses incurred for the three months ended March 31, 2019 and 2018 was 7,531 and 9,099, respectively. The decrease in the quarter ended March 31, 2019 was mainly due to the lower professional fee. 
+
+Our net loss for the three months ended March 31, 2019 and March 31, 2018 was 7,531 and 9,099, respectively. Our net loss for the nine months ended March 31, 2019 and March 31, 2018 was 51,705 and 37,878, respectively. The decrease in net loss in the quarter ended March 31, 2019 was mainly due to the lower professional fee. The increase in net loss in the nine months ended March 31, 2019 was mainly due to the loss on disposal of JV investment, partly offset by lower professional fee. 
+
+Liquidity and Capital Resources 
+
+Liquidity is the ability of a company to generate funds to support its current and future operations, satisfy its obligations, and otherwise operate on an ongoing basis. Significant factors in the management of liquidity are funds generated by operations, levels of accounts receivable and accounts payable and capital expenditures. 
+
+The accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the settlement of liabilities and commitments in the normal course of business. As reflected in the accompanying consolidated financial statements, the Company has incurred recurring net losses. For the nine months ended March 31, 2019, the Company recorded a net loss of 51,705, used cash to fund operating activities of 26,763, and at March 31, 2019, had a shareholders deficit of 159,158. For the nine months ended March 31, 2018, the Company recorded a net loss of 37,878, used cash to fund operating activities of 30,597. These factors create substantial doubt about the Company s ability to continue as a going concern. The financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern. 
+
+The new management s plans to continue as a going concern revolve around its ability to achieve profitable operations, as well as raise necessary capital to pay ongoing general and administrative expenses of the Company. The ability of the Company to continue as a going concern is dependent on securing additional sources of capital and the success of the Company s plan. There is no assurance that the Company will be successful in raising the additional capital or in achieving profitable operations. 
+
+Our cash needs for the nine months ended March 31, 2019 were primarily met by loans and advances from current majority shareholder. As of March 31, 2019, we had a cash balance of 198. Our new majority shareholders will need to provide all of our working capitals going forward. 
+
+Primarily as a result of our recurring losses and our lack of liquidity, we received a report from our independent registered public accounting firm for our financial statements for the year ended June 30, 2018 that includes an explanatory paragraph describing the uncertainty as to our ability to continue as a going concern. 
+
+13
+
+Table of Contents 
+
+Financial Position 
+
+As of March 31, 2019, we had 198 in cash, negative working capital of 159,158 and an accumulated deficit of 3,221,388. 
+
+Contractual Obligations and Off-Balance Sheet Arrangements 
+
+We do not have any contractual obligations or off balance sheet arrangements. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+
+As a smaller reporting company as defined by Item 10 of Regulation S-K, the Company is not required to provide information required by this Item. 
+
+Item 4. Controls and Procedures. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Based upon an evaluation of the effectiveness of our disclosure controls and procedures performed by our Chief Executive Officer as of the end of the period covered by this report, our Chief Executive Officer concluded that our disclosure controls and procedures were not effective as a result of a weakness in the design of internal control over financial reporting identified below. 
+
+As used herein, disclosure controls and procedures mean controls and other procedures of our company that are designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Securities Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Commission s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Securities Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. 
+
+Changes in Internal Controls 
+
+There have been no changes in our internal controls over financial reporting during the period ended March 31, 2019 that have materially affected or are reasonably likely to materially affect our internal controls. 
+
+14
+
+Table of Contents 
+
+PART II OTHER INFORMATION 
+
+Item 1. Legal Proceedings. 
+
+We are not a party to or otherwise involved in any legal proceedings. 
+
+In the ordinary course of business, we are from time to time involved in various pending or threatened legal actions. The litigation process is inherently uncertain and it is possible that the resolution of such matters might have a material adverse effect upon our financial condition and/or results of operations. However, in the opinion of our management, other than as set forth herein, matters currently pending or threatened against us are not expected to have a material adverse effect on our financial position or results of operations. 
+
+Item 1A. Risk Factors. 
+
+As a smaller reporting company as defined by Item 10 of Regulation S-K, the Company is not required to provide information required by this Item. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+
+Not applicable. 
+
+Item 3. Defaults Upon Senior Securities. 
+
+There have been no events which are required to be reported under this Item. 
+
+Item 4. Mine Safety Disclosures. 
+
+Not applicable. 
+
+Item 5. Other Information. 
+
+None. 
+
+15
+
+Table of Contents 
+
+Item 6. Exhibits and Financial Statement Schedules 
+
+31.1 
+
+Certification of CEO and CFO. Filed herewith. 
+
+32.1 
+
+Certification pursuant to 18 U.S.C. Section 1350 of CEO and CFO. Filed herewith. 
+
+101.INS 
+
+XBRL Instance Document 
+
+101.SCH 
+
+XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+
+XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+
+XBRL Taxonomy Extension Definition Linkbase Definition 
+
+101.PRE 
+
+XBRL Taxonomy Extension Presentation Linkbase Document 
+
+101.LAB 
+
+XBRL Taxonomy Extension Label Linkbase Document 
+
+XBRL (Extensible Business Reporting Language) information is furnished and not filed or a part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject to liability under these sections. In accordance with SEC Release 33-8238, Exhibits 32.1 and 32.2 are furnished and not filed. 
+
+16
+
+Table of Contents 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+AMERICA GREAT HEALTH 
+
+Dated: December 31, 2020 
+
+By: 
+
+/s/ Mike Wang 
+
+Mike Wang 
+
+President and Chief Financial Officer 
+
+			 (chief financial and accounting officer and duly authorized officer) 
+
+17
+
+<EX-31.1>
+ 2
+ ex_219388.htm
+ EXHIBIT 31.1
+
+ex_219388.htm 
+
+EXHIBIT 31.1 
+
+CERTIFICATION 
+
+I, Mike Wang, certify that: 
+
+1. I have reviewed this quarterly report on Form 10-Q of America Great Health; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Dated: December 31, 2020 
+
+By: 
+
+/s/ Mike Wang 
+
+Mike Wang 
+
+President and Chief Financial Officer (chief financial and accounting officer and duly authorized officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex_219389.htm
+ EXHIBIT 32.1
+
+ex_219389.htm 
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of America Great Health (the Company on Form 10-Q for the period ending March 31, 2019, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Mike Wang, President and Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities and Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: December 31, 2020 
+
+By: 
+
+/s/ Mike Wang 
+
+Mike Wang 
+
+President and Chief Financial Officer (chief financial and accounting officer and duly authorized officer) 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 4
+ aagh-20190331.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ aagh-20190331.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ aagh-20190331_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ aagh-20190331_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ aagh-20190331_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ aagh-20190331_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

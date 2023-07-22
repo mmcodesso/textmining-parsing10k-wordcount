@@ -1,0 +1,2152 @@
+<Header>
+<FileStats>
+    <FileName>20210701_10-K_edgar_data_1628228_0001213900-21-035335.txt</FileName>
+    <GrossFileSize>1559640</GrossFileSize>
+    <NetFileSize>79834</NetFileSize>
+    <NonText_DocumentType_Chars>127309</NonText_DocumentType_Chars>
+    <HTML_Chars>356096</HTML_Chars>
+    <XBRL_Chars>543868</XBRL_Chars>
+    <XML_Chars>418374</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-21-035335.hdr.sgml : 20210701
+<ACCEPTANCE-DATETIME>20210701171656
+ACCESSION NUMBER:		0001213900-21-035335
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		41
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20210701
+DATE AS OF CHANGE:		20210701
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OPTILEAF, INC.
+		CENTRAL INDEX KEY:			0001628228
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				471553134
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-202003
+		FILM NUMBER:		211066991
+
+	BUSINESS ADDRESS:	
+		STREET 1:		924 N MAIN ST
+		CITY:			WICHITA
+		STATE:			KS
+		ZIP:			67203
+		BUSINESS PHONE:		855-678-4532
+
+	MAIL ADDRESS:	
+		STREET 1:		924 N MAIN ST
+		CITY:			WICHITA
+		STATE:			KS
+		ZIP:			67203
+
+</SEC-Header>
+</Header>
+
+ 0001213900-21-035335.txt : 20210701
+
+10-K
+ 1
+ f10k2019_optileafinc.htm
+ ANNUAL REPORT
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+(Mark One) 
+
+ ANNUAL REPORT UNDER SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended December 31, 2019 
+
+TRANSITION REPORT UNDER SECTION 13 OR
+15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ___________ to ___________ 
+
+Commission File No. 333-169802 
+
+OptiLeaf, Inc. 
+
+ (Name of small business issuer in its charter) 
+
+Florida 
+ 
+ 47-1553134 
+ 
+ (State or other jurisdiction of 
+ 
+ (IRS Employer 
+ 
+ incorporation or organization) 
+ 
+ Identification No.) 
+
+924 N Main St. 
+ Wichita, KS 
+ 
+ 67203 
+ 
+ (Address of principal executive offices) 
+ 
+ (Zip Code) 
+
+(855) 678-4532 
+
+ (Registrant s telephone number, including
+area code) 
+
+Securities registered under Section 12(b) of the
+Exchange Act: 
+
+Title of each class registered: 
+ 
+ Name of each exchange on which registered: 
+ 
+ Class A Common Stock 
+ 
+ OTC Markets 
+
+Securities registered under Section 12(g) of the
+Exchange Act: 
+
+Common Stock, no par value 
+
+ (Title of class) 
+
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No 
+
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No 
+
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to submit such files. Yes No 
+
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes No 
+
+Indicate by check mark if disclosure of delinquent
+filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to
+the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference Part III of this Form
+10-K or any amendment to this Form 10-K. 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.
+See the definitions of large accelerated filer, accelerated filer, smaller reporting company, 
+and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Non-accelerated filer 
+ 
+ Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+
+The aggregate market value of the voting and non-voting
+common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter,
+ended June 30, 2020, was 1,253,735. 
+
+TABLE OF CONTENTS 
+
+PAGE 
+
+PART I 
+
+Item 1. 
+ Business 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors 
+ 3 
+ 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 3 
+ 
+ Item 2. 
+ Properties 
+ 3 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 3 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 3 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 4 
+ 
+ Item 6. 
+ Selected Financial Data 
+ 6 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operation 
+ 6 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 7 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ F-1 - F-13 
+ 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 8 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 8 
+ 
+ Item 9B. 
+ Other Information 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 9 
+ 
+ Item 11. 
+ Executive Compensation 
+ 10 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 10 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 11 
+ 
+ Item 14. 
+ Principal Accounting Fees and Services 
+ 11 
+
+PART IV 
+
+Item 15. 
+ Exhibits, Financial Statement Schedules 
+ 12 
+
+SIGNATURES 
+ 13 
+
+i 
+
+PART I 
+
+Item 1. 
+ Business 
+
+OptiLeaf was incorporated under the laws of the
+State of Florida on August 11, 2014. OptiLeaf, Inc. was formed to provide a world-class fully integrated turn-key growth management system
+for the cannabis industry to help dispensary owners, grow operations and caregivers increase their sales and reduce costs, increase their
+company s productivity and profitability and reduce or eliminate the need for manual labor while maximizing yield. OptiLeaf s
+target market includes dispensaries and grow operations. 
+
+Our Product 
+
+OptiLeaf has completed the development of its
+growth management GrowPro and point-of- sale POS software. These software offerings are the next generation
+POS and growth management systems that provide a complete solution for cultivation operations, processing and manufacturing, and dispensaries
+in the legal medical and recreational cannabis industry. Moreover, OptiLeaf has completed its Store Manager software and
+it s currently in beta test. This back-end software allows store owners and managers to take command and streamline their business
+in real-time. The main features are: Customized dashboard, sales trends, best-selling brands and products, top selling budtenders, sales
+trend, analytic and detail mission critical reporting. 
+
+Our POS software works with almost all POS hardware
+and uses devices that dispensary owners already have. Our powerful custom reports enable dispensary owners and managers to make informed
+decisions on how to increase profit and reduce operational costs while keeping them in compliant with the state. Our system prevents any
+sale from exceeding state regulations, automatically verify the customers age and their purchase limits, print compliant labels
+and receipts, and digitally file all patient records and reports. 
+
+Our GrowPro growth management software allows
+cultivators to track with real-time data of their plant history including genealogy, events, growth stages, watering and nutrient
+cycles, yields, harvesting, and every aspect of the grow operations. 
+
+Both products have complete integration with Metrc 
+(state traceability system) for the State of Colorado, Oregon, and Michigan. This will allow growers and dispensary owners from having
+to do double entry and manually reporting sales and cultivation data to the state. Sales and cultivation data are automatically downloaded
+and synced accurately with state traceability systems. 
+
+Marketing 
+
+OptiLeaf focus its sales and marketing efforts
+in the states of Colorado, Oregon and Washington at this point. We are planning on expanding our marketing into California and Michigan.
+We have decided to focus our efforts with the most developed and broadest customer base at this point. 
+
+OptiLeaf has opened a sales office in Denver,
+CO. We believe that having a local presence will help accelerate sales and provide better customer service and support. In addition, having
+a local market presence helps us gain a better understanding of the needs of our customers as well as challenges and opportunities in
+the market. 
+
+1 
+
+Operations 
+
+OptiLeaf s operational strategies behind
+the development of our products and services are based on design, innovation, and added value. When developing a new product, we want
+to be the leader by introducing innovative features that will allow cannabis cultivators to lower their costs, boost yields, and maximize
+production capacity. Furthermore, when OptiLeaf develops new goods or services, we will package them with support services as well as
+immediate observable and psychological benefits. Our focus is on how our products and services stand against the competition and how our
+technical measures relate to the customers needs. 
+
+Our primary operation strategy is to focus on
+quality and service. Our products must meet our eight dimensions of quality: performance, conformance, features, durability, reliability,
+serviceability, aesthetics, and perceived quality. Based on our operational strategies, we believe OptiLeaf s products and services
+will be superior to the competition. We recognize that there are some limitations imposed by trade-offs that must be made due to the nature
+of the product. For example, reliability may be sacrificed in order to achieve maximum speed. 
+
+Fundraising 
+
+OptiLeaf has continued the process of raising
+additional capital, which will be used to build out a sales and marketing force, for further development of its products and technologies,
+for hiring of additional personnel and for general working capital. The Company has not received any commitments for additional capital
+at this point, and there can be no assurance that the Company will be able to raise the capital it seeks or can do so on terms satisfactory
+to the Company. 
+
+Staffing 
+
+As of December 31, 2019, we have 3 full time employees.
+The number of employees will be determined by the projected number of customers and that will need to be attended to. 
+
+Suppliers 
+
+OptiLeaf relies on overseas manufacturers to supply
+various components of its product line. The most important benefit of using this type of supplier is that we are able to remain cost competitive
+in our local market. We believe that this will give us a competitive advantage that can be used to increase the sales and profits of our
+business. 
+
+We plan on buying most of our inventory directly
+from the manufacturer. Because we generally will be placing large orders, dealing directly with the manufacturer will yield the lowest
+cost per unit. The down side of working with these large manufacturers is that we are not able to order in smaller quantities, resulting
+in having a considerable sum of money tied up in each order. When a smaller quantity of product is necessary, we will use a smaller business-to-business
+manufacturer. 
+
+These manufacturers will require 30 days advance
+notice for each order. Shipments from China typically take 7-10 days for delivery by air or 20-30 days by ocean freighter. 
+
+Customer Service and Support 
+
+Timely order fulfillment is crucial to customer
+satisfaction. OptiLeaf will hire additional assistants as needed to monitor and manage the delivery, billing, warranty service and repair
+of its products. This helps to ensure customer satisfaction and repeat sales. 
+
+To improve operating efficiency, we plan to use
+Amazon.com as our order fulfillment company. Their facilities are state-of-the-art and their customer satisfaction record
+is unsurpassed. By outsourcing this function, we can keep internal staffing needs at a minimum and avoid having to expand our telephone
+network and computer systems. We will also save on shipping costs due to the high-volume discounts Amazon.com earns by serving multiple
+businesses from one location. 
+
+Our customers emphasize that good service and
+after-sales support are among their major concerns. A hot-line service is available to all registered customers enrolled in OptiLeaf s
+maintenance / support program. 
+
+Customer satisfaction will be a high priority
+for OptiLeaf. Our main goal is to ensure that our products are made using the highest quality components so that there are few, if any,
+returns due to product defects. Still, we recognize the fact that however good our product is, there will be times when it simply does
+not meet the needs of some customers. To ensure a positive experience and image in the minds of these and all customers, we will offer
+a money-back guarantee. Our objective is to make our customer service so satisfying that even if a customer decides to return a particular
+product, we will retain that person as a loyal customer, who won t hesitate to refer friends and associates, and perhaps make other
+purchases from OptiLeaf in the future. 
+
+2 
+
+Subcontractors 
+
+In order to control our expenses, OptiLeaf is
+currently subcontracting a portion of our advertising and marketing to third parties. This will potentially allow us to bring in professionals
+with expertise that we have not yet acquired. 
+
+Government Regulation 
+
+OptiLeaf does not directly distribute, sell, grow,
+harvest cannabis or any substances that violate United States law or the Controlled Substances Act, nor does it intend to do so in the
+future. We are a technology provider to the cannabis industry. As such, we are operating within an industry that is very complex in terms
+of legal requirements and compliance. Cannabis is an illegal drug under Federal Law and is illegal in many states as well. Certain states
+have made cannabis legal for medicinal use only, but in very few circumstances is it legal to possess or sell cannabis. Although we plan
+on being a technology provider only, and do not plan of growing, selling or possessing any cannabis, we nevertheless must comply with,
+and our business must comply with, a myriad of state and local laws and regulations regarding our operations, and our operations, as well
+as our profitability, can be significantly affected by all of these laws and how they affect the businesses or our customers. 
+
+In addition, we are subject to a number of laws
+and regulations that affect companies generally and specifically those conducting business on the internet, many of which are still evolving
+and could be interpreted in ways that could harm our business. Existing and future laws and regulations may impede our growth. These regulations
+and laws may cover online marketing, e-mail marketing, telemarketing, taxation, privacy, data protection, pricing, content, copyrights,
+distribution, mobile communications, electronic contracts and other communications, consumer protection, web services, the provision of
+online payment services, unencumbered internet access to our services, the design and operation of websites, and the characteristics and
+quality of products and services. It is not clear how existing laws governing issues such as property ownership, libel, and personal privacy
+apply to the internet, e-commerce, and digital content and web services. Unfavorable regulations and laws could diminish the demand for
+our products and services and increase our cost of doing business. 
+
+Litigation 
+
+From time to time, we may become involved in various
+lawsuits and legal proceedings, which arise, in the ordinary course of business. However, litigation is subject to inherent uncertainties,
+and an adverse result in these or other matters may arise from time to time that may harm our business. We are currently not aware of
+any such legal proceedings or claims that we believe will have a material adverse effect on our business, financial condition or operating
+results. 
+
+Item 1A. 
+ Risk Factors 
+
+We are a smaller reporting company as defined
+by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item. 
+
+Item 1B. 
+ Unresolved Staff Comments 
+
+We are a smaller reporting company as defined
+by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item. 
+
+Item 2. 
+ Properties 
+
+The Company has consolidated its operations and
+has eliminated its two previous leases in favor of one lease, in a property owned by two related persons that was supposed to commence
+on August 10, 2018, at a monthly cost of 2,000 plus the Company s pro rata share of operating expenses. The monthly rental and
+operating cost payments have not been made and the parties agreed to rescind the lease effective January 1, 2019. The Company continues
+to occupy the space on a month to month tenancy and will pay rent when economically feasible. 
+
+Item 3. 
+ Legal Proceedings 
+
+From time to time, we may become involved in various
+lawsuits and legal proceedings, which arise, in the ordinary course of business. However, litigation is subject to inherent uncertainties,
+and an adverse result in these or other matters may arise from time to time that may harm our business. We are currently not aware of
+any such legal proceedings or claims that we believe will have a material adverse effect on our business, financial condition or operating
+results. 
+
+Item 4. 
+ Mine Safety Disclosures 
+
+Not applicable. 
+
+3 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+Market Information 
+
+Our common stock has been approved for trading
+on the Over the Counter (OTC) Markets under the symbol OPLF since March 15, 2016. The OTC Markets is a quotation service that displays
+real-time quotes, last-sale prices, and volume information in over the counter, or the OTC, equity securities. 
+
+Price range of common stock 
+
+Our stock has not been quoted or traded as of
+this filing. 
+
+Holders 
+
+As of December 31, 2019, we had 31 shareholders
+of our common stock. 
+
+Transfer Agent and Registrar 
+
+ClearTrust, LLC is currently the transfer agent
+and registrar for our common stock. Its address is 16540 Pointe Village Dr., Suite 206, Lutz, FL 33558. Its phone number is (813) 235-4490. 
+
+Authorized Capital Stock 
+
+Our authorized stock consists of 100,000,000 shares
+of common stock, with no par value. There are currently 20,943,753 shares of common stock issued and outstanding, as of December 31, 2019. 
+
+Common Stock 
+
+Each share of our common stock entitles its holder
+to one vote in the election of each director and on all other matters voted on generally by our stockholders, other than any matter that
+(1) solely relates to the terms of any outstanding series of common stock or the number of shares of that series and (2) does not affect
+the number of authorized shares of common stock or the powers, privileges and rights pertaining to the common stock. No share of our common
+stock affords any cumulative voting rights. This means that the holders of a majority of the voting power of the shares voting for the
+election of directors can elect all directors to be elected if they choose to do so. 
+
+4 
+
+Holders of our common stock will be entitled to
+dividends in such amounts and at such times as our Board of Directors in its discretion may declare out of funds legally available for
+the payment of dividends. We currently intend to retain our entire available discretionary cash flow to finance the growth, development
+and expansion of our business and do not anticipate paying any cash dividends on the common stock in the foreseeable future. Any future
+dividends will be paid at the discretion of our Board of Directors after taking into account various factors, including: 
+
+general business conditions; 
+
+industry practice; 
+
+our financial condition and performance; 
+
+our future prospects; 
+
+our cash needs and capital investment plans; 
+
+our obligations to holders of any common stock we may issue; 
+
+income tax consequences; and 
+
+the restrictions Florida and other applicable laws and our credit arrangements then impose. 
+
+If we liquidate or dissolve our business, the
+holders of our common stock will share ratably in all our assets that are available for distribution to our stockholders after our creditors
+are paid in full and the holders of all series of our outstanding common stock, if any, receive their liquidation preferences in full. 
+
+Our common stock has no preemptive rights and
+is not convertible or redeemable or entitled to the benefits of any sinking or repurchase fund. 
+
+Dividends 
+
+Since inception we have not paid any dividends
+on our common stock. We currently do not anticipate paying any cash dividends in the foreseeable future on our common stock, when issued
+pursuant to this offering. Although we intend to retain our earnings, if any, to finance the exploration and growth of our business, our
+Board of Directors will have the discretion to declare and pay dividends in the future. Payment of dividends in the future will depend
+upon our earnings, capital requirements, and other factors, which our Board of Directors may deem relevant. 
+
+Securities Authorized for Issuance under Equity
+Compensation Plans 
+
+We presently do not have any equity based or other
+long-term incentive programs. In the future, we may adopt and establish an equity-based or other long-term incentive plan if it is in
+the best interest of the Company and our shareholders to do so. 
+
+5 
+
+Item 6. 
+ Selected Financial Data 
+
+We are a smaller reporting company as defined
+by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item. 
+
+Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+The information and financial data discussed
+below is derived from our audited financial statements for the years ended December 31, 2019 and 2018. The audited financial statements
+were prepared and presented in accordance with generally accepted accounting principles in the United States. The information and financial
+data discussed below is only a summary and should be read in conjunction with the related notes contained elsewhere in this prospectus.
+The financial statements contained elsewhere in this prospectus fully represent our financial condition and operations; however, they
+are not indicative of our future performance. 
+
+Overview 
+
+We were incorporated under the laws of the State
+of Florida on August 11, 2014. OptiLeaf, Inc. was formed to provide a world-class fully integrated turn-key growth management system for
+the cannabis industry to help dispensary owners, grow operations and caregivers increase their sales and reduce costs, increase their
+company s productivity and profitability and reduce or eliminate the need for manual labor while maximizing yield. OptiLeaf s
+target market includes dispensaries and grow operations. 
+
+Through December 31, 2019 our cumulative deficit
+was 873,867 compared to a cumulative deficit as of December 31, 2018 of 856,438. On December 31, 2019 we had total current assets of
+ 32,129 and total current liabilities of 39,996 compared to total current assets of 13,590 and total current liabilities of 29,028
+on December 31, 2018. 
+
+Recent Developments 
+
+OptiLeaf has completed the development of its
+growth management GrowPro and point-of- sale POS software. These software are the next generation POS and
+growth management systems that provide a complete solution for cultivation operations, processing and manufacturing, and dispensaries
+in the legal medical and recreational cannabis industry. Moreover, OptiLeaf has completed its Store Manager software and
+it s currently in beta test. This back-end software allows store owners and managers to take command and streamline their business
+in real-time. The main features are: Customized dashboard, sales trends, best-selling brands and products, top selling bartenders, sales
+trend, analytic and detail mission critical reporting. 
+
+Our POS software works with almost all POS hardware
+and uses devices that dispensary owners already have. Our powerful custom reports enable dispensary owners and managers to make informed
+decisions on how to increase profit and reduce operational costs while keeping them in compliant with the state. Our system prevents any
+sale from exceeding state regulations, automatically verify the customers age and their purchase limits print compliant labels
+and receipts, and digitally file all patient records and reports. 
+
+Our GrowPro growth management software allows
+cultivators to track with real-time data of their plant history including genealogy, events, growth stages, watering and nutrient
+cycles, yields, harvesting, and every aspect of the grow operations. 
+
+6 
+
+Both products have complete integration with Metrc 
+(state traceability system) for the State of Colorado and Oregon. This will allow growers and dispensary owners from having to do double
+entry and manually reporting sales and cultivation data to the state. Sales and cultivation data are automatically downloaded and synced
+accurately with state traceability systems. 
+
+Plan of Operation 
+
+OptiLeaf plans to partner with popular online
+live menu providers, CRM, and credit card payment systems to offer credit card and debit card acceptant and to provide real time online
+inventory and pricing data. 
+
+For the immediate succeeding years, the Company
+plans to hire more staff and rely on organinc growth to continue to build brand awareness and increase sales. 
+
+Results of Operations 
+
+Because we continue to be developmental stage
+and have been conducting development operations our revenue has been minimal. We generated revenue of 109,372 during the year ended December
+31, 2019 compared to 47,697 during the year ended December 31, 2018. Cost of sales increased to 16,314 for the year ended December 31,
+2019, compared to 10,810 for the year ended December 31, 2018. During those same periods, we had gross margins of 93,058 or 85.1 compared
+to 36,887 or 90.6 of sales for the year ended December 31, 2018. During those same time periods operating expenses decreased to 114,517
+from 192,468 resulting in a net loss for the fiscal year ending December 31, 2019 of 17,429 compared to a net loss of 156,679 for the
+fiscal year ending December 31, 2018. 
+
+Liquidity and Capital Resources 
+
+As of December 31, 2019, we had cash of 20,495,
+compared to 11,290 as of December 31, 2018. Our primary uses of cash were for employee compensation and working capital. The main sources
+of cash were from our founders, investors, and from licensing of our software suite. The following trends are reasonably likely to result
+in a material decrease in our liquidity over the near to long term: 
+
+An increase in working capital requirements, 
+
+Addition of administrative and sales personnel as the business grows, 
+
+Increases in advertising, public relations and sales promotions as we commence operations, 
+
+Research and Development, 
+
+The cost of being a public company and the continued increase in costs due to governmental compliance activities. 
+
+As the Company has experienced a decrease in its
+available capital during each of the past 3 fiscal years, and we expect this trend to continue in the current year, the Company will likely
+need to raise additional capital in the current fiscal year to continue to finance its business plans and activities. There can be no
+assurance that the Company will be able to raise such capital, or on such terms as our acceptable to management. If the Company fails
+to raise additional capital, the Company could be unable to execute on its business plans . 
+
+Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+
+We are not required to provide the information
+required by this Item because we are a smaller reporting company. 
+
+7 
+
+TABLE OF CONTENTS 
+
+PAGE 
+ 
+ PART I 
+
+Report of Independent Registered Public Accounting Firm 
+ 
+ F-2 
+
+Balance Sheets as of December 31, 2019 and 2018 
+ 
+ F-3 
+
+Statements of Operations for the Years Ended December 31, 2019 and 2018 
+ 
+ F-4 
+
+Statements of Shareholders Deficit for the Years Ended December 31, 2019 and 2018 
+ 
+ F-5 
+
+Statements of Cash Flows for the Years Ended December 31, 2019 and 2018 
+ 
+ F-6 
+
+Notes to Financial Statements for the Years Ended December 31, 2019 and 2018 
+ 
+ F-7 F-13 
+
+F- 1 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Board of Directors and 
+Shareholders of Optileaf, Incorporated. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets
+of Optileaf, Incorporated. (the Company) as of December 31, 2019 and 2018 and the related statement of operations, stockholders 
+deficit and cash flows for each of the two years in the period ended December 31, 2019, and the related notes (collectively referred to
+as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position
+of the Company as of December 31, 2019 and the results of its operations and its cash flows for each of the two years in the period ended
+December 31, 2019, in conformity with accounting principles generally accepted in the United States of America. 
+
+Explanatory Paragraph- Going Concern 
+
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company has
+suffered recurring losses and for the year ended December 31, 2019 the Company had a net loss of 17,429 and accumulated losses since
+inception of 873,867. The Company also had net cash used in operating activities of 15,796, and had negative working capital of 7,867.
+These factors raise substantial doubt about its ability to continue as a going concern. Management s plans in regard to these matters
+are also described in Note 2. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+/s/ Assurance Dimensions 
+
+We have served as the Company s auditor since 2019. 
+ 
+ Margate, Florida 
+
+June 29, 2021 
+
+F- 2 
+
+OptiLeaf Incorporated 
+Balance Sheets 
+
+December 31 
+
+2019 
+ 2018 
+ 
+ ASSETS 
+
+Current Assets: 
+
+Cash 
+ 20,495 
+ 11,290 
+ 
+ Accounts receivable 
+ 7,590 
+ 2,300 
+ 
+ Inventory 
+ 4,044 
+ - 
+ 
+ Total current assets 
+ 32,129 
+ 13,590 
+ 
+ Total Assets 
+ 32,129 
+ 13,590 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Current Liabilities 
+
+Accounts payable and accrued expenses 
+ 33,995 
+ 17,797 
+ 
+ Accrued payroll 
+ 6,001 
+ 7,262 
+ 
+ Deferred revenue 
+ - 
+ 3,969 
+ 
+ Total current liabilities 
+ 39,996 
+ 29,028 
+
+Long term loans payable - related parties 
+ 5,000 
+ 45,000 
+ 
+ Long term loans payable 
+ 40,000 
+ 40,000 
+ 
+ Total long term liabilities 
+ 45,000 
+ 85,000 
+
+Total Liabilities 
+ 84,996 
+ 114,028 
+
+Commitments and Contingencies (Note 6) 
+ 
+ - 
+
+Stockholders Equity (Deficit): 
+
+Common stock, no par value; 100,000,000 shares authorized; 20,943,753 and 20,777,086 issued and outstanding at December 31, 2019 and 2018, respectively. 
+ 821,000 
+ 796,000 
+ 
+ Treasury Stock, at cost, 0 and 1,000,000 shares at December 31, 2019 and 2018 respectively 
+ - 
+ (40,000 
+ 
+ Accumulated deficit 
+ (873,867 
+ (856,438 
+ 
+ Total Stockholders Deficit 
+ (52,867 
+ (100,438 
+
+Total Liabilities and Stockholders Deficit 
+ 32,129 
+ 13,590 
+
+(See accompanying notes to condensed financial
+statements) 
+
+F- 3 
+
+OptiLeaf Incorporated 
+Statements of Operations 
+
+For the Years Ended 
+
+December 31 
+
+2019 
+ 2018 
+ 
+ Revenue 
+
+Product sales and services 
+ 109,372 
+ 40,697 
+ 
+ Product sales and services, related party 
+ - 
+ 7,000 
+ 
+ Total revenue 
+ 109,372 
+ 47,697 
+ 
+ Cost of goods sold 
+ (16,314 
+ (10,810 
+ 
+ Gross income 
+ 93,058 
+ 36,887 
+
+Expenses: 
+
+Travel 
+ 4,098 
+ 1,257 
+ 
+ Supplies 
+ 817 
+ 10,744 
+ 
+ Other 
+ 25,753 
+ 17,781 
+ 
+ Professional fees 
+ 5,342 
+ 19,531 
+ 
+ Rent 
+ 25,582 
+ 23,867 
+ 
+ Payroll 
+ 52,924 
+ 119,288 
+ 
+ Total operating expenses 
+ 114,517 
+ 192,468 
+
+Net loss before other income and provision for income taxes 
+ (21,458 
+ (155,581 
+
+Other income (expense) 
+
+Miscellaneous income 
+ 899 
+ 719 
+ 
+ Interest income 
+ 3,900 
+ 4 
+ 
+ Interest expense 
+ (770 
+ (1,821 
+ 
+ Total other income (expense) 
+ 4,029 
+ (1,098 
+
+Net loss before provision for income taxes 
+ (17,429 
+ (156,679 
+ 
+ Provision for income taxes 
+ - 
+ - 
+
+Net loss 
+ (17,429 
+ (156,679 
+
+Basic and diluted loss per share 
+ (0.00 
+ (0.01 
+
+Basic and diluted weighted average number of shares outstanding 
+ 20,914,986 
+ 20,588,958 
+
+(See accompanying notes to financial statements) 
+
+F- 4 
+
+OptiLeaf,
+Inc. 
+
+ Statement of Stockholders Deficit 
+
+ For the Years Ended December 31, 2019 and 2018 
+
+Common Stock 
+ Treasury Stock 
+ Accumulated 
+ Total Stockholders 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Deficit 
+ Deficit 
+ 
+ Balance, December 31, 2017 
+ 20,443,752 
+ 746,000 
+ 1,000,000 
+ (40,000 
+ (699,759 
+ 6,241 
+
+Common shares sold for cash 
+ 333,334 
+ 50,000 
+ - 
+ - 
+ - 
+ 50,000 
+ 
+ Net Loss 
+ - 
+ - 
+ - 
+ - 
+ (156,679 
+ (156,679 
+
+Balances, December 31, 2018 
+ 20,777,086 
+ 796,000 
+ 1,000,000 
+ (40,000 
+ (856,438 
+ (100,438 
+
+Common shares sold for cash 
+ 166,667 
+ 25,000 
+ - 
+ - 
+ - 
+ 25,000 
+
+Treasury shares used to pay down related party loan 
+ - 
+ - 
+ (1,000,000 
+ 40,000 
+ - 
+ 40,000 
+
+Net loss 
+ - 
+ - 
+ - 
+ - 
+ (17,429 
+ (17,429 
+
+Balances, December 31, 2019 
+ 20,943,753 
+ 821,000 
+ - 
+ - 
+ (873,867 
+ (52,867 
+
+(See accompanying notes to financial statements) 
+
+F- 5 
+
+OptiLeaf,
+Inc. 
+
+ Statements of Cash Flows 
+
+For the years ended 
+
+December 31 
+
+2019 
+ 2018 
+ 
+ Cash flows from operating activities: 
+
+Net loss 
+ (17,429 
+ (156,679 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Change in opeerating assets and liabilities 
+
+Decrease (increase) in accounts receivable 
+ (5,290 
+ 3,850 
+ 
+ Decrease (increase) in inventory 
+ (4,044 
+ 4,397 
+ 
+ Decrease (Increase) in employee advance 
+ - 
+ 2,255 
+ 
+ Decrease in security deposit 
+ - 
+ 1,144 
+ 
+ Increase (decrease) in accrued payroll 
+ (1,261 
+ 7,262 
+ 
+ Increase (decrease) in accounts payable and accrued expenses 
+ 16,198 
+ (7,105 
+ 
+ Increase (decrease) in deferred revenue 
+ (3,969 
+ 3,969 
+ 
+ Net cash used in operating activities 
+ (15,796 
+ (140,907 
+
+Cash flows from investing activities: 
+
+Net cash used in investing activities 
+ - 
+ - 
+
+- 
+ - 
+ 
+ Cash flows from financing activities: 
+
+Common shares sold for cash 
+ 25,000 
+ 50,000 
+ 
+ Proceeds from sale of note payable 
+ - 
+ 40,000 
+ 
+ Proceeds from loans from related parties 
+ 0 
+ 45,000 
+ 
+ Net cash provided by financing activities 
+ 25,000 
+ 135,000 
+
+Net increase (decrease) in cash 
+ 9,204 
+ (5,907 
+ 
+ Cash at beginning of period 
+ 11,290 
+ 17,197 
+ 
+ Cash at end of period 
+ 20,494 
+ 11,290 
+ 
+ Supplemental cash flow information: 
+
+Cash paid during the period for: 
+
+Interest 
+ - 
+ 1,821 
+ 
+ Income taxes 
+ - 
+ - 
+
+Supplemental non cash transactions 
+
+Treasury shares issued to pay down related party debt 
+ 40,000 
+ - 
+
+(See accompanying notes to financial statements) 
+
+F- 6 
+
+OptiLeaf, Inc. 
+Notes to Financial Statements 
+For the Years Ended December 31, 2019 and 2018 
+
+Note 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Organization 
+
+OptiLeaf Incorporated OptiLeaf 
+or the Company was incorporated in Florida in August 2014. The Company has been in the infancy stage since inception and
+has generated minimal sales to date. The Company plans to develop, market and sell integrated software and hardware to the agriculture
+industry for the seamless tracking and management of growth, task automation and sale of their clients products. 
+
+Cash and Cash Equivalents 
+
+The Company considers all highly liquid investments
+with an original maturity of three months or less to be cash equivalents. Cash equivalents consisted of money market funds. At December
+31, 2019, the Company had no cash equivalents. 
+
+Accounts Receivable 
+
+The Company has 7,590
+and 2,300 of trade accounts receivable at December 31, 2019 and 2018. The Company reviews the accounts receivable, at least quarterly,
+and, if appropriate, records an allowance for doubtful accounts. No allowance was required as of December 31, 2019 and 2018. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that
+affect the amounts reported in the financial statements and accompanying notes. Actual results could differ from those estimates. 
+
+Property and Equipment 
+
+Property and equipment are stated at cost. Depreciation
+is provided over the estimated useful lives (3 years) of the related assets using the straight-line depreciation method. 
+
+Maintenance and repairs are charged to operations
+when incurred. Betterments and improvements are capitalized. When property and equipment are sold or otherwise disposed of, the asset
+account and related accumulated depreciation account are reduced, and any gain or loss is included in operations. 
+
+Capitalized Software Development Costs 
+
+Software development costs are expensed as incurred
+until technological feasibility of the product is established. Development costs incurred subsequent to technological feasibility will
+be capitalized and amortized on a straight-line basis over the estimated economic life of the product. Capitalization of computer software
+costs will be discontinued when the computer software product is available to be sold, leased, or otherwise marketed. Amortization will
+begin when the product is available for release to customers. Management has determined as of December 31, 2019 that the software has
+not yet reached the stage of technological feasibility. The Company has not maintained specific cost records, but estimates that 46,000
+and 107,000 has been expensed for software development, and has been included in payroll costs, during the years ended December 31, 2019
+and 2018 respectively. 
+
+F- 7 
+
+OptiLeaf, Inc. 
+Notes to Financial Statements 
+For the Years Ended December 31, 2019 and 2018 
+
+Revenue Recognition 
+
+The Company adopted Accounting
+Standards Update ASU No. 2014-09, Revenue from Contracts with Customers, effective January 1, 2018 using the
+cumulative effect transition method. Two core principles of this new guidance, which was codified into Accounting Standards Codification ASC Topic 606, Revenue from Contracts with Customers, are that an entity should (a) measure revenue in connection
+with its sale of goods and services to a customer based on the consideration to which the entity expects to be entitled in exchange for
+each of those goods and services and (b) recognize revenue upon satisfaction of its performance obligations under the contract. An entity s
+performance obligation is considered satisfied when (or as) control of the promised goods and services are transferred to the customer. 
+
+In general, the Company will record revenue when
+persuasive evidence of an arrangement exists, services have been rendered or product delivery has occurred, the sales price to the customer
+is fixed or determinable, and collectability is reasonably assured. The following policies reflect specific criteria for the various revenues
+streams of the Company: 
+
+Revenue will be recognized at the time the product
+is delivered or services are performed. Provision for sales returns will be estimated based on the Company s historical return experience.
+Revenue will be presented net of returns. 
+
+Research and
+Development 
+
+The cost of research and development is charged to expense when incurred. 
+
+Net Loss per Common Share 
+
+Basic net (loss) income per common share is calculated
+using the weighted average common shares outstanding during each reporting period. Diluted net (loss) income per common share adjusts
+the weighted average common shares for the potential dilution that could occur if common stock equivalents (convertible debt and preferred
+stock, warrants, stock options and restricted stock shares and units) were exercised or converted into common stock. There were no common
+stock equivalents at December 31, 2019 and 2018. 
+
+Income Taxes 
+
+Deferred income taxes are recognized for the tax
+consequences related to temporary differences between the carrying amount of assets and liabilities for financial reporting purposes and
+the amounts used for tax purposes at each year end, based on enacted tax laws and statutory tax rates applicable to the periods in which
+the differences are expected to affect taxable income. A valuation allowance is recognized when, based on the weight of all available
+evidence, it is considered more likely than not that all, or some portion, of the deferred tax assets will not be realized. Income tax
+expense is the sum of current income tax plus the change in deferred tax assets and liabilities. 
+
+ASC 740, Income Taxes, requires a company to first
+determine whether it is more likely than not (which is defined as a likelihood of more than fifty percent) that a tax position will be
+sustained based on its technical merits as of the reporting date, assuming that taxing authorities will examine the position and have
+full knowledge of all relevant information. A tax position that meets this more likely than not threshold is then measured and recognized
+at the largest amount of benefit that is greater than fifty percent likely to be realized upon effective settlement with a taxing authority. 
+
+The Federal and state income tax returns of the
+Company for 2019, 2018, and 2017 are subject to examination by the internal Revenue Service and state taxing authorities for three (3)
+years from the date filed. 
+
+Equity instruments granted to non-employees are
+accounted for in accordance with ASC 505, Equity. The final measurement date for the fair value of equity instruments with performance
+criteria is the date that each performance commitment for such equity instrument is satisfied or there is a significant disincentive for
+non-performance. 
+
+F- 8 
+
+OptiLeaf, Inc. 
+Notes to Financial Statements 
+For the Years Ended December 31, 2019 and 2018 
+
+Stock-Based Compensation 
+
+The Company accounts for equity instruments issued
+to employees in accordance with ASC 718, Compensation - Stock Compensation. ASC 718 requires all share-based compensation payments to
+be recognized in the financial statements based on the fair value using an option pricing model. ASC 718 requires forfeitures to be estimated
+at the time of grant and revised in subsequent periods if actual forfeitures differ from initial estimates. 
+
+Equity instruments granted to non-employees are
+accounted for in accordance with ASC 505, Equity. The final measurement date for the fair value of equity instruments with performance
+criteria is the date that each performance commitment for such equity instrument is satisfied or there is a significant disincentive for
+non-performance. 
+
+Fair Value of Financial Instruments 
+
+Pursuant to ASC No. 820, Fair Value Measurement
+and Disclosures , the Company is required to estimate the fair value of all financial instruments included on its balance sheet
+as of December 31, 2019 and December 31, 2018. The Company s financial instruments consist of accounts payable and accrued expenses.
+The Company considers the carrying value of such amounts in the financial statements to approximate their fair value due to the short-term
+nature of these financial instruments. 
+
+Recent Accounting Pronouncements 
+
+In February 2016, the FASB issued ASU 2016-02,
+ Leases (Topic 842), which requires lessees to recognize most lease liabilities on their balance sheets but recognize the
+expenses on their income statements in a manner similar to current practice. The update states that a lessee would recognize a lease liability
+for the obligation to make lease payments and a right-to-use asset for the right to use the underlying asset for the lease term. The update
+is effective for interim and annual periods beginning after December 15, 2018, and early adoption is permitted. The impact of this guidance
+will result in the recognition of assets and liabilities for leases that the Company enters into in the future. 
+
+Other recent accounting pronouncements issued
+by the FASB, including its Emerging Issues Task Force, the American Institute of Certified Public Accountants, and the Securities and
+Exchange Commission did not or are not believed by management to have a material impact on the Company s present or future financial
+statements. 
+
+F- 9 
+
+OptiLeaf, Inc. 
+Notes to Financial Statements 
+For the Years Ended December 31, 2019 and 2018 
+
+Note 2. GOING CONCERN 
+
+The Company s financial statements are presented
+on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities in the normal course of business. 
+
+The
+Company has experienced a loss from operations during its development stage as a result of its investment necessary to achieve its operating
+plan, which is long-range in nature . During
+the year ended December 31, 2019, the Company incurred a net loss of 17,429 and at December 31, 2019 has accumulated losses, since inception
+of 873,867. In addition, the Company has minimal revenue generating operations. These conditions raise substantial doubt about the Company s
+ability to continue as a going concern. These financial statements do not include any adjustments relating to the recoverability and classification
+of recorded asset amounts, or amounts and classification of liabilities that might result from this uncertainty . 
+
+The
+ability of the Company to continue as a going concern is in doubt and dependent upon achieving a profitable level of operations or on
+the ability of the Company to obtain necessary financing to fund ongoing operations. Management believes that its current and future plans
+enable it to continue as a going concern for the next twelve months. 
+
+To
+meet these objectives, the Company continues to seek other sources of financing in order to support existing operations and expand the
+range and scope of its business. However, there are no assurances that any such financing can be obtained on acceptable terms and timely
+manner, if at all. The failure to obtain the necessary working capital would have a material adverse effect on the business prospects
+and, depending upon the shortfall, the Company may have to curtail or cease its operations. 
+
+The Company has experienced losses, from operations,
+during its development stage, as a result of the investment necessary to achieve its operating plan, which is long-range in nature. For
+the period from inception through December 31, 2019, the Company incurred accumulated losses of 873,867 compared to a cumulative loss
+through December 31, 2018, of 856,438. For the year ended December 31, 2019, primarily as the result of increased revenue and decreased
+intellectual property cost of 61,675 and 66,368 respectively, the Company reduced its net loss to 17,429 compared to 156,679 and had
+negative working capital of 7,867 compared to 15,438 for the year ended December 31, 2018. These conditions raise substantial doubt
+about the Company s ability to continue as a going concern. These financial statements do not include any adjustments relating to
+the recoverability and classification of recorded asset amounts, or amounts and classification of liabilities that might result from this
+uncertainty. 
+
+During the year ended December 31, 2019 the Company
+used 24,545 for operating expenses compared to 140,907 during the year ended December 31, 2018. The Company generated 25,000 from the
+sale of common stock, and 8,750 from a related party loan compared to 50,000 from the sale of common stock, 40,000 from the sale of
+notes payable and 45,000 from related parties, during the year ended December 31, 2018. 
+
+The ability of the Company to continue as a going
+concern is in doubt and dependent upon achieving a profitable level of operations or on the ability of the Company to obtain necessary
+financing to fund ongoing operations. Management believes that its current and future plans enable it to continue as a going concern for
+the next twelve months. 
+
+F- 10 
+
+OptiLeaf, Inc. 
+Notes to Financial Statements 
+For the Years Ended December 31, 2019 and 2018 
+
+To meet these objectives, the Company continues
+to seek other sources of financing in order to support existing operations and expand the range and scope of its business. However, there
+are no assurances that any such financing can be obtained on acceptable terms and timely manner, if at all. The failure to obtain the
+necessary working capital would have a material adverse effect on the business prospects and, depending upon the shortfall, the Company
+may have to curtail or cease its operations. 
+
+The accompanying financial statements do not include
+any adjustment to the recorded assets or liabilities that might be necessary should the Company have to curtail operations or be unable
+to continue in existence. 
+
+Note 3. RELATED PARTY TRANSACTIONS 
+
+During the year ended December 31, 2018, two Company
+officers loaned the Company 45,000, unsecured, maturing on April 1, 2020, bearing interest of 3 . On December 31, 2019, the Company repaid
+ 40,000 of the outstanding debt by issuing 1,000,000 common shares, previously designated as treasury stock, to the two individuals. 
+
+Note 4. STOCKHOLDERS EQUITY 
+
+Common stock 
+
+The Company has authorized 100,000,000 shares
+of no par value common stock. At December 31, 2019, the number of shares of common stock issued was 20,943,753. 
+
+On July 25, 2018, the Company issued, for cash,
+to two investors, 333,334 restricted common shares for a total of 50,000, recorded at a cost of 0.15 per share. 
+
+On March 4, 2019 the Company issued, for cash,
+to one investor, 166,667 restricted common shares for 25,000, recorded at a cost of 0.15 per share. 
+
+Treasury stock 
+
+On September 20, 2016, the Board of Directors
+authorized the Company to repurchase one million shares of common stock for 40,000. These treasury stock shares may, at any time, be
+canceled upon the Board of Directors approval. The Board has not made such election. On December 31, 2019 the 1,000,000 treasury shares
+were issued to two related parties to repay 40,000 of a loan that they had made to the Company. 
+
+Note 5. CONCENTRATION CREDIT RISK 
+
+At December 31, 2019 the Company had two non 
+related customers that owed 26 and 20 of total accounts receivable and three unrelated customers that owed 12 each of total accounts
+receivable. At December 31, 2018 the Company had two non related customers that owed 58.5 and 41.5 of total accounts receivable. 
+
+The Company maintains its cash balances in a local
+financial institution which at times may exceed the 250,000 amount insured by the Federal Deposit Insurance Corporation (FDIC). On December
+31, 2019 and 2018 the Company did not have any cash balances which exceeded the limeit. 
+
+F- 11 
+
+OptiLeaf, Inc. 
+Notes to Financial Statements 
+For the Years Ended December 31, 2019 and 2018 
+
+Note 6. COMMITMENTS AND CONTINGENCIES 
+
+On August 10, 2018 the Company leased its offices
+for six years, payable at the rate of 2,000 per month, plus the Company s pro rata share of operating expenses. No payments were
+made and the lease was terminated without any liability effective January 1, 2019. The Company has continued to occupy the space, on a
+month to month, tenancy, with the understanding that some or all of the unpaid portion will be paid as economics permits. 
+
+Note 7. INCOME TAXES 
+
+The Company accounts
+for income taxes under the Financial Accounting Standards Board FASB Accounting Standards Codification ASC No. 740, Income Taxes ASC 740 ). Under ASC 740, deferred tax assets and liabilities are recognized for
+the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities
+and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable
+income in the years in which those temporary differences are expected to be recovered or settled. 
+
+The new tax bill reduced
+the federal income tax rate for corporations from 35 to 21 . 
+
+At December 31, 2019, the Company has a net operating
+loss carryforward of approximately 861,010 for Federal and State purposes. This loss will be available to offset future taxable income.
+If not used, this carryforward will begin to expire in 2035. The deferred tax asset relating to the operating loss carryforward has been
+fully reserved at December 31, 2019 and 2018. The change in the valuation allowance was approximately 0 and 54,424 for the years ended
+December 31, 2019 and 2018, respectively. The principal difference between the operating loss for income tax purposes and reporting purposes
+is disallowed meals and entertainment and a temporary difference in depreciation expense. 
+
+Utilization of the Company s net operating
+losses may be subject to substantial annual limitation if the Company experiences a 50 change in ownership, as provided by the Internal
+Revenue Code and similar state provisions. Such an ownership change would substantially increase the possibility of net operating losses
+expiring before complete utilization. 
+
+F- 12 
+
+OptiLeaf, Inc. 
+Notes to Financial Statements 
+For the Years Ended December 31, 2019 and 2018 
+
+Cumulative loss December 31, 2019 and 2018 
+ (861,010 
+ (841,371 
+
+December 31 
+
+2019 
+ 2018 
+
+Deferred tax benefits 
+ 180,812 
+ 176,688 
+ 
+ Valuation allowanve 
+ (180,812 
+ (176,688 
+ 
+ Net deferred tax asset 
+ - 
+ - 
+
+F- 13 
+
+I tem 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+None 
+
+Item 9A. 
+ Controls and Procedures 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Pursuant to Rule 13a-15(b) under the Securities
+Exchange Act of 1934 Exchange Act ), the Company carried out an evaluation, with the participation of the Company s
+management, including the Company s President, Chief Financial Officer, Secretary, Treasurer and Director, of the effectiveness
+of the Company s disclosure controls and procedures (as defined under Rule 13a-15(e) under the Exchange Act) as of the end of the
+period covered by this report. Based upon that evaluation, the Company s CEO and CFO concluded that the Company s disclosure
+controls and procedures were not effective to ensure that information required to be disclosed by the Company in the reports that the
+Company files or submits under the Exchange Act, is recorded, processed, summarized and reported, within the time periods specified in
+the SEC s rules and forms, and that such information is accumulated and communicated to the Company s management, including
+the Company s CEO and CFO, as appropriate, to allow timely decisions regarding required disclosure for the reasons discussed below. 
+
+The management of the Company is responsible for
+establishing and maintaining adequate internal control over financial reporting for the Company. Our internal control system was designed
+to, in general, provide reasonable assurance to the Company s management and board regarding the preparation and fair presentation
+of published financial statements, but because of its inherent limitations, internal control over financial reporting may not prevent
+or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls
+may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Our management assessed the effectiveness of the
+Company s internal control over financial reporting as of December 31, 2019. The framework used by management in making that assessment
+was the criteria set forth in the document entitled Internal Control - Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission. Based on that assessment, our President and Chief Financial Officer have determined and concluded
+that, as of December 31, 2019, the Company s internal control over financial reporting were not effective. 
+
+A material weakness is a deficiency, or a combination
+of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement
+of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. In its assessment of
+the effectiveness of internal control our financial reporting as of December 31, 2019, the Company determined that the following items
+constituted a material weakness: 
+
+The Company does not have an independent audit committee in place, which would provide oversight of the Company s officers, operations and financial reporting function; 
+
+The Company s accounting department, which consists of a limited number of personnel, does not provide adequate segregation of duties and timely information; and 
+
+The Company does not have effective controls over period end financial disclosure and reporting processes. 
+
+Management believes that the appointment of one
+or more outside directors, who shall be appointed to a fully functioning audit committee, will remedy the lack of a functioning audit
+committee and a lack of a majority of outside directors on our Board. Management plans to take action and implementing improvements to
+our controls and procedures when our financial position permits. 
+
+This annual report does not include an attestation
+report of the Company s registered public accounting firm regarding internal control over financial reporting. Management s
+report was not subject to attestation by the Company s registered public accounting firm pursuant to the permanent exemption of
+the Securities and Exchange Commission that permit the Company to provide only management s report in this annual report. 
+
+Changes in Internal Control over Financial
+Reporting 
+
+No change in our system of internal control over
+financial reporting occurred during the period covered by this report (i.e. the fourth quarter of the fiscal year ended December 31, 2019)
+that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+8 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+
+The following table sets forth the name, age,
+and position of our executive officers and directors. Executive officers are elected annually by our Board of Directors. Each executive
+officer holds his office until he resigns, is removed by the Board, or his successor is elected and qualified. Directors are elected annually
+by our shareholders at the annual meeting. Each director holds his office until his successor is elected and qualified or his earlier
+resignation or removal. 
+
+Name 
+ Age 
+ Position 
+ 
+ Thomas Tran 
+ 53 
+ Chief Executive Officer, Chief Technical Officer, President, Treasurer and Secretary 
+ 
+ Nick Nguyen 
+ 42 
+ Chief Operating Officer, Chief Financial Officer 
+
+Thomas Tran (CTO/CEO) Age 53. Mr.
+Tran will handle all aspects of management for the business. Thomas will be responsible for providing strategic leadership for the company
+by working with the Board and management team to establish long-range goals, strategies, plans, and policies. He will also be responsible
+for establishing the OptiLeaf s technical vision and leading all aspects of technology development, according to the Company s
+strategic direction and growth objective. During the last 5 years, Thomas was the CEO of Eman Technologies, Inc. Eman Technology is a
+Free-to-Air (FTA) satellite equipment distributor, developer, and importer. It distributes satellite reception equipment to broadcasters
+and equipment resellers as well as providing direct to home DTH sales and call center support services. Thomas resigned
+as CEO of Eman on 12-31-2014 to concentrate on OptiLeaf. Mr. Tran currently holds no official position with Eman, other than assisting
+in the wind up of the business of Eman, which is being discontinued. 
+
+Thomas received his BS degree in computer science
+from Wichita State University, as well as an MBA degree from Webster University. 
+
+Nick Nguyen (COO/CFO) Age 42 Mr.
+Nguyen will take OptiLeaf s mission and communicate it daily within the organization to ensure that all team members clearly understand
+the plan and the business. During the past 5 years, Nick was a Founder and as CEO ran CN Cash for Gold in Kansas City and Wichita Kansas.
+Nick earned a BS degree in Aerospace Engineering from Wichita State University in Kansas. 
+
+Family Relationships 
+
+There are no family relationships among any of
+the directors and executive officers, with the exception of Nick Nguyen and Thomas Tran, who are brothers in law. 
+
+Involvement in Certain Legal Proceedings 
+
+Our directors and officers have not been convicted
+in a criminal proceeding, excluding traffic violations or similar misdemeanors, nor have been a party to any judicial or administrative
+proceeding during the past ten years that resulted in a judgment, decree or final order enjoining the person from future violations of,
+or prohibiting activities subject to, federal or state securities laws, or a finding of any violation of federal or state securities laws,
+except for matters that were dismissed without sanction or settlement. Except as set forth in our discussion below in Certain Relationships
+and Related Transactions, our directors and officers have not been involved in any transactions with us or any of our affiliates
+or associates which are required to be disclosed pursuant to the rules and regulations of the SEC. 
+
+Code of Business Conduct and Ethics 
+
+To date, we have not adopted a code of business
+conduct and ethics for our management and employees. We intend to adopt one in the near future. Except as set forth in our discussion
+below in Certain Relationships and Related Transactions, none of our directors or executive officers has been involved in
+any transactions with us or any of our directors, executive officers, affiliates or associates which are required to be disclosed pursuant
+to the rules and regulations of the SEC. 
+
+9 
+
+Item 11. 
+ Executive Compensation 
+
+Summary Compensation Table January
+1 2018 through December 31, 2019. 
+
+The following table sets forth information concerning
+all cash and non-cash compensation awarded to, earned by or paid to the named persons for services rendered in all capacities during the
+noted periods. 
+
+Name and Principal Position 
+ 
+ Year Ended 
+12/31 
+
+Salary ) 
+
+Non- Qualified 
+Deferred 
+Compensation 
+Earnings ) 
+
+All Other 
+Compensation ) 
+
+Total ) 
+
+Thomas Tran, CEO/CTO, President, Secretary and Treasurer 
+ 
+ 2019 
+
+- 
+
+- 
+
+2018 
+
+- 
+
+- 
+
+Nick Nguyen, COO/CFO 
+ 
+ 2019 
+
+- 
+
+- 
+
+2018 
+
+- 
+
+- 
+
+Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+The following table sets forth certain information
+regarding our shares of common stock beneficially owned as of December 31, 2018, (i) each stockholder known to be the beneficial owner
+of 5 or more of our outstanding shares of common stock, (ii) each named executive officer and director, and (iii) all executive officers
+and directors as a group. A person is considered to beneficially own any shares: (i) over which such person, directly or indirectly, exercises
+sole or shared voting or investment power, or (ii) of which such person has the right to acquire beneficial ownership at any time within
+60 days through an exercise of stock options or warrants or otherwise. Unless otherwise indicated, voting and investment power relating
+to the shares shown in the table for our directors and executive officers is exercised solely by the beneficial owner or shared by the
+owner and the owner s spouse or children. 
+
+For purposes of this table, a person or group
+of persons is deemed to have beneficial ownership of any shares of common stock that such person has the right to acquire
+within 60 days of the date of this prospectus. For purposes of computing the percentage of outstanding shares of our common stock held
+by each person or group of persons named above, any shares that such person or persons has the right to acquire within 60 days of the
+Closing Date is deemed to be outstanding, but is not deemed to be outstanding for the purpose of computing the percentage ownership of
+any other person. The inclusion herein of any shares listed as beneficially owned does not constitute an admission of beneficial ownership. 
+
+Unless otherwise specified, the address of each
+of the persons set forth below is in care of the Company, 924 N Main St., Wichita, KS, 67203. 
+
+Ownership 
+ Percent of Class (1) 
+ 
+ Executive Officers and Directors 
+
+Thomas Tran 
+ 7,680,313 
+ 36.7 
+ 
+ Michael Janzen 
+ 1,724,896 
+ 8.2 
+ 
+ Nick Nguyen 
+ 5,738,542 
+ 27.4 
+ 
+ Wilbur N. Gregory 
+ 1,900,000 
+ 9.1 
+
+(1) Based
+on 20,943,086 shares of common stock issued and outstanding as of December 31, 2019. Beneficial ownership is determined in accordance
+with the rules of the Securities and Exchange Commission and generally includes voting or investment power with respect to securities.
+Except as otherwise indicated, we believe that the beneficial owners of the common stock listed above, based on information furnished
+by such owners, have sole investment and voting power with respect to such shares, subject to community property laws where applicable. 
+
+10 
+
+Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+
+Transactions with Related Parties 
+
+Other than stated above, none of the following
+persons has any direct or indirect material interest in any transaction to which we are a party since our incorporation or in any proposed
+transaction to which we are proposed to be a party: 
+
+(A) 
+ Any of our directors or officers; 
+
+(B) 
+ Any proposed nominee for election as our director; 
+
+(C) 
+ Any person who beneficially owns, directly or indirectly, shares carrying more than 10 of the voting rights attached to our shares; or 
+
+(D) 
+ Any relative or spouse of any of the foregoing persons, or any relative of such spouse, who has the same house as such person or who is a director or officer of any parent or subsidiary of our company. 
+
+Item 14. 
+ Principal Accounting
+Fees and Services 
+
+The following table includes 5,000 fees billed
+for auditing and other services provided to us by Soles, Heyn and Company, LLP, plus 9,000 billed by Assurance Dimensions, for the fiscal
+year ended December 31, 2019 and by Soles, Heyn and Company LLP, for the fiscal year ended December 31, 2018: 
+
+2018 
+ 
+ Audit Fees 
+ 14,000 
+ 
+ Audit-Related Fees 
+ - 
+ 
+ Tax Fees 
+ - 
+ 
+ All Other Fees 
+ - 
+ 
+ Total 
+ 14,000 
+
+11 
+
+PART IV 
+
+Item 15. 
+ Exhibits, Financial Statement Schedules 
+
+Exhibit No. 
+ 
+ Description 
+ 
+ 3.1 
+ 
+ Articles of Incorporation. 
+ 
+ 3.2 
+ 
+ By-Laws. 
+ 
+ 31.1 
+ 
+ Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 31.2 
+ 
+ Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.1 
+ 
+ Certification of the Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.2 
+ 
+ Certification of the Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 101.INS 
+ 
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+Filed
+herewith 
+
+Previously
+filed 
+
+12 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+Date: June 30, 2021 
+
+Optileaf Inc 
+
+/s/ Thomas Tran 
+
+Name: 
+ Thomas Tran 
+
+Title: 
+ Chief Executive Officer, 
+
+Chief Technology Officer, 
+
+President, Secretary Treasurer 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and
+on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Thomas Tran 
+ 
+ Chief Executive Officer, Chief Technology Officer 
+ 
+ June 30, 2021 
+ 
+ Thomas Tran 
+ 
+ President, Secretary Treasurer 
+
+/s/ Nick Nguyen 
+ 
+ Chief Financial Officer Chief Operating Officer 
+ 
+ June 30, 2021 
+ 
+ Nick Nguyen 
+
+13 
+
+<EX-31.1>
+ 2
+ f10k2019ex31-1_optileafinc.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+CERTIFICATION OF 
+
+ CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 302 OF THE 
+
+ SARBANES-OXLEY ACT OF 2002 
+
+I, Thomas Tran, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Optileaf,
+Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under
+which such statements were made, not misleading with respect to the period covered by this quarterly report; 
+
+3. Based on my knowledge, the financial statements, and other
+financial information included in this quarterly report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this quarterly report; 
+
+4. The registrant s other certifying officer and I are responsible
+for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+controls over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) designed such disclosure controls
+and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared; 
+
+b) designed such internal control
+over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+c) evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; 
+
+d) disclosed in this report any
+change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal
+quarter (the registrant s fourth fiscal quarter in the case of an quarterly report) that has materially affected, or is reasonably
+likely to materially affect, the registrant s internal control over financial reporting; 
+
+5. The registrant s other certifying officer and I have
+disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the
+audit committee of the registrant s board of directors (or persons performing the equivalent function): 
+
+a) all significant deficiencies
+and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material,
+that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting. 
+
+Date: June 30, 2021 
+ /s/ Thomas Tran 
+
+Name: 
+ Thomas Tran 
+
+Title: 
+ Chief Executive Officer, Chief Technology Officer, President,
+Secretary Treasurer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ f10k2019ex31-2_optileafinc.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+CERTIFICATION OF 
+
+ CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 302 OF THE 
+
+ SARBANES-OXLEY ACT OF 2002 
+
+I, Nick Nguyen, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Optileaf,
+Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under
+which such statements were made, not misleading with respect to the period covered by this quarterly report; 
+
+3. Based on my knowledge, the financial statements, and other
+financial information included in this quarterly report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this quarterly report; 
+
+4. The registrant s other certifying officer and I are
+responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+and internal controls over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) designed such disclosure controls
+and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared; 
+
+b) designed such internal control
+over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+c) evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; 
+
+d) disclosed in this report any
+change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal
+quarter (the registrant s fourth fiscal quarter in the case of an quarterly report) that has materially affected, or is reasonably
+likely to materially affect, the registrant s internal control over financial reporting; 
+
+5. The registrant s other certifying officer and I have
+disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the
+audit committee of the registrant s board of directors (or persons performing the equivalent function): 
+
+a) all significant deficiencies
+and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material,
+that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting. 
+
+Date: June 30, 2021 
+ /s/ Nick Nguyen 
+
+Name: 
+ Nick Nguyen 
+
+Title: 
+ Chief Financial Officer
+ Chief Operating Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ f10k2019ex32-1_optileafinc.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION OF 
+
+ CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE 
+
+ SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Optileaf,
+Inc., (the Company on Form 10-K for the year ended December 31, 2019 as filed with the Securities and Exchange Commission
+on the date hereof (the Report ), Thomas Tran, Chief Executive Officer, of the Company, certifies, pursuant to 18 U.S.C.
+section 1350 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with
+the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in
+the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: June 30, 2021 
+ /s/ Thomas Tran 
+
+Name: 
+ Thomas Tran 
+
+Title: 
+ Chief Executive Officer, 
+
+Chief Technology Officer, 
+
+President, Secretary Treasurer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ f10k2019ex32-2_optileafinc.htm
+ CERTIFICATION
+
+Exhibit 32.2 
+
+CERTIFICATION OF 
+
+ CHIEF FINANCIAL OFFICER 
+
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE 
+
+ SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Optileaf,
+Inc., (the Company on Form 10-K for the year ended December 31, 2019 as filed with the Securities and Exchange Commission
+on the date hereof (the Report ), Nick Nguyen, Chief Financial Officer, of the Company, certifies, pursuant to 18 U.S.C.
+section 1350 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with
+the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in
+the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: June 30, 2021 
+ /s/ Nick Nguyen 
+
+Name: 
+ Nick Nguyen 
+
+Title: 
+ Chief Financial Officer, 
+
+Chief Operating Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 7
+ oplf-20191231.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ oplf-20191231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ oplf-20191231_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ oplf-20191231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ oplf-20191231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ oplf-20191231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

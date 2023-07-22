@@ -1,0 +1,2242 @@
+<Header>
+<FileStats>
+    <FileName>20221003_10-Q_edgar_data_1707910_0001213900-22-060787.txt</FileName>
+    <GrossFileSize>4387483</GrossFileSize>
+    <NetFileSize>78967</NetFileSize>
+    <NonText_DocumentType_Chars>818686</NonText_DocumentType_Chars>
+    <HTML_Chars>970425</HTML_Chars>
+    <XBRL_Chars>1220172</XBRL_Chars>
+    <XML_Chars>1191338</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-22-060787.hdr.sgml : 20221003
+<ACCEPTANCE-DATETIME>20220930173153
+ACCESSION NUMBER:		0001213900-22-060787
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		75
+CONFORMED PERIOD OF REPORT:	20220630
+FILED AS OF DATE:		20221003
+DATE AS OF CHANGE:		20220930
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Reborn Coffee, Inc.
+		CENTRAL INDEX KEY:			0001707910
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				474752305
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41479
+		FILM NUMBER:		221285100
+
+	BUSINESS ADDRESS:	
+		STREET 1:		580 N. BERRY STREET
+		CITY:			BREA
+		STATE:			CA
+		ZIP:			92821
+		BUSINESS PHONE:		714-784-6369
+
+	MAIL ADDRESS:	
+		STREET 1:		580 N. BERRY STREET
+		CITY:			BREA
+		STATE:			CA
+		ZIP:			92821
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CAPAX INC.
+		DATE OF NAME CHANGE:	20170530
+
+</SEC-Header>
+</Header>
+
+ 0001213900-22-060787.txt : 20221003
+
+10-Q
+ 1
+ f10q0622_reborncoffee.htm
+ QUARTERLY REPORT
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 
+
+Mark One) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition
+period from 
+to 
+
+Commission File Number: 
+
+(Exact name of Registrant as specified in its charter) 
+
+5810 (State or other jurisdiction of incorporation or organization) (Primary Standard Industrial Classification Code Number) (I.R.S. Employer Identification Number) 
+
+, , 
+
+) 
+
+(Address, including zip code, and telephone
+number, including 
+
+area code, of Registrant s principal executive
+offices) 
+
+N/A 
+
+(Former name, former
+address and former scal year, if changed since last report) 
+
+Securities registered
+pursuant to Section 12(b) of the Act: 
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered The Stock Market LLC (Nasdaq Capital Market) 
+
+Indicate by check mark whether
+the registrant (1) has led all reports required to be led by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant was required to le such reports), and (2) has been
+subject to such ling requirements for the past 90 days.	 
+ No 
+
+Indicate by check mark whether the registrant has submitted
+electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this
+chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such les). 	 
+No 
+
+Indicate by check mark whether the registrant is a
+large accelerated ler, an accelerated ler, a non-accelerated ler, a smaller reporting company, or an emerging growth
+company. See the de nitions of large accelerated ler, accelerated ler, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised nancial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant is a shell
+company (as de ned in Rule 12b-2 of the Exchange Act). Yes
+ No 
+
+The registrant has shares of common
+stock outstanding as of September 30, 2022. 
+
+TABLE OF CONTENTS 
+
+PART I 
+ FINANCIAL INFORMATION 
+ 1 
+
+Item 1 
+ Unaudited Condensed Consolidated Financial Statements 
+ 1 
+
+Condensed Consolidated Balance Sheets as of June 30, 2022 and December 31, 2021 
+ 1 
+
+Condensed Consolidated Statements of Operations for the Three and Six Months Ended June 30, 2022 and 2021 
+ 2 
+
+Condensed Consolidated Statements of Stockholders Equity (Deficit) for the Three and Six Months Ended June 30, 2022 and 2021 
+ 3 
+
+Condensed Consolidated Statements of Cash Flows for the Six Months Ended June 30, 2022 and 2021 
+ 4 
+
+Notes to Condensed Consolidated Financial Statements 
+ 5 
+
+Item 2 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 20 
+
+Item 3 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 28 
+
+Item 4 
+ Controls and Procedures 
+ 28 
+
+PART II 
+ OTHER INFORMATION 
+ 29 
+
+Item 1 
+ Legal Proceedings 
+ 29 
+
+Item 1A 
+ Risk Factors 
+ 29 
+
+Item 2 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 29 
+
+Item 6 
+ Exhibits 
+ 30 
+
+Signature 
+ 31 
+
+i 
+
+NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This Quarterly Report on Form 10-Q contains forward-looking statements
+within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as
+amended, that are based on our management s beliefs and assumptions and on information currently available to management, and which statements
+involve substantial risk and uncertainties. All statements contained in this Quarterly Report on Form 10-Q other than statements of historical
+fact, including statements regarding our future operating results and financial position, our business strategy and plans, market growth
+and trends, and objectives for future operations are forward-looking statements. Forward-looking statements generally relate to future
+events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain
+words such as may, will, should, expects, plans, anticipates, 
+ could, intends, target, projects, contemplates, believes, 
+ estimates, predicts, potential, or continue or the negative of these words or
+other similar terms or expressions that concern our expectations, strategy, plans or intentions. 
+
+These risks and uncertainties include, among other things, risks related
+to our expectations regarding the impact of the coronavirus pandemic (the COVID-19 pandemic ), including the easing of related
+regulations and measures as the pandemic and its related effects begin to abate or have abated, on our business, results of operations,
+financial condition, and future profitability and growth; our expectations regarding the impact of the evolving COVID-19 pandemic on the
+businesses of our customers, partners and suppliers, and the economy, as well as the macro- and micro-effects of the pandemic and differing
+levels of demand for our products as our customers priorities, resources, financial conditions and economic outlook change; global
+macro-economic conditions, including the effects of inflation, rising interest rates and market volatility on the global economy; our
+ability to estimate the size of our total addressable market, and the development of the market for our products, which is new and evolving;
+our ability to effectively sustain and manage our growth and future expenses, achieve and maintain future profitability, attract new customers
+and maintain and expand our existing customer base; our ability to scale and update our platform to respond to customers needs
+and rapid technological change; the effects of increased competition in our market and our ability to compete effectively; our ability
+to expand use cases within existing customers and vertical solutions; our ability to expand our operations and increase adoption of our
+platform internationally; our ability to strengthen and foster our relationships with developers; our ability to expand our direct sales
+force, customer success team and strategic partnerships around the world; the impact of any data breaches, cyberattacks or other malicious
+activity on our technology systems; our ability to identify targets for and execute potential acquisitions; our ability to successfully
+integrate the operations of businesses we may acquire, and to realize the anticipated benefits of such acquisitions; our ability to maintain,
+protect and enhance our brand; the sufficiency of our cash, cash equivalents and capital resources to satisfy our liquidity needs; limitations
+on us due to obligations we have under our credit facility or other indebtedness; our failure or the failure of our software to comply
+with applicable industry standards, laws and regulations; our ability to maintain, protect and enhance our intellectual property; our
+ability to successfully defend litigation against us; our ability to attract large organizations as users; our ability to maintain our
+corporate culture; our ability to offer high-quality customer support; our ability to hire, retain and motivate qualified personnel, including
+executive level management; our ability to successfully manage and integrate executive management transitions; our ability to estimate
+the size and potential growth of our target market; uncertainties regarding the impact of general economic and market conditions, including
+as a result of regional and global conflicts or related government sanctions; our ability to successfully implement and maintain new and
+existing information technology systems, including our ERP system; and our ability to maintain proper and effective internal controls. 
+
+You should not rely upon forward-looking statements as predictions
+of future events. We have based the forward-looking statements contained in this Quarterly Report on Form 10-Q primarily on our current
+expectations and projections about future events and trends that we believe may affect our business, financial condition, results of operations,
+and prospects. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, and other factors
+described in the section titled Risk Factors and elsewhere in this Quarterly Report on Form 10-Q. We undertake no obligation
+to update any forward-looking statements after the date of this Quarterly Report on Form 10-Q or to conform such statements to actual
+results or revised expectations, except as required by law. 
+
+ii 
+
+PART
+I FINANCIAL INFORMATION 
+
+Item 1. Condensed Consolidated Financial Statements. 
+
+Unaudited Condensed Consolidated Balance Sheets 
+
+As of 
+ June 30, 
+2022 
+ December 31, 
+2021 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Accounts receivable, net of allowance for doubtful accounts of and , respectively 
+ 
+ -
+
+Inventories, net 
+
+Prepaid expense and other current assets 
+
+Total current assets 
+
+Property and equipment, net 
+
+Operating lease right-of-use asset 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS EQUITY (DEFICIT) 
+
+Current liabilities: 
+
+Accounts payable 
+
+Accrued expenses and current liabilities 
+
+Line of credit 
+ 
+ - 
+ 
+ Loans payable to financial institutions current portion 
+ - 
+
+Loans payable to shareholders 
+ 
+ - 
+ 
+ Loan payable, emergency injury disaster loan (EIDL) current portion 
+
+Loan payable, payroll protection program (PPP) current portion 
+
+Equipment loan payable current portion 
+
+Operating lease liabilities current portion 
+
+Total current liabilities 
+
+Loans payable to financial institutions net of current portion 
+ -
+
+Loan payable, emergency injury disaster loan (EIDL), net of current portion 
+
+Loan payable, payroll protection program (PPP), net of current portion 
+
+Operating lease liabilities, net of current portion 
+
+Total liabilities 
+
+Commitments and Contingencies 
+
+Stockholders equity (deficit) 
+
+Common Stock, par value, shares authorized; and shares issued and outstanding at June 30, 2022 and December 31, 2021 
+
+Preferred Stock, par value, shares authorized; no shares issued and outstanding at June 30, 2022 and December 31, 2021 
+ -
+ 
+ -
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total stockholders equity (deficit) 
+
+Total liabilities and stockholders equity 
+
+See accompanying notes to unaudited condensed
+consolidated financial statements. 
+
+1 
+
+Unaudited Condensed Consolidated Statements
+of Operations 
+
+Six Months Ended June 30, 
+
+Three Months Ended June 30, 
+
+2022 
+
+2021 
+
+2022 
+
+2021 
+
+Net revenues: 
+
+Stores 
+
+Wholesale and online 
+
+Total net revenues 
+
+Operating costs and expenses: 
+
+Product, food and drink costs stores 
+
+Cost of sales wholesale and online 
+
+General and administrative 
+
+Total operating costs and expenses 
+
+Loss from operations 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Other income (expense): 
+
+Other income 
+
+- 
+
+- 
+
+Interest expense 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Total other income (expense), net 
+
+() 
+
+() 
+
+() 
+
+Loss before income taxes 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Provision for income taxes 
+
+-
+
+-
+
+- 
+
+- 
+
+Net loss 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Loss per share: 
+
+Basic and diluted
+
+() 
+
+() 
+
+() 
+
+() 
+
+Weighted average number of common shares outstanding: 
+
+Basic and diluted
+
+See accompanying notes to unaudited condensed
+consolidated financial statements. 
+
+2 
+
+Unaudited
+Condens ed Consolidated Stockholders Equity (Deficit) 
+
+Common
+ Stock 
+ Preferred
+ Stock 
+ Additional 
+ Paid-in 
+ Subscription of
+ Common 
+ Accumulated 
+ Total
+ Shareholders 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Stock 
+ Deficit 
+ Deficit 
+ 
+ Balance
+ as of December 31, 2021 
+
+- 
+ - 
+ 
+ - 
+
+Net
+ loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance
+ as of March 31, 2022 
+
+- 
+ - 
+ 
+ - 
+
+Stock
+ compensation 
+
+- 
+ - 
+ 
+ - 
+ - 
+
+Net
+ loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance
+ as of June 30, 2022 
+
+- 
+ - 
+ 
+ - 
+
+Common
+ Stock 
+ Preferred
+ Stock 
+ Additional
+ Paid-in 
+ Subscription of
+ Common 
+ Accumulated 
+ Total
+ Shareholders 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Stock 
+ Deficit 
+ Deficit 
+ 
+ Balance
+ as of December 31, 2020 
+
+- 
+ - 
+
+Net
+ loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Payments
+ received for prior year subscription 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Stock
+ issued for store acquisition 
+
+- 
+ - 
+ 
+ - 
+ - 
+
+Balance
+ as of March 31, 2021 
+
+- 
+ - 
+ 
+ - 
+
+Net
+ loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Stock
+ subscription 
+
+- 
+ - 
+
+- 
+ - 
+ 
+ Payments
+ received for prior year subscription 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Balance
+ as of June 30, 2021 
+
+- 
+ - 
+
+See
+accompanying notes to unaudited co ndensed consolidated financial statements. 
+
+3 
+
+Unaudited Condensed Consolidated Statements
+of Cash Flows 
+
+For the Six Months Ended June 30, 
+ 2022 
+ 2021 
+
+Cash flows from operating activities: 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Stock compensation 
+ 
+ - 
+ 
+ Operating lease 
+
+Depreciation 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+Inventories 
+
+Prepaid expense and other current assets 
+
+Accounts payable 
+
+Accrued expenses and current liabilities 
+
+Net cash used in operating activities 
+
+Cash flows from investing activities: 
+
+Purchases of property and equipment 
+
+Reacquisition of store 
+ -
+
+Net cash used in investing activities 
+
+Cash flows from financing activities: 
+
+Proceeds from issuance of common stock 
+ -
+
+Proceeds from line of credit 
+ 
+ - 
+ 
+ Proceeds from loan payable to shareholders 
+
+Repayment of loans 
+
+Repayment of equipment loan payable 
+
+Net cash provided by financing activities 
+
+Net (decrease) increase in cash 
+
+Cash at beginning of period 
+
+Cash at end of period 
+
+Supplemental disclosures of non-cash financing activities: 
+
+Issuance of common shares for repurchase of store 
+ -
+
+Issuance of common shares for compensation 
+ 
+ -
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid during the years for: 
+
+Lease liabilities 
+
+Interest 
+
+See accompanying notes to unaudited condensed
+consolidated financial statements. 
+
+4 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+. In addition, the franchisee is required to pay the company a royalty fee equal to of the weekly gross sales of their respective store. 
+
+, and (c) an amendment to Articles of Incorporation
+to eliminate Class B and to change Class A to simply common stock . All share and earnings per share information
+have been retroactively adjusted to reflect the stock split and the incremental par value of the newly issued shares was recorded with
+the offset to additional paid-in capital. 
+
+at June
+30, 2022, had a net loss of for the six-month period ended June 30, 2022 and net cash used in operating activities of 
+for the six-month period ended June 30, 2022. These matters raise substantial doubt about the Company s ability to continue as a
+going concern. 
+
+5 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+to , and the Company expects consistent increase in sales with the opening of more stores. In August 2022, the Company
+consummated its initial public offering (the IPO of shares of its common stock at a public offering price of
+ per share, generating gross proceeds of . The initial public offering is summarized in Note 12 to the unaudited condensed
+consolidated financial statements. 
+
+of the Company s total revenue. 
+
+of the Company s total revenue. 
+
+. The Company recognizes the royalties
+as the underlying sales occur. The Company recorded revenue from royalties of for the six-month periods ended June 30, 2022 and 2021.
+Other fees are earned as incurred and the Company did not have any other fee revenue for the six-month periods ended June 30, 2022 and
+2021. 
+
+6 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+and for the six-month periods ended June 30, 2022 and 2021, respectively, and is recorded under general and
+administrative expenses in the accompanying consolidated statements of operations. 
+
+and , respectively. The
+Company does not have any off-balance sheet exposure related to its customers. 
+
+- Years 
+ 
+ Store construction 
+ Lesser of the lease term or the estimated useful lives of the improvements, generally years 
+ 
+ Leasehold improvement 
+ Lesser of the lease term or the estimated useful lives of the improvements, generally years 
+
+7 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+8 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+9 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+Leasehold improvement 
+
+Store construction 
+
+Store 
+
+Total property and equipment 
+
+Less accumulated depreciation 
+
+Total property and equipment, net 
+
+, comprised of in cash and shares of the Company s common stock.
+The Company recorded the assumption of the ongoing lease for the store, which included a right of use asset of and a lease liability
+of . 
+
+and for the six-month periods ended and and for the three-month
+periods ended June 30, 2022 and 2021, respectively. 
+
+10 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+and repayment rate of for a total of . The loan payable matures on . 
+ - 
+
+August 2021 - Loan agreement with principal amount of 72,500 and repayment rate of for a total of . The loan payable matures on . 
+ - 
+
+August 2021 - Loan agreement with principal amount of and repayment rate of for a total of . The loan payable matures on . 
+ - 
+
+Total loan payable 
+ - 
+
+Less: current portion 
+ - 
+
+Total loan payable, net of current 
+ -
+
+loan payable 
+
+with loan cost . The loan payable has a maturity date on . As
+of June 30, 2022 and December 31, 2021, there was a balance outstanding of and , respectively. 
+
+loan payable 
+
+with loan cost . The loan payable has a maturity date on .
+As of June 30, 2022 and December 31, 2021, there was a balance outstanding of and , respectively. 
+
+loan payable 
+
+with loan cost . The loan payable has a maturity date on .
+As of June 30, 2022 and December 31, 2021, there was a balance outstanding of and , respectively. 
+
+11 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+- Loan agreement with principal amount of 150,000 with an interest rate of and maturity date on 
+
+June 28, 2021 Loan agreement with principal amount of 350,000 with an interest rate of and maturity date on 
+
+Total long-term loan payable, emergency injury disaster loan (EIDL) 
+
+Less - current portion 
+
+Total loan payable, emergency injury disaster loan (EIDL), less current portion 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+Thereafter 
+
+Total 
+
+, with proceeds
+to be used for working capital purposes. Interest accrues at the rate of per annum and will accrue only on funds actually advanced
+from the date of each advance. Installment payments, including principal and interest, are due monthly beginning May 16, 2021 (twelve
+months from the date of the SBA Loan) in the amount of . The balance of principal and interest is payable thirty years from the date
+of the SBA Loan. 
+
+12 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+5. LOAN PAYABLES, EMERGENCY INJURY DISASTER LOAN (EIDL) (continued) 
+
+, with proceeds
+to be used for working capital purposes. Interest accrues at the rate of per annum and will accrue only on funds actually advanced
+from the date of each advance. Installment payments, including principal and interest, are due monthly beginning October 16, 2022 
+(thirty months from the original date of the SBA Loan) in the amount of . The balance of principal and interest is payable thirty
+years from the original date of the SBA Loan. 
+
+Total long-term loan payable, payroll protection program (PPP) 
+
+Less - current portion 
+
+Total loan payable, payroll protection program (PPP), less current portion 
+
+per annum and
+accrues on the unpaid principal balance computed on the basis of the actual number of days elapsed in a year of 360 days. Commencing seven
+months after the effective date of the PPP Loan, the Company is required to pay the Lender equal monthly payments of principal and interest
+as required to fully amortize any unforgiven principal balance of the loan by the two-year anniversary of the effective date of the PPP
+Loan (the Maturity Date ). The PPP Loan contains customary events of default relating to, among other things, payment defaults,
+making materially false or misleading representations to the SBA or the Lender, or breaching the terms of the PPP Loan. The occurrence
+of an event of default may result in the repayment of all amounts outstanding under the PPP Loan, collection of all amounts owing from
+the Company, or filing suit and obtaining judgment against the Company. Under the terms of the CARES Act, PPP loan recipients can apply
+for and be granted forgiveness for all or a portion of the loan granted under the PPP. Such forgiveness will be determined, subject to
+limitations, based on the use of loan proceeds for payment of payroll costs and any payments of mortgage interest, rent, and utilities.
+Recent modifications to the PPP by the U.S. Treasury and Congress have extended the time period for loan forgiveness beyond the original
+eight-week period, making it possible for the Company to apply for forgiveness of its PPP loan. 
+
+13 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+with an interest rate of and maturity date on October 1, 2022 
+
+Total long-term equipment loan payable 
+
+Less current portion 
+
+Total long-term debt, net of current portion 
+ -
+ 
+ -
+
+Total long-term equipment loan payable 
+
+equipment loan payable 
+
+with an interest rate of and maturity date on , payable in 60 payments. All principal, together with interest cost is due and payable on October 1, 2022. As of June 30, 2022 and
+December 31, 2021, there was a balance outstanding of and , respectively. 
+
+State income taxes net of federal income tax benefit and others 
+
+Permanent differences for tax purposes and others 
+
+Change in valuation allowance 
+ - 
+
+Effective tax rate 
+
+14 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+8. INCOME TAX (continued) 
+
+and California state income taxes of due to the change in the valuation allowance. 
+
+Other temporary differences 
+ -
+ 
+ -
+
+Total deferred tax assets 
+
+Less - valuation allowance 
+
+Total deferred tax assets, net of valuation allowance 
+ -
+ 
+ -
+
+. Per the Tax Cuts and Jobs Act (TCJA) implemented in 2018, the two-year carryback provision
+was removed and now allows for an indefinite carryforward period. The carryforwards are limited to of each subsequent year s net income.
+As a result, net operating loss may be applied against future taxable income and expires at various dates subject to certain limitations.
+The Company has a deferred tax asset arising substantially from the benefits of such net operating loss deduction and has recorded a valuation
+allowance for the full amount of this deferred tax asset since it is more likely than not that some or all of the deferred tax asset may
+not be realized. 
+
+. In addition, the Company had state tax net operating loss carryforwards
+of approximately . The carryforwards may be applied against future taxable income and expires at various dates subject to certain
+limitations. 
+
+15 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+square feet located in La Crescenta, California commencing in May 2017 and expiring in April 2027. The monthly lease payment under the lease agreement approximately . 
+
+and , respectively, as of June 30, 2022. Certain of the leases for the Company s retail
+store facilities provide for variable payments for property taxes, insurance and common area maintenance payments related to rental payments
+based on future sales volumes at the leased location, which are not measurable at the inception of the lease, or rental payments that
+are adjusted periodically for inflation. 
+
+16 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+9. COMMITMENTS AND CONTINGENCIES (continued) 
+
+Total lease expense 
+
+Cash paid for amounts included in the measurement of lease liabilities 
+
+Weighted-average remaining lease term operating leases 
+ 
+ Years 
+ 
+ Weighted-average discount rate operating leases 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+Thereafter 
+
+Total undiscounted cash flows 
+
+Reconciliation of lease liabilities: 
+
+Weighted-average remaining lease terms 
+ Years 
+ 
+ Weighted-average discount rate 
+
+Present values 
+
+Lease liabilities current 
+
+Lease liabilities long-term 
+
+Lease liabilities total 
+
+Difference between undiscounted and discounted cash flows 
+
+17 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+share of common stock with a par value of per share. 
+
+share of preferred stock with a par value of per share, in one or more classes or series within a class
+as may be determined by our board of directors, who establish, from time to time, the number of shares to be included in each class or
+series, fix the designation, powers, preferences and rights of the shares of each such class or series and any qualifications, limitations
+or restrictions thereof. Any preferred stock so issued is senior to other existing classes of common stock with respect to the payment
+of dividends or amounts upon liquidation or dissolution. As of June 30, 2022 and December 31, 2021, no shares of our preferred stock had
+been designated any rights and we had no shares of preferred stock issued and outstanding. 
+
+shares of common stock to several
+individuals in March 2020 and in December 2020 for total proceeds of , of which was received in January, February,
+and June 2021. 
+
+During the year ended December 31, 2021, the Company issued shares of common stock under these provisions. 
+
+18 
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS 
+
+Weighted Average Shares of Common Stock Outstanding 
+
+Basic 
+
+Diluted 
+
+Earnings Per Share - Basic 
+
+Net Loss Per Share 
+
+Earnings Per Share - Diluted 
+
+Net Loss Per Share 
+
+shares of its common stock at a public offering price of 5.00 per share, generating gross proceeds
+of . Net proceeds from the IPO was approximately million after deducting underwriting discounts and commissions and other
+offering expenses of approximately . 
+
+additional shares (equal to of the shares of common stock sold in the offering) to cover over-allotments.
+In addition, the Company had agreed to issue to the representative of the several underwriters warrants to purchase the number of shares
+of common stock in the aggregate equal to five percent of the shares of common stock to be issued and sold in the IPO. The warrants
+are exercisable for a price per share equal to of the public offering price. No over-allotment option or representative s warrants
+have been exercised. 
+
+19 
+
+Item
+2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+You should read the following discussion and
+analysis of our financial condition and results of operations together with our condensed consolidated financial statements and the related
+notes and other financial information included elsewhere in this Quarterly Report on Form 10-Q and with our audited consolidated financial
+statements included in our Prospectus on Form S-1. As discussed in the section titled Note Regarding Forward-Looking Statements, 
+the following discussion and analysis contains forward-looking statements that involve risks and uncertainties, as well as assumptions
+that, if they never materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such
+forward-looking statements. Factors that could cause or contribute to these differences include, but are not limited to, those identified
+below and those discussed in the section titled Risk Factors in our Prospectus filed on Form S-1 (File No: 333-261937). 
+
+Business 
+
+Reborn Coffee is focused on serving high quality, specialty-roasted
+coffee at retail locations, kiosks and cafes. We are an innovative company that strives for constant improvement in the coffee experience
+through exploration of new technology and premier service, guided by traditional brewing techniques. We believe Reborn differentiates
+itself from other coffee roasters through its innovative techniques, including sourcing, washing, roasting, and brewing our coffee beans
+with a balance of precision and craft. 
+
+Founded in 2015 by Jay Kim, our Chief Executive Officer, Mr. Kim and
+his team launched Reborn Coffee with the vision of using the finest pure ingredients and pristine water. We currently serve customers
+through our retail store locations in California: Brea, La Crescenta, Glendale, Corona Del Mar, Arcadia, Laguna Woods, Riverside, San
+Francisco and Manhattan Beach, with four other locations in development. Additionally, we expect to begin franchising in 2022 and expect
+to continue to develop additional retail locations as we expand outside of California. We estimate that the average development cost of
+a company-owned retail location is approximately 150,000. Therefore, taking into account the proceeds from this offering and within a
+year from its completion, we expect to open up to 20 company-owned retail locations (using approximately 3,000,000 of the proceeds of
+this offering) and 20 franchise locations (all costs and expenses associated with a franchise store location development are borne by
+the franchisees). We acknowledge that we have not yet signed any franchise agreements and that such number of franchise locations is purely
+speculative. Reborn Coffee continues to elevate the high-end coffee experience and we received 1st place traditional still in America s
+Best Cold Brew competition by Coffee Fest in 2017 in Portland and 2018 in Los Angeles. 
+
+The Experience, Reborn 
+
+As leading pioneers of the emerging Fourth Wave movement,
+Reborn Coffee is redefining specialty coffee as an experience that demands much more than premium quality. We consider ourselves leaders
+of the fourth wave coffee movement because we are constantly developing our bean processing methods, researching design
+concepts, and reinventing new ways of drinking coffee. For instance, the current transition from the K-Cup trend to the pour over drip
+concept allowed us to reinvent the way people consume coffee, by merging convenience and quality. We took the pour over drip concept and
+made it available and affordable to the public through our Reborn Coffee Pour Over packs. Our Pour Over Packs allow our consumers to consume
+our specialty coffee outdoors and on-the-go. 
+
+Our success in innovating within the fourth wave coffee
+movement is measured by our success in B2B sales with our introduction of Reborn Coffee Pour Over Packs to hotels. With the introduction
+of our Pour Over Packs to major hotels (including one hotel company with 7 locations), our B2B sales increased as these companies recognized
+the convenience and functionality our Pour Over Packs serve to their customers. 
+
+Reborn Coffee s continuous Research and Development is essential
+to developing new parameters in the production of new blends. Our 1st place position in America s Best Cold Brew competition
+by Coffee Fest in 2017 in Portland and 2018 in Los Angeles is a testament to the way we believe we lead the fourth wave 
+movement by example. 
+
+Centered around its core values of service, trust, and well-being,
+Reborn Coffee delivers an appreciation of coffee as both a science and an art. Developing innovative processes such as washing green coffee
+beans with magnetized water, we challenge traditional preparation methods by focusing on the relationship between water chemistry, health,
+and flavor profile. Leading research studies, testing brewing equipment, and refining roasting/brewing methods to a specific, Reborn Coffee
+proactively distinguishes exceptional quality from good quality by starting at the foundation and paying attention to the details. Our
+mission places an equal emphasis on humanizing the coffee experience, delivering a fresh take on farm-to-table by sourcing
+internationally. In this way, Reborn Coffee creates opportunities to develop transparency by paying homage to origin stories and spark
+new conversations by building cross-cultural communities united by a passion for the finest coffee. 
+
+Through a broad product offering, Reborn Coffee provides customers
+with a wide variety of beverages and coffee options. As a result, we believe we can capture share of any experience where customers seek
+to consume great beverages whether in our inviting store atmospheres which are designed for comfort, or on the go through our pour over
+packs, or at home with our whole bean ground coffee bags. We believe that the retail coffee market in the US is large and growing. According
+to IBIS, in 2021, the retail market for coffee in the United States is expected to be 46.2 billion. This is expected to grow due to a
+shift in consumer preferences to premium coffee, including specialized blends, espresso-based beverages, and cold brew options. Reborn
+aims to capture a growing portion of the market as we expand and increase consumer awareness of our brand. 
+
+20 
+
+Plan of Operation 
+
+We have a production and distribution center at our headquarters that
+we use to process and roast coffee for wholesale and retail distribution. 
+
+Currently, we have the following nine retail coffee locations, and
+four locations in development (i.e., Cabazon, Huntington Beach, Irvine and Mission Viejo, California): 
+
+La Floresta Shopping Village in Brea, California; 
+
+La Crescenta, California; 
+
+Glendale Galleria in Glendale, California; 
+
+Galleria at Tyler in Riverside, California; 
+
+Home Depot Center in Laguna Woods, California; 
+
+Stonestown Galleria in San Francisco, California (opened in first quarter of 2022); 
+
+Corona Del Mar, California; 
+
+Santa Anita Westfield Mall in Arcadia, California; and 
+
+Manhattan Village at Manhattan Beach, California. 
+
+Impact of COVID-19 
+
+The COVID-19 pandemic and resulting disruptions including, without
+limitation, governmental lockdown mandates and restrictions, made 2020 a challenging year for businesses, particularly in the foodservice
+and restaurant industries. Reborn Coffee took immediate action to protect the health and safety of our employees and customers including
+the implementation of all operating protocols dictated by state and local guidelines and instituting strict health and safety practices.
+Fortunately, we did not experience any significant disruptions in our supply chain operations. 
+
+Despite efforts to ensure a safe consumer experience, we did experience
+repressed customer flow through periods when malls and shopping centers were restricted or closed entirely due to governmental lockdown
+mandates and restrictions. Our current retail locations are within popular shopping areas with anticipated regular customer traffic. Such
+closures or limitations and restrictions were at times mandated the government, and at other times due to natural customer uncertainties
+regarding the status of COVID-19. Such restrictions and uncertainties not only impacted anticipated revenues from current locations, but
+added additional risk to us related to the opening of new locations. Thus, the uncertainty regarding the scope and longevity of such restrictions
+modified our plans as to how quickly we could enact our expansion plans. 
+
+More specifically, COVID-19 has challenged our performance at our kiosk
+locations, though our cafe locations have improved in performance. Shopping mall restrictions and mandates during the pandemic made it
+difficult for our kiosks to operate at maximum performance, as indoor restrictions of shopping malls affected the way we had to operate
+business. For instance, we had to offer only to-go/pickup operations to operate while meeting regulations. We have learned how to move
+forward aggressively despite such regulations and mandates, doing what we can to serve the coffee we are so proud to serve, whether this
+means offering to-go orders only or working with delivery services. 
+
+In May 2020, the Company availed itself of a loan under the Paycheck
+Protection Program (PPP) administered by the U.S. Small Business Administration (SBA) in the amount of 115,000, and 500,000 under the
+SBA s Economic Injury Disaster Loan assistance program, all of which is currently outstanding as of December 31, 2021, provided
+however that repayment was deferred to commence in May 2022. In February 2021, the Company secured a second PPP loan under this program
+in the amount of approximately 167,000. The Company was granted forgiveness for the initial PPP Loan prior to December 31, 2021 and expects
+to be granted forgiveness on the remainder subsequently. 
+
+21 
+
+In January 2022 we announced a price increase of our whole roasted
+beans by 15 on our website which we attribute to increases due to inflation in the cost of raw green coffee beans, the cost of shipping
+and supplies, and nationwide increases in labor costs-- factors that may or may not be attributable to the pandemic and/or the governmental
+policies and mandates that were implemented during and in the wake of COVID-19. As of the date hereof and in January 2022 at the time
+of our price increase, inflation has not had a material effect on our results of operations since we have been able to offset such increased
+costs by increasing the price of our whole roasted beans by 15 in January 2022, through increased sales and growth in opening 2 new company-owned
+retail locations, better lease terms on such new company-owned retail locations, more efficient purchasing practices (e.g., volume purchase
+discounts), productivity improvements and greater economies of scale. Severe increases in inflation, however, could affect the global
+and U.S. economies and could have a materially adverse impact on our business, financial condition or results of operations. 
+
+We do not expect COVID-19 to affect our future operating results significantly,
+as we are confident that coffee is an essential product that people rely on and will always drink. We intend to meet all governmental
+business operation regulations and improve sales by whatever means necessary, utilizing resources such as food delivery services and to-go/pickup
+orders. However, the impact of COVID-19 continues to evolve, and we cannot easily predict the future potential impacts of the pandemic
+on our business or operations or on the United States or global economy in general. This may include any recurrence of the disease, actions
+taken in response to the evolving pandemic, any ongoing effects on consumer demand and spending patterns or other impacts of the pandemic.
+Whether these or other currently unanticipated consequences of the pandemic are reasonably likely to materially affect our results of
+operations, cash flows or financial condition is yet to be determined. For additional details regarding the impact of COVID-19 on our
+business, see Risk Factors-Risks Related to Our Business-Pandemics or disease outbreaks such as the COVID-19 have had, and may
+continue to have, an effect on our business and results of operations. 
+
+Components of Our Results of Operations 
+
+Revenue 
+
+The Company recognizes revenue in accordance with Accounting Standards
+Codification ASC 606, Revenue from Contracts with Customers. The Company s net revenue primarily consists of revenues
+from its retail locations and wholesale and online store. Accordingly, the Company recognizes revenue as follows: 
+
+Retail Store Revenue 
+
+Retail store revenues are recognized when payment is tendered at the point of sale. Retail store revenues are reported net of sales, use or other transaction taxes that are collected from customers and remitted to taxing authorities. Sales taxes that are payable are recorded as accrued as other current liabilities. Retail store revenue makes up approximately 97 of the Company s total revenue. 
+
+Wholesale and Online Revenue 
+
+Wholesale and online revenues are recognized when the products are delivered, and title passes to customers or to the wholesale distributors. When customers pick up products at the Company s warehouse, or distributed to the wholesale distributors, the title passes, and revenue is recognized. Wholesale revenues make up approximately 3 of the Company s total revenue. 
+
+Royalties and Other Fees 
+
+Franchise revenues consist of royalty fee and other franchise fees. Royalty fee is based on a percentage of franchisee s weekly gross sales revenue at 5 . The Company recognizes the fee as the underlying sales occur. The Company recorded revenue from royalty of 0 for the three and six month periods ended June 30, 2022 and 2021. Other fees are earned as incurred and the Company did not have any other fee revenue for the three and six month periods ended June 30, 2022 and 2021. 
+
+Cost of Sales 
+
+Cost of sales includes costs associated with generating revenue within
+our company-owned retail locations, and franchising operations (of which, as of the date of this prospectus, we had none). 
+
+Shipping and Handling Costs 
+
+The Company incurred freight out cost and is included in the Company s
+cost of sale. 
+
+General and Administrative Expense 
+
+General and administrative expense includes store-related expense as
+well as the Company s corporate headquarters expenses. 
+
+Advertising Expense 
+
+Advertising expense are expensed as incurred. Advertising expenses
+amounted to 20,513 and 50,160 for the six month periods ended June 30, 2022 and 2021, respectively, and is recorded under general and
+administrative expenses in the accompanying unaudited condensed consolidated statements of operations. 
+
+22 
+
+Pre-opening Costs 
+
+Pre-opening costs for new stores, which are not material, consist primarily
+of payroll and recruiting expense, training, marketing, rent, travel, and supplies, and are expensed as incurred depreciated over the
+shorter of the useful life of the improvement or the lease term, including renewal periods that are reasonably assured. 
+
+Results of Operations 
+
+Three and six months ended June 30, 2022
+Compared to three and six months ended June 30, 2021 
+
+The following table presents selected comparative
+results of operations from our unaudited financial statements for the three and six months ended June 30, 2022 compared to three and six
+months ended June 30, 2021. Our financial results for these periods are not necessarily indicative of the financial results that we will
+achieve in future periods. Certain totals for the table below may not sum to 100 due to rounding. 
+
+Six
+ Months Ended 
+ June 30, 
+ Increase
+ / (Decrease) 
+
+2022 
+ 2021 
+ Dollars 
+ Percentage 
+ 
+ Net revenues: 
+
+Stores 
+ 1,511,952 
+ 851,785 
+ 660,167 
+ 77.5 
+ 
+ Wholesale and online 
+ 29,674 
+ 28,336 
+ 1,338 
+ 4.7 
+ 
+ Total net revenues 
+ 1,541,626 
+ 880,121 
+ 661,505 
+ 75.2 
+ 
+ Operating costs and expenses: 
+
+Product, food and drink costs stores 
+ 563,906 
+ 270,148 
+ 293,758 
+ 108.7 
+ 
+ Cost of sales wholesale and online 
+ 12,997 
+ 12,412 
+ 585 
+ 4.7 
+ 
+ General and administrative 
+ 2,468,447 
+ 1,226,951 
+ 1,241,496 
+ 101.2 
+ 
+ Loss from operations 
+ (1,503,724 
+ (629,390 
+ (874,334 
+ 138.9 
+ 
+ Other income 
+ 16,440 
+ - 
+ 16,440 
+ N/A 
+ 
+ Interest expense 
+ (14,976 
+ (5,773 
+ (9,203 
+ 159.4 
+ 
+ Loss before income taxes 
+ (1,502,260 
+ (635,163 
+ (867,097 
+ 136.5 
+ 
+ Provision for income taxes 
+ - 
+ - 
+ - 
+ 0.0 
+ 
+ Net loss 
+ (1,502,260 
+ (635,163 
+ (867,097 
+ 136.5 
+
+Three
+ Months Ended 
+ June 30, 
+ Increase
+ / (Decrease) 
+
+2022 
+ 2021 
+ Dollars 
+ Percentage 
+ 
+ Net revenues: 
+
+Stores 
+ 775,956 
+ 475,824 
+ 300,132 
+ 63.1 
+ 
+ Wholesale and online 
+ 12,520 
+ 15,368 
+ (2,848 
+ -18.5 
+ 
+ Total net revenues 
+ 788,476 
+ 491,192 
+ 297,284 
+ 60.5 
+ 
+ Operating costs and expenses: 
+
+Product, food and drink costs stores 
+ 278,952 
+ 135,452 
+ 143,500 
+ 105.9 
+ 
+ Cost of sales wholesale and online 
+ 5,484 
+ 6,732 
+ (1,248 
+ -18.5 
+ 
+ General and administrative 
+ 1,432,432 
+ 656,310 
+ 776,122 
+ 118.3 
+ 
+ Loss from operations 
+ (928,392 
+ (307,302 
+ (621,090 
+ 202.1 
+ 
+ Other income 
+ 1,440 
+ - 
+ 1,440 
+ N/A 
+ 
+ Interest expense 
+ (10,196 
+ (382 
+ (9,814 
+ 2569.1 
+ 
+ Loss before income taxes 
+ (937,148 
+ (307,684 
+ (629,464 
+ 204.6 
+ 
+ Provision for income taxes 
+ - 
+ - 
+ - 
+ 0.0 
+ 
+ Net loss 
+ (937,148 
+ (307,684 
+ (629,464 
+ 204.6 
+
+23 
+
+Six
+ months ended 
+ June 30, 
+ Three
+ months ended 
+ June 30, 
+
+2022 
+ 2021 
+ 2022 
+ 2021 
+
+Net revenues: 
+
+Stores 
+ 98.1 
+ 96.8 
+ 98.4 
+ 96.9 
+ 
+ Wholesale and online 
+ 1.9 
+ 3.2 
+ 1.6 
+ 3.1 
+ 
+ Total net revenues 
+ 100.0 
+ 100.0 
+ 100.0 
+ 100.0 
+ 
+ Operating costs and expenses: 
+
+Product, food and drink costs stores 
+ 36.6 
+ 30.7 
+ 35.4 
+ 27.6 
+ 
+ Cost of sales wholesale and online 
+ 0.8 
+ 1.4 
+ 0.7 
+ 1.4 
+ 
+ General and administrative 
+ 160.1 
+ 139.4 
+ 181.7 
+ 133.6 
+ 
+ Loss from operations 
+ -97.5 
+ -71.5 
+ -117.7 
+ -62.6 
+ 
+ Other income 
+ 1.1 
+ 0.0 
+ 0.2 
+ 0.0 
+ 
+ Interest expense 
+ -1.0 
+ -0.7 
+ -1.3 
+ -0.1 
+ 
+ Loss before income taxes 
+ -97.4 
+ -72.2 
+ -118.9 
+ -62.6 
+ 
+ Provision for income taxes 
+ 0.0 
+ 0.0 
+ 0.0 
+ 0.0 
+ 
+ Net loss 
+ -97.4 
+ -72.2 
+ -118.9 
+ -62.6 
+
+Revenues. Revenues were approximately 1.5 million for the six-month
+period ended June 30, 2022, compared to 880,000 for the comparable period in 2021, representing an increase of 661,000, or 75.2 . Revenues
+were approximately 788,000 million for the three-month period ended June 30, 2022, compared to 491,000 for the comparable period in
+2021, representing an increase of 297,000, or 60.5 . The increase in sales for the periods was primarily driven by the opening of the
+Corona Del Mar, Laguna Woods and Santa Anita locations during 2021, and to the continued focus on marketing efforts to grow brand recognition. 
+
+Product, food and drink costs. Product, food and drink costs
+were approximately 564,000 for the six-month period ended June 30, 2022 compared to 270,000 for the comparable period in 2021, representing
+an increase of approximately 294,000, or 108.7 , and were approximately 279,000 for the three-month period ended June 30, 2022 compared
+to 135,000 for the comparable period in the prior year, representing an increase of 144,000 of 105.9 . The increase in costs for the
+periods was partially driven by the opening of new locations and the overall increase in sales for the period. As a percentage of revenues,
+product, food and drink costs increased to 36.6 in the six-month period ended June 30, 2022 compared to 30.7 in the comparable period
+in 2021 and increased to 35.4 in the three-month period ended June 30, 2022 compared to 27.6 in the comparable period in 2021. The increase
+in costs as a percentage of sales was primarily driven by general inflationary pressures and the seasonal fluctuations in cost of ingredients.
+We monitor these fluctuations in product costs to analyze whether they are considered to be representative of general economic conditions,
+such as inflation, or to be related to commodity specific changes. For example, green bean suppliers raised pricing by 15 to 20 throughout
+2021, higher than the overall rate of inflation, however it has been more stable recently and even decreasing slightly in the second quarter
+of 2022. 
+
+General and administrative expenses. General
+and administrative expenses were approximately 2.5 million for the six-month period ended June 30, 2022 compared to 1.2 million for
+the comparable period in the prior year, representing an increase of approximately 1.2 million, or 101.2 , and were approximately 1.4
+million for the three-month period ended June 30, 2022 compared to 656,000 for the comparable period in 2021, representing an increase
+of approximately 775,000, or 118.3 . This increase in general and administrative expenses was primarily due to the hiring of additional
+administrative employees, increases in professional services and corporate-level costs to support growth plans, the opening of new restaurants,
+as well as costs associated with outside administrative, legal and professional fees and other general corporate expenses associated with
+preparing to become a public company. As a percentage of sales, general and administrative expenses increased to 160.1 in the six-month
+period ended June 30, 2022 from 139.4 in the comparable period of 2021, and increased to 181.7 for the three-month period ended June
+30, 2022 from 133.6 in the comparable period in 2021, primarily due to the increased administrative expenditures for the reasons mentioned
+above. 
+
+24 
+
+Liquidity and Capital Resources 
+
+Six
+ Months Ended 
+ June 30, 
+
+2022 
+ 2021 
+ 
+ Statement of Cash Flow Data: 
+
+Net cash used in operating activities 
+ (1,199,979 
+ (538,352 
+ 
+ Net cash used in investing activities 
+ (168,397 
+ (317,152 
+ 
+ Net cash provided by financing activities 
+ 613,149 
+ 866,579 
+
+Cash Flows Provided by Operating Activities 
+
+Net cash used in operating activities during the
+six-month period ended June 30, 2022 was 1.2 million, which resulted from net loss of 1.5 million, non-cash charges of 225,000 for
+stock compensation and 98,000 for depreciation and net cash outflows of 43,000 from changes in operating assets and liabilities. The
+net cash outflows from changes in operating assets and liabilities were primarily the result of increases in inventory of 14,000 and
+prepaid and other assets of 28,000 and a decrease in accounts payable of 46,000, partially offset by increase of 47,000 in accrued
+liabilities. The increase in accrued liabilities was primarily due to the timing of cash payments for sales tax and payroll. 
+
+Net cash used in operating activities during the
+six-month period ended June 30, 2021 was 538,000, which resulted from net loss of 635,000, non-cash charges of 82,000 for depreciation,
+and net cash outflows of 6,000 from changes in operating assets and liabilities. The net cash outflows from changes in operating assets
+and liabilities were primarily the result of increases in inventories of 7,000 and prepaids and other assets of 65,000, partially offset
+by increases of 50,000 in accounts payable and 17,000 in accrued liabilities. 
+
+Cash Flows Used in Investing Activities 
+
+Net cash used in investing activities during the six-month periods
+ended June 30, 2022 and 2021 was 168,000 and 317,000, respectively, These expenditures in each period are primarily related to purchases
+of property and equipment in connection with current and future location openings and maintaining our existing locations. 
+
+Cash Flows Provided by (Used in) Financing Activities 
+
+Net cash provided by financing activities during the six-month period
+ended June 30, 2022 was 613,000, primarily due to 595,000 of borrowings under a line of credit, and 150,000 of loans from shareholders.
+This was partially offset by 131,000 of repayments of borrowings. 
+
+Net cash provided by financing activities during the six-month period
+ended June 30, 2021 was 867,000, primarily due to approximately 533,000 cash received through borrowings and 553,000 of proceeds from
+issuance of common stock, offset by approximately 220,000 of repayments of borrowings. 
+
+As of June 30, 2022, the Company had total assets of 4,593,013.
+Our cash balance as of June 30, 2022 was approximately 150,000. From inception (of Reborn Global in November 2014) to June 30, 2022,
+we have not had any positive operating cash flow. 
+
+Credit Facilities 
+
+Loan with Fora Financial 
+
+In October 2019, the Company entered into a loan agreement with Fora
+Financial in the principal amount of 138,600 and remaining principal amount of 48,510. The loan payable has a maturity date on October
+11, 2019. The loan was due on demand. As of June 30, 2022 and December 31, 2021, there was a balance outstanding of 0. 
+
+Loans with Square Capital 
+
+Between April and August 2021, the Company entered into loan agreements
+with Square Capital in the aggregate principal amount of approximately 268,000 with loan costs of 34,840. The loans have maturity dates
+ranging from September 2022 to February 2023. As of June 20, 2022 and December 31, 2021, there was a balance outstanding of approximately
+ 0 and 122,000, respectively. 
+
+25 
+
+Economic Injury Disaster Loan 
+
+On May 16, 2020, the Company executed the standard loan documents required
+for securing a loan (the EIDL Loan from the SBA under its Economic Injury Disaster Loan EIDL assistance
+program in light of the impact of the COVID-19 pandemic on the Company s business. As of June 30, 2022, the loan payable, Emergency
+Injury Disaster Loan noted above is not in default. 
+
+Pursuant to that certain Loan Authorization and Agreement (the SBA
+Loan Agreement ), the Company borrowed an aggregate principal amount of the EIDL Loan of 500,000, with proceeds to be used for
+working capital purposes. Interest accrues at the rate of 3.75 per annum and will accrue only on funds actually advanced from the date
+of each advance. Installment payments, including principal and interest, are due monthly beginning May 16, 2021 (twelve months from the
+date of the SBA Loan) in the amount of 731. The balance of principal and interest is payable thirty years from the date of the SBA Loan.
+In connection therewith, the Company also received a 10,000 grant, which does not have to be repaid. During the year ended December 31,
+2020, 10,000 was recorded in Economy injury disaster loan (EIDL) grant income in the Statements of Operations. The schedule of payments
+on this loan was later deferred to commence 24 months from the date of loan, and therefore, the full amount of the loan is outstanding
+as of June 30, 2022 and payments shall commence starting in May 2022. 
+
+In connection therewith, the Company executed (i) a loan for the benefit
+of the SBA (the SBA Loan ), which contains customary events of default and (ii) a Security Agreement, granting the SBA a
+security interest in all tangible and intangible personal property of the Company, which also contains customary events of default (the
+ SBA Security Agreement ). 
+
+Paycheck Protection Program Loan 
+
+In May 2020, the Company secured a loan under the Paycheck Protection
+Program administered by the U.S. Small Business Administration (the SBA in the amount of 115,000. In February 2021, the
+Company secured a second loan under this program in the amount of approximately 167,000. The interest rate of the loan is 1.00 per
+annum and accrues on the unpaid principal balance computed on the basis of the actual number of days elapsed in a year of 360 days. Commencing
+seven months after the effective date of each PPP Loan, the Company is required to pay the Lender equal monthly payments of principal
+and interest as required to fully amortize any unforgiven principal balance of the loan by the two-year anniversary of the effective
+date of the loan. The PPP Loan contains customary events of default relating to, among other things, payment defaults, making materially
+false or misleading representations to the SBA or the Lender, or breaching the terms of the PPP Loan. The occurrence of an event of default
+may result in the repayment of all amounts outstanding under the PPP Loan, collection of all amounts owing from the Company, or filing
+suit and obtaining judgment against the Company. Under the terms of the CARES Act, PPP loan recipients can apply for and be granted forgiveness
+for all or a portion of the loan granted under the PPP. Such forgiveness will be determined, subject to limitations, based on the use
+of loan proceeds for payment of payroll costs and any payments of mortgage interest, rent, and utilities. Recent modifications to the
+PPP by the U.S. Treasury and Congress have extended the time period for loan forgiveness beyond the original eight-week period, making
+it possible for the Company to apply for forgiveness of its PPP loan. The Company was granted forgiveness for the initial PPP Loan prior
+to December 31, 2021 and expects to be granted forgiveness on the remainder subsequently. 
+
+Line of Credit Facility 
+
+During the second quarter of 2022, the Company entered into a line
+of credit agreement with a financial institution that provides a maximum borrowing limit of 2,000,000 with interest at 5 per annum.
+This line of credit facility matures on December 31, 2022. Total balance as of June 30, 2022 was 594,529. 
+
+Leases 
+
+Operating Leases 
+
+We currently lease all company-owned retail locations. Operating leases
+typically contain escalating rentals over the lease term, as well as optional renewal periods. Rent expense for operating leases is recorded
+on a straight-line basis over the lease term and begins when Reborn has the right to use the property. The difference between rent expense
+and cash payment is recorded as deferred rent on the accompanying consolidated balance sheets. Pre-opening rent is included in selling,
+general and administrative expenses on the accompanying consolidated statements of income. Tenant incentives used to fund leasehold improvements
+are recorded in deferred rent and amortized as reductions to rent expense over the term of the lease. 
+
+26 
+
+Income Taxes 
+
+Reborn files income tax returns in the U.S. federal and California
+state jurisdictions. 
+
+Upon the closing of this offering, we will be taxed at the prevailing
+U.S. corporate tax rates. We will be treated as a U.S. corporation and a regarded entity for U.S. federal, state and local income taxes.
+Accordingly, a provision will be recorded for the anticipated tax consequences of our reported results of operations for U.S. federal,
+state and foreign income taxes. 
+
+JOBS Act Accounting Election 
+
+We are an emerging growth company, as defined in the
+JOBS Act, and may take advantage of certain exemptions from various public company reporting requirements for up to five years or until
+we are no longer an emerging growth company, whichever is earlier. The JOBS Act provides that an emerging growth company 
+can delay adopting new or revised accounting standards until those standards apply to private companies. We have elected to use this extended
+transition period under the JOBS Act. Accordingly, our financial statements may not be comparable to the financial statements of public
+companies that comply with such new or revised accounting standards. 
+
+Off Balance Sheet Arrangements 
+
+We do not have any off-balance sheet arrangements that we are required
+to disclose pursuant to these regulations. In the ordinary course of business, we enter into operating lease commitments, purchase commitments
+and other contractual obligations. These transactions are recognized in our financial statements in accordance with GAAP. 
+
+Critical Accounting Policies 
+
+The preparation of financial statements requires management to utilize
+estimates and make judgments that affect the reported amounts of assets, liabilities, revenues and expenses and related disclosure of
+contingent assets and liabilities. These estimates are based on historical experience and on various other assumptions that management
+believes to be reasonable under the circumstances. The estimates are evaluated by management on an ongoing basis, and the results of these
+evaluations form a basis for making decisions about the carrying value of assets and liabilities that are not readily apparent from other
+sources. Although actual results may differ from these estimates under different assumptions or conditions, management believes that the
+estimates used in the preparation of our financial statements are reasonable. The critical accounting policies affecting our financial
+reporting are summarized in Note 2 to the financial statements included elsewhere in this prospectus. 
+
+Recent Accounting Pronouncements 
+
+We have determined that all other issued, but not yet effective accounting
+pronouncements are inapplicable or insignificant to us and once adopted are not expected to have a material impact on our financial position. 
+
+27 
+
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk. 
+
+We are a smaller reporting company as defined by 17 C.F.R. 229 (10)(f)(i)
+and are not required to provide information under this item. 
+
+Item 4.
+Controls and Procedures. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our management has evaluated the effectiveness of our disclosure controls
+and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (the Exchange Act )),
+as of June 30, 2022. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that as of June
+30, 2022, our disclosure controls and procedures were ineffective to provide reasonable assurance that information required to be disclosed
+by us in the reports that we file or submit under the Exchange Act (a) is recorded, processed, summarized and reported within the time
+periods specified by Securities and Exchange Commission SEC rules and forms and (b) is accumulated and communicated to
+our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding
+any required disclosure. 
+
+Changes in Internal Control Over Financial Reporting 
+
+During the period ended June 30, 2022, our management
+has evaluated the internal control over financial reporting pursuant to Rules 13a-15(d) or 15d-15(d) under the Exchange Act. Based on
+such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that our internal controls over financial reporting
+were ineffective as of June 30, 2022. Management of the Company believes that the ineffectiveness of internal controls was due to the
+lack of accounting and financial team. 
+
+28 
+
+PART
+II OTHER INFORMATION 
+
+Item 1. Legal Proceedings. 
+
+In the future, the Company may be subject to various legal
+proceedings from time to time as part of its business. We are currently not involved in litigation that we believe will have a materially
+adverse effect on our financial condition or results of operations. As of June 30, 2022, there is no action, suit, proceeding, inquiry
+or investigation before or by any court, public board, government agency, self- regulatory organization or body pending or, to the knowledge
+of the executive officers of our company or any of our subsidiaries threatened against or affecting our company, our common stock, any
+of our subsidiaries or of our company s or our company s subsidiaries officers or directors in their capacities as
+such, in which an adverse decision is expected to have a material adverse effect. 
+
+Item 1A. Risk Factors. 
+
+As a smaller reporting company as defined by Item 10
+of Regulation S-K, we are not required to provide information required by this item. 
+
+Item 2. Unregistered Sales of Equity Securities
+and Use of Proceeds. 
+
+We have not made any
+sales of unregistered equity securities during the quarterly period ended June 30, 2022. 
+
+In August 2022, the Company
+consummated its initial public offering (the IPO of 1,440,000 shares of its common stock at a public offering price of
+ 5.00 per share, generating gross proceeds of 7,200,000 pursuant to our Registration Statement on Form S-1 (as amended) (File No. 333-261937),
+which was declared effective by the SEC on August 11, 2022. . EF Hutton, division of Benchmark Investments, LLC, acted as the representative
+of the underwriters of the IPO. After deducting underwriting discounts and commissions and other offering expenses payable by us, we received
+approximately 6.2 million in net proceeds from our initial public offering. 
+
+There has been no material
+change in the planned use of proceeds from our initial public offering as described in our final prospectus, dated August 11, 2022, which
+was filed with the SEC on August 16, 2021 pursuant to Rule 424(b) under the Securities Act. The primary use of the net proceeds from our
+initial public offering continues to be, as follows: (i) approximately 8.0 million for the acquisition of property and the development
+of a manufacturing plant to build, design and manufacture our new line of electric boats; (ii) approximately 2.0 million for ramp up
+of production and inventory; (iii) approximately 2.6 million for working capital. 
+
+No payments were made
+by us to directors, officers or persons owning ten percent or more of our common stock or to their associates, or to our affiliates, other
+than payments in the ordinary course of business to officers for salaries. Pending the uses described, we have invested the net proceeds
+in our operating cash account. 
+
+29 
+
+Item
+6. Exhibits. 
+
+The following exhibits are included herein or incorporated herein by
+reference: 
+
+3.1 
+ 
+ Certificate of Incorporation (Delaware), dated July 27, 2022 (incorporated by reference to Exhibit 3.1 to Amendment No. 5 to our Registration Statement on Form S-1 filed on August 2, 2022) 
+
+3.2 
+ 
+ Bylaws of Registrant (Delaware) (incorporated by reference to Exhibit 3.2 to Amendment No. 5 to our Registration Statement on Form S-1 filed on August 2, 2022) 
+
+4.1 
+ 
+ Specimen Common Stock Certificate (Delaware) (incorporated by reference to Exhibit 4.1 to Amendment No. 5 to our Registration Statement on Form S-1 filed on August 2, 2022) 
+
+4.2 
+ 
+ Form of Representative s Warrant (incorporated by reference to Exhibit 4.5 to Amendment No. 2 to our Registration Statement on Form S-1 filed on April 18, 2022) 
+
+10.1 
+ 
+ Share Exchange Agreement, dated May 7, 2018 by and among Capax, Reborn and each of the RB shareholders (incorporated by reference to Exhibit 10.1 to Amendment No. 2 to our Registration Statement on Form S-1 filed on April 18, 2022) 
+
+10.2 
+ 
+ Form of Letter Agreement (Lockup) by and among Registrant, officers and directors of the Company and EF Hutton (incorporated by reference to Exhibit 10.2 to Amendment No. 6 to our Registration Statement on Form S-1 filed on August 9, 2022) 
+
+10.3 
+ 
+ Form of Director and Officer Indemnity Agreement (incorporated by reference to Exhibit 10.3 to Amendment No. 2 to our Registration Statement on Form S-1 filed on April 18, 2022) 
+
+10.4 
+ 
+ Shopping Center Lease by and between Reborn Global Holdings, Inc. and La Floresta Regency, LLC, effective July 25, 2016 (incorporated by reference to Exhibit 10.4 to Amendment No. 2 to our Registration Statement on Form S-1 filed on April 18, 2022) 
+
+10.5 
+ 
+ Standard Industrial/Commercial Multi-Tenant Lease, as amended, by and between Reborn Global Holdings, Inc. and Foothill Crescenta, LLC, effective December 6, 2016 (incorporated by reference to Exhibit 10.5 to Amendment No. 2 to our Registration Statement on Form S-1 filed on April 18, 2022) 
+
+10.6 
+ 
+ Shopping Center Lease by and between Reborn Global Holdings, Inc. and Sibling Associates, LLC, effective July 12, 2017 (incorporated by reference to Exhibit 10.6 to Amendment No. 2 to our Registration Statement on Form S-1 filed on April 18, 2022) 
+
+10.7 
+ 
+ Standard Lease by and between Reborn Global Holdings, Inc. and El Toro, LP, effective February 12, 2021 (incorporated by reference to Exhibit 10.7 to Amendment No. 2 to our Registration Statement on Form S-1 filed on April 18, 2022) 
+
+10.8 
+ 
+ Form of Subscription Agreement (Regulation A+ Offering) (incorporated by reference to Exhibit 10.11 to Amendment No. 2 to our Registration Statement on Form S-1 filed on April 18, 2022) 
+
+10.9 
+ 
+ Consulting Agreement by and between the Company and Kevin Hartley, effective September 15, 2021 (incorporated by reference to Exhibit 10.12 to Amendment No. 2 to our Registration Statement on Form S-1 filed on April 18, 2022) 
+
+10.10 
+ 
+ Amendment to Share Exchange Agreement, dated January 25, 2022, by and among Reborn Coffee Inc., Andrew Weeraratne and each of the former shareholders of Reborn Global Holdings, Inc., a California corporation (incorporated by reference to Exhibit 10.10 to Amendment No. 5 to our Registration Statement on Form S-1 filed on August 2, 2022) 
+
+10.11 
+ 
+ Offer of Employment by and between the Company and Stephan Kim, dated July 27, 2022 (incorporated by reference to Exhibit 10.11 to Amendment No. 5 to our Registration Statement on Form S-1 filed on August 2, 2022) 
+
+31.1 
+ 
+ Certification of Jay Kim pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+ 
+ Certification of Stephan Kim pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+32.1 
+ 
+ Certification of Jay Kim pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+32.2 
+ 
+ Certification of Stephan Kim pursuant to 18 U.S.C. Section 1350,
+as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 101.INS 
+ 
+ Inline XBRL Instance Document. 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document. 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document. 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document. 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Label Linkbase Document. 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document. 
+ 
+ 104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+
+Filed herewith. 
+
+Furnished herewith. 
+
+30 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Jay Kim 
+ 
+ Chief Executive Officer Principal Executive Officer 
+ 
+ September 30, 2022 
+ 
+ Jay Kim 
+
+/s/ Stephan Kim 
+ 
+ Chief Financial Officer Principal Financial and Accounting Officer 
+ 
+ September 30, 2022 
+
+31 
+
+<EX-31.1>
+ 2
+ f10q0622ex31-1_reborncoffee.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+CERTIFICATION 
+
+ PURSUANT TO RULE 13a-14 AND 15d-14 
+
+ UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS
+AMENDED 
+
+I, Jay Kim, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report on Form 10-Q (this Report for the quarterly period ended June 30, 2022 of Reborn Coffee, Inc.; 
+
+2. 
+ Based on my knowledge, this Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this Report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this Report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this Report; 
+
+4. 
+ The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+a. 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this Amendment is being prepared; 
+
+b. 
+ [Paragraph intentionally omitted in accordance with SEC Release Nos. 34-47986 and 34-54942]; 
+
+c. 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this Report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this Report based on such evaluation; and 
+
+d. 
+ Disclosed in this Report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting. 
+
+Date: September 30, 2022 
+ By: 
+ /s/ Jay Kim 
+
+Jay Kim 
+
+Chief Executive Officer 
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ f10q0622ex31-2_reborncoffee.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+CERTIFICATION 
+
+ PURSUANT TO RULE 13a-14 AND 15d-14 
+
+ UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS
+AMENDED 
+
+I, Stephan Kim, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report on Form 10-Q (this Report for the quarterly period ended June 30, 2022 of Reborn Coffee, Inc.; 
+
+2. 
+ Based on my knowledge, this Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this Report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this Report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this Report; 
+
+4. 
+ The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+a. 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this Amendment is being prepared; 
+
+b. 
+ [Paragraph intentionally omitted in accordance with SEC Release Nos. 34-47986 and 34-54942]; 
+
+c. 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this Report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this Report based on such evaluation; and 
+
+d. 
+ Disclosed in this Report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting. 
+
+Date: September 30, 2022 
+ By: 
+ /s/ Stephan Kim 
+
+Stephan Kim 
+
+Chief Financial Officer 
+(Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ f10q0622ex32-1_reborncoffee.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. 1350 
+
+ (SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002) 
+
+In connection with the Quarterly
+Report of Reborn Coffee, Inc. (the Company on Form 10-Q for the quarterly period ended June 30, 2022, as filed with the
+Securities and Exchange Commission on the date hereof (the Report ), I, Jay Kim, Chief Executive Officer of the Company,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of
+my knowledge: 
+
+(1) 
+ the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: September 30, 2022 
+ By: 
+ /s/ Jay Kim 
+
+Jay Kim 
+
+Chief Executive Officer 
+(Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ f10q0622ex32-2_reborncoffee.htm
+ CERTIFICATION
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. 1350 
+
+ (SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002) 
+
+In connection with the Quarterly
+Report of Reborn Coffee, Inc. (the Company on Form 10-Q for the quarterly period ended June 30, 2022, as filed with the
+Securities and Exchange Commission on the date hereof (the Report ), I, Stephan Kim, Chief Financial Officer of the Company,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of
+my knowledge: 
+
+(1) 
+ the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: September 30, 2022 
+ By: 
+ /s/ Stephan Kim 
+
+Stephan Kim 
+
+Chief Financial Officer 
+(Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ rebn-20220630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ rebn-20220630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ rebn-20220630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ rebn-20220630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ rebn-20220630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

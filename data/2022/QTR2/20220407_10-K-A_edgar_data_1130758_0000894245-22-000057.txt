@@ -1,0 +1,451 @@
+<Header>
+<FileStats>
+    <FileName>20220407_10-K-A_edgar_data_1130758_0000894245-22-000057.txt</FileName>
+    <GrossFileSize>69327</GrossFileSize>
+    <NetFileSize>17493</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>39740</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000894245-22-000057.hdr.sgml : 20220407
+<ACCEPTANCE-DATETIME>20220407133933
+ACCESSION NUMBER:		0000894245-22-000057
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20211231
+FILED AS OF DATE:		20220407
+DATE AS OF CHANGE:		20220407
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AEI INCOME & GROWTH FUND 24 LLC
+		CENTRAL INDEX KEY:			0001130758
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				411990952
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-49653
+		FILM NUMBER:		22813186
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 EAST 7TH ST SUITE 1300
+		CITY:			ST PAUL
+		STATE:			MN
+		ZIP:			55101
+		BUSINESS PHONE:		6512277333
+
+	MAIL ADDRESS:	
+		STREET 1:		30 EAST 7TH ST SUITE 1300
+		CITY:			ST PAUL
+		STATE:			MN
+		ZIP:			55101
+
+</SEC-Header>
+</Header>
+
+ 0000894245-22-000057.txt : 20220407
+
+10-K/A
+ 1
+ k24-421amend.htm
+ ANNUAL REPORT PURSUANT TO SECTION 13 AND 15(D)
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-K/A 
+
+Amendment No. 1 
+
+Annual Report Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934 
+
+For the Fiscal Year Ended: December 31, 2021 
+
+Commission file number: 000-49653 
+
+AEI INCOME GROWTH FUND 24 LLC 
+
+(Exact name of registrant as specified in its charter) 
+
+State of Delaware 
+
+41-1990952 
+
+(State or other jurisdiction of 
+
+incorporation or organization) 
+
+(I.R.S. Employer 
+
+Identification No.) 
+
+30 East 7 th Street, Suite 1300 
+
+St. Paul, Minnesota 55101 
+
+(651) 227-7333 
+
+(Address of principal executive offices) 
+
+(Registrant s telephone number) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which registered 
+
+None 
+
+None 
+
+None 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+
+Limited Liability Company Units 
+
+(Title of class) 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the 
+
+Securities Act. Yes No 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 
+
+Section 15(d) of the Exchange Act. Yes No 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+Yes No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). 
+
+Yes No 
+
+As of June 30, 2021, there were 23,407.447 Units of limited membership interest outstanding and owned by nonaffiliates of the registrant, which Units had an aggregate market value (based solely on the price at which they were sold since there is no ready market for such Units) of 23,407,447. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+The registrant has not incorporated any documents by reference into this report. 
+
+1
+
+EXPLANATORY NOTE 
+
+This Amendment No. 1 to the Annual Report on Form 10-K of AEI Income Growth Fund LLC (the Company) for the year ended December 31, 2021 (the Original Filing ), that was originally filed with the U.S Securities and Exchange Commission on March 31, 2022, is to update the Report of Independent Registered Public Accounting Firm to include a date of March 30, 2022. 
+
+Except as described above, the Amendment does not modify or update the diclosures presented in, or exhibits to, the Original Filing in any way. Those sections of the Original Filing that are unaffected by the Amendment are not included herein. The Amendment continues to speak as of the date of the Original Filing. Furthermore, the Amendment does not reflect events occurring after the filing of the Original Filing. Accordingly, the Amendment should be read in conjunction with the Original Filing, as well as the Company s other filings made with the SEC pursuant to Section 13(a) or 15(d) of the Exchange Act subsequent to the filing of the Original Filing. 
+
+2
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Members: 
+
+AEI Income Growth Fund 24 LLC 
+
+St. Paul, Minnesota 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets of AEI Income Growth Fund 24 LLC (a Delaware limited liability company) (the Company as of December 31, 2021 and 2020, and the related statements of operations, changes in members' equity, and cash flows for each of the years in the two-year period ended December 31, 2021, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2021 and 2020, and the results of its operations and its cash flows for each of the years in the two-year period ended December 31, 2021, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+3
+
+Critical audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. We determined that there were no critical audit matters. 
+
+/s/ Boulay PLLP 
+
+Boulay PLLP
+
+We have served as the Company s auditor since 2000. 
+
+PCAOB ID 542 
+
+Minneapolis, Minnesota 
+
+March 30, 2022 
+
+4
+
+PART IV 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+101 
+
+The Cover Page from the Company s Annual Report on Form 10-K for the year ended December 31, 2021 formatted in Inline Extensible Business Reporting Language (iXBRL) 
+
+101 
+
+The Report of Independent Registered Public Accounting Firm 
+
+31.1 
+
+Certification of Chief Executive Officer of Managing Member pursuant to Rule 15d-14(a)(17 CFR 240.15d-14(a)) and Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+
+Certification of Chief Financial Officer of Managing Member pursuant to Rule 15d-14(a)(17 CFR 240.15d-14(a)) and Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32 
+
+Certification of Chief Executive Officer and Chief Financial Officer of Managing Member pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+Furnished herewith 
+
+5
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+AEI INCOME GROWTH FUND 24 
+
+Limited Liability Company 
+
+By: 
+
+AEI Fund Management XXI, Inc. 
+
+Its Managing Member 
+
+April 6, 2022 
+
+By: 
+
+/s/ Marni J Nygard
+
+Marni J. Nygard, President 
+
+(Principal Executive Officer) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Name 
+
+Title 
+
+Date 
+
+/s/ Marni J Nygard 
+
+President 
+
+April 6, 2022 
+
+Marni J. Nygard 
+
+(Principal Executive Officer) 
+
+/s/ Keith E Petersen 
+
+Chief Financial Officer and Treasurer 
+
+April 6, 2022 
+
+Keith E. Petersen 
+
+(Principal Accounting Officer) 
+
+6
+
+<EX-31.1>
+ 2
+ ex31-124.htm
+ EX-31.1
+
+Exhibit 31.1 
+
+CERTIFICATIONS 
+
+I, Marni J. Nygard, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of AEI Income Growth Fund 24 LLC; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 30, 2022 
+
+/s/ Marni J Nygard 
+
+Marni J. Nygard, President 
+
+AEI Fund Management XXI, Inc. 
+
+Managing General Partner 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-224.htm
+ EX-31.2
+
+Exhibit 31.2 
+
+CERTIFICATIONS 
+
+I, Keith E. Petersen, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of AEI Income Growth Fund 24 LLC; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: March 30, 2022 
+
+/s/ Keith E Petersen
+
+Keith E. Petersen, Chief Financial Officer 
+
+AEI Fund Management XXI, Inc. 
+
+Managing General Partner 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ ex32-24.htm
+ SECTION 1350 CERTIFICATIONS
+
+Exhibit 32 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of AEI Income Growth Fund 24 LLC (the Company on Form 10-K for the period ended December 31, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), the undersigned, Marni J. Nygard, President of AEI Fund Management XXI, Inc., the Managing Member of the Company, and Keith E. Petersen, Chief Financial Officer of AEI Fund Management XXI, Inc., each certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Marni J Nygard 
+
+Marni J. Nygard, President 
+
+AEI Fund Management XXI, Inc. 
+
+Managing General Partner 
+
+March 30, 2022 
+
+/s/ Keith E Petersen 
+
+Keith E. Petersen, Chief Financial Officer 
+
+AEI Fund Management XXI, Inc. 
+
+Managing General Partner 
+
+March 30, 2022 
+
+</EX-32>
+

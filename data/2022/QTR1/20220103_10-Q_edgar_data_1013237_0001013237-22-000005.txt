@@ -1,0 +1,1014 @@
+<Header>
+<FileStats>
+    <FileName>20220103_10-Q_edgar_data_1013237_0001013237-22-000005.txt</FileName>
+    <GrossFileSize>6701910</GrossFileSize>
+    <NetFileSize>123162</NetFileSize>
+    <NonText_DocumentType_Chars>1111979</NonText_DocumentType_Chars>
+    <HTML_Chars>2113391</HTML_Chars>
+    <XBRL_Chars>1748481</XBRL_Chars>
+    <XML_Chars>1496967</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001013237-22-000005.hdr.sgml : 20220103
+<ACCEPTANCE-DATETIME>20220103081914
+ACCESSION NUMBER:		0001013237-22-000005
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		85
+CONFORMED PERIOD OF REPORT:	20211130
+FILED AS OF DATE:		20220103
+DATE AS OF CHANGE:		20220103
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FACTSET RESEARCH SYSTEMS INC
+		CENTRAL INDEX KEY:			0001013237
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				133362547
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11869
+		FILM NUMBER:		22500462
+
+	BUSINESS ADDRESS:	
+		STREET 1:		45 GLOVER AVENUE
+		CITY:			NORWALK
+		STATE:			CT
+		ZIP:			06850
+		BUSINESS PHONE:		2038101000
+
+	MAIL ADDRESS:	
+		STREET 1:		45 GLOVER AVENUE
+		CITY:			NORWALK
+		STATE:			CT
+		ZIP:			06850
+
+</SEC-Header>
+</Header>
+
+ 0001013237-22-000005.txt : 20220103
+
+10-Q
+ 1
+ fds-20211130.htm
+ 10-Q
+
+fds-20211130 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ _________________________________________________ 
+ Form 
+ _________________________________________________ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ______to ______ 
+ 
+ Commission File Number: 
+ _________________________________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ 
+ _________________________________________________ (State or other jurisdiction of incorporation) (I.R.S. Employer Identification No.) 
+ , , 
+ (Address of principal executive office) (Zip Code) 
+ Registrant s telephone number, including area code: ) 
+ _________________________________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbols(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). x No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ x Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+ Yes No 
+ The number of shares outstanding of the registrant s common stock, .01 par value, as o f December 27, 2021 was . 
+
+Table of Contents 
+
+ FactSet Research Systems Inc. 
+ Form 10-Q 
+ For the Quarter Ended November 30, 2021 
+ Index Page Part I 
+ FINANCIAL INFORMATION 
+ Item 1. 
+ Financial Statements 
+ Consolidated Statements of Income for the three months ended November 30, 2021 and 2020 
+ 4 
+ Consolidated Statements of Comprehensive Income for the three months ended November 30, 2021 and 2020 
+ 5 
+ Consolidated Balance Sheets at November 30, 2021 and August 31, 2021 
+ 6 
+ Consolidated Statements of Cash Flows for the three months ended November 30, 2021 and 2020 
+ 7 
+ Consolidated Statements of Changes in Stockholders Equity for the three months ended November 30, 2021 and 2020 
+ 8 
+ Notes to the Consolidated Financial Statements 
+ 9 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 28 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 43 
+ Item 4. 
+ Controls and Procedures 
+ 45 
+ Part II 
+ OTHER INFORMATION 
+ Item 1. 
+ Legal Proceedings 
+ 45 
+ Item 1A. 
+ Risk Factors 
+ 45 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 45 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 46 
+ Item 4. 
+ Mine Safety Disclosures 
+ 46 
+ Item 5. 
+ Other Information 
+ 46 
+ Item 6. 
+ Exhibits 
+ 46 
+ Signatures 
+ 47 
+ 
+ For additional information about FactSet Research Systems Inc. and access to its Annual Reports to Stockholders and Securities and Exchange Commission filings, free of charge, please visit FactSet s website https://investor.factset.com) . Any information on or linked from the website is not incorporated by reference into this Quarterly Report on Form 10-Q. 
+
+2 
+
+Table of Contents 
+
+ Special Note Regarding Forward-Looking Statements 
+ FactSet Research Systems Inc. has made statements under the captions Part I, Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations, Part II, Item 1A. Risk Factors, and in other sections of this Quarterly Report on Form 10-Q for the three months ended November 30, 2021, that are forward-looking statements. In some cases, you can identify these statements by words such as "may," "might," "will," "should," "expects," "plans," "anticipates," "believes," "estimates," "intends," "projects," "indicates," "predicts," "potential," or "continue," and similar expressions. 
+ These forward-looking statements, which are subject to risks, uncertainties and assumptions about us, may include projections of our future financial performance and anticipated trends in our business. These statements are only predictions based on our current expectations, estimates, forecasts and projections about future events. These statements are not guarantees of future performance and involve a number of risks, uncertainties and assumptions. There are many important factors that could cause our actual results, level of activity, performance or achievements to differ materially from the results, level of activity, performance or achievements expressed or implied by the forward-looking statements, including the numerous factors discussed under Item 1A. Risk Factors in our Annual Report on Form 10-K for the fiscal year ended August 31, 2021, that should be specifically considered. 
+ Although we believe the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, level of activity, performance or achievements. Moreover, neither we nor any other person assumes responsibility for the accuracy and completeness of any of these forward-looking statements. Forward-looking statements speak only as of the date they are made, and actual results could differ materially from those anticipated in forward-looking statements. We do not intend, and are under no duty, to update any of these forward-looking statements after the date of this Quarterly Report on Form 10-Q to reflect actual results, future events or circumstances, or revised expectations. 
+ We intend that all forward-looking statements we make will be subject to safe harbor protection of the federal securities laws as found in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. 
+ 
+ 3 
+
+Table of Contents 
+
+ PART I FINANCIAL INFORMATION 
+ 
+ ITEM 1. FINANCIAL STATEMENTS 
+ 
+ FactSet Research Systems Inc. 
+ CONSOLIDATED STATEMENTS OF INCOME Unaudited Three Months Ended November 30, (In thousands, except per share data) 
+ 2021 2020 Revenues Operating expenses Cost of services Selling, general and administrative Total operating expenses Operating income Other income (expense) Interest expense, net ) ) Other (expense) income, net ) Income before income taxes Provision for income taxes Net income Basic earnings per common share Diluted earnings per common share Basic weighted average common shares Diluted weighted average common shares 
+ The accompanying notes are an integral part of these Consolidated Financial Statements. 
+
+4 
+
+Table of Contents 
+
+ FactSet Research Systems Inc. 
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME Unaudited 
+ Three Months Ended November 30, (In thousands) 
+ 2021 2020 Net income Other comprehensive income, net of tax: Net unrealized gain (loss) on cash flow hedges ) Foreign currency translation adjustments ) Other comprehensive (loss) income ) Comprehensive income 
+ thousand. For the three months ended November 30, 2020, the net unrealized loss on cash flow hedges were net of a tax benefit of thousand. 
+ The accompanying notes are an integral part of these Consolidated Financia l Statements. 
+ 
+ 5 
+
+Table of Contents 
+
+ FactSet Research Systems Inc. 
+ CONSOLIDATED BALANCE SHEETS Unaudited (In thousands, except share data) 
+ November 30, 2021 August 31, 2021 ASSETS Cash and cash equivalents Investments Accounts receivable, net of reserves of at November 30, 2021 and at August 31, 2021 
+ Prepaid taxes Prepaid expenses and other current assets Total current assets Property, equipment and leasehold improvements, net Goodwill Intangible assets, net Deferred taxes Lease right-of-use assets, net Other assets TOTAL ASSETS LIABILITIES Accounts payable and accrued expenses Current lease liabilities Accrued compensation Deferred revenues Dividends payable Total current liabilities Long-term debt Deferred taxes Deferred revenues, non-current Taxes payable Long-term lease liabilities Other liabilities TOTAL LIABILITIES Commitments and contingencies (see Note 12) STOCKHOLDERS EQUITY Preferred stock, par value, shares authorized, issued 
+ Common stock, par value, shares authorized, and shares issued, and shares outstanding at November 30, 2021 and August 31, 2021, respectively 
+ Additional paid-in capital Treasury stock, at cost: and shares at November 30, 2021 and August 31, 2021, respectively 
+ ) ) Retained earnings Accumulated other comprehensive loss ) ) TOTAL STOCKHOLDERS EQUITY TOTAL LIABILITIES AND STOCKHOLDERS EQUITY 
+ The accompanying notes are an integral part of these Consolidated Financial Statements. 
+ 6 
+
+Table of Contents 
+
+ FactSet Research Systems Inc. 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS Unaudited Three Months Ended November 30, (in thousands) 2021 2020 CASH FLOWS FROM OPERATING ACTIVITIES Net income Adjustments to reconcile net income to net cash provided by operating activities Depreciation and amortization Amortization of lease right-of-use assets Stock-based compensation expense Deferred income taxes Changes in assets and liabilities, net of effects of acquisitions Accounts receivable, net of reserves ) ) Accounts payable and accrued expenses Accrued compensation ) ) Deferred fees ) ) Taxes payable, net of prepaid taxes ) Lease liabilities, net ) ) Other, net ) Net cash provided by operating activities CASH FLOWS FROM INVESTING ACTIVITIES Purchases of property, equipment, leasehold improvements and internal-use software ) ) Acquisition of businesses, net of cash and cash equivalents acquired ) ) Purchases of investments ) ) Proceeds from maturity or sale of investments Net cash used in investing activities ) ) CASH FLOWS FROM FINANCING ACTIVITIES Repurchases of common stock ) ) Dividend payments ) ) Proceeds from employee stock plans Other financing activities ) ) Net cash used by financing activities ) ) Effect of exchange rate changes on cash and cash equivalents ) ) Net decrease in cash and cash equivalents ) ) Cash and cash equivalents at beginning of period Cash and cash equivalents at end of period 
+ The accompanying notes are an integral part of these Consolidated Financial Statements. 
+ 
+ 7 
+
+Table of Contents 
+
+ FactSet Research Systems Inc. 
+ CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY- Unaudited 
+ For the Three Months Ended November 30, 2021 (in thousands, except share data) Common Stock Additional Paid-in Capital Treasury Stock Retained Earnings Accumulated Other Comprehensive Loss Total Stockholders Equity Shares Par Value Shares Amount Balance, beginning of period ) ) Net income Other comprehensive loss ) ) Common stock issued for employee stock plans Vesting of restricted stock ) ) Repurchases of common stock ) ) Stock-based compensation Dividends declared ) ) Balance, end of period ) ) 
+
+For the Three Months Ended November 30, 2020 (in thousands, except share data) Common Stock Additional Paid-in Capital Treasury Stock Shares Amount Retained Earnings Accumulated Other Comprehensive Loss Total Stockholders Equity Shares Par Value Shares Amount Balance, beginning of period ) ) Net income Other comprehensive income Common stock issued for employee stock plans Vesting of restricted stock ) ) Repurchases of common stock ) ) Stock-based compensation Dividends declared ) ) Balance, end of period ) ) 
+ 
+ The accompanying notes are an integral part of these Consolidated Financial Statements. 
+ 
+ 8 
+
+Table of Contents 
+
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ FactSet Research Systems Inc. 
+ November 30, 2021 
+ (Unaudited) 
+ Page Note 1 Description of Business 10 
+ Note 2 Basis of Presentation 10 
+ Note 3 Recent Accounting Pronouncements 11 
+ Note 4 Revenue Recognition 11 
+ Note 5 Fair Value Measures 12 
+ Note 6 Derivative Instruments 14 
+ Note 7 Acquisition 16 
+ Note 8 Goodwill 17 
+ Note 9 Income Taxes 18 
+ Note 10 Leases 18 
+ Note 11 Debt 20 
+ Note 12 Commitments and Contingencies 20 
+ Note 13 Stockholders' Equity 22 
+ Note 14 Earnings Per Share 24 
+ Note 15 Stock-Based Compensation 24 
+ Note 16 Segment Information 26 
+ Note 17 Subsequent Event 26 
+
+9 
+
+Table of Contents 
+
+1. 
+ 
+ 2. 
+
+Use of Estimates 
+ 
+ 10 
+
+Table of Contents 
+
+3. 
+ 
+ No other new accounting pronouncements issued or effective as of November 30, 2021 have had, or are expected to have, a material impact on our Consolidated Financial Statements. 
+ 
+ 4. 
+ 
+ 11 
+
+Table of Contents 
+
+ EMEA 
+ Asia Pacific Total Revenues 
+ 
+ 5. 
+ Level 3 assets or liabilities as of November 30, 2021 or August 31, 2021. 
+ 12 
+
+Table of Contents 
+
+ Mutual funds (2) 
+ Derivative instruments (3) 
+ Total assets measured at fair value Liabilities Derivative instruments (3) 
+ Total liabilities measured at fair value 
+ 
+ Fair Value Measurements at August 31, 2021 (in thousands) Level 1 Level 2 Total Assets 
+
+Corporate money market funds (1) 
+ Mutual funds (2) 
+ Derivative instruments (3) 
+ Total assets measured at fair value Liabilities Derivative instruments (3) 
+ Total liabilities measured at fair value 
+ 
+ 1. Our corporate money market funds are readily convertible into cash and the net asset value of each fund on the last day of the quarter is used to determine its fair value. Our corporate money market funds are classified as Level 1 assets and are included in Cash and cash equivalents within the Consolidated Balance Sheets. 
+ 2. Our mutual funds have a fair value based on the fair value of the underlying investments held by the mutual funds, allocated to each share of the mutual fund using a net asset value approach. The fair value of the underlying investments is based on observable inputs. Our mutual funds are classified as Level 2 and are included in Investments (short-term) within the Consolidated Balance Sheets. 
+ 3. Our derivative instruments include our foreign exchange forward contracts and interest rate swap agreements. We utilize the income approach to measure fair value for our foreign exchange forward contracts. The income approach uses pricing models that rely on market observable inputs such as spot, forward and interest rates, as well as credit default swap spreads, and are classified as Level 2 assets. To estimate fair value for the interest rate swap agreement, we utilize a present value of future cash flows, leveraging a model-derived valuation that uses Level 2 observable inputs such as interest rate yield curves. Refer to Note 6 , Derivative Instruments, for more information on our derivative instruments designed as cash flow hedges and their classification within the Consolidated Balance Sheets. 
+ (b) Assets and Liabilities Measured at Fair Value on a Non-Recurring Basis 
+ Assets and liabilities that are measured at fair value on a non-recurring basis relate primarily to our tangible fixed assets, lease right-of-use ("ROU") assets, goodwill and intangible assets. The fair values of these non-financial assets and liabilities are determined based on valuation techniques using the best information available, and may include quoted market prices, market comparable information, and discounted cash flow projections. These non-financial assets are required to be assessed for impairment whenever events or circumstances indicate that their carrying value may not be fully recoverable, and at least annually for goodwill. During the three months ended November 30, 2021, no material fair value adjustments or material fair value measurements were required for our non-financial assets or liabilities. 
+ 13 
+
+Table of Contents 
+
+ million, which approximated its carrying amount given the application of a floating interest rate equal to LIBOR plus a spread using a debt leverage pricing grid. As the interest rate is a variable rate, adjusted based on market conditions, it approximates the current market-rate for similar instruments available to companies with comparable credit quality and maturity, and therefore, the long-term debt is categorized as Level 2 in the fair value hierarchy. 
+ 
+ 6. 
+ discontinuance of cash flow hedges during the three months ended November 30, 2021 or November 30, 2020, and as such, no corresponding gains or losses related to changes in the value of our contracts were reclassified into earnings prior to settlement. 
+ As of November 30, 2021, we maintained foreign currency forward contracts to hedge a portion of our British Pound Sterling, Euro, Indian Rupee and Philippine Peso exposures. We entered into a series of forward contracts to mitigate our currency exposure ranging from to over their respective hedged periods. The current foreign currency forward contracts are set to mature at various points between the second quarter of fiscal 2022 through the first quarter of fiscal 2023. 
+ As of November 30, 2021, the gross notional value of foreign currency forward contracts to purchase Philippine Pesos and Indian Rupees with U.S. dollars was billion and Rs billion, respectively. The gross notional value of foreign currency forward contracts to purchase U.S. dollars with Euros and British Pound Sterling was million and million, respectively. 
+ Interest Rate Swap Agreement 
+ On March 5, 2020, we entered into an interest rate swap agreement with a notional amount of million to hedge the variable interest rate obligation on a portion of our outstanding debt under our 2019 Revolving Credit Facility (as defined below in Note 11, Debt). As of November 30, 2021, we have borrowed million of the available million under the 2019 Revolving Credit Facility, which bears interest on the outstanding principal amount at a rate equal to contractual one month LIBOR plus a spread using a debt leverage pricing grid, which was as of November 30, 2021. Refer to Note 11, Debt , for further discussion on the 2019 Revolving Credit Facility. Under the terms of the interest rate swap agreement, we will pay interest at a fixed rate of and receive variable interest payments based on the same one-month LIBOR utilized to calculate the interest expense from the 2019 Revolving Credit Facility. The interest rate swap agreement matures on March 29, 2024. Refer to Interest Rate Risk in Part I, Item 3 of this Quarterly Report on Form 10-Q for further discussion on our exposure to interest rate risk on our long-term debt outstanding. 
+ As the terms for the interest rate swap agreement align with the 2019 Revolving Credit Facility, we do not expect any hedge ineffectiveness. We have designated and accounted for this instrument as a cash flow hedge with the unrealized gains or losses on the interest rate swap agreement recorded in AOCL in the Consolidated Balance Sheets. Realized gains or losses are subsequently reclassified into Interest expense, net in the Consolidated Statement of Income when settled. 
+ 14 
+
+Table of Contents 
+
+ Interest rate swap agreement Total cash flow hedges 
+ 
+ Fair Value of Derivative Instruments 
+ Accounts payable and accrued expenses Interest rate swap agreement Prepaid expenses and other current assets Accounts payable and accrued expenses Other assets Other liabilities Total cash flow hedges 
+ 
+ All derivatives were designated as hedging instruments as of November 30, 2021 and August 31, 2021. 
+ Derivatives in Cash Flow Hedging Relationships 
+ SG A ) Interest rate swap agreement ) Interest expense, net ) ) Total cash flow hedges ) ) 
+ As of November 30, 2021, we estimate that net pre-tax derivative gains of million included in AOCL will be reclassified 
+ into earnings within the next 12 months. As of November 30, 2021, our cash flow hedges were effective, with no amount of ineffectiveness recorded in the Consolidated Statements of Income for these designated cash flow hedges, and all components of each derivative s gain or loss were included in the assessment of hedge effectiveness. 
+ Offsetting of Derivative Instruments 
+ We enter into master netting arrangements designed to permit net settlement of derivative transactions among the respective counterparties, settled on the same date and in the same currency. As of November 30, 2021 and August 31, 2021, there were no material amounts recorded net on the Consolidated Balance Sheets. 
+ 15 
+
+Table of Contents 
+
+ 7. 
+ million, net of cash acquired, subject to working capital and other adjustments. Cobalt is a leading portfolio monitoring solutions provider for the private capital industry. This acquisition advances our strategy to scale our data and workflow solutions through targeted investments as part of our multi-year investment plan and expand our private markets offering. The Cobalt purchase price was in excess of the fair value of net assets acquired, resulting in the recognition of goodwill. FactSet expects to finalize the allocation of the purchase price for Cobalt as soon as possible, but in any event, no later than one year from the acquisition date. 
+ Amortizable intangible assets Software technology years Straight-line Client relationships years Straight-line Goodwill Other assets Current liabilities ) Other liabilities ) Total purchase price 
+ Goodwill totaling million represents the excess of the Cobalt purchase price over the fair value of net assets acquired and is included in the Americas and EMEA segments. Goodwill generated from the Cobalt acquisition is not deductible for income tax purposes. The results of Cobalt's operations have been included in our Consolidated Financial Statements, within the Americas and EMEA segments, beginning with its acquisition on October 12, 2021. Pro forma information has not been presented because the effect of the Cobalt acquisition is not material to our Consolidated Financial Statements. 
+ Truvalue Labs, Inc. 
+ On November 2, 2020, we acquired all of the outstanding shares of TVL for a purchase price of million, net of cash acquired, subject to working capital and other adjustments. TVL is a leading provider of environmental, social, and governance ("ESG") information. TVL applies artificial intelligence driven technology to over 100,000 unstructured text sources in multiple languages, including news, trade journals, and non-governmental organizations and industry reports, to provide daily signals that identify positive and negative ESG behavior. The acquisition of TVL further enhances our commitment to providing industry leading access to ESG data across our platforms. The TVL purchase price was in excess of the fair value of net assets acquired, resulting in the recognition of goodwill. We finalized the purchase accounting for the TVL acquisition during the third quarter of fiscal 2021. 
+ 
+ 16 
+
+Table of Contents 
+
+ Amortizable intangible assets Software technology years Straight-line Client relationships years Straight-line Trade names years Straight-line Goodwill Other assets Current liabilities ) Other liabilities ) Total purchase price 
+ million represents the excess of the TVL purchase price over the fair value of net assets acquired and is included in the Americas segment. Goodwill generated from the TVL acquisition is not deductible for income tax purposes. The results of TVL's operations have been included in our Consolidated Financial Statements, within the Americas segment, beginning with its acquisition on November 2, 2020. Pro forma information has not been presented because the effect of the TVL acquisition is not material to our Consolidated Financial Statements. 
+ 
+ 8. 
+ Acquisitions Foreign currency translations ) ) ) Balance at November 30, 2021 
+
+17 
+
+Table of Contents 
+
+ 9. 
+ Provision for income taxes Effective tax rate 
+ Our effective tax rate is based on recurring factors and non-recurring events, including the taxation of foreign income. Our effective tax rate will vary based on, among other things, changes in levels of foreign income, as well as discrete and other non-recurring events that may not be predictable. Our effective tax rate is lower than the applicable U.S. corporate income tax rate for the three months ended November 30, 2021, driven mainly by research and development ("R D") tax credits and a foreign derived intangible income ("FDII") deduction. The effective tax rate for the three months ended November 30, 2021 is further reduced by windfall tax benefits associated with the employee exercise of stock options. 
+ million, compared with million for the same period a year ago. The provision decreased mainly due to million in higher windfall tax benefits during the three months ended November 30, 2021, compared with the prior year period. 
+ 
+ 10. 
+ million of Lease right-of-use assets, net and million of combined Current and Long-term lease liabilities in the Consolidated Balance Sheets. Such leases have a remaining lease term ranging from less than to just over years and did not include any renewal or termination options that were not yet reasonably certain to be exercised. 
+ 18 
+
+Table of Contents 
+
+ 2023 2024 2025 2026 Thereafter Total Less: Imputed interest Present value 
+ Variable lease cost 2 
+ 
+ 1. Operating lease costs included costs associated with fixed lease payments and index-based variable payments that qualified for lease accounting under ASC 842, Leases and complied with the practical expedients and exceptions elected by us. 
+ 2. Variable lease costs were not included in the measurement of lease liabilities. These costs primarily included variable non-lease costs and leases that qualified for the short-term lease exception. Our variable non-lease costs included costs that were not fixed at the lease commencement date and are not dependent on an index or rate. These costs relate to utilities, real estate taxes, insurance and maintenance. 
+ The following table summarizes our lease term and discount rate assumptions related to the operating leases recorded on the Consolidated Balance Sheets: November 30, 2021 August 31, 2021 Weighted average remaining lease term (in years) 
+ Weighted average discount rate (IBR) 
+
+The following table summarizes supplemental cash flow information related to our operating leases: Three Months Ended November 30, (in millions) 
+ 2021 2020 Cash paid for amounts included in the measurement of lease liabilities Lease ROU assets obtained in exchange for lease liabilities 
+ 19 
+
+Table of Contents 
+
+ 11. 
+ 2019 Revolving Credit Facility debt issuance costs ) ) Long-term debt 
+ 2019 Credit Agreement 
+ On March 29, 2019, we entered into a credit agreement, as the borrower, with PNC Bank, National Association ("PNC"), as the administrative agent and lender (the "2019 Credit Agreement"). The 2019 Credit Agreement provides for a million revolving credit facility (the "2019 Revolving Credit Facility"). We may request borrowings under the 2019 Revolving Credit Facility until its maturity date of March 29, 2024. The 2019 Credit Agreement also allows us, subject to certain requirements, to arrange for additional borrowings with PNC for an aggregate amount up to million, provided that any such request for additional borrowings must be in a minimum amount of million. 
+ We borrowed million of the available million provided by the 2019 Revolving Credit Facility, resulting in million available to be withdrawn. We are required to pay a commitment fee using a pricing grid currently at based on the daily amount by which the available balance in the 2019 Revolving Credit Facility exceeds the borrowed amount. All outstanding loan amounts are reported as Long-term debt within the Consolidated Balance Sheets at November 30, 2021. The principal balance is payable in full on the maturity date. 
+ Borrowings under the 2019 Revolving Credit Facility bear interest on the outstanding principal amount at a rate equal to the daily LIBOR plus a spread using a debt leverage pricing grid, currently at . For the three months ended November 30, 2021 and November 30, 2020, we recorded interest expense on our outstanding debt, including the amortization of debt issuance costs, net of the effects of the interest rate swap agreement of million and million, respectively. Including the effects of the interest rate swap agreement, the year-to-date weighted average interest rate on amounts outstanding under our 2019 Revolving Credit Facility was and as of November 30, 2021 and August 31, 2021, respectively. Refer to Note 6, Derivative Instruments for further discussion on the interest rate swap agreement. Interest on the loan outstanding under the 2019 Revolving Credit Facility is payable quarterly, in arrears, and on the maturity date. 
+ During fiscal 2019, we incurred approximately million in debt issuance costs related to the 2019 Credit Agreement. These costs were capitalized as debt issuance costs and are amortized into interest expense ratably over the term of the 2019 Credit Agreement. 
+ The 2019 Credit Agreement contains covenants and requirements restricting certain of our activities, which are usual and customary for this type of loan. In addition, the 2019 Credit Agreement requires that we maintain a consolidated net leverage ratio, as measured by total net funded debt/EBITDA (as defined in the 2019 Credit Agreement) below a specified level as of the end of each fiscal quarter. We were in compliance with all covenants and requirements within the 2019 Credit Agreement as of November 30, 2021. 
+ 
+ 12. 
+ million. 
+ 20 
+
+Table of Contents 
+
+million of standby letters of credit outstanding. These standby letters of credit utilize the same covenants included in the 2019 Credit Agreement. Refer to Note 11, Debt for more information on these covenants. 
+ Contingencies 
+ Income Taxes 
+ Uncertain income tax positions are accounted for in accordance with applicable accounting guidance, refer to Note 9, Income Taxes, for further details. We are currently under audit by tax authorities and have reserved for potential adjustments to our provision for income taxes that may result from examinations by, or any negotiated settlements with, these tax authorities. We believe that the final outcome of these examinations or settlements will not have a material effect on our results of operations or our cash flows. If events occur which indicate payment of these amounts is unnecessary, the reversal of the liabilities would result in the recognition of tax benefits in the period we determine the liabilities are no longer necessary. If our estimates of the federal, state, and foreign income tax liabilities are less than the ultimate assessment, additional expense would result. 
+ Legal Matters 
+ We accrue non-income tax liabilities for contingencies when management believes that a loss is probable, and the amounts can be reasonably estimated. Contingent gains are recognized only when realized. We are engaged in various legal proceedings, claims and litigation that have arisen in the ordinary course of business, including employment matters, commercial and intellectual property litigation. The outcome of all the matters against us are subject to future resolution, including the uncertainties of litigation. Based on information available at November 30, 2021, our management believes that the ultimate outcome of these unresolved matters against us, individually or in the aggregate, will not have a material adverse effect on our consolidated financial position, our results of operations or our cash flows. 
+ Sales Tax Matters 
+ On August 8, 2019, we received a Notice of Intent to Assess (the "First Notice") additional sales taxes, interest and underpayment penalties from the Commonwealth of Massachusetts Department of Revenue (the "Commonwealth") relating to the tax periods from January 1, 2006 through December 31, 2013. On July 20, 2021, we received a Notice of Intent to Assess (the "Second Notice", cumulatively with the First Notice, the "Notices") additional sales taxes, interest and underpayment penalties from the Commonwealth relating to the tax periods from January 1, 2014 through December 31, 2018. Based upon the Notices, it is the Commonwealth's intention to assess sales tax, interest and underpayment penalties on previously recorded sales transactions. We have filed an appeal to the Notices and intend to contest any such assessment, if assessed. We continue to cooperate with the Commonwealth's inquiry with respect to the Notices. 
+ On August 10, 2021, we received a letter (the "Letter") from the Commonwealth relating to the tax periods from January 1, 2019 through June 30, 2021, requesting additional sales information to determine if a notice of intent to assess should be issued to FactSet with respect to these tax periods. Based upon a preliminary review of the Letter, we believe the Commonwealth might seek to assess sales tax, interest and underpayment penalties on previously recorded sales transactions. We are cooperating with the Commonwealth's inquiry with respect to the Letter. 
+ Due to the uncertainty surrounding the assessment process for both the Notices and Letter, we are unable to reasonably estimate the ultimate outcome of these matters and, as such, have not recorded a liability for any of these matters as of November 30, 2021. We believe that we will ultimately prevail if we are presented with a formal assessment for any of these matters; however, if we do not prevail, the amount of any assessment could have a material impact on our consolidated financial position, results of operations and cash flows. 
+ Indemnifications 
+ As permitted or required under Delaware law and to the maximum extent allowable under that law, we have certain obligations to indemnify our current and former officers and directors for certain events or occurrences while the officer or director is, or was, serving at our request in such capacity. These indemnification obligations are valid as long as the director or officer acted in good faith and in a manner the person reasonably believed to be in, or not opposed to, the best interests of FactSet, and with respect to any criminal action or proceeding, had no reasonable cause to believe his or her conduct was unlawful. The maximum potential amount of future payments we could be required to make under these indemnification obligations is unlimited; however, we have a director and officer insurance policy that we believe mitigates our exposure and may enable us 
+ 21 
+
+Table of Contents 
+
+ of our total revenues in any period presented. As of November 30, 2021, the receivable reserve was million compared with million as of August 31, 2021. 
+ Derivative Instruments 
+ Our use of derivative instruments exposes us to credit risk to the extent counterparties may be unable to meet the terms of their agreements. To mitigate credit risk, we limit counterparties to credit-worthy financial institutions and distribute contracts among these institutions to reduce the concentration of credit risk. We do not expect any losses as a result of default by our counterparties. 
+ Concentrations of Other Risk 
+ Data Content Providers 
+ We integrate data from various third-party sources into our hosted propriety data and analytics platform, which our clients access to perform their analyses. As certain data sources have a limited number of suppliers, we make every effort to assure that, where reasonable, alternative sources are available. We are not dependent on any individual third-party data supplier in order to meet the needs of our clients, with only two data suppliers representing more than of our total data costs for the three months ended November 30, 2021. 
+ 
+ 13. 
+ Common stock issued for employee stock plans Repurchase of common stock from employees (1) 
+ ) ) Repurchase of common stock under the share repurchase program ) ) Balance, end of period 
+ (1) For the three months ended November 30, 2021 and November 30, 2020, we repurchased and shares, or million and million of common stock, respectively, primarily to satisfy withholding tax obligations due upon the vesting of stock-based awards. 
+ Share Repurchase Program 
+ Under our share repurchase program, we may repurchase shares of our common stock from time to time in the open market and privately negotiated transactions, subject to market conditions. For the three months ended November 30, 2021 and November 30, 2020, we repurchased shares for million and shares for million, respectively. 
+ 22 
+
+Table of Contents 
+
+ million remained authorized for future share repurchases under this program. It is expected that share repurchases will be paid using existing and future cash generated by operations. Refer to Note 17 , Subsequent Event for more information on our expectations around our share repurchase program for fiscal 2022. 
+ Restricted Stock 
+ Restricted stock awards entitle the holders to receive shares of common stock as the awards vest over time. For the three months ended November 30, 2021, shares of previously granted restricted stock vested and were included in common stock outstanding as of November 30, 2021 (recorded net of shares repurchased from employees at a cost of million to cover their cost of taxes upon vesting of the restricted stock). During the three months ended November 30, 2020, shares of previously granted restricted stock vested and were included in common stock outstanding as of November 30, 2020 (recorded net of shares repurchased from employees at a cost of million to cover their cost of taxes upon vesting of the restricted stock). 
+ 
+ Dividends 
+ November 30, 2021 December 16, 2021 Fiscal 2021 
+ First Quarter November 30, 2020 December 17, 2020 
+ Future cash dividend payments will depend on our earnings, capital requirements, financial condition and other factors considered relevant by us and are subject to final determination by our Board of Directors. 
+ Accumulated Other Comprehensive Loss) ) Accumulated foreign currency translation adjustments ) ) Total AOCL ) ) 
+ 23 
+
+Table of Contents 
+
+ 14. 
+ Denominator Weighted average common shares used in the calculation of basic income per share Common stock equivalents associated with stock-based compensation plan Shares used in the calculation of diluted income per share Basic income per share Diluted income per share 
+ Dilutive potential common shares consist of stock options and unvested performance-based awards. There were stock options excluded from the calculation of diluted EPS for the three months ended November 30, 2021, because their inclusion would have been anti-dilutive. For the three months ended November 30, 2020, the number of stock options excluded from calculation of diluted EPS was . 
+ performance-based awards excluded from the calculation of diluted EPS. For the three months ended November 30, 2020, there were performance-based awards excluded from the calculation of diluted EPS. 
+ 
+ 15. 
+ million and million during the three months ended November 30, 2021 and November 30, 2020, respectively. As of November 30, 2021, million of total unrecognized compensation expense related to non-vested awards is expected to be recognized over a weighted average period of years. There was no stock-based compensation capitalized as of November 30, 2021 and November 30, 2020. 
+ Employee Stock Option Awards 
+ During the three months ended November 30, 2021, we granted stock options under the FactSet Research Systems Inc. Stock Option and Award Plan, as Amended and Restated (the "LTIP") with a weighted average exercise price of to existing employees of FactSet, using the lattice-binomial option-pricing model. The majority of the stock options granted during the three months ended November 30, 2021 are related to the annual employee grant on November 1, 2021 under the LTIP. The stock option awards granted on November 1, 2021 vest annually on the anniversary date of the grant and are fully vested after , expiring from the date of grant. As of November 30, 2021, we had million share-based awards available for grant under the LTIP. 
+ Employee Stock Option Fair Value Determinations 
+ We utilize the lattice-binomial option-pricing model ("binomial model") to estimate the fair value of new employee stock option grants. The binomial model is affected by our stock price, as well as assumptions regarding several variables, which include, but are not limited to, our expected stock price volatility over the term of the awards, interest rates, option forfeitures and employee stock option exercise behaviors, to determine the grant date stock option award fair value. 
+ 24 
+
+Table of Contents 
+
+ - 
+ Expected life (years) Expected volatility Dividend yield Estimated fair value Exercise price Fair value as a percentage of exercise price 
+ Non-Employee Director Stock Option Grant 
+ The FactSet Research Systems Inc. Non-Employee Directors Stock Option and Award Plan as Amended and Restated (the "Director Plan") provides for the grant of share-based awards, including stock options, to non-employee directors of FactSet. The expiration date of the Director Plan is December 19, 2027. The non-qualified stock options granted to directors vest 100 after on the anniversary date of the grant and expire from the date the options were granted. As of November 30, 2021, we had shares available for future grant under the Director Plan. 
+ Restricted Stock Units 
+ During the three months ended November 30, 2021, we granted non-performance based restricted stock units ("RSUs") and performance-based restricted stock units ("PSUs"; RSUs and PSUs, collectively, "Restricted Stock Awards") under the LTIP. The Restricted Stock Awards granted under the LTIP during the three months ended November 30, 2021 had a weighted average grant date fair value of . 
+ Restricted Stock Awards are subject to continued employment over a specified period and entitle the holders to shares of common stock as the Restricted Stock Awards vest over time. Vesting of the shares underlying the PSUs are also subject to achieving certain specified performance levels during the measurement period subsequent to the date of grant. The Restricted Stock Award holder is not entitled to dividends declared on the underlying shares while the stock subject to the Restricted Stock Award is unvested. The grant date fair value of Restricted Stock Awards is measured by reducing the grant date price of the common stock by the present value of the dividends expected to be paid on the underlying stock during the requisite service period, discounted at the appropriate risk-free interest rate. The expense associated with Restricted Stock Awards is amortized over the vesting period. 
+ The Restricted Stock Awards granted during the three months ended November 30, 2021 were primarily related to the annual employee grant on November 1, 2021. With respect to the November 1, 2021 grant, RSUs granted vest annually on the anniversary date of grant and are fully vested after and PSUs granted cliff vest on the third anniversary of the grant date, subject to the achievement of certain performance metrics. 
+ Employee Stock Purchase Plan 
+ Shares of FactSet common stock may be purchased by eligible employees under the FactSet Research Systems Inc. Employee Stock Purchase Plan, as Amended and Restated (the "ESPP") in intervals. The purchase price is equal to of the lesser of the fair market value of our common stock on the first day or the last day of each offering period. Employee purchases may not exceed of their gross compensation and there is a contribution limit per employee during an offering period. Dividends paid on shares held in the ESPP are used to purchase additional ESPP shares at the market price on the dividend payment date. 
+ During the three months ended November 30, 2021, employees purchased shares at a weighted average price of compared with shares at a weighted average price of for the three months ended November 30, 2020. Stock-based compensation expense related to the ESPP was million during both the three months ended November 30, 2021 and November 30, 2020. At November 30, 2021 the ESPP had shares reserved for future issuance. 
+ 25 
+
+Table of Contents 
+
+ 16. 
+ segments: the Americas; EMEA; and Asia Pacific. 
+ The Americas segment serves our clients throughout North, Central, and South America. The EMEA segment serves our clients in Europe, the Middle East, and Africa. The Asia Pacific segment serves our clients in Asia and Australia. Segment revenues reflect sales to clients based in these respective geographic locations. 
+ Each segment records expenses related to its individual operations with the exception of expenditures associated with our data centers, third-party data costs and corporate headquarters charges, which are recorded by the Americas segment and are not allocated to the other segments. The content collection centers, located in India, the Philippines and Latvia, benefit all our segments, and the expenses incurred at these locations are allocated to each segment based on a percentage of revenues. 
+ Operating income Capital expenditures (in thousands) For the three months ended November 30, 2020 
+ Revenues Operating income Capital expenditures 
+ The following table reflects the total assets for our segments: Segment Assets (in thousands) 
+ November 30, 2021 August 31, 2021 Americas EMEA Asia Pacific Total assets 
+
+17. 
+ billion in cash. 
+ 
+ CGS manages a database of 60 different data elements uniquely identifying more than 50 million global financial instruments. It is the foundation for security master files relied on by critical front, middle and back-office functions. CGS is the exclusive provider of CUSIP and CINS identifiers globally and also acts as the official numbering agency for ISIN identifiers in the United States. The acquisition will significantly expand our critical role in the global capital markets, advancing our open data strategy. 
+ 26 
+
+Table of Contents 
+
+ billion to assist with the acquisition, including a million revolving credit facility. We intend to replace and refinance our existing revolving credit facility with proceeds from the new financing. 
+ Revenues from CGS will be recognized based on geographic business activities in accordance with how our operating segments are currently aligned. CGS will function as part of CTS. While we have not yet completed a preliminary allocation of the purchase price to the assets and liabilities to be acquired, we expect the majority of the purchase price will be allocated to goodwill and acquired intangible assets. The acquisition is subject to customary closing conditions, including regulatory approvals and the consummation of the S P Global and IHS Markit merger. The transaction is expected to close in the first quarter of calendar 2022. 
+ Following the closing of this acquisition, we intend to suspend our share repurchase program for the remainder of fiscal 2022, except for potential minor repurchases to offset dilution from grants of stock options. 
+ 27 
+
+Table of Contents 
+
+ ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ This Management s Discussion and Analysis of Financial Condition and Results of Operations ("MD A") should be read in conjunction with the Consolidated Financial Statements and related notes included in this Quarterly Report on Form 10-Q, our Annual Report on Form 10-K for the fiscal year ended August 31, 2021, our Current Reports on Form 8-K and our other filings with the Securities and Exchange Commission. This discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those discussed below. Factors that could cause such differences include, but are not limited to, those identified below and those discussed in Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended August 31, 2021. 
+ Our MD A is designed to provide a reader of our financial statements with a narrative from the perspective of our management on our financial condition, results of operations, liquidity and certain other factors that may affect our future results. Our MD A is presented in the following sections: 
+ Executive Overview 
+ Annual Subscription Value ("ASV") 
+ Client and User Additions 
+ Employee Headcount 
+ Results of Operations 
+ Non-GAAP Financial Measures 
+ Liquidity and Capital Resources 
+ Off-Balance Sheet Arrangements 
+ Foreign Currency 
+ Critical Accounting Policies and Estimates 
+ New Accounting Pronouncements 
+ 
+ Executive Overview 
+ FactSet Research Systems Inc. and its wholly-owned subsidiaries (collectively, "we," "our," "us," the "Company" or "FactSet") is a global financial data and analytics company with open and flexible technology and a purpose to drive the investment community to see more, think bigger, and do their best work. Our strategy is to become the leading open content and financial analytics platform in the industry that delivers differentiated advantage for our clients success. 
+ For over 40 years, the FactSet platform has delivered expansive data, sophisticated analytics, and flexible technology that global financial professionals need to power their critical investment workflows. Over 162,000 investment professionals including asset managers, asset owners, bankers, wealth managers, corporate users, private equity and venture capital professionals, and others use our personalized solutions to identify opportunities, explore ideas, and gain a competitive advantage. Our solutions span investment research, portfolio construction and analysis, trade execution, performance measurement, risk management, and reporting across the investment lifecycle. 
+ We provide financial data and market intelligence on securities, companies, industries and people to enable our clients to research investment ideas, as well as offering them the capabilities to analyze, monitor and manage their portfolios. We combine dedicated client service with open and flexible technology offerings, such as a configurable desktop and mobile platform, comprehensive data feeds, cloud-based digital solutions, and application programming interfaces ("APIs"). Our revenues are primarily derived from subscriptions to our products and services such as workstations, portfolio analytics, and market data. 
+ We advance our industry by comprehensively understanding our clients workflows, solving their most complex challenges, and helping them achieve their goals. By providing them with the leading open content and analytics platform, an expansive universe of concorded data they can trust, next-generation workflow support designed to help them grow and see their next best action, and the industry s most committed service specialists, FactSet puts our clients in a position to outperform. 
+ We are focused on growing our business through three reportable segments ("segments"): the Americas, EMEA and Asia Pacific. Refer to Note 16, Segment Information , in the Notes to the Consolidated Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for further discussion. Within each of our segments, we primarily deliver insight and information through our three workflows: Research Advisory Solutions; Analytics Trading Solutions; and Content Technology Solutions ("CTS"). 
+ 28 
+
+Table of Contents 
+
+ Business Strategy 
+ Client needs and market dynamics continue to evolve at an accelerated pace with an increasing demand for differentiated, personalized, and connected data, an ongoing shift to multi-asset class investing, and cost rationalization as the shift from active to passive investing continues. Clients are seeking new cloud-based solutions that enable self-service and automation, open and flexible systems, and increased efficiencies when integrating and managing data as part of their own broader digital transformations. 
+ FactSet s strategy focuses on building the leading open content and analytics platform that delivers differentiated advantages for our clients success, in keeping with our purpose of enabling the investment community to see more, think bigger and do their best work. We want to be the trusted partner of choice for clients, to anticipate their needs and provide them with the most innovative solutions to make them more efficient. This includes transforming the way our clients discover, decide, and act on an opportunity using our digital platform; purposefully increasing our pace and speed to market by streamlining how we work; and investing in our future workforce. To execute on our strategy, we plan on the following: 
+ Growing our digital platform : Scaling up our content refinery by providing the most comprehensive and connected inventory of industry, proprietary, and third-party data for the financial community, including granular data for key industry verticals, private companies, wealth, and environmental social and governance ("ESG"). Driving next-generation workflow solutions by creating personalized and integrated solutions to streamline workflows which includes solutions for asset managers, asset owners, sell side, wealth and corporate clients. Our goal is to deliver tangible efficiencies to our clients by connecting data and analytics with a cloud based eco-system, enabling them to manage work more effectively through an integrated investment lifecycle. 
+ Delivering execution excellence : Building a more agile and digital first-minded organization that increases the speed of our product creation and go-to-market strategy. To capitalize on market trends and give our clients innovative tools, we plan to release new products built on a cloud-based digital foundation as well as migrating our existing data and applications to the cloud. Additionally, we expect to rationalize our existing product portfolio to reinvest in higher return products. 
+ Driving a growth mindset : Recruiting, training and empowering a diverse and operationally efficient workforce to drive sustainable growth. To drive a more performance-based culture, we are investing in talent who can create leading technological solutions, efficiently execute our go-to-market strategy and achieve our growth targets. 
+ At the center of our strategy is the relentless focus on our clients and their FactSet experience. We want to be a trusted partner and service provider, offering hyper-personalized digital products for clients to research ideas, uncover relevant insights, and leverage cognitive computing to help get the most out of their data and analytics. Additionally, we continually evaluate business opportunities such as acquisitions and partnerships to help us expand our capabilities and competitive differentiators across the investment portfolio lifecycle. 
+ We are focused on growing our global business in three segments: the Americas, EMEA and Asia Pacific. We believe this geographical strategic alignment helps us better manage our resources, target our solutions and interact with our clients. We further execute on our growth strategy by offering data, products, and analytical applications within our three workflow solutions: Research Advisory; Analytics Trading; and CTS. 
+ Fiscal 2022 First Quarter in Review 
+ Revenues in the first quarter of fiscal 2022 were 424.7 million, an increase of 9.4 from the prior year period. Revenues increased across each of our geographic segments, primarily in the Americas, followed by EMEA and Asia Pacific, supported by increased revenues in all our workflow solutions, mainly in Research Advisory; followed by Analytics Trading and CTS. Organic revenues contributed to 9.1 of the growth during the first quarter of fiscal 2022, compared with the prior year period. Organic revenues exclude the effects of acquisitions and dispositions completed in the last 12 months, the impacts of foreign currency movements on the current year period and the amortization of deferred revenues fair value adjustments from purchase accounting. Refer to Non-GAAP Financial Measures in Part I, Item 2 of this Quarterly Report on Form 10-Q for a reconciliation between revenues and organic revenues. 
+ As of November 30, 2021, organic annual subscription value ("Organic ASV") plus Professional Services totaled 1.70 billion, an increase of 8.9 over November 30, 2020. Organic ASV increased across all our segments with the majority of the increase 
+ 29 
+
+Table of Contents 
+
+ related to the Americas, followed by EMEA and Asia Pacific. Refer to Annual Subscription Value in Part I, Item 2 of this Quarterly Report on Form 10-Q for the definitions of Organic ASV and Organic ASV plus Professional Services. 
+ Operating income grew 1.3 and diluted earnings per share ("EPS") increased 6.5 for the three months ended November 30, 2021 compared with the prior year period. Operating margin decreased to 28.9 during the three months ended November 30, 2021 compared with 31.2 in the prior year period. This decrease in operating margin on a year-over-year basis was primarily due to increased computer-related expenses and amortization of intangible assets, partially offset by growth in our revenues. 
+ COVID-19 Update 
+ A novel strain of coronavirus, now known as COVID-19 ("COVID-19"), was first reported in December 2019, and it has since extensively impacted the global health and economic environment, with the World Health Organization characterizing COVID-19 as a pandemic on March 11, 2020. In response to the COVID-19 pandemic, we implemented a business continuity plan with a dedicated incident management team to respond quickly and provide ongoing guidance so that we could continue offering our clients uninterrupted products, services and support while also protecting our employees. We believe these actions have been successful and that the pandemic, and our responses, have not significantly affected our financial results for the three months ended November 30, 2021. 
+ At the outset of the pandemic, we required the vast majority of our employees at our offices across the globe (including our corporate headquarters) to work remotely and implemented global travel restrictions for our employees. Since that time, we have begun to re-open many of our offices globally, utilizing a three-phased approach to provide flexibility for employees wishing to work from our offices with a focus on social distancing and safety while acting consistently with applicable local regulations. We anticipate that the ability to open offices will vary significantly from region to region based on a number of factors, including the availability of COVID-19 vaccines and the spread of COVID-19 variants, including the rapid spread of the recent omicron variant. We have worked with local organizations to procure vaccines for our employees and encouraged them to get vaccinated. Our offices will not re-open fully until local authorities permit us to do so and our own criteria and conditions to ensure employee health and safety are satisfied. 
+ As of November 30, 2021, there have been minimal interruptions in our ability to provide our products, services and support to our clients. Working remotely has had relatively little impact on the productivity of our employees, including our ability to gather content. We continue to work closely with our clients to provide consistent access to our products and services and have remained flexible to achieve client priorities. 
+ Based on our success working in a remote environment during the COVID-19 pandemic, we have implemented a new work standard under which employees in many of our locations, where permitted by local laws and regulations, and where the role permits, will have the opportunity to choose between different work arrangements. These include working either in a hybrid arrangement, where an employee can split time between working from the office and working from a pre-approved remote location, or a fully remote arrangement, where an employee can work entirely from a pre-approved remote location. 
+ Our revenues, earnings, and ASV are relatively stable and predictable as a result of our subscription-based business model. To date, the COVID-19 pandemic has not had a material negative impact on our revenues, earnings or ASV. We incurred additional expenses at the start of the COVID-19 pandemic, particularly relating to equipment to enable our employees to support our clients while working remotely. As we have continued to work in remote and hybrid environments, reductions in discretionary spending, particularly travel and entertainment, have more than offset any related increased expenses. Given our transition to our new work standard, we anticipate that many of these expense reductions will continue going forward, including incurring less travel and entertainment spending than we did pre-pandemic. We recently polled our employees on optimal work arrangements and, consistent with what we have seen in the market, the majority of our employees have indicated that they will work in a hybrid or a remote environment; accordingly, we are reassessing our real estate footprint to better reflect these new work arrangements and seeking to reduce our spending on office space that will no longer be necessary. 
+ Refer to Item 1A. Risk Factors of our Annual Report on Form 10-K for the fiscal year ended August 31, 2021 for further discussion of the potential impact of the COVID-19 pandemic on our business. 
+ 30 
+
+Table of Contents 
+
+ Annual Subscription Value ("ASV") 
+ 
+ We believe ASV reflects our ability to grow recurring revenues and generate positive cash flow and is the key indicator of the successful execution of our business strategy. 
+ 
+ "ASV" at any point in time represents our forward-looking revenues for the next 12 months from all subscription services currently being supplied to clients, excluding revenues from Professional Services. 
+ "Organic ASV" at any point in time equals our ASV excluding ASV from acquisitions and dispositions completed within the last 12 months and the effects of foreign currency movements on the current year period. 
+ "Professional Services" are revenues derived from project-based consulting and implementation. 
+ "Organic ASV plus Professional Services" at any point in time equals the sum of Organic ASV and Professional Services. 
+ Organic ASV plus Professional Services 
+ 
+ The following table presents the calculation of Organic ASV plus Professional Services as of November 30, 2021. With proper notice provided as contractually required, our clients can add to, delete portions of, or terminate service, subject to certain limitations. (in millions) As of November 30, 2021 As reported ASV plus Professional Services (1) 
+ 1,706.3 Currency impact (2) 
+ 2.7 Acquisition ASV (3) 
+ (7.9) Organic ASV plus Professional Services 1,701.1 Organic ASV plus Professional Services growth rate 8.9 
+ (1) Includes 24.0 million in Professional Services as of November 30, 2021. 
+ (2) The impact from foreign currency movements. 
+ (3) Acquired ASV from acquisitions completed within the last 12 months. 
+ 
+ As of November 30, 2021, Organic ASV plus Professional Services was 1.70 billion, an increase of 8.9 compared with November 30, 2020. The increase in year-over-year Organic ASV was largely attributed to existing clients, inclusive of price increases, followed by new client sales, partially offset by existing client cancellations. 
+ Organic ASV increased across all our geographic segments with the majority of the increase related to the Americas, followed by EMEA and Asia Pacific. This increase was driven by additional sales in our workflow solutions, primarily in Research Advisory, followed by Analytics Trading and CTS. Sales increased in Analytics Trading mainly from our portfolio analytics, performance and reporting, risk and quantitative and front office solutions. CTS sales increased primarily due to company financial data, such as fundamentals and estimates, along with data management solutions to empower data connectivity. Sales increased in Research Advisory mainly due to higher demand for our workstations. 
+ Segment ASV 
+ As of November 30, 2021, ASV from the Americas was 1,054.9 million, representing 62.7 of total ASV, an increase from 958.5 million as of November 30, 2020. Americas Organic ASV increased to 1,048.2 million as of November 30, 2021, a 9.4 increase compared with November 30, 2020. 
+ As of November 30, 2021, ASV from EMEA was 452.0 million, representing 26.9 of total ASV, an increase from 422.0 million as of November 30, 2020. EMEA Organic ASV increased to 453.4 million as of November 30, 2021, a 7.2 increase compared with November 30, 2020. 
+ As of November 30, 2021, Asia Pacific ASV was 175.4 million, representing 10.4 of total ASV, an increase from 156.5 million as of November 30, 2020. Asia Pacific Organic ASV increased to 176.2 million as of November 30, 2021, a 13.6 increase compared with November 30, 2020. 
+ The increase in Organic ASV across all our segments was largely attributed to increased sales to existing clients, inclusive of price increases, followed by new client sales, partially offset by existing client cancellations. Organic ASV increased in the 
+ 31 
+
+Table of Contents 
+
+ Americas primarily due to higher sales in Research Advisory, followed by Analytics Trading. EMEA Organic ASV increased due to higher sales across all three workflow solutions: Research Advisory, CTS and Analytics Trading. The increase in Asia Pacific Organic ASV was mainly driven by higher sales in Research Advisory. 
+ Buy-side and Sell-side Organic ASV Growth 
+ Buy-side and sell-side Organic ASV growth rates at November 30, 2021, compared with November 30, 2020, were 8.5 and 13.2 , respectively. Buy-side clients account for approximately 83 of our Organic ASV, consistent with the prior year period, and primarily include asset managers, asset owners, wealth managers, hedge funds, corporate firms and channel partners. The remainder of our Organic ASV is derived from sell-side firms, and primarily include broker-dealers, banking and advisory, private equity and venture capital firms. 
+ Client and User Additions 
+ The table below presents our total clients and users: As of November 30, 2021 As of November 30, 2020 Change Clients (1) 
+ 6,759 5,939 13.8 Users (2) 
+ 162,161 146,696 10.5 
+ (1) The client count includes clients with ASV of 10,000 and above. 
+ (2) In the second quarter of fiscal 2021, we revised our user count methodology to include users across all our products, including workstations, StreetAccount and other workflow solutions. The prior year user count was adjusted to reflect this change for comparison purposes. 
+ Our total client count was 6,759 as of November 30, 2021, a net increase of 13.8 , or 820 clients, in the last 12 months, mainly due to an increase in corporate and wealth management clients. The client count increase was mainly driven by demand for our integrated content and workflow solutions which are further enhanced by our continued investment in product innovation. As part of our long-term growth strategy, we continue to focus on expanding and cultivating relationships with our existing client base through sales of workstations, applications, services and content. 
+ As of November 30, 2021, there were 162,161 professionals using FactSet, representing a net increase of 10.5 , or 15,465 users, in the last 12 months, driven primarily by an increase in our wealth management clients, sell-side users from our banking clients and asset managers from the buy-side. The increase in users was mainly due to the addition of new users, improvement in our client retention, and increased new hiring at our banking clients. 
+ Annual client retention was greater than 95 of ASV for the period ended November 30, 2021, consistent with the prior year period. When expressed as a percentage of clients, annual retention was approximately 91.7 for the period ended November 30, 2021, an improvement from approximately 90.1 for the period ended November 30, 2020. 
+ Employee Headcount 
+ As of November 30, 2021, our employee headcount was 10,898, up 2.6 in the past 12 months, due primarily to an increase in net new employees of 6.7 in Asia Pacific, partially offset by a decrease of 6.5 in the Americas and 1.2 in EMEA. Of our total employee headcount at November 30, 2021, 7,190 were located in Asia Pacific, 2,343 were located in the Americas, and 1,365 were located in EMEA. Excluding acquisitions made over the last twelve months, headcount grew by 1.8 year over year, primarily driven by increased hiring in our content and technology organizations. 
+ 32 
+
+Table of Contents 
+
+ Results of Operations 
+ For an understanding of the significant factors that influenced our performance for the three months ended November 30, 2021 and November 30, 2020, the following discussion should be read in conjunction with the Consolidated Financial Statements and related notes presented in this Quarterly Report on Form 10-Q. 
+ The following table summarizes the results of operations for the periods described: 
+ Three Months Ended November 30, Change Change (in thousands, except per share data) 2021 2020 Revenues 424,725 388,206 36,519 9.4 Cost of services 207,149 188,088 19,061 10.1 Selling, general and administrative 94,915 79,087 15,828 20.0 Operating income 122,661 121,031 1,630 1.3 Net income 107,647 101,206 6,441 6.4 Diluted earnings per common share 2.79 2.62 0.17 6.5 Diluted weighted average common shares 38,641 38,697 
+ Revenues 
+ Three months ended November 30, 2021 compared with three months ended November 30, 2020 
+ Revenues for the three months ended November 30, 2021 were 424.7 million, an increase of 9.4 . The increase in revenues were largely attributed to increased sales to existing clients, inclusive of price increases, followed by new client sales, partially offset by existing client cancellations. Revenues increased across all our geographic segments, primarily from the Americas, followed by EMEA and Asia Pacific, driven by increased revenues in all of our workflow solutions, Research Advisory, followed by Analytics Trading and CTS, compared with the prior year. Organic revenues increased to 423.2 million for the three months ended November 30, 2021, a 9.1 increase over the prior year period. 
+ The 9.4 increase in revenues was composed of growth in organic revenues of 9.1 and a 50 basis point increase from deferred revenues fair value adjustments from purchase accounting and acquisition-related revenues, partially offset by a 20 basis point decrease from foreign currency exchange rate fluctuations. 
+ Revenues by Segment 
+ Three Months Ended November 30, Change Change (in thousands) 2021 2020 Americas 266,913 244,337 22,576 9.2 of revenues 62.8 62.9 EMEA 115,003 105,777 9,226 8.7 of revenues 27.1 27.2 Asia Pacific 42,809 38,092 4,717 12.4 of revenues 10.1 9.8 Consolidated 424,725 388,206 36,519 9.4 
+ 33 
+
+Table of Contents 
+
+ Three months ended November 30, 2021 compared with three months ended November 30, 2020 
+ Americas 
+ Revenues from our Americas segment increased 9.2 to 266.9 million during the three months ended November 30, 2021, compared with 244.3 million from the same period a year ago. The increased revenues were driven by increased sales in all of our workflow solutions, primarily in Research Advisory, followed by Analytics Trading and CTS. The growth in revenues of 9.2 was reflective of increased organic revenues of 8.5 and a 70 basis point increase from deferred revenues fair value adjustments from purchase accounting and acquisition-related revenues. 
+ 
+ EMEA 
+ EMEA revenues increased 8.7 to 115.0 million during the three months ended November 30, 2021, compared with 105.8 million from the same period a year ago. This increase was driven by increased sales in all of our workflow solutions, mainly in Research Advisory, followed by Analytics Trading and CTS. The growth in revenues of 8.7 was reflective of increased organic revenues of 8.8 , partially offset by a 10 basis point decrease from foreign currency exchange rate fluctuations. 
+ 
+ Asia Pacific 
+ Asia Pacific revenues increased 12.4 to 42.8 million during the three months ended November 30, 2021, compared with 38.1 million from the same period a year ago. This increase was driven by increased sales across all our workflow solutions. The 12.4 growth in revenues was reflective of increased organic revenues of 13.7 , partially offset by a 130 basis point decrease from foreign currency exchange rate fluctuations. 
+ 
+ Revenues by Workflow Solution 
+ Three months ended November 30, 2021 compared with three months ended November 30, 2020 
+ The growth in revenues of 9.4 across our segments was driven by increased revenues from all of our workflow solutions, primarily from sales of Research Advisory, followed by Analytics Trading and CTS, for the three months ended November 30, 2021, compared with the same period a year ago. The increase in Research Advisory was driven mainly by higher demand for our workstations. The increase in revenues from Analytics Trading was primarily due to increased demand for our portfolio analytics, performance and reporting and front office solutions. The increase in CTS revenues was driven mainly due to increased sales of company financial data, such as fundamentals and estimates, along with data management solutions. 
+ Operating Expenses 
+ Three Months Ended November 30, Change Change (in thousands) 2021 2020 Cost of services 207,149 188,088 19,061 10.1 Selling, general and administrative 94,915 79,087 15,828 20.0 Total operating expenses 302,064 267,175 34,889 13.1 Operating income 122,661 121,031 1,630 1.3 Operating margin 28.9 31.2 
+ Cost of Services 
+ Three months ended November 30, 2021 compared with three months ended November 30, 2020 
+ Cost of services increased 10.1 to 207.1 million for the three months ended November 30, 2021, compared with 188.1 million in the same period a year ago, primarily due to an increase in computer-related expenses and employee compensation expense. 
+ Cost of services, when expressed as a percentage of revenues, was 48.8 for the three months ended November 30, 2021, an increase of 30 basis points compared with the same period a year ago. This increase was primarily due to higher computer-related expenses and intangible asset amortization, partially offset by employee compensation expense. Computer-related 
+ 34 
+
+Table of Contents 
+
+ expenses increased 160 basis points, primarily driven by increased technology investments related to our migration to cloud-based hosting services and licensed software arrangements. Intangible asset amortization increased 50 basis points mainly due to a higher investment in capitalized internal-use software that has been placed in service. Employee compensation expense decreased 120 basis points due primarily to both growth in revenues outpacing the growth of compensation expense and a decrease related to a shift of employment from high to low cost locations, despite a net increase in employee headcount of 205, partially offset by the impact of a one-time restructuring charge to drive organizational realignment and higher annual base salaries. 
+ Selling, General and Administrative 
+ Three months ended November 30, 2021 compared with three months ended November 30, 2020 
+ Selling, general and administrative ("SG A") expenses increased 20.0 to 94.9 million for the three months ended November 30, 2021, compared with 79.1 million for the same period a year ago, primarily due to an increase in employee compensation expense. 
+ 
+ SG A expenses, when expressed as a percentage of revenues, were 22.3 for the three months ended November 30, 2021, an increase of 200 basis points over the prior year period. This increase was primarily due to charges related to vacating certain leased office space and higher employee compensation expense, net of stock-based compensation. The charges related to vacating certain leased office space in New York City and resulted in a 90 basis point increase in SG A expenses. Employee compensation expense, net of stock-based compensation, increased SG A expenses by 70 basis points primarily due to increased variable compensation expense, higher annual base salaries, an increase in net employee headcount of 71 employees, and the impact of a one-time restructuring charge to drive organizational realignment, partially offset by the accelerated recognition of expense associated with certain retirement provisions in our employee equity award plan incurred in the prior year period. 
+ Operating Income and Operating Margin 
+ Three months ended November 30, 2021 compared with three months ended November 30, 2020 
+ Operating income increased 1.3 to 122.7 million for the three months ended November 30, 2021 compared with 121.0 million in the prior year. Operating income increased primarily due to higher revenues, partially offset by higher employee compensation expense, computer-related costs and charges related to vacating certain leased office space in New York City. Foreign currency exchange rate fluctuations, net of hedge activity decreased operating income by 4.3 million. 
+ Operating margin decreased to 28.9 during the three months ended November 30, 2021 compared with 31.2 in the prior year period. Operating margin decreased mainly due to higher computer-related costs, charges related to vacating certain leased office space in New York City and amortization of intangible assets, partially offset by lower employee compensation expense, net of stock-based compensation, as a percentage of revenues. 
+ Operating Income by Segment 
+ Our internal financial reporting structure is based on three reportable segments: the Americas; EMEA; and Asia Pacific. Refer to Note 16, Segment Information , in the Notes to the Consolidated Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for further discussion regarding our segments. 
+ Three Months Ended November 30, Change Change (in thousands) 2021 2020 Americas 55,498 56,376 (878) (1.6) EMEA 40,654 40,634 20 Asia Pacific 26,509 24,021 2,488 10.4 Total Operating Income 122,661 121,031 1,630 1.3 
+ Americas 
+ Americas operating income decreased 1.6 to 55.5 million during the three months ended November 30, 2021, compared with 56.4 million in the same period a year ago. This decrease in operating income was due to higher employee compensation expense and computer-related expenses, charges related to vacating certain leased office space in New York City, and higher amortization of intangible assets, partially offset by growth in revenues of 9.2 . Employee compensation expense increased 
+ 35 
+
+Table of Contents 
+
+ mainly due to the impact of a one-time restructuring charge to drive organizational realignment, higher variable compensation and annual base salaries, partially offset by a net decrease in employee headcount of 162. Computer-related expenses increased primarily due to increased technology investments related to our migration to cloud-based hosting services and licensed software arrangements. Amortization of intangible assets increased due to increases in capitalized internal use software that has been placed in service. 
+ EMEA 
+ EMEA operating income was 40.7 million during the three months ended November 30, 2021, consistent with the 40.6 million recognized during the same period a year ago. The EMEA operating income was primarily due higher data costs and higher employee compensation expense, partially offset by growth in revenues of 8.7 and collection of previously reserved receivables. Data costs increased due to a non-recurring charge for certain data content. Employee compensation expense increased mainly due to a one-time restructuring charge to drive organizational realignment and higher annual base salaries, partially offset by a net decrease in employee headcount of 16. 
+ Asia Pacific 
+ Asia Pacific operating income increased 10.4 to 26.5 million during the three months ended November 30, 2021, compared with 24.0 million in the same period a year ago. This increase in operating income was mainly due to growth in revenues of 12.4 , partially offset by higher employee compensation expense. Employee compensation expense increased mainly due to higher annual base salaries and a net increase in employee headcount of 454. 
+ Income Taxes, Net Income and Diluted Earnings per Share Three Months Ended November 30, Change Change (in thousands, except for per share data) 2021 2020 Provision for income taxes 12,283 19,026 (6,743) (35.4) Net income 107,647 101,206 6,441 6.4 Diluted earnings per common share 2.79 2.62 0.17 6.5 
+ Income Taxes 
+ Our effective tax rate is lower than the applicable U.S. corporate income tax rate for the three months ended November 30, 2021, driven mainly by research and development ("R D") tax credits and a foreign derived intangible income ("FDII") deduction. Our effective tax rate for the three months ended November 30, 2021 is further reduced by windfall tax benefits associated with the employee exercise of stock options. 
+ Three months ended November 30, 2021 compared with three months ended November 30, 2020 
+ For the three months ended November 30, 2021, the provision for income taxes was 12.3 million, compared with 19.0 million for the same period a year ago. The provision decreased mainly due to 6.9 million in higher windfall tax benefits during the three months ended November 30, 2021, compared with the prior year period. 
+ Net Income and Diluted Earnings per Share 
+ Three months ended November 30, 2021 compared with three months ended November 30, 2020 
+ Net income increased 6.4 to 107.6 million and diluted earnings per share ("EPS") increased 6.5 to 2.79 for the three months ended November 30, 2021, compared with the same period a year ago. Net income and diluted EPS increased primarily due to a decrease in the provision for income taxes. 
+ 
+ Non-GAAP Financial Measures 
+ To supplement the financial measures prepared in accordance with generally accepted accounting principles in the United States ("GAAP"), we use non-GAAP financial measures including organic revenue, adjusted operating income, adjusted operating margin, adjusted net income and adjusted diluted EPS. The reconciliations of these non-GAAP financial measures to the most directly comparable financial measures calculated and presented in accordance with GAAP are show in the tables below. These non-GAAP financial measures should not be considered in isolation from, as a substitute for or superior to, financial measures reported in accordance with GAAP. Moreover, these non-GAAP financial measures have limitations in that they do not reflect all the items associated with the operations of the business as determined in accordance with GAAP. Other 
+ 36 
+
+Table of Contents 
+
+ companies may calculate similarly titled non-GAAP financial measures differently that we do, limiting the usefulness of those measures for comparative purposes. 
+ Despite the limitations of these non-GAAP financial measures, we believe these adjusted financial measures, and the information they provide, are useful in viewing our performance using the same tools that management uses to gauge progress in achieving our goals. Adjusted measures may also facilitate comparisons to our historical performance. 
+ The table below provides an unaudited reconciliation of revenues to adjusted revenues and organic revenues. 
+ Three Months Ended November 30, Change Change (In thousands) 2021 2020 Revenues 424,725 388,206 36,519 9.4 Deferred revenues fair value adjustment (1) 
+ 86 60 26 Adjusted revenues 424,811 388,266 36,545 9.4 Acquired revenues (2) 
+ (2,267) (375) (1,892) Currency impact (3) 
+ 609 609 Organic revenues 
+ 423,153 387,891 35,262 9.1 
+ (1) The amortization effect of the purchase accounting adjustment on the fair value of acquired deferred revenues. 
+ (2) Revenues from acquisitions completed within the last 12 months. 
+ (3) The impact from foreign currency movements over the past 12 months. 
+ 37 
+
+Table of Contents 
+
+ The table below provides an unaudited reconciliation of operating income, operating margin, net income and diluted EPS to adjusted operating income, adjusted operating margin, adjusted net income and adjusted diluted EPS. Three Months Ended November 30, (In thousands, except per share data) 2021 
+ 2020 
+ Change Operating income 122,661 121,031 1.3 Deferred revenues fair value adjustment 86 60 Intangible asset amortization 6,052 5,699 Restructuring / severance 9,028 1,014 Real estate charges 3,695 717 Transformation costs (1) 
+ 1,188 4,252 Business acquisition costs 230 Adjusted operating income 142,710 133,003 7.3 Operating margin 28.9 31.2 Adjusted operating margin (2) 
+ 33.6 34.3 Net income 107,647 101,206 6.4 Deferred revenues fair value adjustment 77 51 Intangible asset amortization 5,419 4,797 Restructuring / severance 8,084 853 Real estate charges 3,309 603 Transformation costs (1) 
+ 1,064 3,579 Business acquisition costs 194 Income tax items 
+ (259) Adjusted net income (3) 
+ 125,341 111,283 12.6 Diluted earnings per common share 2.79 2.62 6.5 Deferred revenues fair value adjustment 0.00 0.00 Intangible asset amortization 0.14 0.12 Restructuring / severance 0.21 0.02 Real estate charges 0.09 0.02 Transformation costs (1) 
+ 0.03 0.10 Business acquisition costs 0.00 Income tax items 
+ (0.01) Adjusted diluted earnings per common share (3) 
+ 3.25 2.88 12.8 Weighted average common shares (Diluted) 38,641 38,697 
+ (1) Costs primarily related to professional fees associated with the ongoing multi-year investment plan. 
+ (2) Adjusted operating margin is calculated as adjusted operating income divided by adjusted revenues as shown in the organic revenues table above. 
+ (3) For purposes of calculating adjusted net income and adjusted diluted earnings per share, intangible asset amortization, deferred revenues fair value adjustments and other items were taxed at the annual effective tax rates of 10.5 for fiscal 2022 and 15.8 for fiscal 2021. 
+ 38 
+
+Table of Contents 
+
+ Liquidity and Capital Resources 
+ Our primary sources of liquidity have been our cash flows generated from our operations, existing cash and cash equivalents and, when needed, our credit capacity under our existing credit facility. We use these sources of liquidity to, among other things, service our existing and future debt obligations, fund our working capital requirements, capital expenditures, investments, acquisitions, dividend payments and repurchases of our common stock. Based on past performance and current expectations, we believe our liquidity, along with other financing alternatives, will provide us the necessary capital to fund these transactions and achieve our planned growth for the next 12 months and the foreseeable future. 
+ Sources of Liquidity 
+ Long-Term Debt 
+ On March 29, 2019, we entered into a credit agreement with PNC Bank, National Association ("PNC") (the "2019 Credit Agreement"), which provides for a 750.0 million revolving credit facility (the "2019 Revolving Credit Facility"). We may request borrowings under the 2019 Revolving Credit Facility until its maturity date of March 29, 2024. The 2019 Credit Agreement also allows us, subject to certain requirements, to arrange for additional borrowings with PNC for an aggregate amount up to 500.0 million, provided that any such request for additional borrowings must be in a minimum amount of 25.0 million. 
+ As of November 30, 2021, we have borrowed 575.0 million of the available 750.0 million provided by the 2019 Revolving Credit Facility, resulting in 175.0 million available to be withdrawn. We are required to pay a commitment fee using a pricing grid which was 0.10 as of November 30, 2021. This fee is based on the daily amount by which the available balance in the 2019 Revolving Credit Facility exceeds the borrowed amount. All outstanding loan amounts are reported as Long-term debt within the Consolidated Balance Sheets at November 30, 2021 and August 31, 2021. The principal balance is payable in full on the maturity date. 
+ Borrowings under the loan bear interest on the outstanding principal amount at a rate equal to LIBOR plus a spread using a debt leverage pricing grid, which was 0.875 as of November 30, 2021. The variable rate of interest on the 2019 Revolving Credit Facility can expose us to interest rate volatility due to changes in LIBOR. To mitigate this exposure, on March 5, 2020, we entered into an interest rate swap agreement with a notional amount of 287.5 million to hedge the variable interest rate obligation on a portion of our outstanding balance under the 2019 Revolving Credit Facility. Under the terms of the interest rate swap agreement, we will pay interest at a fixed rate of 0.7995 and receive variable interest payments based on the same one-month LIBOR utilized to calculate the interest expense from the 2019 Revolving Credit Facility. The interest rate swap agreement matures on March 29, 2024. 
+ Including the effects of the interest rate swap agreement, the weighted average interest rate on amounts outstanding under our 2019 Revolving Credit Facility was 1.36 and 1.38 for the three months ended November 30, 2021 and fiscal year ended August 31, 2021, respectively. Interest on the outstanding balance under the 2019 Revolving Credit Facility is payable quarterly, in arrears, and on the maturity date. 
+ The 2019 Credit Agreement contains covenants and requirements restricting certain of our activities, which are usual and customary for this type of loan. In addition, the 2019 Credit Agreement requires that we maintain a consolidated net leverage ratio, as measured by total net funded debt/EBITDA (as defined in the 2019 Credit Agreement), below a specified level as of the end of each fiscal quarter. We were in compliance with all the covenants and requirements within the 2019 Credit Agreement as of November 30, 2021. 
+ Uses of Liquidity 
+ Returning Value to Shareholders 
+ For the three months ended November 30, 2021, we returned 49.3 million to stockholders in the form of share repurchases and dividends. Over the last 12 months, we returned 359.7 million to stockholders in the form of share repurchases and dividends. 
+ Share Repurchase Program 
+ Under our share repurchase program, we may repurchase shares of our common stock from time to time in the open market and privately negotiated transactions, subject to market conditions. In the three months ended November 30, 2021, we repurchased 
+ 39 
+
+Table of Contents 
+
+ 46,200 shares for 18.6 million under our existing share repurchase program compared with 131,800 shares for 43.1 million in the same period a year ago. 
+ 
+ As of November 30, 2021, 181.3 million remained available under the share repurchase program for future share repurchases. There is no defined number of shares to be repurchased over a specified timeframe through the life of the share repurchase program. It is expected that share repurchases will be paid using existing and future cash generated by operations. Refer to Note 17 , Subsequent Event for more information on our expectations around our share repurchase program for fiscal 2022. 
+ Capital Expenditures 
+ For the three months ended November 30, 2021, capital expenditures were 8.6 million, compared with 18.3 million during the same period a year ago, a decrease of 9.8 million. Capital expenditures decreased primarily due both to costs incurred for the build-out of our office space in the Philippines during the three months ended November 30, 2020 and a decrease in capitalized internal-use software during the three months ended November 30, 2021, compared with the same period a year ago. 
+ Dividends 
+ On November 3, 2021, our Board of Directors approved a regular quarterly dividend of 0.82 per share. Dividends of 31.0 million were paid on December 16, 2021 to common stockholders of record at the close of business on November 30, 2021. Future cash dividends will depend on our earnings, capital requirements, financial condition and other factors considered relevant by us and are subject to final determination by our Board of Directors. 
+ Acquisitions 
+ During fiscal 2022 and 2021, we completed acquisitions of several businesses, with the most significant cash flows related to the acquisitions of Cobalt Software, Inc. ("Cobalt") and Truvalue Labs, Inc. ("TVL"). 
+ On October 12, 2021, we acquired all of the outstanding shares of Cobalt for a purchase price of 50.0 million, subject to working capital and other adjustments. Cobalt is a leading portfolio monitoring solutions provider for the private capital industry. This acquisition advances our strategy to scale our data and workflow solutions through targeted investments as part of our multi-year investment plan and expand our private markets offering. 
+ On November 2, 2020, we acquired all of the outstanding shares of TVL for a purchase price of 41.9 million, subject to working capital and other adjustments. TVL is a leading provider of ESG information. TVL applies artificial intelligence driven technology to over 100,000 unstructured text sources in multiple languages, including news, trade journals, and non-governmental organizations and industry reports, to provide daily signals that identify positive and negative ESG behavior. The acquisition of TVL further enhances our commitment to providing industry leading access to ESG data across our platforms. 
+ Refer to Note 7, Acquisition, in the Notes to the Consolidated Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for further discussion of the Cobalt and TVL acquisitions. Refer to Note 17 , Subsequent Event for more information on our proposed acquisition of CUSIP Global Services. 
+ Contractual Obligations 
+ Purchase obligations represent committed payments due in future periods to our various data vendors and for other goods and services. These purchase commitments are agreements that are enforceable and legally binding on us, and they specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. The effect of our contractual obligations on our liquidity and capital resources in future periods should be considered in conjunction with the factors mentioned here. As of August 31, 2021, we had total purchase commitments of 191.9 million. 
+ There were no significant changes to our contractual obligations during the three months ended November 30, 2021. 
+ 40 
+
+Table of Contents 
+
+ Summary of Cash Flows 
+ The table below, for the periods indicated, provides selected cash flow information: Three Months Ended November 30, (in thousands) 2021 2020 Change Change Net cash provided by operating activities 72,918 89,276 (16,358) (18.3) Net cash used in investing activities (58,851) (58,322) (529) 0.9 Net cash used by financing activities (16,482) (56,377) 39,895 (70.8) Effect of exchange rate changes on cash and cash equivalents (5,550) (45) 5,505 NM Net decrease in cash and cash equivalents (7,965) (25,468) 17,503 (68.7) 
+ Cash and cash equivalents aggregated to 673.9 million as of November 30, 2021, compared with 681.9 million as of August 31, 2021. Our cash and cash equivalents decreased 8.0 million during the three months ended November 30, 2021, primarily due to cash outflows of 50.0 million for the acquisition of a business, 30.7 million in dividend payments, 18.6 million in share repurchases, and 8.6 million of capital expenditures, partially offset by inflows of 72.9 million from net cash provided by operating activities and 35.8 million in proceeds from the exercise of employee stock options. 
+ Our cash and cash equivalents are held in numerous locations throughout the world, with 385.6 million within the Americas, 237.1 million within EMEA (predominantly within the UK and France) and the remaining 51.2 million within Asia Pacific (predominantly within India and the Philippines) as of November 30, 2021. We intend to reinvest substantially all of our accumulated undistributed foreign earnings, except in instances where repatriation would result in minimal additional tax. 
+ Operating 
+ For the three months ended November 30, 2021, net cash provided by operating activities was 72.9 million compared with 89.3 million during the same period a year ago, a decrease of 16.4 million. This decrease was primarily driven by the timing 
+ of tax payments in certain jurisdictions and higher bonus payouts, partially offset by higher net income. 
+ Investing 
+ Net cash used in investing activities was 58.9 million for the three months ended November 30, 2021, representing a 0.5 million increase from the same period a year ago. This increase was due primarily to the acquisition of Cobalt for 50.0 million in cash, net of cash acquired, as compared with the fiscal year 2021 acquisition of TVL for 41.9 million in cash, net of cash acquired, and 2.2 million in net proceeds from investments (net of purchases) during the three months ended November 30, 2020, partially offset by a 9.8 million decrease in capital expenditures for the three months ended November 30, 2021 compared with the prior year period. 
+ Financing 
+ Net cash used in financing activities was 16.5 million for the three months ended November 30, 2021, representing a 39.9 million favorable change compared with the same period a year ago. The net cash used in financing activities was positively impacted by a 24.5 million decrease in share repurchases and a 17.8 million increase in proceeds from employee stock plans, partially offset by an increase of 1.6 million in dividend payments. 
+ Free Cash Flow 
+ We define free cash flow, a non-GAAP financial measure, as cash provided by operating activities less purchases of property, equipment, leasehold improvements and capitalized internal-use software. We present free cash flow solely as a supplemental disclosure to provide useful information to investors about the amount of cash generated by the business after necessary capital expenditures. We consider free cash flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by the business after necessary capital expenditures. 
+ 
+ 41 
+
+Table of Contents 
+
+ The following table reconciles our net cash provided by operating activities to free cash flow: 
+ Three Months Ended November 30, (in thousands) 2021 2020 Change Net cash provided by operating activities 72,918 89,276 (16,358) Capital expenditures (1) 
+ (8,583) (18,333) 9,750 Free cash flow 64,335 70,943 (6,608) 
+ (1) Capital expenditures are included in net cash used in investing activities during each fiscal period reported and include property, equipment, leasehold improvements and capitalized internal-use software. 
+ Free cash flow generated during the three months ended November 30, 2021 decreased 9.3 to 64.3 million compared with 70.9 million during the same period a year ago. This 6.6 million decrease was primarily due to a 16.4 million decrease in operating cash flows, partially offset by a 9.8 million decrease in capital expenditures. 
+ 
+ Off-Balance Sheet Arrangements 
+ At November 30, 2021 and August 31, 2021, we had no off-balance sheet financing or other arrangements with unconsolidated entities or financial partnerships (such as entities often referred to as structured finance or special purpose entities) established for purposes of facilitating off-balance sheet financing, other debt arrangements, or other contractually limited purposes. 
+ 
+ Foreign Currency 
+ Foreign Currency Exposure 
+ We are exposed to foreign currency fluctuations from our international wholly-owned subsidiaries, primarily driven by employee compensation, with 79 of our employee headcount located in foreign locations. The functional currency of these foreign subsidiaries are primarily their respective local currencies. The revenues and expenses of these subsidiaries have been translated into U.S. dollars at average exchange rates prevailing during the period and the assets and liabilities translated at the rates of exchange on the balance sheet date. The net translation gains and losses are recorded in accumulated other comprehensive loss as a component of stockholders equity. 
+ During the three months ended November 30, 2021, foreign currency exchange rate fluctuations, net of hedge activity, decreased operating income by 4.3 million, compared with an increase of 0.6 million to operating income a year ago. To mitigate the foreign currency exposure, we entered into a series of forward contracts to hedge a portion of our British Pound Sterling, Euro, Indian Rupee, and Philippine Peso exposures ranging from 25 to 75 over their respective hedged periods as of November 30, 2021. The current foreign currency forward contracts are set to mature at various points between the second quarter of fiscal 2022 through the first quarter of fiscal 2023. 
+ As of November 30, 2021, the gross notional value of foreign currency forward contracts to purchase Philippine Pesos and Indian Rupees with U.S. dollars was 1.4 billion and Rs2.6 billion, respectively. The gross notional value of foreign currency forward contracts to purchase U.S. dollars with Euros and British Pound Sterling was 36.8 million and 38.7 million, respectively. 
+ A loss on foreign currency forward contracts of 0.4 million was recorded into operating income for the three months ended November 30, 2021, compared with a gain on forward currency forward contracts of 0.8 million in the same period a year ago. 
+ 
+ Critical Accounting Policies and Estimates 
+ 
+ We prepare the Consolidated Financial Statements in conformity with GAAP, which requires us to make certain estimates and apply judgements that affect the reported amounts of assets, liabilities, revenues and expenses and related disclosures. We base our estimates on historical experience and other assumptions that we believe to be reasonable at the time the Consolidated Financial Statements are prepared and, as such, they may ultimately differ materially from actual results. 
+ We describe our significant accounting policies in Note 3, Summary of Significant Accounting Policies , of the notes to our Consolidated Financial Statements included in Item 8 of our Annual Report on Form 10-K for the fiscal year ended August 31, 2021. The accounting policies used in preparing our Consolidated Financial Statements for the three months ended 
+ 42 
+
+Table of Contents 
+
+ November 30, 2021 are applied consistently with those described in our Annual Report on Form 10-K for the fiscal year ended August 31, 2021. 
+ We discuss our critical accounting estimates in Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the fiscal year ended August 31, 2021. There were no significant changes in our critical accounting estimates during the three months ended November 30, 2021. 
+ 
+ New Accounting Pronouncements 
+ See Note 3, Recent Accounting Pronouncements , in the Notes to the Consolidated Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for a full description of recent accounting pronouncements, including the expected dates of adoption, which we include herein by reference. 
+
+43 
+
+Table of Contents 
+
+ ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ In the normal course of business, we are exposed to foreign currency exchange risk and interest rate risk that could impact our financial position and results of operations. 
+ Foreign Currency Exchange Risk 
+ We are exposed to foreign currency exchange risk as we conduct business outside the U.S. in several currencies including British Pound Sterling, Euro, Indian Rupee, and Philippine Peso. Changes in the exchange rates for such currencies into U.S. dollars can affect our revenues, earnings, and the carrying values of our assets and liabilities in our consolidated balance sheet, either positively or negatively. 
+ To manage the exposures related to the effects of foreign exchange rate fluctuations, we utilize derivative instruments (foreign currency forward contracts). The changes in fair value for these foreign currency forward contracts are initially reported as a component of Accumulated other comprehensive loss ("AOCL") and subsequently reclassified into operating expenses when the hedged exposure affects earnings. 
+ A sensitivity analysis was performed based on the estimated fair value of all foreign currency forward contracts outstanding at November 30, 2021. If the U.S. dollar had been 10 weaker, the fair value of outstanding foreign currency forward contracts would have increased by 15.4 million. Such a change in fair value of our financial instruments would be substantially offset by changes in our expense base. If we had no hedges in place as of November 30, 2021, a hypothetical 10 weaker U.S. dollar against all foreign currencies from the quoted foreign currency exchange rates at November 30, 2021, with operating results held constant in local currencies, would result in a decrease in operating income by 42.6 million over the next 12 months. A hypothetical 10 weaker U.S. dollar against all foreign currencies at November 30, 2021 would have increased the fair value of total assets by 69.0 million and equity by 45.9 million. 
+ Refer to Note 6, Derivative Instruments in the Notes to our Consolidated Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for more information on our foreign currency exposures and our foreign currency forward contracts. 
+ Interest Rate Risk 
+ Cash and Cash Equivalents and Investments 
+ The fair market value of our Cash and cash equivalents and Investments at November 30, 2021 was 708.9 million. Our cash and cash equivalents consist of demand deposits and money market funds with original maturities of three months or less and are reported at fair value. We are exposed to interest rate risk through fluctuations of interest rates on our investments. As we have a restrictive investment policy, our financial exposure to fluctuations in interest rates is expected to remain low. 
+ Debt 
+ As of November 30, 2021, we had long-term debt outstanding under the 2019 Revolving Credit Facility with a principal balance of 575.0 million. The debt bears interest on the outstanding principle at a rate equal to LIBOR plus a spread, using a debt leverage pricing grid. The variable rate of interest on our long-term debt can expose us to interest rate volatility due to changes in LIBOR. To mitigate this exposure, on March 5, 2020, we entered into an interest rate swap agreement with a notional amount of 287.5 million to hedge the variable interest rate obligation, effectively converting the floating interest rate to fixed for the hedged portion. Thus, we are only exposed to base interest rate risk on floating rate borrowings in excess of any amounts that are not hedged, or 287.5 million of our outstanding principal balance. Assuming all terms of our outstanding long-term debt remained the same, a hypothetical 25 basis point change (up or down) in the one-month LIBOR would result in a 0.7 million change in our annual interest expense. 
+ Refer to Note 11, Debt, in the Notes to our Consolidated Financial Statements included in Part 1, Item 1 of this Quarterly Report on Form 10-Q for additional information regarding our outstanding debt obligations. 
+ Current market events have not required us to modify materially or change our financial risk management strategies with respect to our exposures to foreign currency exchange risk and interest rate risk. 
+ 44 
+
+Table of Contents 
+
+ ITEM 4. CONTROLS AND PROCEDURES 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, including our Principal Executive Officer and Principal Financial Officer, have evaluated the effectiveness of our disclosure controls and procedures pursuant to Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the "Exchange Act"), as of the end of the period covered by this report. Based on that evaluation, the Principal Executive Officer and Principal Financial Officer have concluded that our disclosure controls and procedures are effective as of the end of the period covered by this report. 
+ Changes in Internal Control over Financial Reporting 
+ There have been no changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the three months ended November 30, 2021 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II OTHER INFORMATION 
+ 
+ ITEM 1. LEGAL PROCEEDINGS 
+ The information set forth under "Contingencies" in Note 12, Commitments and Contingencies, contained in the Notes to the Consolidated Financial Statements of this Quarterly Report on Form 10-Q is incorporated by reference in answer to this Item. 
+ 
+ ITEM 1A. RISK FACTORS 
+ There were no material changes during the three months ended November 30, 2021 to the risk factors identified in our Annual Report on Form 10-K for the fiscal year ended August 31, 2021. 
+ 
+ ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ Items 2(a) and (b) are not applicable as there have been no unregistered sales of equity securities. 
+ (i) Issuer Purchases of Equity Securities (in thousands, except share and per share data) 
+ The following table provides a month-to-month summary of the share repurchase activity during the three months ended November 30, 2021: 
+ Period Total Number of 
+ Shares Purchased (1) 
+ Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2) 
+ Maximum Number of Shares (or Approximate Dollar Value) 
+ that May Yet be Purchased Under the Plans or Programs (in US (2) 
+ September 2021 7,000 396.06 7,000 197,121 October 2021 39,386 404.71 39,200 181,254 November 2021 6,561 438.40 181,254 
+ Total 52,947 46,200 
+ (1) Includes 46,200 shares purchased under the existing share repurchase program, as well as 6,747 shares repurchased to satisfy withholding tax obligations due upon the vesting of stock-based awards (of which 6,561 shares were repurchased in November 2021). 
+ (2) Repurchases may be made from time to time in the open market and privately negotiated transactions, subject to market conditions. No minimum number of shares to be repurchased has been fixed. There is no timeframe to complete the repurchase program and it is expected that share repurchases will be paid using existing and future cash generated by operations. 
+ 45 
+
+Table of Contents 
+
+ ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+ None. 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES 
+ Not applicable. 
+ 
+ ITEM 5. OTHER INFORMATION 
+ None. 
+ 
+ ITEM 6. EXHIBITS 
+ (a) EXHIBITS 
+ The information required by this Item is set forth below. Incorporated by Reference 
+ Exhibit Number 
+ Exhibit 
+ Description 
+ Form 
+ File No. 
+ Exhibit No. 
+ Filing Date 
+ Filed 
+ Herewith 
+ 31.1 
+ Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act, as amended 
+ X 31.2 
+ Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act, as amended 
+ X 32.1 
+ Certification of the Chief Executive Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ X 32.2 
+ Certification of the Chief Financial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ X 101.INS 
+ XBRL Instance Document - The instance document does not appear in the interactive data file because its XBRL tags are embedded within the Inline XBRL document X 101.SCH 
+ XBRL Taxonomy Extension Schema 
+ X 101.CAL 
+ XBRL Taxonomy Extension Calculation Linkbase 
+ X 101.DEF 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ X 101.LAB 
+ XBRL Taxonomy Extension Label Linkbase 
+ X 101.PRE 
+ XBRL Taxonomy Extension Presentation Linkbase 
+ X 104 Cover page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) X 
+ 
+ 46 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ FACTSET RESEARCH SYSTEMS INC. (Registrant) Date: January 3, 2022 /s/ LINDA S. HUBER Linda S. Huber Executive Vice President, Chief Financial Officer (Principal Financial Officer) /s/ GREGORY T. MOSKOFF Gregory T. Moskoff Managing Director, Controller and Chief Accounting Officer (Principal Accounting Officer) 
+ 
+ 47 
+
+<EX-31.1>
+ 2
+ fds-20211130xexx311.htm
+ EX-31.1
+
+Document 
+
+EXHIBIT 31.1 
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO 
+ EXCHANGE ACT RULE 13a-14(a) 15d-14(a) AS ADOPTED PURSUANT TO SECTION 302 
+ OF THE SARBANES-OXLEY ACT OF 2002 
+ I, F. Philip Snow, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of FactSet Research Systems Inc. 
+ 2. Based on my knowledge, this quarterly report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) any fraud, whether or not material, that involves management or other employees who have any significant role in the registrant s internal control over financial reporting. 
+ Date January 3, 2022 s F. PHILIP SNOW F. Philip Snow Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ fds-20211130xexx312.htm
+ EX-31.2
+
+Document 
+
+EXHIBIT 31.2 
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO 
+ EXCHANGE ACT RULE 13a-14(a) 15d-14(a) AS ADOPTED PURSUANT TO SECTION 302 
+ OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Linda S. Huber, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of FactSet Research Systems Inc. 
+ 2. Based on my knowledge, this quarterly report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) any fraud, whether or not material, that involves management or other employees who have any significant role in the registrant s internal control over financial reporting. 
+ Date January 3, 2022 s LINDA S. HUBER Linda S. Huber Executive Vice President, Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ fds-20211130xexx321.htm
+ EX-32.1
+
+Document 
+
+EXHIBIT 32.1 
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of FactSet Research Systems Inc. (the Company on Form 10-Q for the quarter ended November 30, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, F. Philip Snow, do hereby certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ s F. PHILIP SNOW F.Philip Snow Chief Executive Officer January 3, 2022 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ fds-20211130xexx322.htm
+ EX-32.2
+
+Document 
+
+EXHIBIT 32.2 
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of FactSet Research Systems Inc. (the Company on Form 10-Q for the quarter ended November 30, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Linda S. Huber, do hereby certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ s LINDA S. HUBER Linda S. Huber Executive Vice President, Chief Financial Officer (Principal Financial Officer) January 3, 2022 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ fds-20211130.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ fds-20211130_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ fds-20211130_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ fds-20211130_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ fds-20211130_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

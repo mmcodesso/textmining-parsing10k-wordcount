@@ -1,0 +1,1003 @@
+<Header>
+<FileStats>
+    <FileName>20221003_10-Q_edgar_data_886093_0001683168-22-006728.txt</FileName>
+    <GrossFileSize>1575563</GrossFileSize>
+    <NetFileSize>33904</NetFileSize>
+    <NonText_DocumentType_Chars>340316</NonText_DocumentType_Chars>
+    <HTML_Chars>294044</HTML_Chars>
+    <XBRL_Chars>391590</XBRL_Chars>
+    <XML_Chars>482194</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-22-006728.hdr.sgml : 20221003
+<ACCEPTANCE-DATETIME>20221003080044
+ACCESSION NUMBER:		0001683168-22-006728
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		34
+CONFORMED PERIOD OF REPORT:	20220630
+FILED AS OF DATE:		20221003
+DATE AS OF CHANGE:		20221003
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NUNZIA PHARMACEUTICAL Co
+		CENTRAL INDEX KEY:			0000886093
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT SERVICES [8741]
+		IRS NUMBER:				870442090
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39175
+		FILM NUMBER:		221286031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1627 WEST 14TH STREET
+		CITY:			LONG BEACH
+		STATE:			CA
+		ZIP:			90813
+		BUSINESS PHONE:		714-609-9117
+
+	MAIL ADDRESS:	
+		STREET 1:		1627 WEST 14TH STREET
+		CITY:			LONG BEACH
+		STATE:			CA
+		ZIP:			90813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Arizona Gold & Onyx Mining Co
+		DATE OF NAME CHANGE:	20100730
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VIKING CAPITAL GROUP INC
+		DATE OF NAME CHANGE:	19931102
+
+</SEC-Header>
+</Header>
+
+ 0001683168-22-006728.txt : 20221003
+
+10-Q
+ 1
+ nunzia_i10q-063022.htm
+ 10-Q
+
+Table of Contents 
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13
+OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended 
+
+TRANSITION REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission file number 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of incorporation) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+, , 
+
+(Address of principal executive offices) 
+ 
+ (Zip Code) 
+
+(Registrant's telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b)
+of the Act: None. 
+
+Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ Name of each exchange on which registered 
+ 
+ N/A 
+ 
+ N/A 
+ 
+ N/A 
+
+Securities registered pursuant to Section 12(g)
+of the Act: None 
+
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes 
+
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company.
+See the definitions of large accelerated filer, accelerated filer, smaller reporting company, 
+and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+ 
+ Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in 12b-2 of the Exchange Act): Yes 
+
+As of October 3, 2022 the registrant had 
+shares of its common stock, par value 0.001 per share, issued and outstanding. 
+
+NUNZIA PHARMACEUTICAL COMPANY 
+
+ FORM 10-Q 
+
+ For The Quarter Ended June 30, 2022 (unaudited) 
+
+TABLE OF CONTENTS 
+
+Page # 
+ 
+ PART I - FINANCIAL INFORMATION 
+
+Item 1. 
+ Financial Statements 
+ 3 
+
+Consolidated Balance Sheets 
+ 3 
+
+Consolidated Statements of Operations 
+ 4 
+
+Consolidated Statements of Stockholders Equity 
+ 5 
+
+Consolidated Statements of Cash Flows 
+ 6 
+
+Notes to Consolidated Financial Statements 
+ 7 
+
+Item 2. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 12 
+
+Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 14 
+
+Item 4. 
+ Controls and Procedures 
+ 14 
+
+PART II - OTHER INFORMATION 
+
+Item 1. 
+ Legal Proceedings 
+ 16 
+
+Item 1A. 
+ Risk Factors 
+ 16 
+
+Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 16 
+
+Item 6. 
+ Exhibits 
+ 16 
+
+Signatures 
+ 17 
+
+2 
+
+PART I - FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+NUNZIA PHARMACEUTICAL COMPANY 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+ (Unaudited) 
+
+June 30, 
+ December 31, 
+
+2022 
+ 2021 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash 
+
+Prepaid expenses 
+
+Investment in related party 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+
+Current liabilities 
+
+Accounts payable and accrued liabilities 
+
+Related party notes payable 
+
+Total current liabilities 
+
+Total Liabilities 
+
+Commitments and contingencies 
+
+Stockholders' deficit 
+
+Common stock; Class A, 
+ par value, 
+ shares authorized, 
+ and 
+ shares issued and outstanding at June 30, 2022 and December 31, 2021 
+
+Common stock; Class B, par value, shares authorized, shares issued and outstanding at June 30, 2022 and December 31, 2021 
+
+Common stock payable 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total stockholders' deficit 
+
+Total liabilities and stockholders' deficit 
+
+The accompanying notes are an integral part of the consolidated financial statements. 
+
+3 
+
+NUNZIA PHARMACEUTICAL COMPANY 
+
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+ (Unaudited) 
+
+Three Months 
+ Three Months 
+ Six Months 
+ Six Months 
+
+Ended 
+ Ended 
+ Ended 
+ Ended 
+
+June 30, 
+ June 30, 
+ June 30, 
+ June 30, 
+
+2022 
+ 2021 
+ 2022 
+ 2021 
+ 
+ Revenue 
+
+Operating expense 
+
+General and administrative expense 
+
+General and administrative expense - related party 
+
+Total operating expense 
+
+Loss from operations 
+
+Other income (expense) 
+
+Net loss 
+
+Basic and Diluted Loss per Common Share 
+
+Weighted average number of common shares outstanding - basic and diluted 
+
+The accompanying notes
+are an integral part of the consolidated financial statements. 
+
+4 
+
+NUNZIA PHARMACEUTICAL COMPANY 
+
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' DEFICIT 
+
+ FOR THE THREE AND SIX MONTHS ENDED JUNE 30, 2022 AND 2021 
+
+ (Unaudited) 
+
+Class A Common Stock 
+ Class B Common Stock 
+ Common stock 
+ Additional Paid-in 
+ Accumulated 
+ Total Stockholders' 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Payable 
+ Capital 
+ Deficit 
+ Deficit 
+ 
+ Balance, December 31, 2020 
+
+Net loss 
+
+Balance, March 31, 2021 
+
+Merger shares issued 
+
+Return of merger shares issued in error 
+
+Shares issued under sales and marketing agreement 
+
+Net loss 
+
+Balance, June 30, 2021 
+
+Class A Common Stock 
+ Class B Common Stock 
+ Common stock 
+ Additional Paid-in 
+ Accumulated 
+ Total Stockholders' 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Payable 
+ Capital 
+ Deficit 
+ Deficit 
+
+Balance, December 31, 2021 
+
+Beneficial conversion features of related party note 
+
+Net loss 
+
+Balance, March 31, 2022 
+
+Common shares issued in a private placement 
+
+Net loss 
+
+Balance, June 30, 2022 
+
+The accompanying notes are an integral part of the consolidated financial statements. 
+
+5 
+
+NUNZIA PHARMACEUTICAL COMPANY 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ (Unaudited) 
+
+Six Months 
+ Six Months 
+
+Ended 
+ Ended 
+
+June 30, 
+ June 30, 
+
+2022 
+ 2021 
+ 
+ Cash flows from operating activities 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash flows from operating activities 
+
+Stock based compensation expense 
+
+Changes in operating assets and liabilities: 
+ 
+ 126 
+ 
+ Prepaid expenses 
+
+Accounts payable and accrued liabilities 
+
+Net cash (used in) from operating activities 
+
+Cash flows from financing activities 
+
+Private placement of common stock 
+
+Increase in related party notes payable 
+
+Net cash flows from financing activities 
+
+Change in cash 
+
+Cash at beginning of period 
+
+Cash at end of period 
+
+Supplemental disclosure of cash flow information: 
+
+Interest paid in cash 
+
+Income taxes paid in cash 
+
+The accompanying notes
+are an integral part of the consolidated financial statements 
+
+6 
+
+NUNZIA PHARMACEUTICAL COMPANY 
+
+ NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS 
+
+. The ability of the Company to continue as a going concern is dependent on the Company obtaining adequate capital
+to fund operating losses until it becomes profitable. If the Company is unable to obtain adequate capital, it could be forced to cease
+operations. 
+
+In view of these conditions, the ability of the
+Company to continue as a going concern is in doubt and dependent upon achieving a profitable level of operations and on the ability of
+the Company to obtain necessary financing to fund ongoing operations. Historically, the Company has relied upon internally generated funds
+and funds from the sale of shares of stock, issuance of promissory notes and loans from its shareholders and private investors to finance
+its operations and growth. Management is planning to raise necessary additional funds for working capital through loans and/or additional
+sales of its common stock. However, there is no assurance that the Company will be successful in raising additional capital or that such
+additional funds will be available on acceptable terms, if at all. Should the Company be unable to raise this amount of capital its operating
+plans will be limited to the amount of capital that it can access. These financial statements do not give effect to any adjustments which
+will be necessary should the Company be unable to continue as a going concern and therefore be required to realize its assets and discharge
+its liabilities in other than the normal course of business and at amounts different from those reflected in the accompanying financial
+statements. 
+
+and in cash on hand, respectively. 
+
+potentially dilutive securities as
+of June 30, 2021 and December 31, 2021. 
+
+par value;
+ shares authorized with shares issued and outstanding. 
+
+Common Stock 
+
+The Company has shares of Class B Common
+Stock issued and outstanding as of June 30, 2022. The Class B shares are the only shares eligible to vote for Directors. LionsGate, controlled
+by the Company s CEO, holds all Class B common shares. 
+
+The Company has shares of Class
+A Common Stock authorized of which and shares are issued and outstanding as of June 30, 2022 and December 31,
+2021, respectively. 
+
+and , respectively. Accrued interest on the same dates was 
+and , respectively. During the three month ended June 30, 2022 pursuant to the terms of a Promissory Note with the Company, Mr.
+Mitsunaga advanced to the Company to help fund its operation. Mr. Mitsunaga has the right to convert 35,000 of his loan balance
+(included in the balance of 139,955 above) in 36,000,000 shares of the Company s common stock. On March 4, 2022 when the Promissory
+Note was executed the trading price of the Company s common stock was 0.52. As a result the company record stock based compensation,
+related party of 1 on its statement of operations for the excess value included in the conversion right. 
+
+11 
+
+Item 2. Management's Discussion and Analysis of Financial Condition
+and Results of Operations 
+
+Forward-Looking Statements 
+
+This Report on Form 10-Q contains forward-looking
+statements which involve assumptions and describe our future plans, strategies, and expectations, and are generally identifiable by use
+of words such as may, will, should, expect, anticipate, estimate, 
+ believe, intend, or project, or the negative of these words or other variations on these words
+or comparable terminology. These statements are expressed in good faith and based upon a reasonable basis when made, but there can be
+no assurance that these expectations will be achieved or accomplished. 
+
+Such forward-looking statements include statements
+regarding, among other things, (a) the potential markets for our technologies, our potential profitability, and cash flows, (b) our growth
+strategies, (c) expectations from our ongoing research and development activities, (d) anticipated trends in the technology industry,
+(e) our future financing plans, and (f) our anticipated needs for working capital. This information may involve known and unknown risks,
+uncertainties, and other factors that may cause our actual results, performance, or achievements to be materially different from the future
+results, performance, or achievements expressed or implied by any forward-looking statements. These statements may be found under Management s
+Discussion and Analysis of Financial Condition and Results of Operations as well as in this Form 10-Q generally. Actual events
+or results may differ materially from those discussed in forward-looking statements as a result of various factors, including, without
+limitation, the matters described in this Form 10-Q generally. In light of these risks and uncertainties, there can be no assurance that
+the forward-looking statements contained in this filing will in fact occur. In addition to the information expressly required to be included
+in this filing, we will provide such further material information, if any, as may be necessary to make the required statements, in light
+of the circumstances under which they are made, not misleading. 
+
+Although forward-looking statements in this
+report reflect the good faith judgment of our management, forward-looking statements are inherently subject to known and unknown risks,
+business, economic and other risks and uncertainties that may cause actual results to be materially different from those discussed in
+these forward-looking statements. Readers are urged not to place undue reliance on these forward-looking statements, which speak only
+as of the date of this report. We assume no obligation to update any forward-looking statements in order to reflect any event or circumstance
+that may arise after the date of this report, other than as may be required by applicable law or regulation. Readers are urged to carefully
+review and consider the various disclosures made by us in our filings with the Securities and Exchange Commission which attempt to advise
+interested parties of the risks and factors that may affect our business, financial condition, results of operation and cash flows. If
+one or more of these risks or uncertainties materialize, or if the underlying assumptions prove incorrect our actual results may vary
+materially from those expected or projected. 
+
+Except where the context otherwise requires
+and for purposes of this Form 10-Q only, the terms we, us, our, Company our
+Company, and Nunzia refer to Nunzia Pharmaceutical Company, a Utah corporation. 
+
+Overview 
+
+The Company owns the rights to Nunzia 
+a nutraceutical that treats autism, fragile X, ADHD, and PTSD. We manufacture, market and distribute Nunzia direct to consumers
+through our website, www.nunziapharma.com, and wholesalers. Nunzia is a targeted Blocker B that acts to increase sensory, social,
+and daily living skills, as well as attention span, memory retention, focus, comprehension, and learning while decreasing anxiety, stress,
+fixations, fidgeting, and outside detractions. Current drugs that attempt to control the symptoms of autism, fragile X, ADHD, and PTSD
+are broad acting, usually ineffective and include such drugs as Valium, Prozac, amphetamines, and anti-psychotics. These drugs are considered
+ Hit or Miss , singly or in combination. 
+
+Going Concern 
+
+The Company's financial statements are prepared
+using generally accepted accounting principles in the United States of America applicable to a going concern which contemplates the realization
+of assets and liquidation of liabilities in the normal course of business. The Company has not yet established an ongoing source of revenues
+sufficient to cover its operating costs and allow it to continue as a going concern. 
+
+12 
+
+Comparison of the three and six months ended June 30, 2022 ,
+to the three months and six months ended June 30, 2021 
+
+Operating Expenses 
+
+Total operating expenses for the three months
+ended June 30, 2022 was 20,100 compared to 6,629 for the three months ended June 30, 2021. Total operating expenses for the six months
+ended June 30, 2022 was 20,100 compared to 18,743,230 for the six months ended June 30, 2021. 
+
+The operating expenses for the six months ended
+June 30, 2022 include 18,685,000 in stock based compensation compared to -0- for the comparable period in the prior year. 
+
+Liquidity and Capital Resources 
+
+As of June 30, 2022, we have no cash on hand,
+negative working capital of 117,405 and an accumulated deficit of 198,156,360. Our operations are solely being funded by our President,
+Mr. Mitsunaga. There are no assurance that he will continue to fund the Company or that alternate sources of financing can be obtained. 
+
+These conditions raise substantial doubt about
+our ability to continue as a going concern. Management recognizes that in order for us to meet our capital requirements, and continue
+to operate, additional financing will be necessary. We expect to raise additional funds through private or public equity investment in
+order to maintain and/or expand the range and scope of our business operations; however, there is no assurance that such additional funds
+will be available for us on acceptable terms, if at all. If we are unable to raise additional capital when needed or generate positive
+cash flow, it is unlikely that we will be able to continue as a going concern. The financial statements do not include any adjustments
+that might result from the outcome of this uncertainty. 
+
+Off-Balance Sheet Arrangements 
+
+We have no off-balance sheet arrangements. 
+
+Other Contractual Obligations 
+
+None. 
+
+Recent accounting pronouncements not yet adopted 
+
+See Note 1 to our consolidated financial
+statements. 
+
+Critical Accounting Policies and Significant
+Judgments and Use of Estimates 
+
+Management s discussion and analysis of
+financial condition and results of operations is based upon our consolidated financial statements, which have been prepared in accordance
+with U.S. generally accepted accounting principles. The preparation of these consolidated financial statements required the use of estimates
+and judgments that affect the reported amounts of our assets, liabilities, and expenses. Management bases estimates on historical experience
+and other assumptions it believes to be reasonable under the circumstances and evaluates these estimates on an on-going basis. Actual
+results may differ from these estimates. There have been no significant changes to the critical accounting policies and estimates included
+in our Annual Report on Form 10-K for the three months ended June 30, 2022. 
+
+13 
+
+Related Party Transactions 
+
+See Note 4. to our consolidated financial
+statements for a discussion of our related party transactions. 
+
+Corporate Information 
+
+Nunzia Pharmaceutical Company, a Utah corporation,
+was incorporated in 1986. The Company s executive office is located at 1627 West 14th Street, Long Beach, CA 90813. The Company s
+telephone number is (714) 609-9117. The Company s telephone number is (714) 609-9117. Our Internet address is www.nunziapharma.com. The
+public may read and copy any materials we file with the United States Securities and Exchange Commission SEC on the SEC s
+website at www.sec.gov which site contains reports, proxy and information statements, and other information regarding issuers, such as
+us, that file electronically with the SEC. All statements made in any of our filings, including all forward-looking statements, are made
+as of the date of the document(s) in which the statement is included, and we do not assume or undertake any obligation to update any of
+those statements or documents unless we are required to do so by law. 
+
+Item 3. Quantitative and Qualitative Disclosures
+About Market Risk 
+
+Not applicable. 
+
+Item 4. Controls and Procedures 
+
+Evaluation of Disclosure Controls and Procedures 
+
+At the end of the period covered by this quarterly
+report, the Chief Executive and Chief Financial Officer of the Company (the Certifying Officer conducted an evaluation
+of the Company s disclosure controls and procedures. As defined under Sections 240.13a-15(e) and 240.15d-15(e) of the Securities
+Exchange Act of 1934, as amended (the Exchange Act ), the term disclosure controls and procedures means
+controls and other procedures of an issuer that are designed to ensure that information required to be disclosed by the issuer in the
+reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified
+in the Commission s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed
+to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated
+and communicated to the issuer s management, including the Certifying Officer, to allow timely decisions regarding required disclosure. 
+
+The management of the Company is responsible for
+establishing and maintaining adequate internal control over financial reporting for the Company. Our management assessed the effectiveness
+of the Company s internal control over financial reporting as of the end of the period covered by this report. The framework used
+by management in making that assessment was the criteria set forth in the document entitled Internal Control - Integrated
+Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on that assessment, our CEO and
+CFO have determined and concluded that, as of the end of the period covered by this report, the Company s internal control over
+financial reporting was not effective. 
+
+As defined by Auditing Standard No. 5, An
+Audit of Internal Control Over Financial Reporting that is Integrated with an Audit of Financial Statements and Related Independence Rule
+and Conforming Amendments, established by the Public Company Accounting Oversight Board PCAOB ), a material weakness
+is a deficiency or combination of deficiencies that result in a more than a remote likelihood that a material misstatement of annual or
+interim financial statements will not be prevented or detected. In connection with the assessment described above, management identified
+the following control deficiencies that represent material weaknesses as of the end of the period covered by this report: 
+
+The Company does not have policies and procedures or accounting systems in place to ensure the timely review, disclosure and accurate financial reporting for significant agreements and transactions. 
+
+The Company does not have an independent audit committee in place, which would provide oversight of the Company s officers, operations and financial reporting function. 
+
+14 
+
+As of June 30, 2022 are internal controls over
+disclosure controls and procedures were not effective. Due to our small size, we were not able to immediately take any action to remediate
+these material weaknesses. Notwithstanding the assessment that our Internal Controls over Financial Reporting was not effective and that
+there were material weaknesses identified herein as of June 30, 2022, we believe that our financial statements contained in this Annual
+Report fairly present our financial position, results of operations and cash flows for the years covered thereby in all material respects. 
+
+Changes in Internal Control over Financial
+Reporting 
+
+There were no changes in our internal control
+over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the period covered
+by this report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+Our internal controls over financial reporting were not effective as of June 30, 2022. 
+
+15 
+
+PART II OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+
+None. 
+
+Item 1A. Risk Factors 
+
+Smaller reporting companies
+are not required to provide the information required by this item. 
+
+Item 2. Unregistered Sales of Equity Securities
+and Use of Proceeds 
+
+None. 
+
+Item 6. Exhibits 
+
+Exhibit No. 
+ 
+ Description of Exhibit 
+ 
+ 10.1 
+ 
+ IV Warmer License Agreement Dated December 21, 2020 (Incorporated by reference to Form 8-K filed on August 4, 2021) 
+ 
+ 10.2 
+ 
+ Mutual Sales and Marketing Agreement dated April 12, 2021 (Incorporated by reference to the Form 8-K filed on May 7, 2021) 
+ 
+ 31.1 
+ 
+ Certification of the Principal Executive Officer pursuant to Rule 13a-14(a). 
+ 
+ 31.2 
+ 
+ Certification of the Principal Financial Officer pursuant to Rule 13a-14(a). 
+ 
+ 32.1 
+ 
+ Certification by the Principal Executive Officer and Principal Financial Officer pursuant to 18 U.S.C. 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+ 
+ Inline XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension - Schema Document 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension - Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension - Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension - Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension - Presentation Linkbase Document 
+ 
+ _______________ 
+
+Filed herewith. 
+
+Furnished herewith. XBRL (eXtensible Business Reporting Language) information is furnished and not filed or a part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject to liability under these sections. 
+
+16 
+
+SIGNATURES 
+
+Pursuant to the requirements of Sections 13 or
+15 (d) of the Securities and Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+Nunzia Pharmaceutical Company 
+
+ (Registrant) 
+
+Date: October 3, 2022 
+ 
+ By: /s/ Sara Gonzales 
+
+Name: Sara Gonzales 
+
+Title: Chief Executive Officer and Director 
+
+(Principal Executive Officer) 
+
+Date: October 3, 2022 
+ 
+ By: /s/ Michael Mitsunaga 
+
+Name: Michael Mitsunaga 
+
+Title: President, Chief Financial Officer, Treasurer, Secretary and Director 
+
+(Principal Financial Officer and Principal Accounting Officer) 
+
+17 
+
+<EX-31.1>
+ 2
+ nunzia_ex3101.htm
+ CERTIFICATION
+
+EXHIBIT 31.1 
+
+CERTIFICATION PURSUANT TO RULE 13A-14(A) OR
+RULE 15D-14(A) 
+
+ UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS
+AMENDED 
+
+I, Sara Gonzales, certify that: 
+
+1. 
+ I have reviewed this quarterly report on Form 10-Q of Nunzia Pharmaceutical Company; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting. 
+
+5. 
+ I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date:
+ October 3, 2022 
+ 
+ By: /s/ Sara Gonzales 
+
+Name: Sara Gonzales 
+
+Title: Chief Executive Officer and Director 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ nunzia_ex3102.htm
+ CERTIFICATION
+
+EXHIBIT 31.2 
+
+CERTIFICATION PURSUANT TO RULE 13A-14(A) OR
+RULE 15D-14(A) 
+
+ UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS
+AMENDED 
+
+I, Michael Mitsunaga, certify that: 
+
+1. 
+ I have reviewed this quarterly report on Form 10-Q of Nunzia Pharmaceutical Company; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting. 
+
+5. 
+ I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date:
+ October 3, 2022 
+ 
+ By: /s/ Michael Mitsunaga 
+
+Name: Michael Mitsunaga 
+
+Title: President, Chief Financial Officer 
+
+(Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ nunzia_ex3201.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+The undersigned, as the Chief Executive Officer
+and the Chief Financial Officer of Nunzia Pharmaceutical Company, respectively, certifies that, to the best of their knowledge and belief,
+the Quarterly Report on Form 10-Q for the three months ended June 30, 2022 that accompanies this certification fully complies with the
+requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and the information contained in the quarterly report fairly
+presents, in all material respects, the financial condition and results of operations of Nunzia Pharmaceutical Company at the dates and
+for the periods indicated. The foregoing certification is made pursuant to 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350) and
+shall not be relied upon for any other purpose. 
+
+Date:
+ October 3, 2022 
+ 
+ By: /s/ Sara Gonzales 
+
+Name: Sara Gonzales 
+
+Title: Chief Executive Officer and Director 
+
+(Principal Executive Officer) 
+
+Date:
+ October 3, 2022 
+ 
+ By: /s/ Michael Mitsunaga 
+
+Name: Michael Mitsunaga 
+
+Title: President, Chief Financial Officer 
+
+(Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ nunz-20220630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ nunz-20220630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ nunz-20220630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ nunz-20220630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

@@ -1,0 +1,2045 @@
+<Header>
+<FileStats>
+    <FileName>20210701_10-K_edgar_data_1699709_0001683168-21-002805.txt</FileName>
+    <GrossFileSize>1185343</GrossFileSize>
+    <NetFileSize>73364</NetFileSize>
+    <NonText_DocumentType_Chars>120188</NonText_DocumentType_Chars>
+    <HTML_Chars>314808</HTML_Chars>
+    <XBRL_Chars>283919</XBRL_Chars>
+    <XML_Chars>354129</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-21-002805.hdr.sgml : 20210701
+<ACCEPTANCE-DATETIME>20210701161545
+ACCESSION NUMBER:		0001683168-21-002805
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		39
+CONFORMED PERIOD OF REPORT:	20210430
+FILED AS OF DATE:		20210701
+DATE AS OF CHANGE:		20210701
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YIJIA GROUP CORP.
+		CENTRAL INDEX KEY:			0001699709
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-APPAREL, PIECE GOODS & NOTIONS [5130]
+		IRS NUMBER:				352583762
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-218733
+		FILM NUMBER:		211066014
+
+	BUSINESS ADDRESS:	
+		STREET 1:		UNIT 1623, TIANXIA INTL CENTER B
+		STREET 2:		TAOYUAN ROAD, NANSHAN DISTRICT
+		CITY:			SHENZHEN, GUANGDONG
+		STATE:			K3
+		ZIP:			518000
+		BUSINESS PHONE:		85225565499
+
+	MAIL ADDRESS:	
+		STREET 1:		UNIT 1623, TIANXIA INTL CENTER B
+		STREET 2:		TAOYUAN ROAD, NANSHAN DISTRICT
+		CITY:			SHENZHEN, GUANGDONG
+		STATE:			K3
+		ZIP:			518000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	YIJIA GROUP CORP
+		DATE OF NAME CHANGE:	20181204
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Soldino Group Corp
+		DATE OF NAME CHANGE:	20170303
+
+</SEC-Header>
+</Header>
+
+ 0001683168-21-002805.txt : 20210701
+
+10-K
+ 1
+ yijia_10k-043021.htm
+ FORM 10-K
+
+Table of Contents 
+
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+
+Form 10-K 
+
+Annual Report pursuant to Section 13
+or 15(d) of the Securities Exchange Act of 1934 
+
+ For the fiscal year ended April 30, 2021 
+
+Transition Report pursuant
+to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+ For the transition period from __________ to __________ 
+
+Commission File Number: 333-218733 
+
+Yijia Group Corp. 
+
+ (Exact name of registrant as specified in its charter) 
+
+Nevada 
+ 5130 
+ 
+ (State or Other Jurisdiction of 
+ Primary Standard Industrial 
+ 
+ Incorporation or Organization) 
+ Classification Code Number 
+
+35-2583762 
+
+ IRS Employer 
+
+ Identification Number 
+
+Unit 1623, Tianxia International Center B, 
+
+ Taoyuan Road, Nanshan District, Shenzhen, Guangdong,
+PRC 
+
+ Tel:+86 0755 3397 5792 
+
+ (Address and telephone number of principal executive
+offices) 
+
+Securities registered pursuant to Section 12(b)
+of the Act: 
+
+Title of each class 
+ Name of each exchange on which registered 
+ 
+ N/A 
+ N/A 
+
+Securities registered pursuant to Section 12(g)
+of the Act: None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. Yes No
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes 
+ No 
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes 
+No 
+
+Indicate by check mark whether the registrant has submitted electronically
+every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes 
+ No 
+
+Indicate by check mark whether the registrant is a large
+accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the
+definitions of large accelerated filer , accelerated filer , smaller reporting company ,
+and emerging growth company in Rule 12b-2 of the Exchange Act. (Check
+one): 
+
+Large accelerated filer 
+ Accelerated filer 
+ Non-accelerated filer 
+ Emerging growth company 
+ Smaller reporting company 
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. Yes No 
+
+Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act). Yes 
+No 
+
+The aggregate market value of the voting and non-voting
+common equity held by non-affiliates, as of the last business day of the registrant s most recently completed second fiscal quarter
+cannot be determined as no quotation was posted on the OTC Markets under the symbol YJGJ ). 
+
+The number of shares outstanding of the issuer's common stock, as of
+July 1, 2021 was 5,871,250. 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. 
+ Description of Business. 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors. 
+ 2 
+ 
+ Item 1B. 
+ Unresolved Staff Comments. 
+ 2 
+ 
+ Item 2 
+ Description of Property. 
+ 2 
+ 
+ Item 3. 
+ Legal proceedings. 
+ 2 
+ 
+ Item 4. 
+ Mine Safety Disclosures. 
+ 2 
+
+PART II 
+
+Item 5. 
+ Market for Common Equity and Related Stockholder Matters. 
+ 3 
+ 
+ Item 6. 
+ Selected Financial Data. 
+ 4 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 4 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk. 
+ 5 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data. 
+ 6 
+ 
+ Item 9. 
+ Changes In and Disagreements With Accountants on Accounting and Financial Disclosure. 
+ 19 
+ 
+ Item 9A (T). 
+ Controls and Procedures 
+ 19 
+ 
+ Item 9B. 
+ Other Information. 
+ 20 
+
+PART III 
+
+Item 10 
+ Directors, Executive Officers, Promoters and Control Persons of the Company. 
+ 21 
+ 
+ Item 11. 
+ Executive Compensation. 
+ 23 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 24 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence. 
+ 24 
+ 
+ Item 14. 
+ Principal Accounting Fees and Services. 
+ 24 
+
+PART IV 
+
+Item 15. 
+ Exhibits 
+ 26 
+
+Signatures 
+ 27 
+
+i 
+
+PART I 
+
+Item 1. Description of Business 
+
+Forward-looking statements 
+
+Statements made in this Form 10-K that are not
+historical or current facts are forward-looking statements made pursuant to the safe harbor provisions of Section 27A of the
+Securities Act of 1933 (the Act and Section 21E of the Securities Exchange Act of 1934. These statements often can be identified
+by the use of terms such as may, will, expect, believe, anticipate, estimate, 
+ approximate or continue, or the negative thereof. We intend that such forward-looking statements be subject to
+the safe harbors for such statements. We wish to caution readers not to place undue reliance on any such forward-looking statements, which
+speak only as of the date made. Any forward-looking statements represent management's best judgment as to what may occur in the future.
+However, forward-looking statements are subject to risks, uncertainties and important factors beyond our control that could cause actual
+results and events to differ materially from historical results of operations and events and those presently anticipated or projected.
+We disclaim any obligation subsequently to revise any forward-looking statements to reflect events or circumstances after the date of
+such statement or to reflect the occurrence of anticipated or unanticipated events. 
+
+Financial information contained in this report
+and in our financial statements is stated in United States dollars and are prepared in accordance with United States generally accepted
+accounting principles. 
+
+Corporate Overview 
+
+Yijia Group Corp. (the Company ,
+ we , us was incorporated in the State of Nevada on January 25, 2017 and has a fiscal year that ends on April
+30. The company s former name was Soldino Group Corp. We are a development-stage company formed to commence operations in the manufacturing
+and distribution of work wear. We ceased and discontinued our operations in the second fiscal quarter of 2018. As such, we accounted
+for all of our assets, liabilities and results of operations up to October 31, 2018 as discontinued operations. 
+
+We do not have any subsidiaries. 
+
+We have never declared bankruptcy, been in receivership, or been involved
+in any kind of legal proceedings. 
+
+Going Concern 
+
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern, which contemplates the realization of assets and the liquidation
+of liabilities in the normal course of business. The Company currently has no operations and as of April 30, 2021 had a stockholders deficit
+of 174,670. These factors, among others, raise substantial doubt about the Company s ability to continue as a going concern. The
+accompanying financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Business 
+
+Currently, we have no active operations. 
+
+Research and Development 
+
+We have not incurred any research and development
+costs in the fiscal years ended April 30, 2021 and 2020. 
+
+Insurance 
+
+We do not maintain insurance and do not intend
+to maintain insurance in the future. Because we do not have insurance, if we are made a party to any action, we may not have sufficient
+funds to defend the litigation. If that occurs a judgment could be rendered against us that could cause us to cease operations. 
+
+1 
+
+Employees 
+
+We are a development stage company and currently have no employees. 
+
+Offices 
+
+Our office is located at Unit 1623, Tianxia International
+Center B, Taoyuan Road, Nanshan District, Shenzhen, Guangdong, PRC. Our telephone number is +86 0755 3397 5792 
+
+Government Regulation 
+
+We will be required to comply with all regulations,
+rules and directives of governmental authorities and agencies applicable to export and import of work wear and operation of any facility
+in any jurisdiction in which we would conduct activities. We do not believe that government regulation will have a material impact on
+the way we conduct our business. We do not need to receive any government approvals to conduct our business. However, we will have to
+comply with all applicable export and import regulations should we recommence our operations. 
+
+Item 1A. Risk Factors 
+
+Not applicable to smaller reporting companies. 
+
+Item 1B. Unresolved Staff
+Comments 
+
+Not applicable to smaller reporting companies. 
+
+Item 2. Description
+of Property 
+
+We do not own any real estate or other properties. 
+
+Item 3. Legal Proceedings 
+
+We know of no legal proceedings to which we are
+a party or to which any of our property is the subject which are pending, threatened or contemplated or any unsatisfied judgments against
+us. 
+
+Item 4. Mine Safety Disclosures 
+
+Not applicable. 
+
+2 
+
+PART II 
+
+Item 5. Market for Common Equity and Related Stockholder
+Matters 
+
+Market Information 
+
+During the fiscal year ended April 30, 2021,
+our common stock was quoted on the OTC under the symbol YJGJ with no bid and no trading of our common stock. There can be no assurance
+that a public trading market will develop or be sustained in the future. Without an active public trading market, you may not be able
+to liquidate your shares without considerable delay, if at all. If a market does develop, the price for our securities may be highly volatile
+and may bear no relationship to our actual financial condition or results of operations. The many risks associated with an investment
+in our company, may have a significant impact on the market price of our common stock. Also, because there is no price for our common
+stock, many brokerage firms may not affect transactions in the common stock. 
+
+Number of Holders 
+
+As of July 1, 2021, 5,871,250 issued and outstanding
+shares of common stock were held by a total of seven shareholders of record. 
+
+Dividends 
+
+No cash dividends were paid on our shares of common
+stock during the fiscal year ended April 30, 2021. 
+
+Transfer Agent and Registrar 
+
+The transfer agent and registrar for
+the Company s common stock is Action Stock Transfer Corporation at 2469 E. Fort Union Blvd, Suite 214 Salt Lake City, UT 84121.
+The telephone number is: (801) 274-1088. 
+
+Equity Compensation Plan Information 
+
+We do not have any equity compensation plans and
+accordingly we have no shares authorized for issuance under an equity compensation plan. 
+
+Recent Sales of Unregistered Securities 
+
+We did not sell any equity securities which were
+not registered under the Securities Act during the year ended April 30, 2021 that were not otherwise disclosed on our quarterly reports
+on Form 10-Q or our current reports on Form 8-K filed during the year ended April 30, 2021. 
+
+Purchase of our Equity Securities by Officers
+and Directors 
+
+We did not purchase any of our shares of common
+stock or other securities during our fourth quarter of our fiscal year ended April 30, 2021. 
+
+Other Stockholder Matters 
+
+None. 
+
+Item 6. Selected Financial
+Data 
+
+Not applicable to smaller reporting companies . 
+
+3 
+
+Item 7. Management's Discussion
+and Analysis of Financial Condition and Results of Operations 
+
+The following discussion should be read in conjunction
+with our financial statements, including the notes thereto, appearing elsewhere in this annual report. The following discussion contains
+forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from those
+discussed in the forward-looking statements. Our audited financial statements are stated in United States Dollars and are prepared
+in accordance with United States Generally Accepted Accounting Principles. Some of the information contained in this discussion and analysis
+or set forth elsewhere in this report, including information with respect to our plans and strategy for our business and related financing,
+includes forward-looking statements that involve risks and uncertainties. 
+
+We qualify as an emerging growth company 
+under the JOBS Act. As a result, we are permitted to, and intend to, rely on exemptions from certain disclosure requirements. For so long
+as we are an emerging growth company, we will not be required to: have an auditor report on our internal controls over financial reporting
+pursuant to Section 404(b) of the Sarbanes-Oxley Act; provide an auditor attestation with respect to management s report on the
+effectiveness of our internal controls over financial reporting; comply with any requirement that may be adopted by the Public Company
+Accounting Oversight Board regarding mandatory audit firm rotation or a supplement to the auditor s report providing additional
+information about the audit and the financial statements (i.e., an auditor discussion and analysis); submit certain executive compensation
+matters to shareholders advisory votes, such as say-on-pay and say-on-frequency and disclose certain executive
+compensation related items such as the correlation between executive compensation and performance and comparisons of the CEO s compensation
+to median employee compensation. In addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage
+of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards.
+In other words, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise
+apply to private companies. 
+
+We have elected to take advantage of the benefits
+of this extended transition period. Our financial statements may therefore not be comparable to those of companies that comply with such
+new or revised accounting standards. We will remain an emerging growth company for up to five years, or until the earliest
+of (i) the last day of the first fiscal year in which our total annual gross revenues exceed 1 billion, (ii) the date that we become
+a large accelerated filer as defined in Rule 12b-2 under the Securities Exchange Act of 1934, which would occur if the market
+value of our ordinary shares that is held by non-affiliates exceeds 700 million as of the last business day of our most recently completed
+second fiscal quarter or (iii) the date on which we have issued more than 1 billion in non-convertible debt during the preceding three
+year period. Even if we no longer qualify for the exemptions for an emerging growth company, we may still be, in certain circumstances,
+subject to scaled disclosure requirements as a smaller reporting company. For example, smaller reporting companies, like emerging growth
+companies, are not required to provide a compensation discussion and analysis under Item 402(b) of Regulation S-K or auditor attestation
+of internal controls over financial reporting. 
+
+Results of operations 
+
+We have incurred recurring losses to date. Our
+financial statements have been prepared assuming that we will continue as a going concern and, accordingly, do not include adjustments
+relating to the recoverability and realization of assets and classification of liabilities that might be necessary should we be unable
+to continue in operation. 
+
+We will require additional capital to meet our
+long term operating goals. We expect to raise additional capital through, among other things, the sale of equity or debt securities. 
+
+Results of operation for the years ended April 30, 2021 and April
+30, 2020: 
+
+Revenue 
+
+There was no revenue and cost of sales for the
+years ended April 30, 2021 and 2020. Operating expenses for the years ended April 30, 2021 and 2020 were 52,094 and 72,334, respectively. 
+
+4 
+
+Net Loss 
+
+The net loss for the years ended April 30, 2021
+and 2020 was 52,094 and 72,334 accordingly. 
+
+Liquidity and capital resources 
+
+As of April 30, 2021 and 2020, our total assets
+were 0. 
+
+As of April 30, 2021, our current liabilities
+were 174,670 122,576 as of April 30, 2020) and stockholders deficit was 174,670 122,576 as of April 30, 2020). 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+For the year ended April 30, 2021, we have not
+generated positive cash flows from operating activities. Net cash flows used in operating activities was 42,286, which consisted of increase
+in accruals and other payables. 
+
+For the year ended April 30, 2020, we have not
+generated positive cash flows from operating activities. Net cash flow used in operating activities was 53,579, which consisted of increase
+in accruals and other payables. 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+For the year ended April 30, 2021, net cash flow
+provided by financing activities was 42,286 from proceeds from a related party. 
+
+For the year ended April 30, 2020, net cash flow
+provided by financing activities was 53,579 from proceeds from a related party. 
+
+Our cash balance is 0 as of April 30, 2021. We
+believe our cash balance is insufficient to fund our operations for any period of time. Management anticipates that the Company will be
+dependent, in the near future, on additional investment capital to fund operating expenses. The Company intends to position itself so
+that it will be able to raise additional funds through the capital markets. In light of management s efforts, there are no assurances
+that the Company will be successful. 
+
+Limited operating history; need for additional
+capital 
+
+There is no historical financial information about
+us upon which to base an evaluation of our performance. We are in a start-up stage of operations and have generated limited revenues since
+inception. We cannot guarantee that we will be successful in our business operations. Our business is subject to risks inherent in the
+establishment of a new business enterprise, including limited capital resources and possible cost overruns due to price and cost increases
+in services and products. 
+
+Off-Balance Sheet Arrangements 
+
+The Company does not have any off balance sheet
+arrangements that have or are reasonably likely to have a current or future effect on the Company's financial condition, changes in financial
+condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. 
+
+Item 7A. Quantitative and
+Qualitative Disclosures about Market Risk 
+
+Not applicable to smaller reporting companies. 
+
+5 
+
+Item 8. Financial Statements 
+
+YIJIA GROUP CORP 
+
+ FINANCIAL STATEMENTS 
+
+ APRIL 30, 2021 AND APRIL 30, 2020 
+
+Table of Contents 
+
+Page 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ 
+ 7 
+ 
+ Balance Sheets as of April 30, 2021 and 2020 
+ 
+ 8 
+ 
+ Statements of Operations for the years ended April 30, 2021 and 2020 
+ 
+ 9 
+ 
+ Statements of Changes in Stockholders Deficit for the years ended April 30, 2021 and 2020 
+ 
+ 10 
+ 
+ Statements of Cash Flows for the years ended April 30, 2021 and 2020 
+ 
+ 11 
+ 
+ Notes to Financial Statements 
+ 
+ 12 
+
+6 
+
+REPORT OF INDEPENDENT REGISTERED
+PUBLIC ACCOUNTING FIRM 
+
+To the Board of Directors and 
+
+ Stockholders of Yijia Group Corp. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheet of Yijia Group Corp. (the
+ Company as of April 30, 2021 and 2020, and the related statements of operations, of changes in stockholders 
+deficit, and of cash flows for the years ended April 30, 2021 and 2020, including the related notes (collectively referred
+to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position
+of the Company as of April 30, 2021 and 2020, and the results of its operations and its cash flows for the years then ended, in conformity
+with accounting principles generally accepted in the United States of America. 
+
+Consideration of the Company s Ability
+to Continue as a Going Concern 
+
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company has
+suffered recurring losses from operations and has a net capital deficiency that raise substantial doubt about its ability to continue
+as a going concern. Management's plans in regard to these matters are also described in Note 2. The financial statements do not include
+any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits of these financial
+statements in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The
+Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part
+of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of
+expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express
+no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Exelient PAC 
+
+We have served as the Company s auditor
+since 2019. 
+
+Singapore 
+
+ June 30, 2021 
+
+7 
+
+YIJIA GROUP CORP. 
+
+ BALANCE SHEETS 
+
+ AS OF APRIL 30, 2021 AND APRIL 30, 2020 
+
+April 30, 2021 
+ April 30, 2020 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash and cash equivalents 
+
+Total Current Assets 
+
+Total Assets 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Liabilities 
+
+Current Liabilities 
+
+Accruals and other payable 
+ 28,563 
+ 18,755 
+ 
+ Amount due to a related party 
+ 146,107 
+ 103,821 
+ 
+ Total Current Liabilities 
+ 174,670 
+ 122,576 
+
+Total Liabilities 
+ 174,670 
+ 122,576 
+
+Commitments and Contingencies 
+
+Stockholders Deficit 
+
+Common stock, par value 0.001; 75,000,000 shares authorized, 5,871,250 and 5,871,250 shares issued and outstanding, respectively 
+ 5,871 
+ 5,871 
+ 
+ Additional paid in capital 
+ 58,824 
+ 58,824 
+ 
+ Accumulated deficit 
+ (239,365 
+ (187,271 
+ 
+ Total Stockholders Deficit 
+ (174,670 
+ (122,576 
+
+Total Liabilities and Stockholders Deficit 
+
+See accompanying notes, which are an integral part
+of these financial statements 
+
+8 
+
+YIJIA GROUP CORP. 
+
+ STATEMENTS OF OPERATIONS 
+
+ FOR THE YEARS ENDED APRIL 30, 2021 AND 2020 
+
+Year ended April 30, 2021 
+ Year ended April 30, 2020 
+
+REVENUES 
+
+OPERATING EXPENSES 
+
+General and Administrative Expenses 
+ 52,094 
+ 72,334 
+ 
+ TOTAL OPERATING EXPENSES 
+ (52,094 
+ (72,334 
+
+LOSS BEFORE INCOME TAX 
+ (52,094 
+ (72,334 
+
+PROVISION FOR INCOME TAXES 
+
+NET LOSS 
+ (52,094 
+ (72,334 
+
+NET LOSS PER SHARE - BASIC AND DILUTED 
+ (0.00 
+ (0.00 
+
+WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING - BASIC AND DILUTED 
+ 5,871,250 
+ 5,871,250 
+
+See accompanying notes, which are an integral part
+of these financial statements 
+
+9 
+
+YIJIA GROUP CORP. 
+
+ STATEMENTS OF CHANGES IN STOCKHOLDERS 
+DEFICIT 
+
+ FOR THE YEARS ENDED APRIL 30, 2021 AND 2020 
+
+Common Stock 
+
+Additional Paid-in 
+
+Accumulated 
+
+Total 
+Stockholders 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Deficit 
+
+Balance, May 1, 2019 
+
+5,871,250 
+
+5,871 
+
+58,824 
+
+(114,937) 
+
+(50,242) 
+
+Net loss for the year 
+
+(72,334) 
+
+(72,334) 
+
+Balance, April 30, 2020 
+
+5,871,250 
+
+5,871 
+
+58,824 
+
+(187,271) 
+
+(122,576) 
+
+Net loss for the year 
+
+(52,094) 
+
+(52,094) 
+
+Balance, April 30, 2021 
+
+5,871,250 
+
+5,871 
+
+58,824 
+
+(239,365) 
+
+(174,670) 
+
+See accompanying notes, which are an integral part
+of these financial statements 
+
+10 
+
+YIJIA GROUP CORP. 
+
+ STATEMENTS OF CASH FLOWS 
+
+ FOR THE YEARS ENDED APRIL 30, 2021 AND 2020 
+
+Year ended April 30, 2021 
+ Year ended April 30, 2020 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net loss 
+ (52,094 
+ (72,334 
+
+Changes in operating assets and liabilities 
+
+Accruals and other payable 
+ 9,808 
+ 18,755 
+
+CASH FLOWS USED IN OPERATING ACTIVITIES 
+ (42,286 
+ (53,579 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Proceeds from a related party 
+ 42,286 
+ 53,579 
+
+CASH FLOWS PROVIDED BY FINANCING ACTIVITIES 
+ 42,286 
+ 53,579 
+
+NET DECREASE IN CASH AND CASH EQUIVALENTS 
+
+Cash and cash equivalents, beginning of year 
+
+Cash and cash equivalents, end of year 
+
+SUPPLEMENTAL CASH FLOW INFORMATION: 
+
+Interest paid 
+
+Income taxes paid 
+
+See accompanying notes, which are an integral part
+of these financial statements 
+
+11 
+
+YIJIA GROUP CORP. 
+
+ NOTES TO THE FINANCIAL STATEMENTS 
+
+ FOR THE YEARS ENDED APRIL 30, 2021 AND 2020 
+
+Note 1 ORGANIZATION AND NATURE OF
+BUSINESS 
+
+Yijia Group Corp. the Company ,
+ we , us or our was incorporated as Soldino Group Corp. on January 25, 2017 under the laws of
+the State of Nevada, United States of America. The Company has ceased its operations as of October 2018. As such, the Company accounted
+for all of its assets, liabilities and results of operations up to October 31, 2018 as discontinued operations. As of November 1, 2018,
+the Company is a shell company. On November 15, 2018, the Company filed a Certificate of Amendment to the Articles of Incorporation with
+Nevada s Secretary of State to change its name to Yijia Group Corp. 
+
+On October 31, 2018, Aurora Fiorin resigned as
+the President, Treasurer, Secretary and Director of the Company. Ms. Fiorin s resignation as President, Treasurer and Secretary
+was effective immediately. Ms. Fiorin s resignation as a Director was effective ten (10) days following the filing by the Company
+of the Information Statement on Schedule 14f-1 with the United States Securities and Exchange Commission (the SEC ). Prior
+to Ms. Fiorin s resignation, she appointed Ms. Shaoyin Wu as the new President and Chief Executive Officer of the Company and Mr.
+Kim Lee Poh as the Company s new Chief Financial Officer and Secretary. Messrs. Wu and Poh were appointed as new board members of
+the Company together with Mr. Jian Yang. 
+
+Note 2 GOING CONCERN 
+
+The accompanying financial statements have been
+prepared in conformity with generally accepted accounting principles, which contemplate continuation of the Company as a going concern.
+The Company incurred net loss of 52,094 for the year ended April 30, 2021 and an accumulated deficit of 239,365. 
+
+Therefore, there is substantial doubt about the
+Company s ability to continue as a going concern without future profitability. Management anticipates that the Company will be dependent,
+in the near future, on additional investment capital to fund operating expenses. The Company intends to position itself so that it will
+be able to raise additional funds through the capital markets. 
+
+In light of management s efforts, there
+are no assurances that the Company will be successful in this or any of its endeavors or become financially viable and continue as a going
+concern. The accompanying financial statements have been prepared on a going concern basis which contemplates the realization of assets
+and satisfaction of liabilities in the normal course of business. The financial statements do not include any adjustments relating to
+the recoverability and classification of assets or the amounts and classifications of liabilities that might be necessary should the Company
+be unable to continue as a going concern. 
+
+Note 3 SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES 
+
+Basis of presentation 
+
+ The accompanying financial statements have been
+prepared in accordance with generally accepted accounting principles in the United States of America. The Company s fiscal year
+is April 30. 
+
+12 
+
+YIJIA GROUP CORP. 
+
+ NOTES TO THE FINANCIAL STATEMENTS 
+
+ FOR THE YEARS ENDED APRIL 30, 2021 AND 2020 
+
+Use of Estimates 
+
+ The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amount
+of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+
+Fair Value of Financial Instruments 
+
+ Accounting Standards Codification ASC topic 820 Fair Value Measurements and Disclosures establishes a three-tier fair value hierarchy, which prioritizes the inputs
+in measuring fair value. The hierarchy organizes the inputs into three levels based on the extent to which inputs used in measuring fair
+value are observable in the market. 
+
+These tiers include: 
+
+Level 1: 
+ defined as observable inputs such as quoted prices in active markets; 
+ 
+ Level 2: 
+ defined as inputs other than quoted prices in active markets that are either directly or indirectly observable; 
+ 
+ Level 3: 
+ defined as unobservable inputs in which little or no market data exists, therefore requiring an entity to develop its own assumptions. 
+
+The carrying value of cash and the Company s
+loan from shareholders approximates its fair value due to their short-term maturity. 
+
+Income Taxes 
+
+ Income taxes are computed using the asset and
+liability method. Under the asset and liability method, deferred income tax assets and liabilities are determined based on the differences
+between the financial reporting and tax bases of assets and liabilities and are measured using the currently enacted tax rates and laws.
+A valuation allowance is provided for the amount of deferred tax assets that, based on available evidence, are not expected to be realized. 
+
+Uncertain Tax Positions 
+
+The Company did not take any uncertain tax positions
+and had no adjustments to its income tax liabilities or benefits pursuant to the ASC 740 provisions of Section 740-10-25 for the years
+ended April 30, 2021 and 2020. 
+
+13 
+
+YIJIA GROUP CORP. 
+
+ NOTES TO THE FINANCIAL STATEMENTS 
+
+ FOR THE YEARS ENDED APRIL 30, 2021 AND 2020 
+
+Revenue Recognition 
+
+ The Company recognizes revenue in accordance with
+ASC No. 605, Revenue Recognition ASC-605 ). ASC-605 requires that four basic criteria must be met before revenue
+can be recognized: (1) persuasive evidence of an arrangement exists; (2) delivery has occurred; (3) the selling price is fixed and determinable;
+and (4) collectability is reasonably assured. Determination of criteria (3) and (4) are based on management's judgments regarding the
+fixed nature of the selling prices of the products delivered and the collectability of those amounts. Provisions for discounts and rebates
+to customers, estimated returns and allowances, and other adjustments are provided for in the same period the related sales are recorded.
+The Company will defer any revenue for which the product has not been delivered or is subject to refund until such time that the Company
+and the customer jointly determine that the product has been delivered or no refund will be required. For the years ended April 30, 2021
+and 2020, no revenues were generated. 
+
+Net Loss Per Share 
+
+ The Company computes net loss per share in accordance
+with FASB ASC 260 Earnings per Share . Basic loss per share is computed by dividing net loss available to common shareholders
+by the weighted average number of outstanding common shares during the period. Diluted loss per share gives effect to all dilutive potential
+common shares outstanding during the period. Dilutive loss per share excludes all potential common shares if their effect is anti-dilutive.
+As of April 30, 2021 and 2020, there were no potentially dilutive debt or equity instruments issued or outstanding. 
+
+Currencies 
+
+ The Company s reporting and functional currencies
+are both the U.S. dollar. Foreign currency transaction gains and losses are included in other income (expense) but are negligible. 
+
+Comprehensive Income 
+
+ Comprehensive income is defined as all changes
+in stockholders deficit, exclusive of transactions with owners, such as capital investments. Comprehensive income includes net
+income or loss, changes in certain assets and liabilities that are reported directly in equity such as translation adjustments on investments
+in foreign subsidiaries and unrealized gains (losses) on available-for-sale securities. As of April 30, 2021 and 2020, there were no differences
+between our comprehensive loss and net loss. 
+
+Stock-Based Compensation 
+
+ Stock-based compensation is accounted for at fair
+value in accordance with ASC Topic 718. The amendments in Update expand the scope of Topic 718 to include share based payment transactions
+for acquiring goods and services from nonemployees. An entity should apply the requirements of Topic 718 to nonemployee awards except
+for specific guidance on inputs to an option pricing model and the attribution of cost (that is, the period of time over which share-based
+payment awards vest and the pattern of cost recognition over that period). The amendments specify that Topic 718 applies to all share-based
+payment transactions in which a grantor acquires goods or services to be used or consumed in a grantor s own operations by issuing
+share-based payment awards. The amendments also clarify that Topic 718 does not apply to share-based payments used to effectively provide
+(1) financing to the issuer or (2) awards granted in conjunction with selling goods or services to customers as part of a contract accounted
+for under Topic 606, Revenue from Contracts with Customers. To date, the Company has not adopted a stock option plan and has not granted
+any stock options. 
+
+Related parties 
+
+ Parties, which can be a corporation or individual,
+are considered to be related if the Company has the ability, directly or indirectly, to control the other party or exercise significant
+influence over the party in making financial and operational decisions. Companies are also considered to be related if they are subject
+to common control or common significant influence. 
+
+14 
+
+YIJIA GROUP CORP. 
+
+ NOTES TO THE FINANCIAL STATEMENTS 
+
+ FOR THE YEARS ENDED APRIL 30, 2021 AND 2020 
+
+Reclassification 
+
+ Certain reclassifications have been made to the
+financial statements for the prior year periods to present that information on a basis consistent with the current period. 
+
+Recent Accounting Pronouncements 
+
+ From time to time, new accounting pronouncements
+are issued by the Financial Accounting Standard Board FASB or other standard setting bodies and adopted by the Company
+as of the specified effective date. Unless otherwise discussed, the Company believes that the impact of recently issued standards that
+are not yet effective will not have a material impact on its financial position or results of operations upon adoption. 
+
+Simplifying the Accounting
+for Debt with Conversion and Other Options. 
+
+In June 2020, the FASB
+issued ASU 2020-06 to simplify the accounting in ASC 470, Debt with Conversion and Other Options and ASC 815, Contracts
+in Equity s Own Entity . The guidance simplifies the current guidance for convertible instruments and the derivatives
+scope exception for contracts in an entity s own equity. Additionally, the amendments affect the diluted EPS calculation for instruments
+that may be settled in cash or shares and for convertible instruments. This ASU will be effective beginning in the first quarter of the
+Company s fiscal year 2022. Early adoption is permitted. The amendments in this update must be applied on either full retrospective
+basis or modified retrospective basis through a cumulative-effect adjustment to retained earnings/(deficit) in the period of adoption.
+The Company is currently evaluating the impact of ASU 2020-06 on its financial statements and related disclosures, as well as the timing
+of adoption. 
+
+Financial Instruments 
+
+In June 2016, the FASB
+issued ASU 2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments ASU 2016-13 ), which modifies the measurement of expected credit losses of certain financial instruments. In February
+2020, the FASB issued ASU 2020-02 and delayed the effective date of ASU 2016-13 until fiscal year beginning after December 15, 2022. The
+Company is currently evaluating the impact of adopting ASU 2016-13 on its financial statements. 
+
+Simplifying the Accounting
+for Income Taxes 
+
+In December 2019, the
+FASB issued ASU 2019-12 to simplify the accounting in ASC 740, Income Taxes . This guidance removes certain exceptions
+related to the approach for intra-period tax allocation, the methodology for calculating income taxes in an interim period, and the recognition
+of deferred tax liabilities for outside basis differences. This guidance also clarifies and simplifies other areas of ASC 740. This ASU
+will be effective beginning in the first quarter of the Company s fiscal year 2021. Early adoption is permitted. Certain amendments
+in this update must be applied on a prospective basis, certain amendments must be applied on a retrospective basis, and certain amendments
+must be applied on a modified retrospective basis through a cumulative-effect adjustment to retained earnings/(deficit) in the period
+of adoption. The adoption of ASU 2019-12 does not have a significant impact on the Company s financial statements as of and for
+the year ended April 30, 2021. 
+
+Earnings Per Share 
+
+In April 2021, the FASB
+issued ASU 2021-04, which included Topic 260 Earnings Per Share . This guidance clarifies and reduces diversity in
+an issuer s accounting for modifications or exchanges of freestanding equity-classified written call options due to a lack of explicit
+guidance in the FASB Codification. The ASU 2021-04 is effective for all entities for fiscal years beginning after December 15, 2021. Early
+adoption is permitted. The Company is currently evaluating the impact of adopting ASU 2021-04 on its financial statements. 
+
+15 
+
+YIJIA GROUP CORP. 
+
+ NOTES TO THE FINANCIAL STATEMENTS 
+
+ FOR THE YEARS ENDED APRIL 30, 2021 AND 2020 
+
+Note 4 COMMON STOCK 
+
+Authorized shares 
+
+The Company has 75,000,000, 0.001 par value shares
+of common stock authorized. 
+
+Issued and outstanding shares 
+
+As of April 30, 2021 and 2020, there were 5,871,250
+shares of common stock issued and outstanding. 
+
+Note 5 COMMITMENTS AND CONTINGENCIES 
+
+As of April 30, 2021 and 2020, the Company has
+no material commitments or contingencies. 
+
+Note 6 INCOME TAXES 
+
+The Company adopted the provisions of uncertain
+tax positions as addressed in ASC 740-10-65-1. As a result of the implementation of ASC 740-10-65-1, the Company recognized no increase
+in the liability for unrecognized tax benefits. 
+
+The Company has no tax position at April 30, 2021
+for which the ultimate deductibility is highly certain but for which there is uncertainty about the timing of such deductibility. The
+Company does not recognize interest accrued related to unrecognized tax benefits in interest expense and penalties in operating expenses.
+No such interest or penalties were recognized during the period presented. The Company had no accruals for interest and penalties at April
+30, 2021 and 2020. The Company s utilization of any net operating loss carry forward may be unlikely as a result of its intended
+activities. 
+
+16 
+
+YIJIA GROUP CORP. 
+
+ NOTES TO THE FINANCIAL STATEMENTS 
+
+ FOR THE YEARS ENDED APRIL 30, 2021 AND 2020 
+
+The valuation allowance at April 30, 2021 and
+2020 was 50,267 and 39,327. The net change in valuation allowance during the years ended April 30, 2021 and 2020 was 10,940 and 15,191.
+In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some portion or all
+of the deferred income tax assets will not be realized. The ultimate realization of deferred income tax assets is dependent upon the generation
+of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled
+reversal of deferred income tax liabilities, projected future taxable income, and tax planning strategies in making this assessment. Based
+on consideration of these items, management has determined that enough uncertainty exists relative to the realization of the deferred
+income tax asset balances to warrant the application of a full valuation allowance as of April 30, 2021 and 2020. All tax years
+since inception remains open for examination only by taxing authorities of US Federal and state of Nevada. 
+
+The Company has a net operating loss carryforward
+for tax purposes totaling 239,365 and 187,271 at April 30, 2021 and 2020, expiring through 2041. There is a limitation on the amount
+of taxable income that can be offset by carryforwards after a change in control (generally greater than a 50 change in ownership). Temporary
+differences, which give rise to a net deferred tax asset, are as follows: 
+
+As of April 30, 2021 
+ As of April 30, 2020 
+ 
+ Non-current deferred tax assets: 
+
+Net operating loss carryforward 
+ (239,365 
+ (187,271 
+
+Total deferred tax assets 
+ (50,267 
+ (39,327 
+ 
+ Valuation allowance 
+ 50,267 
+ 39,327 
+ 
+ Net deferred tax assets 
+
+The actual tax benefit at the expected rate of
+21 differs from the expected tax benefit for the years ended April 30, 2021 and 2020 as follows: 
+
+Year ended April 30, 2021 
+ Year ended April 30, 2020 
+ 
+ Computed "expected" tax benefit 
+ (50,267 
+ (39,327 
+ 
+ Change in valuation allowance 
+ 50,267 
+ 39,327 
+ 
+ Actual tax benefit 
+
+Note 7 RELATED PARTY TRANSACTIONS 
+
+The Company has been provided free office space
+by its stockholder. The management determined that such cost is nominal and did not recognize the rent expense in its financial statements. 
+
+From time to time, the stockholder and director
+of the Company advanced funds to the Company for working capital purpose. Those advances are unsecured, non-interest bearing and due on
+demand. 
+
+Apart from the transactions and balances detailed
+elsewhere in these accompanying financial statements, the Company has no other significant or material related party transactions during
+the years presented. 
+
+17 
+
+YIJIA GROUP CORP. 
+
+ NOTES TO THE FINANCIAL STATEMENTS 
+
+ FOR THE YEARS ENDED APRIL 30, 2021 AND 2020 
+
+Note 8 SUBSEQUENT EVENTS 
+
+In accordance with ASC Topic 855, Subsequent
+Events the Company has analyzed its operations subsequent to April 30, 2021 to the date these financial statements were available
+to be issued, June 30, 2021, and has determined that it does not have any material subsequent events to disclose in these financial statements. 
+
+18 
+
+Item 9. Changes In and Disagreements
+with Accountants on Accounting and Financial Disclosure 
+
+None. 
+
+Item 9A Controls and Procedures 
+
+Disclosure Controls and Procedures. 
+
+The Company maintains disclosure controls and
+procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended) that are designed to ensure that information
+required to be disclosed in the Company s Securities Exchange Act reports is recorded, processed, summarized and reported within
+the time periods specified in SEC rules and forms and that such information is accumulated and communicated to the Company s management,
+as appropriate, to allow timely decisions regarding required disclosure. 
+
+The Company s management, with the participation
+of our principal executive and principal financial officer evaluated the effectiveness of the Company s disclosure controls and
+procedures as of the end of the period covered by this report. Based upon that evaluation, our principal executive and principal financial
+officer concluded that, as of the end of the period covered by this report, the Company s disclosure controls and procedures were
+not effective. 
+
+Management s Report on Internal Controls
+over Financial Disclosure Controls and Procedures 
+
+Management is responsible for establishing and
+maintaining adequate internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)). The Company s internal
+control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United
+States of America. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.
+Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because
+of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. Under the supervision and
+with the participation of management, including the Chief Executive Officer and Chief Financial Officer, the Company conducted an evaluation
+of the effectiveness of the Company s internal control over financial reporting as of April 30, 2021 using the criteria established
+in Internal Control - Integrated Framework issued in 2013 by the Committee of Sponsoring Organizations of the Tread way
+Commission COSO ). 
+
+A material weakness is a deficiency, or combination
+of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement
+of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. In its assessment of
+the effectiveness of internal control over financial reporting as of April 30, 2021, the Company determined that there were control deficiencies
+that constituted material weaknesses, as described below. 
+
+1. 
+ We do not have an Audit Committee While not being legally obligated to have an audit committee, it is the management s view that such a committee, including a financial expert member, is an utmost important entity level control over the Company s financial statement. Currently the Board of Directors acts in the capacity of the Audit Committee, and does not include a member that is considered to be independent of management to provide the necessary oversight over management s activities. 
+
+2. 
+ We did not maintain appropriate cash controls As of April 30, 2021, the Company has not maintained sufficient internal controls over financial reporting for the cash process, including failure to segregate cash handling and accounting functions, and did not require dual signature on the Company s bank accounts. Alternatively, the effects of poor cash controls were mitigated by the fact that the Company had limited transactions in their bank accounts. 
+
+3. 
+ We did not implement appropriate information technology controls As at April 30, 2021, the Company retains copies of all financial data and material agreements; however there is no formal procedure or evidence of normal backup of the Company s data or off-site storage of data in the event of theft, misplacement, or loss due to unmitigated factors. 
+
+19 
+
+Accordingly, the Company concluded that these
+control deficiencies resulted in a reasonable possibility that a material misstatement of the annual or interim financial statements will
+not be prevented or detected on a timely basis by the Company s internal controls. 
+
+As a result of the material weaknesses described
+above, management has concluded that the Company did not maintain effective internal control over financial reporting as of April 30,
+2021 based on criteria established in Internal Control- Integrated Framework issued by COSO. 
+
+System of Internal Control over Financial
+Reporting 
+
+Our management is responsible for establishing
+and maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act) that
+is designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is
+recorded, processed, summarized and reported, within the time periods specified in the Commission s rules and forms. Disclosure
+controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed
+by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer s management,
+including its principal executive officer or officers and principal financial officer or officers, or persons performing similar functions,
+as appropriate to allow timely decisions regarding required disclosure. 
+
+An evaluation was conducted under the supervision
+and with the participation of our management of the effectiveness of the design and operation of our disclosure controls and procedures
+as of April 30, 2021. Based on that evaluation, our management concluded that our disclosure controls and procedures were not effective
+as of such date to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act, is recorded,
+processed, summarized and reported within the time periods specified in SEC rules and forms. 
+
+Changes in Internal Control over Financial
+Reporting 
+
+There was no change in the Company s internal
+control over financial reporting during the quarterly period covered by this report that has materially affected, or is reasonably likely
+to materially affect, the Company s internal control over financial reporting. 
+
+Item 9B. Other Information. 
+
+None. 
+
+20 
+
+PART III 
+
+Item 10. Directors, Executive
+Officers, Promoters and Control Persons of the Company 
+
+DIRECTORS, EXECUTIVE OFFICERS, PROMOTER
+AND CONTROL PERSONS 
+
+The name, age and titles of our executive officer
+and director are as follows: 
+
+Name 
+ 
+ Age 
+
+Position 
+ 
+ Shaoyin WU 
+ 
+ 39 
+
+Chairman of the Board of Directors, Chief Executive Officer and President 
+ 
+ Kim Lee POH 
+ 
+ 59 
+
+Chief Financial Officer, Director and Secretary 
+ 
+ Jian YANG 
+ 
+ 46 
+
+Director 
+
+Ms. Wu has served as President and Chief Executive
+Officer since November 10, 2018. Ms. Wu has served as a group vice president of Yi Jia International Group Limited operating in the sales
+and marketing of skin care products since August 2013 and is in charge of the formulation of its policy and strategy and the management
+of its global research center and Hong Kong and Macau operation. Ms. Wu is a graduate of The Open University of China in administration
+and management. 
+
+Mr. Poh has served as Chief Financial Officer,
+Director and Secretary since November 10, 2018 and has held several senior management positions with various Asian companies. He has served
+as a group vice president of Yi Jia International Group Limited operating in the sales and marketing of skin care products since November
+2013 and is in charge of establishing its overseas business. Mr. Poh previously served as a vice president (overseas operations) of Leading
+Global Sdn Bhd, a Malaysian company operating in the sales and marketing of cosmetics and health products and was in charge of its overseas
+business development and operation set up, from July 2012 to December 2013. He was the chief financial officer of Phydoly Biotechnology
+Sdn Bhd, a Malaysian company operating in the sales and marketing of energy and health products, from June 2005 to December 2006. Mr.
+Poh attended Systematic College in Malaysia studying Chartered Institute of Management Accountants Stage 2. 
+
+Mr. Yang has served as a Director since November
+10, 2018 and had served as a group vice president of Yi Jia International Group Limited operating in the sales and marketing of skin care
+products since February 2014 and is in charge of its global information management center. Mr. Yang is a graduate of Beijing Normal University
+in mathematics. 
+
+Term of office 
+
+Our director is appointed to hold office until
+the next annual meeting of our stockholders or until his respective successor is elected and qualified, or until she resigns or is removed
+in accordance with the provisions of the Nevada Revised Statues. 
+
+Family Relationship 
+
+There are no family relationships between any
+of our directors, executive officers and proposed directors or executive officers. 
+
+21 
+
+Involvement in Certain Legal Proceedings 
+
+To the best of our knowledge, none of our directors
+or executive officers has, during the past ten years: 
+
+1. 
+ been convicted in a criminal proceeding or been subject to a pending criminal proceeding (excluding traffic violations and other minor offences); 
+
+2. 
+ had any bankruptcy petition filed by or against the business or property of the person, or of any partnership, corporation or business association of which he was a general partner or executive officer, either at the time of the bankruptcy filing or within two years prior to that time; 
+
+3. 
+ been subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction or federal or state authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting, his involvement in any type of business, securities, futures, commodities, investment, banking, savings and loan, or insurance activities, or to be associated with persons engaged in any such activity; 
+
+4. 
+ been found by a court of competent jurisdiction in a civil action or by the SEC or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated; 
+
+5. 
+ been the subject of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated (not including any settlement of a civil proceeding among private litigants), relating to an alleged violation of any federal or state securities or commodities law or regulation, any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+
+6. 
+ been the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26)), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29)), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member. 
+
+Compliance with Section 16(A) of the Securities
+Exchange Act of 1934 
+
+Our common stock is not registered pursuant to
+Section 12 of the Securities Exchange Act of 1934, as amended (the Exchange Act ). Accordingly, our executive officers and
+directors and persons who own more than 10 of a registered class of our equity securities are not subject to the beneficial ownership
+reporting requirements of Section 16(1) of the Exchange Act. 
+
+Board Committees 
+
+We have not yet established Compensation, Audit,
+and Nominations and Corporate Governance committees nor do we have an Audit Committee financial expert as defined in Item 407(d)(5) of
+Regulation S-K promulgated under the Securities Act. Currently, the functions of these committees are performed by our entire Board of
+Directors. We hope to establish these committees and appoint an Audit Committee financial expert as our business develops. 
+
+Code of Ethics 
+
+We have not adopted a Code of Business Conduct
+and Ethics. 
+
+22 
+
+Item 11. Executive Compensation 
+
+The following tables set forth certain information
+about compensation paid, earned or accrued for services by our Executive Officer as of April 30, 2021 and 2020: 
+
+Summary Compensation Table 
+
+Name and Principal 
+ 
+ Salary 
+ Bonus 
+ Stock Awards 
+ Option Awards 
+ Non-Equity Incentive Plan Compensation 
+ Nonqualified Deferred Compensation 
+ All Other Compensation 
+ Total 
+ 
+ Position 
+ Year 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+
+Shaoyin WU Chief Executive Officer and President 
+ 2020 2021 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+
+Kim Lee POH Chief Financial Officer and Secretary 
+ 2020 2021 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+
+There are no current employment agreements between
+the company and its officers. 
+
+The officers agreed to work with no remuneration
+until such time as the Company will receive sufficient revenues necessary to provide management salaries. There are no annuity, pension
+or retirement benefits proposed to be paid to the officer or director or employees in the event of retirement pursuant to any existing
+plan by the company or any of its subsidiaries. 
+
+Director Compensation 
+
+The following table sets forth director compensation
+as of April 30, 2021 and 2020: 
+
+Name 
+
+Fees 
+ Earned 
+ or Paid 
+ in Cash 
+ ) 
+
+Stock 
+ Awards 
+ ) 
+
+Option 
+ Awards 
+ ) 
+
+Non-Equity 
+ Incentive Plan 
+ Compensation 
+ ) 
+
+Nonqualified 
+ Deferred 
+ Compensation 
+ Earnings 
+ ) 
+
+All Other 
+ Compensation 
+ ) 
+
+Total 
+ ) 
+
+Shaoyin WU 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+Kim Lee POH 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+Jian YANG 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+-0- 
+
+23 
+
+Item 12. Security Ownership
+of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+The following table sets forth certain information
+concerning the number of shares of our common stock owned beneficially as of June 30, 2021 by: (i) each person (including any group) known
+to us to own more than five percent (5 of any class of our voting securities, (ii) our director, and or (iii) our officer. Unless otherwise
+indicated, the stockholder listed possesses sole voting and investment power with respect to the shares shown. 
+
+Title of Class 
+
+Name and Address of 
+ Beneficial Owner 
+
+Amount and Nature of 
+ Beneficial Ownership 
+ 
+ Percentage 
+
+Common Stock 
+ 
+ Bobo CHEN 
+
+860,000 
+ 
+ 14.65 
+
+Common Stock 
+ 
+ Bo JIANG 
+
+980,000 
+ 
+ 16.69 
+
+Common Stock 
+ 
+ Tao LIU 
+
+780.000 
+ 
+ 13.29 
+
+Common Stock 
+ 
+ Kim Lee POH 
+
+951,250 
+ 
+ 16.20 
+
+Common Stock 
+ 
+ Shaoyin WU 
+
+820,000 
+ 
+ 13.97 
+
+Common Stock 
+ 
+ Jian YANG 
+
+720,000 
+ 
+ 12.26 
+
+Common Stock 
+ 
+ Lixin ZHENG 
+
+760,000 
+ 
+ 12.94 
+
+All Officers and Directors as a Group 
+
+2,491,250 
+ 
+ 42.43 
+
+As of June 30, 2021, there were 5,871,250 shares
+of our common stock issued and outstanding. 
+
+Item 13. Certain Relationships
+and Related Transactions 
+
+As of April 30, 2021 and 2020, the amount due
+to a related party of 146,107 and 103,821 represents temporary advances by the director, Shaoyin
+Wu of the Company, which is unsecured, interest-free and has no fixed terms of repayment. 
+
+Director Independence 
+
+We have adopted standards for director independence
+that correspond to NASDAQ listing standards and SEC rules. An independent director means a person who is not an officer
+or employee of the Company or its subsidiaries, or any other individual having a relationship that, in the opinion of the Board, would
+interfere with the exercise of independent judgment in carrying out the responsibilities of a director. To be considered independent,
+the Board must affirmatively determine that neither the director, nor any member of his or her immediate family, has had any direct or
+indirect material relationship with the Company within the previous three years. In addition, to be considered independent 
+under SEC rules, each member of the Audit Committee may not accept, directly or indirectly, any consulting, advisory, or other compensatory
+fee from us, other than compensation for his or her services as a director 
+
+The Board considered relationships, transactions
+and/or arrangements with each of the directors and concluded that none of the non-employee directors, or any of his or her immediate family
+members, has any relationship with us that would impair his or her independence. The Board has determined that each member of the Board,
+is not an independent director under applicable NASDAQ listing standards and SEC rules. 
+
+Item 14. Principal Accountant
+Fees and Services 
+
+Our Board of Directors has not yet adopted pre-approval
+policies and procedures but considers all matters brought before it. We expect to adopt such policies and procedures after the formation
+of our Audit Committee. 
+
+24 
+
+The aggregate professional fees paid to our registered
+public accounting firm for its annual audit and quarterly reviews during the years ended April 30, 2021 and 2020 were as follows: 
+
+Years ended April 30, 
+
+2021 
+
+2020 
+
+Audit fees (1) 
+
+16,200 
+
+24,000 
+
+Audit related fees (2) 
+
+Tax fees 
+
+All other fees 
+
+_________________________ 
+
+(1) 
+ Audit Fees represent fees for professional services billed and to be billed in connection with the audit of our annual financial statements, the audit of the effectiveness of internal control over financial reporting and review of the quarterly financial statements and internal controls over financial reporting, and audit services in connection with statutory or regulatory filings, consents or other SEC matters. 
+
+(2) 
+ Audit-Related Fees consist of fees billed for assurance and related services that are reasonably related to the performance of the audit or review of our financial statements and are not reported under Audit Fees. 
+
+25 
+
+PART IV 
+
+Item 15. Exhibits 
+
+The following exhibits are included
+as part of this report by reference: 
+
+31.1 
+ 
+ Certification of Chief Executive Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a). 
+ 
+ 31.2 
+ 
+ Certification of Chief Accounting Officer. pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d 
+ 
+ 32.1 
+ 
+ Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002. 
+ 
+ 101.INS 
+ 
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ Document, XBRL Taxonomy Extension 
+ 
+ 101.CAL 
+ 
+ Calculation Linkbase, XBRL Taxonomy Extension Definition 
+ 
+ 101.DEF 
+ 
+ Linkbase, XBRL Taxonomy Extension Labels 
+ 
+ 101.LAB 
+ 
+ Linkbase, XBRL Taxonomy Extension 
+ 
+ 101.PRE 
+ 
+ Presentation Linkbase 
+
+26 
+
+SIGNATURES 
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the Registrant
+has caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Yijia Group Corp. 
+
+By: 
+
+/s/ Shaoyin WU 
+ July 1, 2021 
+
+Shaoyin WU 
+ Chief Executive Officer (Principal Executive Officer) 
+
+/s/ Kim Lee POH 
+ July 1, 2021 
+
+Kim Lee POH 
+ Chief Financial Officer (Principal Financial Officer) 
+
+In accordance with the Exchange Act, this Report has been signed below
+by the following persons, on behalf of the Registrant and in the capacities and on the dates indicated. 
+
+/s/ Shaoyin
+ WU 
+ July 1, 2021 
+ 
+ Shaoyin WU, Director 
+
+Chief Executive Officer 
+
+/s/ Kim Lee POH 
+ July 1, 2021 
+ 
+ Kim Lee POH, Director 
+
+Chief Financial Officer 
+
+/s/ Jian YANG 
+ July 1, 2021 
+ 
+ Jian YANG, Director 
+
+27 
+
+<EX-31.1>
+ 2
+ yijia_ex3101.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+Certification of Chief Executive Officer pursuant
+to Securities Exchange 
+
+ Act of 1934 Rule 13a-14(a) or 15d-14(a). 
+
+I, Shaoyin WU, certify that: 
+
+1. I have reviewed this annual report on Form 10-K
+of Yijia Group Corp.; 
+
+2. Based on my knowledge, this report does not contain
+any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements,
+and other financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant
+and we have: 
+
+a) 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, if any, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying
+officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+By: 
+ /S/ Shaoyin WU 
+
+Name: Shaoyin WU 
+
+Title: Chairman of the Board of Directors, Chief Executive Officer and President 
+(Principal Executive Office) 
+
+July 1, 2021 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ yijia_ex3102.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+Certification of Chief Executive Officer pursuant
+to Securities Exchange 
+
+ Act of 1934 Rule 13a-14(a) or 15d-14(a). 
+
+I, Kim Lee POH, certify that: 
+
+1. I have reviewed this annual report on Form 10-K
+of Yijia Group Corp.; 
+
+2. Based on my knowledge, this report does not contain
+any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements,
+and other financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant
+and we have: 
+
+a) 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, if any, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying
+officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+By: 
+ /S/ Kim Lee POH 
+
+Name: Kim Lee POH 
+
+Title: Chief Financial Officer, Director and Secretary 
+(Principal Financial Office) 
+
+July 1, 2021 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ yijia_ex3201.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual
+Report of Yijia Group Corp (the Company on Form 10-K for the year ended April 30, 2021, as filed with the Securities and
+Exchange Commission on the date hereof (the Report ), e ach of the undersigned, in the
+capacities and on the dates indicated below, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 
+906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+By: 
+ /S/ Shaoyin WU 
+
+Name: Shaoyin WU 
+
+Title: Chairman of the Board of Directors, Chief Executive Officer and President 
+(Principal Executive Office) 
+
+By: 
+ /S/ Kim Lee POH 
+
+Name: Kim Lee POH 
+
+Title: Chief Financial Officer, Director and Secretary 
+(Principal Financial Office) 
+
+July 1, 2021 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 6
+ yjgj-20210430.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ yjgj-20210430.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ yjgj-20210430_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ yjgj-20210430_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ yjgj-20210430_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ yjgj-20210430_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

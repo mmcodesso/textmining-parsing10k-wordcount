@@ -1,0 +1,1921 @@
+<Header>
+<FileStats>
+    <FileName>20220407_10-K-A_edgar_data_880417_0001564590-22-013817.txt</FileName>
+    <GrossFileSize>24955064</GrossFileSize>
+    <NetFileSize>69215</NetFileSize>
+    <NonText_DocumentType_Chars>1829125</NonText_DocumentType_Chars>
+    <HTML_Chars>10022451</HTML_Chars>
+    <XBRL_Chars>2823387</XBRL_Chars>
+    <XML_Chars>9653525</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001564590-22-013817.hdr.sgml : 20220407
+<ACCEPTANCE-DATETIME>20220407151254
+ACCESSION NUMBER:		0001564590-22-013817
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		120
+CONFORMED PERIOD OF REPORT:	20211231
+FILED AS OF DATE:		20220407
+DATE AS OF CHANGE:		20220407
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CSB BANCORP INC /OH
+		CENTRAL INDEX KEY:			0000880417
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				341687530
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21714
+		FILM NUMBER:		22813630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		91 NORTH CLAY ST
+		CITY:			MILLERSBURG
+		STATE:			OH
+		ZIP:			44654
+		BUSINESS PHONE:		3306749015
+
+	MAIL ADDRESS:	
+		STREET 1:		91 NORTH CLAY ST
+		CITY:			MILLERSBURG
+		STATE:			OH
+		ZIP:			44654
+
+</SEC-Header>
+</Header>
+
+ 0001564590-22-013817.txt : 20220407
+
+10-K/A
+ 1
+ csbb-10ka_20211231.htm
+ 10-K/A
+
+csbb-10ka_20211231.htm
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ (Amendment No. 1) 
+ 
+ (Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended 
+ OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM TO 
+
+Commission File Number 
+ 
+ CSB BANCORP, INC. 
+ (Exact name of Registrant as specified in its Charter) 
+
+(State or other jurisdiction of 
+ incorporation or organization) 
+ 
+ (I.R.S. Employer 
+ Identification No.) 
+
+, 
+
+(Address of principal executive offices) 
+ 
+ (Zip Code) 
+
+Registrant s telephone number, including area code: ) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+
+Trading 
+ Symbol(s) 
+
+Name of each exchange on which registered 
+
+OTC Pink 
+
+Securities registered pursuant to Section 12(g) of the Act: None 
+ Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes 
+ Indicate by check mark whether the Registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ The aggregate market value of the voting and non-voting common equity held by non-affiliates of the Registrant, based on the closing price of the shares of common stock as of June 30, 2021 of 38.00 per share on the OTC Stock Market, was million. 
+ The number of shares of Registrant s Common Stock outstanding as of March 15, 2022 was . 
+ DOCUMENTS INCORPORATED BY REFERENCE 
+
+Auditor Firm Id: 
+
+Auditor Name: 
+
+Auditor Location: 
+
+EXPLANATORY NOTE 
+
+2 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+ REPORT ON MANAGEMENT S ASSESSMENT OF INTERNAL CONTROL OVER FINANCIAL REPORTING 
+ 
+ The management of CSB Bancorp, Inc. is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) of the Securities Exchange Act of 1934, as amended. The Company s internal control over financial reporting is designed to provide reasonable assurance that our published financial statements are fairly presented, in all material respects, in conformity with generally accepted accounting principles. 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ Management conducted the required assessment of the effectiveness of the Company s internal control over financial reporting as of December 31, 2021. Management s assessment did not identify any material weaknesses in the Company s internal control over financial reporting. In making this assessment, management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in the 2013 Internal Control-Integrated Framework. Based upon this assessment, management believes that the Company s internal control over financial reporting is effective as of December 31, 2021. 
+
+Eddie L. Steiner 
+
+Paula J. Meiler 
+
+President, 
+
+Senior Vice President, 
+
+Chief Executive Officer 
+
+Chief Financial Officer 
+
+3 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ To the Shareholders and the Board of Directors of CSB Bancorp, Inc. 
+ 
+ Opinion on the Financial Statements 
+ 
+ We have audited the accompanying consolidated balance sheets of CSB Bancorp, Inc. and subsidiaries (the Company as of December 31, 2021 and 2020 the related consolidated statements of income, comprehensive income, changes in shareholders equity, and cash flows for each of the three years in the period ended December 31, 2021 and the related notes to the consolidated financial statements (collectively, the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2021 and 2020, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2021, in conformity with accounting principles generally accepted in the United States of America. 
+ 
+ Basis for Opinion 
+ 
+ These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent, with respect to the Company, in accordance with U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ Critical Audit Matters 
+ The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. 
+ The communication of critical audit matters does not alter, in any way, our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+ 4 
+
+Allowance for Loan Losses (ALL) Qualitative Factors 
+ 
+ Description of the Matter 
+ The Company s loan portfolio totaled 549 million as of December 31, 2021, and the associated ALL was 7.6 million. As discussed in Notes 1 and 3 to the consolidated financial statements, determining the amount of the ALL requires significant judgment about the collectability of loans, which includes an assessment of historical loss experience within each risk category of loans, qualitative adjustment to those historical loss allocations, and testing of certain commercial loans for impairment. Management applies the additional qualitative adjustments to reflect the inherent losses that exist in the loan portfolio at the balance sheet date that are not reflected in the historical loss experience. Qualitative adjustments are made based upon changes in lending policies and practices, economic conditions, changes in the loan portfolio mix, trends in loan delinquencies and classified loans, collateral values, concentrations of credit risk for the commercial loan portfolios, and specific industry exposures that are more susceptible to loss during the COVID-19 pandemic. 
+ We identified these qualitative adjustments within the ALL as critical audit matters because they involve a high degree of subjectivity and are highly difficult to estimate based on the uncertainty of the pandemic. In turn, auditing management s judgments regarding the qualitative factors applied in the ALL calculation involved a high degree of subjectivity. 
+ How We Addressed the Matter in Our Audit 
+ We gained an understanding of the Company s process for establishing the ALL, including the qualitative adjustments made to the ALL. We evaluated the design and tested the operating effectiveness of controls over the Company s ALL process, which included, among others, management s review and approval controls designed to assess the need and level of qualitative adjustments to the ALL, as well as the reliability of the data utilized to support management s assessment. To test the qualitative adjustments, we evaluated the appropriateness of management s methodology and assessed whether all relevant risks were reflected in the ALL. 
+ Regarding the measurement of the qualitative adjustments, we evaluated the completeness, accuracy, and relevance of the data and inputs utilized in management s estimate. For example, we compared the inputs and data to the Company s historical loan performance data, third-party macroeconomic data, and other internal and external data points and considered the existence of new or contrary information. Furthermore, we analyzed the changes in the components of the qualitative reserves relative to changes in external economic factors, the Company s loan portfolio, and asset quality trends, which included the evaluation of management s ability to capture and assess relevant data from both external sources and internal reports on loan customers affected by the COVID-19 pandemic and the supporting documentation for substantiating revisions to qualitative factors. We assessed the reasonableness of the factors from both a directional perspective and from an overall magnitude perspective as compared to the underlying data. 
+ We also utilized internal credit review specialists with knowledge to evaluate the appropriateness of management s risk-rating processes, to ensure that the risk ratings applied to the commercial loan portfolio were reasonable. 
+ 
+ We have served as the Company s auditor since 2005. 
+
+Cranberry Township, Pennsylvania 
+ March 2, 2022 
+
+5 
+
+CONSOLIDATED BALANCE SHEETS 
+ At December 31, 2021 and 2020 
+
+(Dollars in thousands, except share data) 
+
+2021 
+
+2020 
+
+ASSETS 
+
+Cash and cash equivalents 
+
+Cash and due from banks 
+
+Interest-earning deposits in other banks 
+
+Total cash and cash equivalents 
+
+Securities 
+
+Available-for-sale, at fair value 
+
+Held-to-maturity fair value of in 2021 and in 2020 
+
+Equity securities 
+
+Restricted stock, at cost 
+
+Total securities 
+
+Loans held for sale 
+
+Loans 
+
+Less allowance for loan losses 
+
+Net loans 
+
+Premises and equipment, net 
+
+Core deposit intangible 
+
+Goodwill 
+
+Bank-owned life insurance 
+
+Accrued interest receivable and other assets 
+
+TOTAL ASSETS 
+
+LIABILITIES AND SHAREHOLDERS EQUITY 
+
+LIABILITIES 
+
+Deposits 
+
+Noninterest-bearing 
+
+Interest-bearing 
+
+Total deposits 
+
+Short-term borrowings 
+
+Other borrowings 
+
+Accrued interest payable and other liabilities 
+
+Total liabilities 
+
+SHAREHOLDERS EQUITY 
+
+Common stock, par value. Authorized shares issued 
+ shares and outstanding shares in 2021 and in 2020 
+
+Additional paid-in capital 
+
+Retained earnings 
+
+Treasury stock at cost: shares in 2021, shares in 2020 
+
+Accumulated other comprehensive income (loss) 
+
+Total shareholders equity 
+
+TOTAL LIABILITIES AND SHAREHOLDERS EQUITY 
+
+These consolidated financial statements should be read in connection with the accompanying notes to the consolidated financial statements. 
+ 6 
+
+CONSOLIDATED STATEMENTS OF INCOME 
+ Years Ended December 31, 2021, 2020, and 2019 
+
+(Dollars in thousands, except per share data) 
+
+2021 
+
+2020 
+
+2019 
+
+INTEREST AND DIVIDEND INCOME 
+
+Loans, including fees 
+
+Taxable securities 
+
+Nontaxable securities 
+
+Other 
+
+Total interest and dividend income 
+
+INTEREST EXPENSE 
+
+Deposits 
+
+Short-term borrowings 
+
+Other borrowings 
+
+Total interest expense 
+
+NET INTEREST INCOME 
+
+PROVISION (RECOVERY) FOR LOAN LOSSES 
+
+Net interest income, after provision (recovery) for loan losses 
+
+NONINTEREST INCOME 
+
+Service charges on deposit accounts 
+
+Trust services 
+
+Debit card interchange fees 
+
+Gain on sale of loans, net 
+
+Earnings on bank owned life insurance 
+
+Unrealized gain (loss) on equity securities 
+
+Other income 
+
+Total noninterest income 
+
+NONINTEREST EXPENSES 
+
+Salaries and employee benefits 
+
+Occupancy expense 
+
+Equipment expense 
+
+Professional and director fees 
+
+Financial institutions and franchise tax 
+
+Marketing and public relations 
+
+Software expense 
+
+Debit card expense 
+
+Amortization of intangible assets 
+
+FDIC insurance expense 
+
+Other expenses 
+
+Total noninterest expenses 
+
+INCOME BEFORE INCOME TAXES 
+
+FEDERAL INCOME TAX PROVISION 
+
+NET INCOME 
+
+EARNING PER SHARE 
+
+Basic and diluted 
+
+These consolidated financial statements should be read in connection with the accompanying notes to the consolidated financial statements. 
+ 
+ 7 
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ Years Ended December 31, 2021, 2020, and 2019 
+
+(Dollars in thousands) 
+
+2021 
+
+2020 
+
+2019 
+
+Net income 
+
+Other comprehensive (loss) income 
+
+Unrealized (loss) gains arising during the period 
+
+Unrealized losses on held-to-maturity transfer 
+
+Reclassification of unrealized losses on held-to-maturity transfer 
+
+Income tax effect at 
+
+Other comprehensive (loss) income 
+
+Total comprehensive income 
+
+These consolidated financial statements should be read in connection with the accompanying notes to the consolidated financial statements. 
+ 
+ 8 
+
+CONSOLIDATED STATEMENTS OF CHANGES IN 
+ SHAREHOLDERS EQUITY 
+ Years Ended December 31, 2021, 2020, and 2019 
+
+(Dollars in thousands, except per share data) 
+
+Common 
+ Stock 
+
+Additional 
+ Paid-In 
+ Capital 
+
+Retained 
+ Earnings 
+
+Treasury 
+ Stock 
+
+Accumulated 
+ Other 
+ Comprehensive 
+ Income (Loss) 
+
+Total 
+
+BALANCE AT DECEMBER 31, 2018 
+
+Net income 
+
+Other comprehensive income 
+
+Issuance of treasury shares 
+
+Cash dividends declared, per share 
+
+BALANCE AT DECEMBER 31, 2019 
+
+Net income 
+
+Other comprehensive income 
+
+Cash dividends declared, per share 
+
+BALANCE AT DECEMBER 31, 2020 
+
+Net income 
+
+Other comprehensive loss 
+
+Purchase of treasury shares 
+
+Cash dividends declared, per share 
+
+BALANCE AT DECEMBER 31, 2021 
+
+These consolidated financial statements should be read in connection with the accompanying notes to the consolidated financial statements. 
+ 9 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ Years Ended December 31, 2021, 2020, and 2019 
+
+(Dollars in thousands) 
+
+2021 
+
+2020 
+
+2019 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net income 
+
+Adjustments to reconcile net income to net cash provided by 
+ operating activities: 
+
+Depreciation and amortization of premises, equipment 
+ and software 
+
+Deferred income taxes 
+
+(Recovery of) provision for loan losses 
+
+Gain on sale of loans, net 
+
+Security amortization, net of accretion 
+
+Secondary market loan sale proceeds 
+
+Originations of secondary market loans held-for-sale 
+
+Earnings on bank-owned life insurance 
+
+Effects of changes in operating assets and liabilities: 
+
+Net deferred loan fees (costs) 
+
+Accrued interest receivable 
+
+Accrued interest payable 
+
+Other assets and liabilities 
+
+Net cash provided by operating activities 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Securities: 
+
+Proceeds from repayments, available-for-sale 
+
+Proceeds from repayments, held-to-maturity 
+
+Purchases, available-for-sale 
+
+Purchases, held-to-maturity 
+
+Purchase of bank-owned life insurance 
+
+Loan originations and payments, net 
+
+Proceeds from sale of other real estate 
+
+Proceeds from sale of assets 
+
+Purchases of premises and equipment 
+
+Purchases of software 
+
+Net cash used in investing activities 
+
+These consolidated financial statements should be read in connection with the accompanying notes to the consolidated financial statements. 
+ 10 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ Years Ended December 31, 2021, 2020, and 2019 
+
+(Dollars in thousands) 
+
+2021 
+
+2020 
+
+2019 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Net change in deposits 
+
+Net change in short-term borrowings 
+
+Proceeds from other borrowings 
+
+Repayment of other borrowings 
+
+Cash dividends paid 
+
+(Purchase) issuance of treasury stock 
+
+Net cash provided by financing activities 
+
+NET INCREASE IN CASH AND CASH EQUIVALENTS 
+
+CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR 
+
+CASH AND CASH EQUIVALENTS AT END OF YEAR 
+
+SUPPLEMENTAL DISCLOSURES 
+
+Cash paid during the year for: 
+
+Interest 
+
+Income taxes 
+
+Noncash investing activities: 
+
+Transfer of securities from available-for-sale to held-to-maturity 
+
+Lease adoption: 
+
+Right of use lease asset 
+
+Lease liability 
+
+These consolidated financial statements should be read in connection with the accompanying notes to the consolidated financial statements. 
+
+11 
+
+industry segment, the commercial banking industry. 
+ The Bank, an Ohio-chartered bank organized in 1879, provides financial services through its Banking Centers located in Holmes, Stark, Tuscarawas and Wayne counties. These communities are the source of a substantial majority of the Bank s deposit, loan, and trust activities. The majority of the Bank s income is derived from commercial and retail lending activities, and investments in securities. Its primary deposit products are checking, savings, and term certificate accounts. Its primary lending products are residential real estate, commercial real estate, commercial, and installment loans. Substantially, all loans are secured by specific items of collateral including business assets, consumer assets, and real estate. Commercial loans are expected to be repaid with cash flow from business operations. Real estate loans are secured by both residential and commercial real estate. 
+ Significant accounting policies followed by the Company are presented below: . required federal reserves included in Cash and due from banks at December 31, 2021 or December 31, 2020. The required reserves are used to facilitate the implementation of monetary policy by the Federal Reserve System. The required reserves are computed by applying prescribed ratios to the classes of average deposit balances. These are held in the form of vault cash and depository amount held with the Federal Reserve Bank. Federal law prohibits the Company from borrowing from the Bank unless the loans are secured by specific collateral. million par value US Treasuries and mortgage-backed securities were transferred from available-for-sale to held-to-maturity. Held-to-maturity securities are carried at their fair value on the date of transfer or at amortized cost if security purchases are designated as held-to-maturity. On December 31, 2021, of the total investment portfolio was classified as held-to-maturity. The amortized cost of debt securities is adjusted for the accretion of discounts to maturity and the amortization of premiums to the earlier of a bond s call date or maturity based on the interest method. Such amortization and accretion is included in interest and dividends on securities. 
+ Gains and losses on sales of securities are accounted for on a trade date basis, using the specific identification method, and are included in noninterest income. Securities are periodically reviewed for other-than-temporary impairment based upon a number of factors, including, but not limited to: the length of time and extent to which the market value has been less than cost, the financial condition of the underlying issuer, the receipt of principal and interest according to the contractual terms, the ability of the issuer to meet contractual obligations, the likelihood of the security s ability to recover any decline in its market value and management s intent, and ability to hold the security for a period of time sufficient to allow for a recovery in market value. Among the factors considered in determining management s intent and ability to hold the security, is a review of the Company s capital adequacy, interest rate risk position, and liquidity. The assessment of a security s ability to recover any decline in market value, the ability of the issuer to meet contractual obligations, and management s intent and ability to hold the security requires considerable judgment. A decline in value considered to be other-than-temporary, is recorded as a loss within noninterest income in the Consolidated Statements of Income. 
+ 
+ 12 
+
+on December 31, 2021 and 2020, respectively. to for buildings and to for equipment) and is computed using the straight-line method. Leasehold improvements are amortized over the useful life of the asset, or lease term, whichever is shorter. Expenses for maintenance and repairs are charged against income as incurred. Costs of major additions and improvements are capitalized. 
+ 13 
+
+impairment was recorded in 2021, 2020 or 2019. 
+ The core deposit intangible assets are assigned useful lives, which are amortized on an accelerated basis over their weighted average lives. There was remaining core deposit intangible at December 31,2021. thousand, thousand, and thousand for the years ended 2021, 2020, and 2019, respectively. dilutive effects on earnings per share. 
+ 14 
+
+Average treasury shares 
+
+Total weighted average common shares outstanding basic and diluted 
+
+Dividends per share are based on the number of shares outstanding at the declaration date. 
+ 
+ RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS effect on net income or shareholders equity. 
+ 15 
+
+U.S. Government agencies 
+
+Mortgage-backed securities of government agencies 
+
+Asset-backed securities of government agencies 
+
+State and political subdivisions 
+
+Corporate bonds 
+
+Total available-for-sale 
+
+Held-to-maturity 
+
+U.S. Treasury securities 
+
+Mortgage-backed securities of government agencies 
+
+State and political subdivisions 
+
+Total held-to-maturity 
+
+Equity securities 
+
+Restricted stock 
+
+Total securities 
+
+2020 
+
+Available-for-sale 
+
+U.S. Treasury security 
+
+U.S. Government agencies 
+
+Mortgage-backed securities of government agencies 
+
+Asset-backed securities of government agencies 
+
+State and political subdivisions 
+
+Corporate bonds 
+
+Total available-for-sale 
+
+Held-to-maturity 
+
+Mortgage-backed securities of government agencies 
+
+State and political subdivisions 
+
+Total held-to-maturity 
+
+Equity securities 
+
+Restricted stock 
+
+Total securities 
+
+16 
+
+Due after one through five years 
+
+Due after five through ten years 
+
+Due after ten years 
+
+Total debt securities available-for-sale 
+
+Held-to-maturity 
+
+Due after one through five years 
+
+Due after five through ten years 
+
+Due after ten years 
+
+Total debt securities held-to-maturity 
+
+Securities with a carrying value of approximately million and million were pledged on December 31, 2021 and 2020 respectively, to secure public deposits, as well as other deposits and borrowings as required or permitted by law. 
+ 
+ Restricted stock primarily consists of investments in FHLB and Federal Reserve Bank stock. The Bank s investment in FHLB stock amounted to million on December 31, 2021 and 2020, respectively. Federal Reserve Bank stock was thousand on December 31, 2021 and 2020. 
+ There were proceeds from sales of debt securities for the years ended December 31, 2021, 2020, and 2019. Gains and losses recognized on equity securities on the consolidated statements of income of thousand, ) thousand, and thousand, respectively for the years ended December 31, 2021, 2020, and 2019 were unrealized. 
+ 
+ 17 
+
+U.S. Government agencies 
+
+Mortgage-backed securities of government 
+ agencies 
+
+Asset-backed securities of government 
+ agencies 
+
+State and political subdivisions 
+
+Corporate bonds 
+
+Held-to-maturity 
+
+U.S. Treasury securities 
+
+Mortgage-backed securities of government 
+ agencies 
+
+State and political subdivisions 
+
+Total temporarily impaired securities 
+
+2020 
+
+Available-for-sale 
+
+Mortgage-backed securities of government 
+ agencies 
+
+Asset-backed securities of government 
+ agencies 
+
+Corporate bonds 
+
+Held-to-maturity 
+
+Mortgage-backed securities of government 
+ agencies 
+
+Total temporarily impaired securities 
+
+There were securities in an unrealized loss position on December 31, 2021, eleven ) of which were in a continuous loss position for twelve (12) or more months. At least quarterly, the Company conducts a comprehensive security-level impairment assessment. The assessments are based on the nature of the securities, the extent and duration of the securities, the extent and duration of the loss, and management s intent to sell or if it is more likely than not that management will be required to sell a security before recovery of its amortized cost basis, which may be maturity. Management believes the Company will fully recover the cost of these securities and it does not intend to sell these securities and likely will not be required to sell them before the anticipated recovery of the remaining amortized cost basis, which may be maturity. As a result, management concluded that these securities were not other-than-temporarily impaired on December 31, 2021. 
+ 
+ 18 
+
+Commercial real estate 
+
+Residential real estate 
+
+Construction & land development 
+
+Consumer 
+
+Total loans before deferred loan (fees) and costs 
+
+Deferred loan (fees) and costs 
+
+Total loans 
+
+Loan Origination/Risk Management 
+ The Company has certain lending policies and procedures in place designed to maximize loan income within an acceptable level of risk. Management reviews and the Board of Directors approves these policies and procedures on a regular basis. A reporting system supplements the review process by providing management with frequent reports related to loan production, loan quality, concentrations of credit, loan delinquencies, and non-performing and potential problem loans. Diversification in the loan portfolio is a means of managing risk associated with fluctuations in economic conditions. 
+ Commercial loans are underwritten after evaluating and understanding the borrower s ability to operate profitably and prudently expand their business. Underwriting standards are designed to promote relationship banking rather than transactional banking. The Company s management examines current and occasionally projected cash flows to determine the ability of the borrower to repay their obligations as agreed. Commercial loans are primarily made based on the identified cash flows of the borrower and secondarily on the underlying collateral provided by the borrower. However, the cash flows of borrowers may not be as expected and the collateral securing these loans may fluctuate in value. Most commercial loans are secured by the assets being financed or other business assets, such as accounts receivable or inventory, and generally incorporate a personal guarantee however, some short-term loans may be made on an unsecured basis. In the case of loans secured by accounts receivable, the availability of funds for the repayment of these loans may be substantially dependent on the ability of the borrower to collect amounts due from its customers. 
+ Commercial real estate loans are subject to underwriting standards and processes similar to commercial loans, in addition to those of real estate loans. These loans are viewed primarily as cash flow loans and secondarily as loans secured by real estate. Commercial real estate lending typically involves higher loan principal amounts and the repayment of these loans is largely dependent on the successful operation of the property securing the loan or the business conducted on the property securing the loan. Commercial real estate loans may be adversely affected by conditions in the real estate markets or in the general economy. The properties securing the Company s commercial real estate portfolio are diverse in terms of type. This diversity helps reduce the Company s exposure to adverse economic events that affect any single industry. Management monitors and evaluates commercial real estate loans based on collateral, geography, and risk grade criteria. 
+ With respect to loans to developers and builders secured by non-owner occupied properties, the Company generally requires the borrower to have had an existing relationship with the Company and have a proven record of success. Construction and land development loans are underwritten utilizing independent appraisal reviews, sensitivity analysis of absorption, lease rates, and financial analysis of developers and property owners. Construction and land development loans are generally based upon estimates of costs and value associated with the completed project. These estimates may be inaccurate. Construction and land development loans often involve the disbursement of substantial funds with repayment substantially dependent on the success of the project. Sources of repayment for these types of loans may be pre-committed permanent loans from approved long-term lenders, sales of developed property, or permanent financing from the Company. These loans are closely monitored by on-site inspections and are considered to have higher risk than other real estate loans due to their ultimate repayment being sensitive to interest rate changes, governmental regulation of real property, general economic conditions, and the availability of long-term financing. 
+ The Company originates consumer loans utilizing a judgmental underwriting process. Policies and procedures are developed and modified, as needed, by management to monitor and manage consumer loan risk. This activity, coupled with relatively small loan amounts spread across many individual borrowers, minimizes risk. 
+ The Company engages an independent loan review vendor that reviews and validates the credit risk program on a periodic basis. Results of these reviews are presented to management and the Audit Committee. The loan review process complements and reinforces the risk identification and assessment decisions made by lenders and credit personnel, as well as the Company s policies and procedures. 
+ 
+ Paycheck Protection Program 
+ The Coronavirus Aid, Relief, and Economic Security Act, or CARES Act, was signed into law on March 27, 2020 and provided over 2 trillion in economic relief to individuals and businesses impacted by the COVID-19 pandemic. The CARES Act authorized the Small Business Administration SBA to temporarily guarantee loans under a new 7(a) loan program called the Paycheck Protection Program PPP ). As a qualified SBA lender, the Company was automatically authorized to originate PPP loans. The PPP provides loans to small businesses who have been affected by economic conditions as a result of COVID-19 to provide cash flow assistance to employers who maintain their payroll (including 
+ 19 
+
+PPP loans with principal balances of million. The PPP loans are guaranteed by the SBA and are eligible for forgiveness by the SBA to the extent that the proceeds are used to cover eligible payroll costs, interest costs, rent, and utility costs over a period of up to 24 weeks after the loan is made if certain conditions are met regarding employee retention and compensation levels. PPP loans deemed eligible for forgiveness by the SBA will be repaid by the SBA to the Company. As of December 31, 202 1 , the Company has received million in loan forgiveness from the SBA. The remaining million of PPP loans are included in the Commercial loan category with no allowance for loan losses allocated. 
+ In accordance with the SBA terms and conditions on these PPP loans, the Company received approximately million in fees associated with the processing of these loans. Upon funding of the loans, these fees were deferred and are being amortized over the life of the loan as an adjustment to yield in accordance with FASB ASC 310-20-25-2. During 2021 and 2020, million and million of these fees were recognized in income, respectively with thousand remaining to be recognized. 
+ Concentrations of Credit 
+ Nearly all the Company s lending activity occurs within the State of Ohio, including the four counties of Holmes, Stark, Tuscarawas, and Wayne, as well as other markets. The majority of the Company s loan portfolio consists of commercial and industrial and commercial real estate loans. Credit concentrations, including commitments, as determined using North American Industry Classification Codes (NAICS), to the largest industries compared to total loans at December 31, 2021, included million, or , of total loans to lessors of non-residential buildings or dwellings million, or , of total loans to assisted living facilities for the elderly million, or , of total loans to lessors of other real estate property and million, or , of total loans to lessors of residential buildings and dwellings. These loans are generally secured by real property and equipment, with repayment expected from operational cash flow. Credit evaluation is based on a review of cash flow coverage of principal, interest payments, and the adequacy of the collateral received. 
+ Allowance for Loan Losses 
+ The following table details activity in the allowance for loan losses by portfolio segment for the years ended December 31, 2021, 2020, and 2019. Allocation of a portion of the allowance to one category of loans does not preclude its availability to absorb losses in other categories. 
+ During 2021, the increase in the provision for loan losses for construction and land development loans was primarily related to loans to assisted living facilities that have been affected by the COVID-19 pandemic. The decrease in the provision related to commercial, commercial real estate and residential real estate loans was primarily related to the improvement in economic conditions along with fewer delinquent and nonperforming loans and improvement in adversely classified loans. The provision related to consumer loans increased primarily as a result of the increase in historical losses of loans in this category. 
+ During 2020, the increase in the provision for loan losses for commercial real estate loans was primarily related to businesses affected by the COVID economic shutdown. The provision for losses in the construction and land development category also increased due to effects of the COVID shutdown as well as the increase in volume of loans. The provision related to commercial loans decreased primarily as a result of the decrease in loans graded special mention along with the decrease in historical losses of loans in this category. 
+ During 2019, the increase in the provision for loan losses related to commercial loans was primarily related to loans in the sawmill industry affected by tariffs on trade with China along with an increase in loans in the special mention category. The increase in the provision for commercial real estate loans was primarily related to the million increase in loan volume. The increase in the provision related to consumer loans was due to historical losses of loans in this category. The decrease in the provision related to residential real estate loans was primarily related to the decrease in specific allocation amounts related to three mortgage loans. 
+ 20 
+
+Provision for loan losses 
+
+Charge-offs 
+
+Recoveries 
+
+Net (charge-offs) 
+ recoveries 
+
+Ending balance 
+
+December 31, 2020 
+
+Beginning balance 
+
+Provision for loan losses 
+
+Charge-offs 
+
+Recoveries 
+
+Net (charge-offs) 
+ recoveries 
+
+Ending balance 
+
+December 31, 2019 
+
+Beginning balance 
+
+Provision for loan losses 
+
+Charge-offs 
+
+Recoveries 
+
+Net (charge-offs) 
+ recoveries 
+
+Ending balance 
+
+21 
+
+Collectively evaluated for 
+ impairment 
+
+Total ending allowance 
+ balance 
+
+Loans: 
+
+Loans individually 
+ evaluated for 
+ impairment 
+
+Loans collectively 
+ evaluated for 
+ impairment 
+
+Total ending loans balance 
+
+2020 
+
+Allowance for loan losses: 
+
+Ending allowance balances 
+ attributable to loans: 
+
+Individually evaluated for 
+ impairment 
+
+Collectively evaluated for 
+ impairment 
+
+Total ending allowance 
+ balance 
+
+Loans: 
+
+Loans individually 
+ evaluated for 
+ impairment 
+
+Loans collectively 
+ evaluated for 
+ impairment 
+
+Total ending loans balance 
+
+22 
+
+Commercial real estate 
+
+Residential real estate 
+
+Construction & land development 
+
+Consumer 
+
+Total impaired loans 
+
+2020 
+
+Commercial 
+
+Commercial real estate 
+
+Residential real estate 
+
+Consumer 
+
+Total impaired loans 
+
+2019 
+
+Commercial 
+
+Commercial real estate 
+
+Residential real estate 
+
+Consumer 
+
+Total impaired loans 
+
+1 Includes principal, accrued interest, unearned fees, and origination costs. 
+
+Commercial real estate 
+
+Residential real estate 
+
+Construction & land development 
+
+Consumer 
+
+Total loans 
+
+2020 
+
+Commercial 
+
+Commercial real estate 
+
+Residential real estate 
+
+Construction & land development 
+
+Consumer 
+
+Total loans 
+
+CARES Act Loan Modifications 
+ The Company offered loan modifications to customers under the COVID-19 loan modification program. Loan modifications consisted of three (3) to four (4) months deferral of principal and interest payments, and extension of maturity date. During 2021, there were loans 
+ 23 
+
+million, granted modifications under this program. During 2020, there were loans granted modifications totaling million. As of December 31, 2021 there was modified loan for thousand in nonaccrual status and loan for thousand that was 30 days past due . All remaining loans provided modifications were performing in accordance with their terms as of December 31, 20 2 1 . In a ccordance with the CARES Act, these loans are not required to be evaluated as TDR s. 
+ 
+ Troubled Debt Restructurings 
+ The Company had troubled debt restructurings TDRs of million as of December 31, 2021, with thousand of specific reserves allocated to customers whose loan terms have been modified in TDRs. On December 31, 2021, million of the loans classified as TDRs were performing in accordance with their modified terms. The remaining thousand were classified as nonaccrual. On December 31, 2020, the Company had TDRs of million, with thousand of specific reserves allocated. 
+
+Commercial Real Estate 
+
+Residential Real Estate 
+
+Consumer 
+
+Total restructured loans 
+
+2020 
+
+Commercial 
+
+Commercial Real Estate 
+
+Residential Real Estate 
+
+Consumer 
+
+Total restructured loans 
+
+2019 
+
+Commercial 
+
+Total restructured loans 
+
+The loans restructured were modified by changing the monthly payment to interest only and extending the maturity dates. No principal reductions were made. There was loan in the amount of thousand restructured in 2018 that has subsequently defaulted in 2019. 
+ Real Estate Loans in Foreclosure 
+ There was other real estate owned on December 31, 2021, or 2020, respectively. There were mortgage loans in the process of foreclosure on December 31, 2021, and thousand on December 31, 2020. 
+ Credit Quality Indicators 
+ The Company categorizes commercial and commercial real estate loans into risk categories based on relevant information about the ability of borrowers to service their debt such as: current financial information, historical payment experience, credit documentation, public information, and current economic trends, among other factors. The Company analyzes commercial and commercial real estate loans individually by classifying the loans as to credit risk. This analysis includes commercial loans with an outstanding balance greater than thousand. This analysis is performed on an annual basis. 
+ The Company uses the following definitions for risk ratings: 
+ Pass. Loans classified as pass (Cash Secured, Exceptional, Acceptable, Monitor or Pass Watch) may exhibit a wide array of characteristics but at a minimum represent an acceptable risk to the Bank. Borrowers in this rating may have leveraged but acceptable balance sheet positions, satisfactory asset quality, stable to favorable sales and earnings trends, acceptable liquidity, and adequate cash flow. Loans are considered fully collectible and require an average amount of administration. While generally adhering to credit policy, these loans may exhibit occasional exceptions that do not result in undue risk to the Bank. Borrowers are generally capable of absorbing setbacks, financial and otherwise, without the threat of failure. 
+ Special Mention. Loans classified as special mention have a material weakness deserving of management s close attention. If left uncorrected, these weaknesses may result in deterioration of the repayment prospects for the loan or of the Bank s credit position at some future date. 
+ Substandard. Loans classified as substandard are inadequately protected by the current net worth and paying capacity of the obligor or of the collateral pledged, if any. Loans so classified have a well-defined weakness or weaknesses jeopardizing the liquidation of the debt. They are characterized by the distinct possibility that the Bank will sustain some loss if the deficiencies are not corrected. 
+ 24 
+
+thousand or are included in groups of homogeneous loans. 
+
+Commercial real estate 
+
+Construction & land development 
+
+Total 
+
+2020 
+
+Commercial 
+
+Commercial real estate 
+
+Construction & land development 
+
+Total 
+
+Management monitors the credit quality of residential real estate and consumer loans as homogenous groups. These loans are evaluated based on delinquency status and included in the past due table in this section. Nonperforming loans include loans past due 90 days and greater and loans on nonaccrual of interest status. 
+ 
+ Mortgage Servicing Rights 
+ For the years ended December 31, 2021, and 2020, the Company had outstanding MSRs of thousand and thousand, respectively. valuation allowance was recorded on December 31, 2021, or 2020, as the fair value of the MSRs exceeded their carrying value. On December 31, 2021, the Company had million residential mortgage loans with servicing retained as compared to million with servicing retained on December 31, 2020. 
+ Total loans serviced for others approximated million and million on December 31, 2021, and 2020, respectively. 
+
+Buildings and improvements 
+
+Furniture and equipment 
+
+Leasehold improvements 
+
+Accumulated depreciation 
+
+Premises and equipment, net 
+
+Depreciation expense amounted to thousand, thousand, and thousand for the years ended December 31, 2021, 2020, and 2019, respectively. 
+ 
+ 25 
+
+to . Certain lease arrangements contain extension options which are typically years at the then fair market rental rates. As these extension options are generally considered reasonably certain of exercise, they are included in the lease term. 
+ 
+ As of December 31, 2021, operating lease ROU assets were thousand, and liabilities were thousand. For the years ended December 31, 2021, 2020, and 2019, CSB recognized thousand, thousand, and thousand in operating lease cost respectively. 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+2027 and thereafter 
+
+Total lease payments 
+
+Less: interest 
+
+Present value of lease liabilities 
+
+additional core deposit intangible was recorded in 2021, 2020, or 2019. The core deposit intangible asset will be amortized over an estimated life of . Amortization expense related to the core deposit intangible asset totaled thousand, thousand, and thousand in 2021, 2020, and 2019, respectively. 
+
+Accumulated amortization 
+
+Net carrying amount 
+
+Savings 
+
+Time deposits: 
+
+In excess of 250,000 
+
+Other 
+
+Total interest-bearing deposits 
+
+26 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+Total 
+
+Average balance outstanding 
+
+Maximum month-end balance 
+
+Weighted-average rate at year-end 
+
+Weighted-average rate during the year 
+
+Average balances outstanding during the year represent daily average balances average interest rates represent interest expenses divided by the related average balances. 
+
+Repurchase agreements 
+
+Other borrowings 
+
+27 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+2027 and beyond 
+
+Monthly principal and interest payments, as well as principal curtailments on the borrowings anniversary dates are due on the fixed-rate amortizing borrowings. FHLB borrowings are secured by a blanket collateral agreement. On December 31, 2021, the Company had the capacity to borrow an additional million from the FHLB. 
+
+Deferred 
+
+Total income tax provision 
+
+for 2021, 2020, and 2019 applied to income before taxes due to the following: 
+
+Effect of bond and loan tax-exempt income 
+
+Bank owned life insurance income 
+
+Other 
+
+Total income tax provision 
+
+Unrealized loss on securities 
+
+Other 
+
+Deferred tax assets 
+
+Premises and equipment 
+
+Federal Home Loan Bank stock dividends 
+
+Deferred loan fees 
+
+Prepaid expenses 
+
+Unrealized gain on securities 
+
+Other 
+
+Deferred tax liabilities 
+
+Net deferred tax asset (liability) 
+
+28 
+
+liability for uncertain tax positions and known unrecognized tax benefits. The Company recognizes, when applicable, interest and penalties related to unrecognized tax benefits in the provision for income taxes in the Consolidated Statements of Income. With few exceptions, the Company is no longer subject to U.S. federal, state, or local income tax examinations by tax authorities for years prior to 2018. in 2021, 2020, and 2019 of each eligible participant s compensation. Beginning in 2018, the Plan provided for a Company match up to a maximum of of eligible compensation. The Company auto enrolls all eligible new hires into the Plan. Expense under the Plan amounted to approximately thousand, thousand, and thousand for 2021, 2020, and 2019, respectively. 
+ The Company sponsors a non-qualified deferred compensation plan covering eligible officers. Expense under the plan amounted to thousand and thousand in 2021 and 2020, respectively. 
+
+Letters of credit 
+
+Commitments to extend credit are agreements to lend to a customer as long as there is no violation of any condition established in the contract. Consumer commitments generally have fixed expiration dates and commercial commitments are generally due on demand and may require payment of a fee. Since many of the commitments are expected to expire without being drawn upon, the total commitment amount does not necessarily represent future cash requirements. The Company evaluates each customer s credit worthiness on a case-by-case basis. The amount of collateral, obtained if deemed necessary by the Company upon extension of credit, is based on management s credit evaluation of the customer. Collateral held varies but may include residential real estate, accounts receivable, recognized inventory, property, plant and equipment, and income-producing commercial properties. 
+ Letters of credit are written conditional commitments issued by the Company to guarantee the performance of a customer to a third party and are reviewed for renewal at expiration. The credit risk involved in issuing letters of credit is essentially the same as that involved in extending loans to customers. The Company requires collateral supporting these commitments when deemed appropriate. 
+ The Company had a reserve for unfunded loan commitments of thousand as of December 31, 2021 and thousand as of December 31, 2020. 
+
+New loans and advances 
+
+Repayments, including loans sold 
+
+Changes in related parties 1 
+
+Balance at end of year 
+
+29 
+
+Deposits from executive officers, directors, their immediate family members, and their related business interests on December 31, 2021, and 2020 were approximately million and million. 
+ 30 
+
+Bank 
+
+Tier 1 capital to risk-weighted assets 
+
+Consolidated 
+
+Bank 
+
+Common equity tier 1 capital to 
+ risk-weighted assets 
+
+Consolidated 
+
+Bank 
+
+Tier 1 leverage ratio 
+
+Consolidated 
+
+Bank 
+
+2020 
+
+Total capital to risk-weighted assets 
+
+Consolidated 
+
+Bank 
+
+Tier 1 capital to risk-weighted assets 
+
+Consolidated 
+
+Bank 
+
+Common equity tier 1 capital to 
+ risk-weighted assets 
+
+Consolidated 
+
+Bank 
+
+Tier 1 leverage ratio 
+
+Consolidated 
+
+Bank 
+
+The Company s primary source of funds with which to pay dividends, are dividends received from the Bank. The payment of dividends by the Bank to the Company is subject to restrictions by its regulatory agencies. These restrictions generally limit dividends to current year net income and prior two-years net retained earnings. Also, dividends may not reduce capital levels below the minimum regulatory requirements disclosed in the prior table. Under these provisions, on January 1, 2022, the Bank could dividend million to the Company. The Company does not anticipate the financial need to obtain regulatory approval to pay dividends. Federal law prevents the Company from borrowing from the Bank unless loans are secured by specific obligations. Further, such secured loans are limited to an amount not exceeding percent of the Bank s common stock and capital surplus. 
+ 31 
+
+Investment in subsidiary bank 
+
+Securities available-for-sale 
+
+Other assets 
+
+TOTAL ASSETS 
+
+LIABILITIES AND SHAREHOLDERS EQUITY 
+
+Total liabilities 
+
+Total shareholders equity 
+
+TOTAL LIABILITIES AND SHAREHOLDERS EQUITY 
+
+Dividends from subsidiary 
+
+Unrealized gain (loss) on equity securities 
+
+Other income 
+
+Total income 
+
+Operating expenses 
+
+Income before taxes and undistributed equity 
+ income of subsidiary 
+
+Income tax benefit 
+
+Equity earnings in subsidiary, net of dividends 
+
+NET INCOME 
+
+COMPREHENSIVE INCOME 
+
+Adjustments to reconcile net income to cash provided by 
+ operations: 
+
+Equity earnings in subsidiary, net of dividends 
+
+Change in other assets, liabilities 
+
+Net cash provided by operating activities 
+
+Cash flows from financing activities: 
+
+Cash dividends paid 
+
+(Purchase) issuance of treasury stock 
+
+Net cash used in financing activities 
+
+(Decrease) increase in cash 
+
+Cash at beginning of year 
+
+Cash at end of year 
+
+32 
+
+liabilities were carried at fair value. As required by the accounting standards, financial assets and liabilities are classified in their entirety based on the lowest level of input that is significant to the fair value measurement. Equity securities with readily determinable values and U.S. Treasury Notes are valued at the closing price reported on the active market on which the individual securities are traded. Obligations of U.S. government agencies, mortgage-backed securities, asset-backed securities, obligations of states and political subdivisions and corporate bonds are valued at observable market data for similar assets. Equity securities without readily determinable values are carried at amortized cost, adjusted for impairment and observable price changes. 
+
+(Dollars in thousands) 
+
+Level I 
+
+Level II 
+
+Level III 
+
+Total 
+
+Assets: 
+
+December 31, 
+ 2021 
+
+Securities available-for-sale 
+
+U.S. Treasury securities 
+
+U.S. Government agencies 
+
+Mortgage-backed securities of government 
+ agencies 
+
+Asset-backed securities of government agencies 
+
+State and political subdivisions 
+
+Corporate bonds 
+
+Total available-for-sale securities 
+
+Equity securities 
+
+Assets: 
+
+December 31, 
+ 2020 
+
+Securities available-for-sale 
+
+U.S. Treasury security 
+
+U.S. Government agencies 
+
+Mortgage-backed securities of government 
+ agencies 
+
+Asset-backed securities of government agencies 
+
+State and political subdivisions 
+
+Corporate bonds 
+
+Total available-for-sale securities 
+
+Equity securities 
+
+33 
+
+assets measured on a nonrecurring basis as of December 31, 2021. The following table presents the assets measured on a nonrecurring basis on the consolidated balance sheets at their fair value as of December 31, 2020, by level within the fair value hierarchy. Impaired loans that are collateral dependent are written down to fair value through the establishment of specific reserves. Techniques used to value the collateral securing the impaired loans include: quoted market prices for identical assets classified as Level I inputs observable inputs, employed by certified appraisers, for similar assets classified as Level II inputs. In cases where valuation techniques included unobservable inputs and are based on estimates and assumptions developed by management based on the best information available under each circumstance, the asset valuation is classified as Level III inputs. 
+
+(Dollars in thousands) 
+
+Level I 
+
+Level II 
+
+Level III 
+
+Total 
+
+Assets measured on a nonrecurring basis 
+
+December 31, 2020 
+
+Impaired loans 
+
+Appraisal of 
+
+Appraisal adjustments 2 
+
+- 
+
+collateral 1 
+
+Liquidation expense 2 
+
+- 
+
+1 Fair value is generally determined through independent appraisals of the underlying collateral, which generally include various inputs which are not identifiable. 
+ 2 Appraisals may be adjusted by management for qualitative factors such as estimated liquidation expenses. The range of liquidation expenses and other appraisal adjustments are presented as a percent of the appraisal. 
+
+548,317 
+
+Mortgage servicing rights 
+
+604 
+
+604 
+
+Financial liabilities 
+
+Deposits 
+
+1,002,747 
+
+881,372 
+
+121,005 
+
+1,002,377 
+
+Other borrowings 
+
+3,407 
+
+3,431 
+
+2020 
+
+Carrying 
+
+Total Fair 
+
+(Dollars in thousands) 
+
+Value 
+
+Level I 
+
+Level II 
+
+Level III 
+
+Value 
+
+Financial assets 
+
+Securities held-to-maturity 
+
+9,045 
+
+9,225 
+
+9,225 
+
+Loans held for sale 
+
+1,378 
+
+1,428 
+
+1,428 
+
+Net loans 
+
+600,885 
+
+598,583 
+
+Mortgage servicing rights 
+
+488 
+
+488 
+
+Financial liabilities 
+
+Deposits 
+
+891,562 
+
+768,230 
+
+124,127 
+
+892,357 
+
+Other borrowings 
+
+4,664 
+
+4,775 
+
+34 
+
+Unrealized holding gain (loss) on available-for-sale 
+ securities arising during the period 
+
+Amortization of held-to-maturity discount resulting 
+ from transfer 
+
+Total other comprehensive income 
+
+BALANCE AS OF DECEMBER 31, 2019 
+
+Unrealized holding gain (loss) on available-for-sale 
+ securities arising during the period 
+
+Amortization of held-to-maturity discount resulting 
+ from transfer 
+
+Total other comprehensive income 
+
+BALANCE AS OF DECEMBER 31, 2020 
+
+Unrealized holding gain (loss) on available-for-sale 
+ securities arising during the period 
+
+Unrealized loss on securities transferred from available-for-sale to held to maturity 
+
+Amortization of held-to-maturity discount resulting 
+ from transfer 
+
+Total other comprehensive loss 
+
+BALANCE AS OF DECEMBER 31, 2021 
+
+from the date of the agreement, or pursuant to certain change in control transactions. 
+ 35 
+
+Second quarter 
+
+Third quarter 
+
+Fourth quarter 
+
+2020 
+
+First quarter 
+
+Second quarter 
+
+Third quarter 
+
+Fourth quarter 
+
+2019 
+
+First quarter 
+
+Second quarter 
+
+Third quarter 
+
+Fourth quarter 
+
+36 
+
+Exhibit Index 
+ The documents listed below are filed with this Annual Report on Form 10-K as exhibits or incorporated into this Annual Report on Form 10-K by reference as noted: 
+
+Exhibit 
+ Number 
+
+Description of Document 
+
+21 
+
+Subsidiaries of CSB Bancorp, Inc. 
+
+23.1 
+
+Consent of S.R. Snodgrass, P.C. 
+
+31.1 
+
+Section 302 Certification of Chief Executive Officer 
+
+31.2 
+
+Section 302 Certification of Chief Financial Officer 
+
+32.1 
+
+Section 906 Certification of Chief Executive Officer 
+
+32.2 
+
+Section 906 Certification of Chief Financial Officer 
+
+101.INS 
+
+Inline XBRL Instance Document the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 
+
+101.SCH 
+
+Inline XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+
+Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+
+Inline XBRL Taxonomy Extension Definition Linkbase Document 
+
+101.LAB 
+
+Inline XBRL Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+
+Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+
+104 
+
+The cover page for the Company s Annual Report on Form 10-K for the year ended December 31, 2020, has been formatted in Inline XBRL and contained in Exhibit 101 
+
+Filed herewith. 
+ Furnished herewith. 
+ 37 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+CSB BANCORP, INC. 
+
+/s/ Eddie L. Steiner 
+
+Date: April 6, 2022 
+
+Eddie L. Steiner, President and Chief Executive Officer 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities indicated on April 6, 2022. 
+
+Signatures 
+
+Title 
+
+/s/ Eddie L. Steiner 
+
+President and Chief Executive Officer 
+
+Eddie L. Steiner 
+
+/s/ Paula J. Meiler 
+
+Senior Vice President and Chief Financial Officer 
+
+Paula J. Meiler 
+
+/s/ Pamela S. Basinger 
+
+Vice President and Principal Accounting Officer 
+
+Pamela S. Basinger 
+
+/s/ Robert K. Baker 
+
+Director 
+
+Robert K. Baker 
+
+/s/ Vikki G. Briggs 
+
+Director 
+
+Vikki G. Briggs 
+
+/s/ Julian L. Coblentz 
+
+Director 
+
+Julian L. Coblentz 
+
+/s/ Cheryl M. Kirkbride 
+
+Director 
+
+Cheryl M. Kirkbride 
+
+/s/ Jeffery A. Robb, Sr. 
+
+Director 
+
+Jeffery A. Robb, Sr. 
+
+38 
+
+<EX-21>
+ 2
+ csbb-ex21_6.htm
+ EX-21
+
+csbb-ex21_6.htm
+
+EXHIBIT 21 
+ SUBSIDIARIES OF CSB BANCORP, INC. 
+ The Commercial and Savings Bank of Millersburg, Ohio, an Ohio-chartered commercial bank (100 owned). 
+ CSB Investment Services, LLC, an Ohio limited liability company (100 owned). 
+
+</EX-21>
+
+<EX-23.1>
+ 3
+ csbb-ex231_11.htm
+ EX-23.1
+
+csbb-ex231_11.htm
+
+EXHIBIT 23.1 
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ We consent to the incorporation by reference in Registration Statements File No. 333-130082, on Form S-8 of CSB Bancorp, Inc., and in the Registration Statement on Form S-8 of The Commercial Savings Bank 401(k) Retirement Plan of our report dated March 2, 2022, relating to our audit of the consolidated financial statements, which is incorporated in the Annual Report on Form 10-K of CSB Bancorp, Inc., for the year ended December 31, 2021. 
+
+/s/ S. R. Snodgrass, P.C. 
+
+Cranberry Township, Pennsylvania 
+ March 16, 2022 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ csbb-ex311_7.htm
+ EX-31.1
+
+csbb-ex311_7.htm
+
+EXHIBIT 31.1 
+ SECTION 302 CERTIFICATION 
+ Chief Executive Officer 
+ I, Eddie L. Steiner, certify that: 
+
+1. 
+ 
+ I have reviewed this Amendment No. 1 to the Annual Report on Form 10-K of CSB Bancorp, Inc.; 
+
+2. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report; 
+
+4. 
+ 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined by Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ 
+ Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+ Date: April 6, 2022 
+
+/s/ Eddie L. Steiner 
+
+Eddie L. Steiner 
+
+President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ csbb-ex312_8.htm
+ EX-31.2
+
+csbb-ex312_8.htm
+
+EXHIBIT 31.2 
+ SECTION 302 CERTIFICATION 
+ Senior Vice President and Chief Financial Officer 
+ I, Paula J. Meiler, certify that: 
+
+1. 
+ 
+ I have reviewed this Amendment No. 1 to the Annual Report on Form 10-K of CSB Bancorp, Inc.; 
+
+2. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report; 
+
+4. 
+ 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined by Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ 
+ Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+ Date: April 6, 2022 
+
+/s/ Paula J. Meiler 
+
+Paula J. Meiler 
+
+Senior Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ csbb-ex321_9.htm
+ EX-32.1
+
+csbb-ex321_9.htm
+
+EXHIBIT 32.1 
+ Certification Pursuant to 
+ 18 U.S.C. Section 1350, 
+ As Adopted Pursuant to 
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+ In connection with the Annual Report of CSB Bancorp, Inc. (the Company on Form 10-K for the fiscal year ended December 31, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Eddie L. Steiner, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge: 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Eddie L. Steiner 
+
+Eddie L. Steiner 
+
+President and 
+
+Chief Executive Officer 
+
+April 6, 2022 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ csbb-ex322_10.htm
+ EX-32.2
+
+csbb-ex322_10.htm
+
+EXHIBIT 32.2 
+ Certification Pursuant to 
+ 18 U.S.C. Section 1350, 
+ As Adopted Pursuant to 
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+ In connection with the Annual Report of CSB Bancorp, Inc. (the Company on Form 10-K for the fiscal year ended December 31, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Paula J. Meiler, Senior Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge: 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Paula J. Meiler 
+
+Paula J. Meiler 
+
+Senior Vice President and 
+
+Chief Financial Officer 
+
+April 6, 2022 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 13
+ csbb-20211231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 14
+ csbb-20211231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 15
+ csbb-20211231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 16
+ csbb-20211231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 17
+ csbb-20211231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

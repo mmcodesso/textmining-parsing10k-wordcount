@@ -1,0 +1,2314 @@
+<Header>
+<FileStats>
+    <FileName>20220104_10-Q_edgar_data_831489_0001104659-22-000841.txt</FileName>
+    <GrossFileSize>2480992</GrossFileSize>
+    <NetFileSize>106492</NetFileSize>
+    <NonText_DocumentType_Chars>160677</NonText_DocumentType_Chars>
+    <HTML_Chars>749137</HTML_Chars>
+    <XBRL_Chars>765578</XBRL_Chars>
+    <XML_Chars>643927</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-22-000841.hdr.sgml : 20220104
+<ACCEPTANCE-DATETIME>20220104145403
+ACCESSION NUMBER:		0001104659-22-000841
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		39
+CONFORMED PERIOD OF REPORT:	20190930
+FILED AS OF DATE:		20220104
+DATE AS OF CHANGE:		20220104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCORES HOLDING CO INC
+		CENTRAL INDEX KEY:			0000831489
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AMUSEMENT & RECREATION SERVICES [7900]
+		IRS NUMBER:				870426358
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-16665
+		FILM NUMBER:		22505365
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 EAST 58TH STREET
+		STREET 2:		SUITE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-421-8480
+
+	MAIL ADDRESS:	
+		STREET 1:		533-535 WEST 27TH STREET
+		STREET 2:		SUITE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERNET ADVISORY CORP
+		DATE OF NAME CHANGE:	19980904
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OLYMPUS MTM CORP
+		DATE OF NAME CHANGE:	19970215
+
+</SEC-Header>
+</Header>
+
+ 0001104659-22-000841.txt : 20220104
+
+10-Q
+ 1
+ tm2134215d1_10q.htm
+ FORM 10-Q
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, DC 20549 
+
+FORM 10-Q 
+
+(Mark One) 
+
+QUARTERLY
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended: September 30,
+2019 
+
+ or 
+
+TRANSITION
+ REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from _______ to _______ 
+
+Commission File Number: 000-16665 
+
+SCORES HOLDING COMPANY, INC. 
+
+ (Exact name of registrant as specified in its
+charter) 
+
+Utah 
+ 
+ 87-0426358 
+ 
+ (State
+ or other jurisdiction of 
+ incorporation or organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification No.) 
+
+533-535
+ West 27 th Street, New York, NY 
+ 
+ 10001 
+ 
+ (Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+212-246-9090 
+
+ (Registrant s telephone number, including
+area code) 
+
+N/A 
+
+ (Former Name, Former Address and Former Fiscal
+Year, If Changed Since Last Report) 
+
+ Securities registered pursuant to Section 12(b) of
+the Act: None 
+
+Title
+ of each class 
+ 
+ Trading 
+ Symbol(s) 
+ 
+ Name
+ of each exchange 
+ on which registered 
+ 
+ N/A 
+ 
+ N/A 
+ 
+ N/A 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes No x 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405
+of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
+required to submit such files). Yes No x 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+See definitions of large accelerated filer, accelerated filer, smaller reporting company, and
+ emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Non-accelerated filer 
+ x 
+ Smaller reporting company 
+ x 
+ 
+ Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No x 
+
+Indicate the number of shares outstanding of
+each of the issuer s classes of common stock, as of the latest practicable date: 
+
+As
+of November 12, 2021 there were 165,186,144 shares of common stock, 0.001 par value per share, outstanding. 
+
+TABLE OF CONTENTS 
+
+PART I FINANCIAL
+ INFORMATION 
+
+Item
+ 1. Financial Statements (unaudited) 
+ F-1 
+ 
+ Item
+ 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ F-1 
+ 
+ Item
+ 3. Quantitative and Qualitative Disclosures about Market Risk 
+ 6 
+ 
+ Item
+ 4. Controls and Procedures 
+ 6 
+ 
+ PART II OTHER
+ INFORMATION 
+ 7 
+ 
+ Item
+ 1. Legal Proceedings 
+ 7 
+ 
+ Item
+ 1A. Risk Factors 
+ 10 
+ 
+ Item
+ 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 10 
+ 
+ Item
+ 3. Defaults upon Senior Securities 
+ 10 
+ 
+ Item
+ 4. Mine Safety Disclosure 
+ 10 
+ 
+ Item
+ 5. Other Information 
+ 10 
+ 
+ Item
+ 6. Exhibits 
+ 10 
+
+2 
+
+FORWARD-LOOKING STATEMENTS 
+
+Except for historical information, this
+report contains forward-looking information within the meaning of the Private Securities Litigation Reform Act of
+1995, and Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, both as
+amended. Such forward-looking statements involve risks and uncertainties, including, among other things, statements regarding our
+business strategy, future revenues and anticipated costs and expenses. Such forward-looking statements can be identified by the use
+of forward-looking terminology such as may, will, anticipates, intends, 
+ expects, projects, estimates, believes, seeks, 
+ could, should, the negative thereof or comparable terminology. Our actual results may differ
+significantly from those projected in the forward-looking statements. Factors that might cause or contribute to such differences
+include, but are not limited to, those discussed in the section Management s Discussion and Analysis of Financial
+Condition and Results of Operations . You are cautioned not to place undue reliance on the forward-looking statements, which
+speak only as of the date of this report. We undertake no obligation to publicly release any revisions to the forward-looking
+statements or reflect events or circumstances taking place after the date of this document, except as required by law. 
+
+PART I FINANCIAL INFORMATION 
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+Condensed Consolidated
+ Balance Sheets 
+ F-2 
+
+Condensed Consolidated
+ Statements of Operations 
+ F-3 
+
+Condensed Consolidated
+ Statements of Cash Flows 
+ F-4 
+
+Condensed Consolidated
+ Statement of Changes in Stockholders Deficit 
+ F-5 
+
+Notes to Condensed Consolidated
+ Financial Statements 
+ F-6 
+
+F- 1 
+
+SCORES HOLDING COMPANY, INC. AND SUBSIDIARY 
+
+CONDENSED
+CONSOLIDATED BALANCE SHEETS 
+
+September 30, 
+ December 31, 
+
+2019 
+ 2018 
+
+(Unaudited) 
+
+ASSETS 
+
+CURRENT ASSETS: 
+
+Cash and cash equivalents 
+ 17,143 
+ 7,662 
+ 
+ Trade receivables - including affiliates, net of allowance of 4,800 and 43,800, respectively 
+ 95,114 
+ 52,017 
+ 
+ Prepaid expenses 
+ 28,453 
+ 13,897 
+
+Total Current Assets 
+ 140,710 
+ 73,576 
+
+TOTAL ASSETS 
+ 140,710 
+ 73,576 
+
+LIABILITIES AND STOCKHOLDERS' (DEFICIT) 
+
+CURRENT LIABILITIES: 
+
+Accounts payable and accrued expenses 
+ 188,597 
+ 137,547 
+ 
+ Accrued expenses, related 
+ 7,500 
+ 18,949 
+ 
+ Related party payable 
+ 52,500 
+ 75,000 
+
+Total Current Liabilities 
+ 248,597 
+ 231,496 
+
+Related party loan payable - long term 
+ 342,178 
+ 400,470 
+ 
+ Deferred revenue - long term 
+ 145,000 
+ 112,500 
+
+TOTAL LIABILITIES 
+ 735,775 
+ 744,466 
+
+Commitments and Contingencies (Note 7) 
+ - 
+ - 
+
+STOCKHOLDERS' (DEFICIT) 
+
+Preferred stock, .0001 par value,
+ 10,000,000 shares authorized, -0- issued and outstanding 
+ - 
+ - 
+ 
+ Common stock, .001 par value; 500,000,000 shares authorized, 165,186,144 issued and 165,186,144 outstanding, respectively 
+ 165,186 
+ 165,186 
+ 
+ Additional paid-in capital 
+ 6,058,117 
+ 6,058,117 
+ 
+ Accumulated deficit 
+ (6,818,368 
+ (6,894,193 
+
+Total Stockholders' (Deficit) 
+ (595,065 
+ (670,890 
+
+TOTAL LIABILITIES AND STOCKHOLDERS' (DEFICIT) 
+ 140,710 
+ 73,576 
+
+See notes to the unaudited condensed consolidated financial statements. 
+
+F- 2 
+
+SCORES
+HOLDING COMPANY, INC. AND SUBSIDIARY 
+
+CONDENSED
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+ (Unaudited) 
+
+Three Months Ended 
+ Nine Months Ended 
+
+September 30, 
+ September 30, 
+
+2019 
+ 2018 
+ 2019 
+ 2018 
+ 
+ REVENUES 
+
+Royalty Revenue 
+ 174,124 
+ 234,489 
+ 439,971 
+ 629,564 
+
+Total Revenue 
+ 174,124 
+ 234,489 
+ 439,971 
+ 629,564 
+
+EXPENSES 
+
+General and Administrative Expenses 
+ 159,954 
+ 209,636 
+ 480,415 
+ 567,940 
+
+INCOME/(LOSS) FROM OPERATIONS 
+ 14,170 
+ 24,853 
+ (40,444 
+ 61,624 
+
+OTHER INCOME/(EXPENSE) 
+
+Litigation Settlement,net 
+ 5,000 
+ 325,660 
+ 90,000 
+ (974,340 
+ 
+ Interest Income/(Expense), net 
+ (3,908 
+ 13,890 
+ (12,731 
+ 13,185 
+ 
+ Other Income 
+ 10,000 
+ 227,545 
+ 39,000 
+ 262,620 
+
+TOTAL OTHER INCOME/(EXPENSE) 
+ 11,092 
+ 567,095 
+ 116,269 
+ (698,535 
+
+NET INCOME/(LOSS) BEFORE INCOME TAXES 
+ 25,262 
+ 591,948 
+ 75,825 
+ (636,911 
+
+INCOME TAXES 
+ - 
+ 14 
+ - 
+ 1,890 
+
+NET INCOME/(LOSS) 
+ 25,262 
+ 591,934 
+ 75,825 
+ (638,801 
+
+NET INCOME/(LOSS) PER SHARE-Basic and Diluted 
+ 0.00 
+ 0.00 
+ 0.00 
+ (0.00 
+
+WEIGHTED AVERAGE OF COMMON SHARES OUTSTANDING-Basic and Diluted 
+ 165,186,144 
+ 165,186,144 
+ 165,186,144 
+ 165,186,144 
+
+See
+notes to the unaudited condensed consolidated financial statements. 
+
+F- 3 
+
+SCORES HOLDING COMPANY INC. AND SUBSIDIARY 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ (Unaudited) 
+
+Nine Months Ended 
+
+September 30, 
+
+2019 
+ 2018 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net Income/(Loss) 
+ 75,825 
+ (638,801 
+
+Adjustments to reconcile net income/(loss) to net cash provided by/(used in) operating activities: 
+
+Recovery of bad debts 
+ (39,000 
+ (241,654 
+ 
+ ASC 606 revenue recognition 
+ - 
+ 71,000 
+
+Changes in assets and liabilities: 
+
+Licensee receivable 
+ (4,097 
+ 213,241 
+ 
+ Prepaid expenses 
+ (14,556 
+ (16,811 
+ 
+ Security deposit payable 
+ - 
+ (20,000 
+ 
+ Accounts payable and accrued expenses 
+ 51,050 
+ 97,812 
+ 
+ Accrued expenses, related party 
+ (11,449 
+ 17,219 
+ 
+ Accrued litigation settlement 
+ - 
+ - 
+ 
+ Deferred revenue 
+ 32,500 
+ 38,750 
+
+NET CASH PROVIDED BY/(USED IN) OPERATING ACTIVITIES 
+ 90,273 
+ (479,244 
+
+CASH FLOW FROM FINANCING ACTIVITIES: 
+
+Related party payables 
+ (22,500 
+ 60,000 
+ 
+ Proceeds from related party 
+ (58,292 
+ 399,139 
+
+NET CASH PROVIDED BY/(USED IN) FINANCING ACTIVITIES 
+ (80,792 
+ 459,139 
+
+NET INCREASE/(DECREASE) IN CASH 
+ 9,481 
+ (20,105 
+ 
+ Cash and cash equivalents - beginning of period 
+ 7,662 
+ 33,457 
+ 
+ Cash and cash equivalents - end of period 
+ 17,143 
+ 13,352 
+
+Supplemental disclosures of cash flow information: 
+
+Cash paid during the period for interest 
+ 1,023 
+ 909 
+ 
+ Cash paid for income taxes 
+ - 
+ 1,890 
+
+See notes to the unaudited condensed
+consolidated financial statements. 
+
+F- 4 
+
+SCORES HOLDING COMPANY
+INC. AND SUBSIDIARY 
+
+UNAUDITED CONDENSED CONSOLIDATED
+STATEMENT OF CHANGES IN STOCKHOLDER'S DEFICIT 
+
+ YEAR
+ENDED DECEMBER 31, 2018 AND NINE MONTHS ENDED SEPTEMBER 30, 2019 
+
+Additional 
+ 
+ Total 
+
+Common Stock 
+ Paid in 
+ Accumulated 
+ Stockholders 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Deficit 
+ 
+ Balance as of December 31, 2017 
+ 165,186,144 
+ 165,186 
+ 6,058,117 
+ (6,294,398 
+ (71,095 
+
+ASC 606 revenue recogonition 
+ - 
+ - 
+ - 
+ 71,000 
+ 71,000 
+
+Net Loss 
+ - 
+ - 
+ - 
+ (1,381,925 
+ (1,381,925 
+
+Balance as of March 31, 2018 
+ 165,186,144 
+ 165,186 
+ 6,058,117 
+ (7,605,323 
+ (1,382,020 
+
+Net Income 
+ - 
+ - 
+ - 
+ 151,190 
+ 151,190 
+
+Balance as of June 30, 2018 
+ 165,186,144 
+ 165,186 
+ 6,058,117 
+ (7,454,133 
+ (1,230,830 
+
+Net Income 
+ - 
+ - 
+ - 
+ 591,934 
+ 591,934 
+
+Balance as of September 30, 2018 
+ 165,186,144 
+ 165,186 
+ 6,058,117 
+ (6,862,199 
+ (638,896 
+
+Balance as of December 31, 2018 
+ 165,186,144 
+ 165,186 
+ 6,058,117 
+ (6,894,193 
+ (670,890 
+
+Net Loss 
+ - 
+ - 
+ - 
+ (42,956 
+ (42,956 
+
+Balance as of March 31, 2019 
+ 165,186,144 
+ 165,186 
+ 6,058,117 
+ (6,937,149 
+ (713,846 
+
+Net Income 
+ - 
+ - 
+ - 
+ 93,519 
+ 93,519 
+
+Balance as of June 30, 2019 
+ 165,186,144 
+ 165,186 
+ 6,058,117 
+ (6,843,630 
+ (620,327 
+
+Net Income 
+ - 
+ - 
+ - 
+ 25,262 
+ 25,262 
+
+Balance as of September 30, 2019 
+ 165,186,144 
+ 165,186 
+ 6,058,117 
+ (6,818,368 
+ (595,065 
+
+F- 5 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+Note 1. Organization 
+
+BASIS OF PRESENTATION 
+
+Scores Holding Company, Inc. (the Company is a Utah corporation, formed in September 1981 and located in New York, NY. Originally incorporated as Adonis Energy, Inc.,
+the Company adopted its current name in July 2002. The Company is a licensing company that utilizes the SCORES name
+and trademark for licensing options. 
+
+The consolidated financial statements of the
+Company have been prepared in accordance with generally accepted accounting principles in the United States of America U.S.
+GAAP ). The consolidated financial statements of the Company include the accounts of Scores Licensing Corp. SLC ), its wholly-owned subsidiary. 
+
+The Company's condensed consolidated financial
+statements include the Company's accounts, as well as those of its wholly-owned subsidiary. Certain prior period amounts have
+been reclassified to conform to the current period presentation. The Company's accompanying unaudited condensed consolidated financial
+statements have been prepared in accordance with U.S. GAAP for interim financial information and with the instructions to Form 10-Q
+and Article 10 of Regulation S-X. Accordingly, they do not include all of the information and footnote disclosures required
+by U.S. GAAP for complete financial statements. The condensed consolidated financial statements reflect all adjustments considered
+necessary for a fair presentation of the condensed consolidated results of operations and financial position for the interim periods
+presented. All such adjustments are of a normal recurring nature. These unaudited condensed interim consolidated
+financial statements should be read in conjunction with the audited consolidated financial statements and notes to the consolidated financial
+statements contained in the Company's Annual Report on Form 10-K for the year ended December 31, 2018. 
+
+The preparation of financial statements in conformity
+with U.S. GAAP requires the Company to make estimates and assumptions that affect the reported amounts of assets and liabilities, and
+disclosure of contingent assets and liabilities, at the date of the financial statements and the reported amounts of revenues and expenses
+during the reporting period. Actual results could differ from those estimates. The results of operations for the
+nine months ended September 30, 2019 are not necessarily indicative of the results to be expected for any other interim period or
+for the year ending December 31, 2019. 
+
+Note 2. Summary of Significant Accounting
+Principles 
+
+Going Concern 
+
+As of September 30, 2019, the Company has
+cumulative losses totaling (6,818,368) and negative working capital of 107,887. The Company had a net income of 75,825 for the nine
+months ended September 30, 2019. Because of these conditions, the Company will require additional working capital to develop business
+operations. The Company intends to raise additional working capital through the continued licensing of its brand with its current and
+new operators. There are no assurances that the Company will be able to achieve the level of revenues adequate to generate sufficient
+cash flow from operations to support the Company s working capital requirements. To the extent that funds generated from any future
+use of licensing are insufficient, the Company will have to raise additional working capital. No assurance can be given that additional
+financing will be available, or if available, will be on terms acceptable to the Company. If adequate working capital is not available,
+the Company may not continue its operations. 
+
+These conditions raise substantial doubt about
+the Company s ability to continue as a going concern. The financial statements do not include any adjustments relating to the recoverability
+and classification of asset carrying amounts or the amount and classification of liabilities that might be necessary should the Company
+be unable to continue as a going concern. 
+
+F- 6 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+Concentration of Credit Risk 
+
+The Company earns royalty revenues from ten licensees. 
+
+With regards to September 30, 2019, concentrations
+of sales from four licensees range from 10 to 30 , totaling 78 . There are receivables from two licensees ranging from 14 to 76 , totaling
+90 . There are no sales from licensees that are considered related parties. There are no receivables from these licensees that are considered
+related parties. 
+
+With regards to September 30, 2018, concentrations
+of sales from four licensees range from 11 to24 , totaling 70 . There are receivables from three licensees ranging from 16 to 33 totaling
+77 . . There are no sales from licensees that are considered related parties. There are no receivables from these licensees that are
+considered related parties. 
+
+Principles of consolidation 
+
+The consolidated financial statements include
+the accounts of the Company and its wholly-owned subsidiary. Inter-company items and transactions have been eliminated in consolidation. 
+
+Cash and cash equivalents 
+
+The Company considers all highly liquid temporary
+cash investments, with a maturity of three months or less when purchased, to be cash equivalents. There are times when cash may exceed
+ 250,000, the FDIC insured limit. 
+
+Income per Share 
+
+Under ASC 260-10-45,
+ Earnings Per Share , basic income (loss) per common share is computed by dividing the income (loss) applicable to common
+stockholders by the weighted average number of common shares assumed to be outstanding during the period of computation. Diluted income
+(loss) per common share is computed using the weighted average number of common shares and, if dilutive, potential common shares outstanding
+during the period. Accordingly, the weighted average number of common shares outstanding for the periods ended September 30, 2019
+and 2018, respectively, is the same for purposes of computing both basic and diluted net income per share for such years. As of September 30,
+2019, there are no outstanding stock equivalents. 
+
+Fair Value of Financial Instruments 
+
+The carrying value of cash and accrued expenses,
+if applicable, approximate their fair values based on the short-term maturity of these instruments. The carrying amounts of debt were
+also estimated to approximate fair value. 
+
+The Company utilizes the methods of fair value
+measurement as described in ASC 820 to value its financial assets and liabilities. As defined in ASC 820, fair value is based on the
+price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at
+the measurement date. In order to increase consistency and comparability in fair value measurements, ASC 820 establishes a fair value
+hierarchy that prioritizes observable and unobservable inputs used to measure fair value into three broad levels, which are described
+below: 
+
+Level 1: Quoted prices (unadjusted) in active
+markets that are accessible at the measurement date for assets or liabilities. The fair value hierarchy gives the highest priority to
+Level 1 inputs. 
+
+Level 2: Observable prices that are based on inputs not quoted
+on active markets, but corroborated by market data. 
+
+Level 3: Unobservable inputs are used when
+little or no market data is available. The fair value hierarchy gives the lowest priority to Level 3 inputs. 
+
+F- 7 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+Recently Issued Accounting Standards Update 
+
+Leases 
+
+In
+March 2019, the FASB issued ASU No. 2019-01, Leases (Topic 842): Codification Improvements. ASU 2019-01 aligns the guidance
+for fair value of the underlying asset by lessors with existing guidance in Topic 842. The ASU requires that the fair value of the underlying
+asset at lease commencement is its cost reflecting in volume or trade discounts that may apply. However, if there has been a significant
+lapse of time between the date the asset was acquired and the lease commencement date, the definition of fair value as outlined in Topic
+820 should be applied. In addition, the ASU exempts both lessees and lessors from having to provide certain interim disclosures in the
+fiscal year in which a company adopts the new leases standard. The update is effective for fiscal years, and interim periods within those
+fiscal years, beginning after December 15, 2019. We are still evaluating the impact of this ASU on the Company s consolidated
+financial statements . 
+
+All new accounting pronouncements issued but
+not yet effective or adopted have been deemed not to be relevant to us, hence are not expected to have any impact once adopted. 
+
+Note 3. Revenue Recognition 
+
+Effective January 1, 2018, the Company adopted
+Financial Accounting Standards Board FASB Topic 606, Revenue from Contacts with Customers ASC 606 ). ASC
+606 was applied using the modified retrospective method. Accordingly, comparative periods have not been adjusted and continue to be reported
+under FASB ASC Topic 605, Revenue Recognition ASC 605 ). There was a cumulative effect of 71,000 to be recognized as an
+adjustment to opening retained earnings at January 1, 2018 related to deferred revenue booked from initiation fees that were received
+in prior years of 49,750 that would have been recognized at a point in time and revenues that would be recognized on the accrual basis
+in the prior years based on collection probability assessment of 21,250. Under ASC 605, initiation fee revenue was to be deferred and
+recognized over the life of the contract while most royalty revenues were recognized as collected. However, under ASC 606, revenue from
+the initiation fees are recognizable when at a point in time (first month of the contract) and royalty revenues are recognized over time
+for those contracts with probable collections. 
+
+The Company's license fee revenue is generated
+from royalties earned through intellectual property licensing agreements which permit the licensee to use the recognition and status
+of the Scores brand in order to promote their businesses. Under ASC 606, revenue is recognized throughout the life of the executed licensing
+agreement. The Company measures revenue based on consideration specified in a contract with a customer. Furthermore, the Company recognizes
+revenue when it satisfies a performance obligation by transferring control over the service to its customer. 
+
+A performance obligation is a promise in a contract
+to transfer a distinct service to the customer. The transaction price of a contract is allocated to each distinct performance obligation
+and recognized as revenue when or as the customer receives the benefit of the performance obligation. The Company's customers typically
+receive the benefit of its services as they are performed. Substantially all customer contracts provide that the Company is compensated
+for services performed to date. Taxes assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing
+transaction, that are collected by the Company from a customer, are excluded from revenue. 
+
+Nature of goods and services 
+
+The following is a description of the Company's
+products and services from which it generates revenue, as well as the nature, timing of satisfaction of performance obligations, and
+significant payment terms for each: 
+
+i. Licensing Revenue 
+
+Licensing fees represent the fees the Company
+receives from the licensing of the Company's Scores trademark. The terms of the royalties earned under these license agreements vary
+from a flat monthly fee to a percentage of the revenues of the licensee on a monthly basis. The licensing rights are transferred to the
+Company's customers over time, and the Company recognizes licensing revenue over time because the customer will simultaneously receive
+and consume the benefit from the license as the performance occurs. 
+
+F- 8 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+ii. Stand-Ready for Consulting and Club Set-up
+Services 
+
+The Company offers an initial set-up and consultation
+to new clubs in order to aid in the opening and operation. The services are provided within the first month of any licensing agreements,
+and sometimes are not requested by the licensee and therefore never provided. 
+
+Disaggregation of revenue 
+
+In the following table, revenue is disaggregated
+by major products/service lines, and timing of revenue recognition: 
+
+For
+ the Three Months 
+ Ended September 30, 
+
+For
+ the Nine Months 
+ Ended September 30, 
+
+2019 
+
+2018 
+
+2019 
+
+2018 
+
+Major products/service lines 
+
+Licensing fees - royalty revenue 
+
+174,124 
+
+234,489 
+
+439,971 
+
+629,564 
+
+Total Revenue 
+
+174,124 
+
+234,489 
+
+439,971 
+
+629,564 
+
+Timing of revenue recognition 
+
+Products transferred at a point in time 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Products and services transferred over time 
+
+174,124 
+
+234,489 
+
+439,971 
+
+629,564 
+
+174,124 
+
+234,489 
+
+439,971 
+
+629,564 
+
+Contract balances 
+
+The following table provides information about
+receivables and liabilities from contracts with customers: 
+
+September 30, 2019 
+ December 31, 2018 
+ 
+ Assets 
+
+Trade receivables - including affiliates, net 
+ 95,114 
+ 52,017 
+ 
+ Liabilities 
+
+Deferred revenue 
+ 0 
+ 0 
+ 
+ Deferred revenue - long term 
+ 145,000 
+ 112,500 
+
+F- 9 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+Contract receivables are recorded at the invoiced amount and do not
+bear interest. Credit is extended based on the evaluation of a customer s financial condition and collateral is not required. 
+
+The contract liabilities primarily relate to
+deferred revenue. Amounts billed in advance of performance obligations being satisfied are booked as deferred revenue. 
+
+Practical Expedients and Exemptions 
+
+The Company did not apply any practical expedients
+during the adoption of ASC 606. 
+
+Note 4. Related-Party Transactions 
+
+Transactions with Common ownership affiliates: 
+
+On January 24, 2006, the Company entered
+into a licensing agreement with AYA International, Inc. AYA granting AYA the right to use the Company's trademarks
+in connection with its online video chat website, Scoreslive.com. The agreement with AYA provides for royalty payments
+to be made directly to the Company at the rate of 4.99 of weekly gross revenues from all revenue sources within the AYA website. On
+December 21, 2009, AYA transferred all of its rights in Scoreslive.com and in its licensing agreement with the Company to Swan Media
+Group, Inc. Swan ), a newly formed New York corporation whose majority owner (80 is Robert M. Gans, who is also
+the majority shareholder and chief executive officer of the Company. The Company is owed 0 and 0 in unpaid royalties and expenses as
+of September 30, 2019 and December 31, 2018, respectively. 
+
+On January 27, 2009, the Company entered
+into a licensing agreement with its affiliate through common ownership I.M. Operating LLC IMO for the use of the Scores
+brand name Scores New York . Robert M. Gans is the majority owner (72 of IMO and is also the Company s majority
+shareholder and chief executive officer and Howard Rosenbluth, the Company s Treasurer and a Director, owns 2 . IMO owes the Company
+a royalty receivable of 0 and 0 as of September 30, 2019 and December 31, 2018, respectively. 
+
+On August 31, 2017, IMO entered into
+an agreement to sell all of its assets to Club Azure LLC CA ). Effective September 1, 2017, IMO no longer operated
+Scores New York and terminated its licensing agreement with the Company. Mark Yackow, an unrelated party, is the sole owner (100 of
+CA and former Chief Operating Officer of IMO. Effective September 1, 2017, the Company granted an exclusive, non-transferable license
+for the use of the Scores New York to CA for its gentlemen s club in New York City. Royalties under this license
+are payable at a rate of 5,000 per month, commencing in September 2017, and the license is for a term of five years, with five
+successive five-year renewal terms. 
+
+The Company also leases office space directly
+from Westside Realty of New York, Inc. (WSR), the owner of the West 27th Street Building. The majority owner of WSR (80 is Robert
+M. Gans. Since April 1, 2009, the monthly rent has been 2,500 per month including overhead costs. The Company owed WSR 7,500 and
+ 7,500 in unpaid rents as of September 30, 2019 and December 31, 2018, respectively. 
+
+Effective January 1, 2013, the Company
+entered into a management services agreement with Metropolitan Lumber Hardware and Building Supplies, Inc. Metropolitan pursuant to which Metropolitan provides management and other services to the Company, including the
+services of Robert M. Gans and Howard Rosenbluth to act as executive officers of the Company. In consideration of the services, the
+Company paid Metropolitan a fee in the amount of 30,000 per year. Effective May 5, 2015, the agreement was amended increasing
+the annual fee to 90,000. Effective January 1, 2017, the agreement was further amended to remove the requirement that the
+services of Robert M. Gans to be provided under the agreement. In addition, Metropolitan shall be eligible for a discretionary cash
+bonus. The agreement may be terminated by either party upon ten days written notice. Mr. Gans is the sole owner of
+Metropolitan. The Company owed 45,000 and 67,500 in unpaid management services as of September 30, 2019 and December 31,
+2018, respectively. 
+
+F- 10 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+As of September 30, 2019, the Company has
+accrued expenses of 7,500 due to Metropolitan. The Company owed 7,500 and 18,949 as of September 30, 2019 and December 31,
+2018, respectively. 
+
+Effective July 1, 2018, after the gentlemen s
+club in New Jersey had been closed from August 15, 2016 to June 28, 2018, the Company terminated the previous licensing agreement
+and granted an exclusive, non-transferable license for the use of the Scores Atlantic City name to Star Light Events LLC Star Light for its gentlemen s club in Atlantic City, New Jersey. Royalties under this license are payable at the
+rate of 5,000 per month, commencing in July 2018, and the license is for a term of five years, with five successive five-year renewal
+terms. Pursuant to the written agreement, the Company also granted Star Light a non-exclusive, non-transferable license to sell certain
+licensed products bearing the Company's trademarks. Star Light will purchase the licensed products from the Company or its affiliates
+at cost plus 25 . Robert M. Gans, the Company's President, Chief Executive Officer and a Director, is the majority owner (92.165 of
+Star Light and Howard Rosenbluth, the Company's Secretary, Treasurer and a Director, owns 1 . Star Light owes the Company a royalty receivable
+of 0 and 0 as of September 30, 2019 and December 31, 2018, respectively. 
+
+On December 9, 2013, the Company entered
+into a license agreement with its subsidiary, SLC, granting SLC the exclusive right to use certain trademarks, including the Scores 
+stylized trademark, in connection with certain goods and services. The grant of license also includes the right to issue sublicenses
+to third parties, subject to the approval of the Company. Pursuant to the agreement, SLC shall pay to the Company a royalty, as determined
+by the Company, such as a percentage of net revenue or a flat fee, received in connection with the provision of services and/or sale
+of goods using the trademarks. SLC may also pay a percentage, as determined by the Company, of all royalties received by SLC under any
+sublicense agreements. SLC and any sublicensees are to adhere to quality standards as set by the Company, and the Company has the right
+to inspect all facilities and approve all promotional and marketing materials as well as any related packaging. The agreement has a one-year
+term with automatic one-year renewals, subject to either party s election to terminate the agreement at least thirty days prior
+to such renewal. The Company also has the right to terminate the agreement, with immediate effect, upon the occurrence of certain events.
+The license is subject to any pre-existing license agreements as of the date of the agreement. 
+
+Effective February 28, 2017 (the Effective
+Date ), the Company entered into separate Settlement Agreements (each, a Settlement Agreement with three licensees, IMO,
+Star Light and Swan (are sometimes referred to individually as a Licensee and collectively as the Licensees controlled by Robert M. Gans, the Company's President, Chief Executive Officer and a member of its Board of Directors. 
+
+As of the Effective Date, IMO owed the Company
+an aggregate of 255,406 in unpaid royalties and other fees. Under its Settlement Agreement, IMO has agreed to pay the entire amount
+owed to the Company, in full settlement of all claims the Company may have against it. The settlement amount is payable pursuant to a
+promissory note in 22 consecutive monthly installments commencing March 1, 2017 and bears simple interest at the rate of 4 per
+year. Included as an event of default under the note is a requirement that IMO remain current in its obligations to the Company under
+its license agreement from and after the Effective Date. This obligation was satisfied under the terms of the Offset Agreement as discussed
+further below. 
+
+As of the Effective Date, Star Light owed the
+Company an aggregate of 250,000 in unpaid royalties and other fees. Star Light is currently inactive and has no revenue. Under its Settlement
+Agreement, Star Light has agreed to pay the Company 75,000, in full settlement of all claims the Company may have against it. The settlement
+amount is payable pursuant to a promissory note in 10 consecutive monthly installments commencing March 1, 2017 and bears simple
+interest at the rate of 4 per year. This obligation was satisfied under the terms of the Offset Agreement as discussed further below. 
+
+As of the Effective Date, Swan owed the Company
+an aggregate of 166,000 in unpaid royalties and other fees. Swan is currently unprofitable. Under its Settlement Agreement, Swan has
+agreed to pay the Company 50,000, in full settlement of all claims the Company may have against it. The settlement amount is payable
+pursuant to a promissory note in 10 consecutive monthly installments commencing March 1, 2017 and bears simple interest at the rate
+of 4 per year. Included as an event of default under the note is a requirement that Swan remain current in its obligations to the Company
+under its license agreement from and after the Effective Date. This obligation was satisfied under the terms of the Offset Agreement
+as discussed further below. 
+
+F- 11 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+On August 4, 2018, the Company settled the
+Plaintiffs (as defined below) claims in the Voronina matter for 1,310,000. See Note 7 for additional information. The Company had insufficient
+liquid resources to enable it to make a portion of the settlement payments called for by the Voronina Settlement Agreement. Metropolitan,
+made loans to the Company in the aggregate amount of 770,000 to enable the Company to make the payments under the Voronina Settlement
+Agreement. In addition to the aforementioned loan and as discussed further in Note 7, the Company filed a third-party complaint against
+certain licensees. During the period of August 16, 2018, thru July 19, 2019, the amount of money paid to the Company by settling
+with Third-Party Defendants and the Company s insurance carrier was 505,660. 
+
+The Company previously entered into the three
+Royalty Settlement Agreements noted above where Robert M. Gans is a majority owner of the equity of each of the Licensees. Robert M.
+Gans guaranteed the payment of each Licensee s obligations under each of the 3 Settlement Documents. The Licensees were not current
+with respect to their obligations under the Settlement Documents and the Company did not call upon Mr. Gans to honor his Guaranties. 
+
+The past due amounts under the Royalty Settlement
+Agreements were 382,259 as of December 1, 2018. On this date the Company entered into an agreement to offset the Royalty Amount
+against the Voronina Amount, thereby reducing the amount owed by the Company to Metropolitan to 399,139 pursuant to the terms of a certain
+Settlement and Offset Agreement made by and among the Company, Star Light, Swan, Metropolitan and Robert M. Gans. 
+
+The Licensees did not remain current with
+respect to their obligations under the Royalty Settlement Agreements, and the Company did not call upon Robert M. Gans to honor his
+guarantees. The past due amounts under the Royalty Settlement Agreements aggregated 382,259 (the Aggregate Royalty
+Amount as of December 1, 2018. As of such date, the Company, the Licensees, Metropolitan and Robert M. Gans entered
+into a Settlement and Offset Agreement (the Offset Agreement pursuant to which the Aggregate Royalty Amount was
+offset against the Voronina Amount, thereby reducing the amount owed by the Company to Metropolitan to 404,488 (the Net
+Voronina Amount ). The Net Voronina Amount is payable pursuant to a promissory note (the Voronina Note ), which
+bears simple interest at the rate of 4 per annum, in 86 consecutive monthly installments of 5,000, and a final installment of
+ 1,370, with the initial installment due and payable on January 1, 2019 (or the first business day thereafter). The Company
+may prepay the Voronina Note at any time, in whole or in part without premium or penalty. The Offset Agreement also provides for the
+immediate termination of the Royalty Settlement Agreements and the related promissory notes and guarantees. 
+
+The total amounts due to the various related
+parties as of September 30, 2019, and December 31, 2018, was 402,178 and 494,419 respectively and the total amounts due to
+the Company from the various related parties as of September 30, 2019, and December 31, 2018, was 0 and 0, respectively. 
+
+Note 5. Licensees 
+
+As of September 30, 2019, the Company has
+ten license agreements which were obtained between 2003 and 2019. 
+
+On March 18, 2016, the Company (through
+its subsidiary SLC.) entered into a Trademark License (the Trademark License with Michael Blutrich, an unrelated party.
+The Trademark License grants Mr. Blutrich the non-exclusive use of the Company s registered trademarks, related logos and
+other intellectual property in connection with the development, production, and distribution of a potential scripted television series,
+mini-series, or movie of the week (the Series ). Under the Trademark License, the Company will receive three percent of all
+fees, contingent compensation and other consideration that Mr. Blutrich receives in connection with the Series. Mr. Blutrich
+is permitted to assign the Trademark License without consideration to third-parties. The term of the Trademark License is for one year,
+which term may and has been extended through December 31, 2020. Effective March 18, 2016, the Company and Mr. Blutrich
+entered into an addendum to the Trademark License, extending the license to a book about Scores. 
+
+F- 12 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+See Note 7 for litigation relating to a few of
+the Company s license agreements. 
+
+IMO s members are the Company's majority
+shareholder, Robert M. Gans (72 ), and Secretary and Director, Howard Rosenbluth (2 hence making IMO a related party. The building
+occupied by IMO is owned by Westside Realty of New York Inc., of which the majority owner is Robert M. Gans (80 ). IMO accounted for
+0 and 0 of the Company's royalty revenues for the nine months ended September 30, 2019 and 2018, respectively. Mr. Gans is
+also the majority owner (80 of Swan, which accounted for 0 and 0 of the Company royalty revenues for the nine months ended September 30,
+2019 and 2018, respectively. Mr. Gans is also the majority owner (92.165 of Star Light, which accounted for 0 and 0 of the Company's
+royalty revenues for the nine months ended September 30, 2019 and 2018, respectively. 
+
+Note 6. Deferred Revenue 
+
+License agreements sometimes include Initiation/Inception
+Fees. Please see Note 3 for a detailed discussion of this matter. 
+
+Note 7. Commitments and Contingencies 
+
+The Company records 7,500 a month as rent, overhead,
+and services due to Metropolitan for services rendered by the management of the Company. Mr. Gans is the sole owner of Metropolitan. 
+
+The Company currently leases office space from
+the Westside Realty of New York which is owned and operated by Robert Gans, the Company's majority shareholder, for 2,500 a month. 
+
+On April 3, 2016, 50 individuals purporting
+to be professional models and/or actresses collectively, the Plaintiffs filed a civil suit in the United States District
+Court for the Southern District of New York against the Company, I.M. Operating, LLC, The Executive Club, LLC, and Robert M. Gans,
+collectively the Defendants alleging that images of Plaintiffs were used without their consent for commercial purposes
+on websites and social media outlets to promote gentlemen s clubs operated by the Defendants or licensees of the Defendants (the
+ Lawsuit ). The Lawsuit further alleged that the unauthorized use of these images created, among other things, the false
+impression that these individuals either worked at, or endorsed, one or more of such clubs. The Lawsuit asserted causes of action under
+Section 43 of the Lanham Act, 28 U.S.C. 1125(a)(1), premised on a theory of false endorsement and/or association; New York
+Civil Rights Law 50-51; New York s Deceptive Trade Practices Act, New York General Business Law 349; as well
+as various common law torts, namely defamation, negligence, conversion, unjust enrichment and quantum meruit. The Lawsuit sought unspecified
+compensatory damages, punitive damages, as well as attorneys fees and costs. The Lawsuit also sought an injunction permanently
+enjoining the use of the individuals images to promote, via any medium, any of the clubs. On April 20, 2017, as a result
+of the claims asserted in the Lawsuit, the Company filed a third-party complaint (the Third-Party Complaint against certain
+licensees, namely CG Consulting, LLC; Anthony Quaranta; High Five Management Group, Inc.; Club 2000 Eastern Avenue, Inc.; SCMD,
+LLC; David Baucom; Manhattan Fashion L.L.C.; Stone Park Entertainment, Inc.; Silver Bourbon, Inc.; Tampa Food Entertainment, Inc.;
+Fuun House Productions, L.L.C.; Norm A Properties, LLC; Southeast Show Clubs, LLC; Michael Tomkovich; Palm Spring Grill LLC; Houston
+KP LLC; and Star Light Events LLC (collectively, Third-Party Defendants asserting causes of action for breach of contract,
+breach of warranty, contractual indemnification, common law indemnification, contribution and breach of contract for failure to procure
+insurance. The Company maintained in the Third-Party Complaint, among other things, that pursuant to the Third-Party Defendants 
+respective license agreements, each of the Third-Party Defendants are expressly obligated to indemnify, defend and hold the Company harmless
+in connection with the conduct giving rise to the claims asserted by Plaintiffs in the Lawsuit. Third-Party Defendants Club 2000 Eastern
+Avenue, Inc., Fuun House Productions, L.L.C., and Norm A Properties, LLC (collectively the Defaulting Third-Party Defendants failed to respond to the Third-Party Complaint. 
+
+On January 5, 2017, the Court issued an
+Order granting in part, and denying in part, Defendants motion to dismiss the Complaint. The Court dismissed Plaintiffs 
+claims sounding in negligence, conversion, unjust enrichment and quantum meruit. The remaining claims were not dismissed at that time.
+On August 4, 2018, the Court dismissed Plaintiffs claims against Defendants, including the Company, with prejudice, at Plaintiffs 
+request following settlement with Defendants. During 2018, the Company paid 1,310,000 to Plaintiffs in connection with the settlement.
+Between August 4, 2018 and October 9, 2018, the Court dismissed with prejudice the Company s claims against the Third-Party
+Defendants, other than the Defaulting Third-Party Defendants, at the Company s request following settlement with those Third-Party
+Defendants. The total amount of money paid to the Company by the settling Third-Party Defendants, and the Company s insurance carrier,
+is 505,660, paid thru September 30, 2019 and 90,000 received during the nine months ended September 30, 2019. Scores has
+obtained Default Orders against Fuun House Productions, L.L.C. and Norm A Properties, LLC. The value of the Company s claims against
+Fuun House Productions, L.L.C. and Norm A Properties, LLC are all that remain to be determined in the action. The Company became aware
+during the week of December 17, 2018 that Fuun House Productions, L.L.C. has filed for bankruptcy protection. 
+
+F- 13 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+On January 3, 2017, the Company, together
+with its subsidiary SLC, filed an action against CJ NYC Inc. in the United States District Court for the Southern District of New York.
+Defendant utilizes the Scores name and trademark in connection with its ownership and operation of an adult entertainment
+club in Woodside, New York. In this action the Company sought damages for breach of contract in the amount of 85,000 and the issuance
+of a preliminary and permanent injunction prohibiting the defendant from using the Scores name and trademark with respect
+to the Woodside, New York club and all websites and social media sites controlled by Defendant. The defendant failed to appear and on
+February 27, 2017, the Company filed a motion for judgment by default. The court heard the Company motion on April 5, 2017,
+and on May 25, 2017, the court granted the Company's motion for a Judgment by default, granting a permanent injunction and awarding
+damages in the amount of 85,000 to SLC and 14,333 in damages and 530 in costs to the Company. All signage has been removed and the
+Company is attempting to collect on the default judgment, but it believes that Defendant no longer has any assets, leaving the Company
+unable to collect on the default judgment. 
+
+On January 31, 2017, the Company, together
+with its subsidiary SLC, filed an action against Funn House Productions LLC in the United States District Court for the Southern District
+of New York. Defendant utilizes the Scores name and trademark in connection with its ownership and operation of an adult
+entertainment club in New Haven, Connecticut. In this action the Company sought damages for breach of contract in the amount of 45,000
+and the issuance of a preliminary and permanent injunction prohibiting the defendant from using the Scores name and trademark
+with respect to the New Haven, Connecticut club and all websites and social media sites controlled by Defendant. The Defendant failed
+to appear and on February 28, 2017, the Court granted Plaintiffs motion for a Judgment by default, granting a permanent injunction
+and awarding damages in the amount of 60,000. The parties negotiated a settlement agreement, which included a payment schedule, but
+then Defendant did not sign the proposed settlement agreement. The Company is attempting to collect on the default judgment, but it believes
+that Defendant no longer has any assets, leaving the Company unable to collect on the default judgment. 
+
+On July 25, 2017, plaintiff Dislenia Munoz,
+who formerly performed as an adult entertainer at Scores New York, owned in its entirety by I.M. Operating LLC, commenced a putative
+class action lawsuit against the Company, IMO, Robert Gans and Mark Yackow in the Supreme Court of the State of New York, County
+of New York. Plaintiff alleged that she and other similarly situated entertainers at Scores New York were misclassified as independent
+contractors, that they should have been classified as employees, and as a result, the Defendants violated, among other things, applicable
+state wage and hour laws. The Lawsuit sought unspecified compensatory damages, liquidated damages, as well as attorneys fees and
+costs. On June 22, 2018, Plaintiff (1) amended her complaint in the Lawsuit to excise her class allegations, and (2) discontinued
+the Lawsuit, without prejudice. Plaintiff has brought her claims in the Lawsuit in another forum against the Defendants, other than the
+Company, which is no longer a subject of Plaintiff s claims. 
+
+On
+October 8, 2018, the Company was served with a Summons and Complaint in the action entitled Luisa Santos de Oliveira v. Scores Holding
+Company, Inc.; Club Azure, LLC; Robert Gans; Mark S. Yackow; Howard Rosenbluth, Docket No. 1:18-cv-06769-GBD, in the United
+States District Court of the Southern District. Plaintiff claims that the Defendants violated the minimum wage and overtime provisions
+of the Fair Labor Standards Act FLSA ); violated the New York Minimum Wage Act and the overtime provisions of the New York
+State Labor Law NYLL ); violated the Spread of Hours Wage Order of the New York Commissioner of Labor; violated the Notice
+and Recordkeeping requirements of the NYLL; violated the wage statement provisions of the NYLL; recovery of equipment costs in violation
+of the FLSA and NYLL; and unlawful deductions from tips in violation of the NYLL. Plaintiff brought this action as a class action and
+seeks certification of this action as a collective action on behalf of herself and all other similarly situated employees and former
+employees of Defendants. The Company has submitted an Answer to Plaintiff s claims and the case is currently in the discovery phase.
+The Company, along with the Co-defendants, intends to vigorously defend itself against the claims asserted against it in this lawsuit.
+The likelihood of an unfavorable outcome is remote because the Company s records show, inter alia, that the Plaintiff never worked
+more than 25 hours per week. The case was assigned to a Magistrate Judge. There was a conference on March 2, 2021 and
+a Scheduling Order was entered. All discovery is due by May 27, 2021. 
+
+F- 14 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+On
+October 10, 2018, the Company together with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County
+against SCMD, LLC. the former licensee of SCORES Baltimore, said license having been terminated effective October 1, 2018. The civil
+action seeks damages for unpaid royalties in an amount of at least 170,000. The action is pending. Defendant removed the case to the
+US District Court for the Southern District of New York, 1-18-cv-11364-PGG. Plaintiff then filed an amended complaint in federal court.
+Defendant has filed a request for leave to file a motion to dismiss. On January 6, 2020 the Company submitted opposition thereto
+along with a cross-motion to amend the complaint. Defendant filed its reply on January 17, 2020. The action against
+SCMD, LLC (Scores Baltimore) commenced by the Company to collect licensing fees, the Defendant s motion to dismiss was denied
+on August 14, 2020. The parties subsequently settled this matter for 50,000. It received 40,000 on September 25, 2020. 
+There is an Order of Discontinuance, dated October 28, 2020, provided that, if by March 31, 2021, Scores Baltimore makes its
+last payment of 10,000. If the payment is not timely made, a motion to restore the matter back onto the Court s calendar
+will be submitted. 
+
+On September 14, 2018, the Company together
+with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against New 4125 LLC and Mike Taraska, the
+licensee of SCORES Phoenix, for unpaid royalties in the amount of 47,500. The action is pending and the Company continues to negotiate
+a settlement. 
+
+On April 22, 2018, the Company together
+with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against 1715 Northside Drive, Inc., the
+former licensee of SCORES Atlanta. The action was settled and paid in full during the 3rd quarter 2018. 
+
+On
+May 4, 2018, we together with our subsidiary SLC filed a civil action in Supreme Court of New York, New York County against Bonkers
+Space Coast Inc. and Ken Fees, the former licensee of the SCORES Green Bay, for unpaid royalties in the amount of 80,000. The Defendants
+have not appeared and Plaintiffs have filed a motion for judgment by default. A motion for default judgement was granted and judgement
+was entered on November 26, 2019. The Company has found real property owned by the Defendant and we are in the process of attaching
+same. We filed an exemplified copy of the default judgment with the State Court in Wisconsin, to collect licensing fees. A judgment
+was docketed on June 12, 2020 in Manitowoc County, WI for 82,330.34. We are in the process of foreclosing on the individual defendant s
+real property. 
+
+On April 20, 2018, the Company together
+with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against The Cadillac Lounge LLC and Dick Shappy,
+the former licensee of SCORES Rhode Island for unpaid royalty fees. The action was settled for 50,000 and has been paid in full during
+the 2nd quarter 2018. 
+
+On April 25, 2018, the Company together
+with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against South East Show Clubs LLC and Michael
+Tomkovich, the license of SCORES Jacksonville and SCORES Savannah, for unpaid royalties in the amount of 60,000. The action was settled
+and has been paid in full during the 4th quarter of 2018. 
+
+On August 3, 2018, we together with
+our subsidiary SLC filed a civil action in Supreme Court of New York, New York County against Silver Bourbon, Inc, the licensee
+of SCORES New Orleans, for unpaid royalties in the amount of 145,500. Defendant was served on September 19, 2018 and the parties
+are in the process of negotiating a settlement agreement. 
+
+On
+July 13, 2018, the Company together with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against
+Manhattan Fashions LLC, the licensee of SCORES Harvey for unpaid royalties in the amount of 102,984. A default judgement for this amount
+was entered and filed on December 7, 2020. We are working on entering the judgment in Louisiana, but the parties are
+participating in ongoing negotiations to settle this matter. 
+
+On September 5, 2019, the Company together
+with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against Scores Alabama. A cease and desist
+letter was sent. The Company finally entered into a license agreement as of March 5, 2020 with Cheetah Club, LLC for a club located
+in Huntsville, Alabama. 
+
+On July 15, 2019, plaintiff Jeremy Green, a former
+consultant to Swan Media Group, Inc SMG ), commenced an action in U.S. District Court, Southern District of New York against
+Scores Holding Co., Inc., Scores Media Group LLC, Scores Digital Gaming LLC SDG and individual defendants Robert Gans
+and Charilaos Yioves seeking to recover from all defendants under various theories of breach of contract, unjust enrichment, promissory
+estoppels, fraudulent inducement and breach of implied duty of good faith and fair dealing. 
+
+By Order dated March 18, 2020 the Court dismissed
+all the causes of action except for the breach of contract claim pertaining to Greene s consultancy agreement with SMG and the unjust
+enrichment claim relating to SDG. The parties have exchanged documents and information relating to the remaining cause of action. Depositions
+were held in early November, 2021. As a result certain additional documents have been requested by plaintiff s counsel and are currently
+being assembled for submission. If the case is not disposed on motion, pre-trial documents are scheduled to be exchanged in the near future. 
+
+In
+2020 Jessica Hall filed an EEOC against the Company. In 2021, the case Jessica Hall v. Scores Holding Company, Inc., et al was filed in
+Federal Court, Southern District. Scores Holding Company was not properly served with the Complaint. There is a pending motion
+for default judgment, which we plan to oppose. Plaintiff claims that she worked at a gentlemen s club known as Scores
+NY where she, inter alia , was discriminated and retaliated against in violation of both Federal and State law. The
+likelihood of success on the merits is slim to none because Scores Holding Company, as simply the owner of the Scores brand
+and trademarks, did not own Scores NY or employ, manage or otherwise control Plaintiff s employment. 
+
+F- 15 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+In July 2018, the Company entered into a
+confidential settlement agreement (the Settlement Agreement in the Voronina litigation, and in August 2018, the Court
+entered an order dismissing the plaintiff s claims against the Defendants with prejudice. Metropolitan, loaned the Company an aggregate
+of 770,000 to enable the Company to make the payments called for by the Agreement. 
+
+As previously reported, in February 2017,
+the Company entered into settlement agreements (each, a Royalty Settlement Agreement with Star Light, Swan, IMO and
+Robert M. Gans. Robert M. Gans is the owner of a majority of the equity of each of aforementioned Licensees. Pursuant to the Royalty
+Settlement Agreements, the Company forgave the repayment of a certain portion of unpaid, past-due royalties in return for the respective
+Licensees agreements to pay the remainder (the Royalty Settlement Amount of the unpaid royalties, plus interest,
+to the Company. The Royalty Settlement Amount for each Licensee was represented by a promissory note, and Robert M. Gans guaranteed the
+payment of each Licensee s obligations under the Settlement Agreement. 
+
+The Licensees did not remain current with respect
+to their obligations under the Royalty Settlement Agreements, and the Company did not call upon Robert M. Gans to honor his guarantees.
+The past due amounts under the Royalty Settlement Agreements aggregated 382,259 (the Aggregate Royalty Amount as of December 1,
+2018. As of such date, the Company, the Licensees, Metropolitan and Robert M. Gans entered into a Settlement and Offset Agreement (the
+ Offset Agreement pursuant to which the Aggregate Royalty Amount was offset against the Voronina Amount, thereby reducing
+the amount owed by the Company to Metropolitan to 408,546 (the Net Voronina Amount ). The Net Voronina Amount is payable
+pursuant to a promissory note (the Voronina Note ), which bears simple interest at the rate of 4 per annum, in 86 consecutive
+monthly installments of 5,000, and a final installment of 1,370, with the initial installment due and payable on January 1, 2022
+(or the first business day thereafter). The Company may prepay the Voronina Note at any time, in whole or in part without premium or
+penalty. The Offset Agreement also provides for the immediate termination of the Royalty Settlement Agreements and the related promissory
+notes and guarantees. 
+
+On
+January 29, 2020, an individual referred to as Jane Doe, the Plaintiff, filed a civil suit in in the Circuit Court of
+the 13 th Judicial Circuit, in the State of Florida, Hillsborough County, against the Company, its subsidiary, Scores
+Licensing Corp. SLC ), and several other defendants. Plaintiff s Complaint details the somber circumstances
+surround the illegal actions of a non-party, who pled guilty to certain crimes against Plaintiff that were committed at a club known
+as Scores Tampa. Plaintiff now seeks to hold the Company and its subsidiary, among other defendants, liable in connection with
+the non-party s illegal activity by asserting causes of action for negligence, vicarious liability and unjust enrichment. 
+Initially, prior counsel moved to dismiss Plaintiff s Complaint in lieu of filing Answers. A motion to dismiss was submitted
+because the Court lacks personal jurisdiction under Florida s Long-Arm Statute and Due Process Requirements because neither the
+Company or its subsidiary had minimum contacts with Florida; nor was their a benefited conferred upon them. The Court wrongfully
+denied the motion to dismiss. The case is in the deposition stage of discovery. A motion for summary judgment will be
+submitted because neither the Company or its subsidiary were involved in the day-to-day operations of Scores Tampa, or in fact involved
+in the operations of Scores Tampa at all. Other than the Company licensing the Scores trademark and other intellectual property
+to Scores Tampa, pursuant to a 2010 license agreement, neither the Company or its affiliate operated, conducted, engaged in, or managed
+Scores Tampa, making it vicariously liable for the non-party s criminal actions. 
+
+On July 15,
+2019, plaintiff Jeremy Green, a former consultant to Swan Media Group, Inc SMG ), commenced an action in U.S. District
+Court, Southern District of New York against Scores Holding Co., Inc., Scores Media Group LLC, Scores Digital Gaming LLC SDG and individual defendants Robert Gans and Charilaos Yioves seeking to recover from all defendants under various theories of breach of
+contract, unjust enrichment, promissory estoppels, fraudulent inducement and breach of implied duty of good faith and fair dealing. 
+
+By Order
+dated March 18, 2020 the Court dismissed all the causes of action except for the breach of contract claim pertaining to Greene s
+consultancy agreement with SMG and the unjust enrichment claim relating to SDG. The parties have exchanged documents and information
+relating to the remaining causes of acting and depositions are scheduled to be held in early May, 2021. The parties expect fact discovery
+will be concluded by June 2021 and expert disclosures, if necessary, shall be completed by August 31, 2021. If the case is
+not disposed on motion, pre-trial documents are scheduled to be exchanged in September, 2021. 
+
+F- 16 
+
+SCORES HOLDING CO., Inc. and Subsidiary 
+
+ Notes to Condensed Consolidated Financial Statements 
+
+ (Unaudited) 
+
+There are no other material legal proceedings
+pending to which the Company or any of its property is subject, nor to the Company's knowledge are any such proceedings threatened. 
+
+Note 8. SUBSEQUENT EVENTS 
+
+Please see Note 7 for events concerning legal
+matters. 
+
+Management evaluated
+subsequent events through the date of this filing and determined that no additional events have occurred that would require adjustment
+to or disclosure in the financial statements. 
+
+As a result of the COVID-19 virus, during the
+first quarter of 2020 and ongoing, state and local governments have required all but certain essential businesses to close, including
+all nine clubs operating under the Scores name. The duration and ultimate extent of the closures of these clubs cannot be predicted at
+this time, however the impact on such clubs' revenue could be material and result in a significant decline in our royalty revenues. 
+
+F- 17 
+
+ITEM 2. MANAGEMENT S DISCUSSION
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+
+Overview 
+
+Scores Holding Company, Inc. Scores, the Company, we, us or our was incorporated in Utah on
+September 21, 1981 under the name Adonis Energy, Inc. We adopted our current name in July 2002. Since 2003, we have been
+in the business of licensing the Scores trademarks and other intellectual property to fine gentlemen s nightclubs
+with adult entertainment in the United States. As of September 30, 2019, there are nine such clubs operating under the Scores name,
+in New York, New York; Chicago, Illinois; Tampa, Florida; New Orleans, Louisiana; Harvey, Louisiana; Mooresville, North Carolina;
+Palm Springs, Florida; Buffalo, New York and Las Vegas, Nevada. 
+
+On January 27, 2009,
+Mitchell s East LLC, wholly owned by Robert M. Gans, acquired a majority interest in our outstanding capital stock. I.M. Operating
+LLC IMO ), which is partially owned by Robert M. Gans who is also our majority shareholder, has signed a licensing agreement
+with us and commenced operations in New York of a new club (the New York Club under the Scores name in May 2009. Effective
+September 1, 2017, IMO no longer owned or operated the New York Club and terminated its licensing agreement with the Company.
+IMO sold the New York Club to Club Azure LLC CA which was owned by Mark Yackow who is the sole owner (100 of CA and
+former Chief Operating Officer of IMO. Mr. Yackow passed away on October 12, 2020. Effective September 1, 2017, the Company
+granted an exclusive, non-transferable license for the use of the Scores New York to CA for the New York Club. 
+
+As a result of the COVID-19
+virus, during the first and second quarter of 2020, state and local governments have required all but certain essential businesses to
+close, including all nine clubs operating under the Scores name. The duration and ultimate extent of the closures of these clubs cannot
+be predicted at this time, however the impact on such clubs' revenue could be material and result in a significant decline in our royalty
+revenues. 
+
+Results of Operations 
+
+Three
+Months Ended September 30, 2019 the 2019 three-month period Compared to Three Months Ended September 30,
+2018 the 2018 three-month period ). 
+
+Revenues: 
+
+Revenues decreased to 174,124
+for the 2019 three-month period from 234,489 for the 2018 three-month period. 
+
+Our licenses are structured
+such that we receive royalty payments representing a percentage of revenues of the licensee, or structured with a flat monthly rate. The
+foregoing decrease is a direct result of a decline in royalty revenues. This decrease is primarily due to the decrease in the number of
+licensing agreements for the three months ended September 30, 2018 from twelve agreements to ten agreements for the three months
+September 30, 2019. 
+
+Other Income 
+
+Total other income decreased
+to 11,092 for the 2019 three-month period from 567,095 from the 2018 three-month period. Total other income for the 2019 three month-period
+included a 5,000 recovery of the 1,300,000 Litigation Settlement payment paid to us by various licensees, interest expense of 3,098,
+and other income of 10,000 representing a recovery of royalty revenue previously written off as bad debt and collected during the 2019
+three-month period. Total other income for the 2018 three-month period included a 325,660 recovery of the 1,300,000 Litigation Settlement
+payment paid to us by various licensees, interest income of 13,890, and other income of 227,545 representing a recovery of royalty revenue
+previously written off as bad debt and collected during the 2018 three-month period. 
+
+3 
+
+General and Administrative
+Expenses: 
+
+General
+and administrative expenses decreased during the 2019 three-month period to 159,954 from 209,636 during the 2018 three-month period,
+which can be attributed to the decrease in salary, consulting, advertising, and other expenses. Legal expenses, which are reflected in
+general and administrative expenses, attribute to ongoing litigation in the amount of 30,785 for the 2019 three-month period and 59,561
+for the 2018 three-month period. 
+
+Provision for Income Taxes 
+
+The provision for income taxes
+relates primarily to the greater of average assets and capital taxable income. The average assets and capital are not impacted by net
+operating losses. 
+
+Net Income: 
+
+Our net income was 25,262
+or .00 per share for the 2019 three-month period as compared to net income of 591,934 or .00 per share for the 2018 three-month period. 
+
+Net income per share data
+for both the 2019 three-month period and the 2018 three-month period is based on net income available to common shareholders divided by
+the weighted average of the number of common shares outstanding. 
+
+Nine Months Ended September 30, 2019 (the
+ 2019 nine-month period Compared to Nine Months Ended September 30, 2018 (the 2018 nine-month period ). 
+
+Revenues: 
+
+Revenues decreased to 439,971
+for the 2019 nine-month period from 629,564 for the 2018 nine-month period. 
+
+Our licenses are structured
+such that we receive royalty payments representing a percentage of revenues of the licensee, or structured with a flat monthly rate. The
+foregoing decrease is a direct result of a decline in royalty revenues. This decrease is primarily due to the decrease in the number of
+licensing agreements as of September 30, 2018 from twelve agreements to ten agreements as of September 30, 2019. 
+
+Other Income 
+
+Total other income increased
+to 116,269 for the 2019 nine-month period from total other expense of 698,535 for the 2018 nine-month period. Total other income for
+the 2019 nine month-period included a 90,000 recovery of the 1,300,000 Litigation Settlement payment paid to us by various licensees,
+interest expense of 12,731, and other income of 39,000 representing a recovery of royalty revenue previously written off as bad debt
+and collected during the 2019 nine-month period. Total other expense for the 2018 nine-month period included the net payment of 974,340
+of the Litigation Settlement, 13,185 of interest income, and other income of 262,620 representing a recovery of royalty revenue previously
+written off as bad debt and collected during the 2018 nine-month period. 
+
+General and Administrative
+Expenses: 
+
+General
+and administrative expenses decreased slightly during the 2019 nine-month period to 480,415 from 567,940 during the 2018 nine-month
+period, which can be attributed to the decrease in salary, legal and other expenses. Legal expenses, which are reflected in general and
+administrative expenses, attributable to ongoing litigation amounted to 91,273 for the 2019 nine-month period and 121,822 for
+the 2018 nine-month period. 
+
+Provision for Income Taxes 
+
+The provision for income taxes
+relates primarily to the greater of average assets and capital taxable income. The average assets and capital are not impacted by net
+operating losses. 
+
+4 
+
+Net Income/(Loss): 
+
+Our net income was 75,825
+or .00 per share for the 2019 nine-month period as compared to net loss of 638,801 or .00) per share for the 2018 nine-month period.
+This decrease was primarily due to the litigation settlement fees of 1,300,000 in the 2018 nine-month period. 
+
+Net income/(loss) per share
+data for both the 2019 nine-month period and the 2018 nine-month period is based on net income/(loss) available to common shareholders
+divided by the weighted average of the number of common shares outstanding. 
+
+Liquidity and Capital Resources 
+
+Going
+Concern : 
+
+Various conditions such as the accumulated losses, significant debt, and the results of litigation raise
+substantial doubt about the Company s ability to continue as a going concern. The financial statements do not include any adjustments
+relating to the recoverability and classification of asset carrying amounts or the amount and classification of liabilities that might
+be necessary should the Company be unable to continue as a going concern. 
+
+Cash: 
+
+At September 30, 2019,
+we had 17,143 in cash and cash equivalents compared to 7,662 in cash and cash equivalents at December 31, 2018. 
+
+Operating Activities: 
+
+Net cash provided by operating
+activities for the 2019 nine-month period was 90,273 and net cash used by operating activities for the 2018 nine-month period was 479,244.
+The increase in cash provided by operating activities is related to the recognition of ASC 606 revenue and the accrued litigation settlement
+in the 2018 nine-month period. 
+
+Financing Activities: 
+
+Net cash used by financing
+activities for the 2019 nine-month period was 80,792 and net cash provided by financing activities for the 2018 nine-month period was
+ 459,139. 
+
+As of September 30, 2019
+and 2018, we owed 7,500 and 22,500, respectively in rent to our Westside Realty affiliate. As of September 30, 2019 and 2018, we
+owed to our Metropolitan Lumber Hardware and Building Supplies, Inc. affiliate 45,000 and 67,500, respectively for management fees
+and 342,178 and 0, respectively for a loan advanced to the Company to assist in paying litigation costs. 
+
+Future Capital Requirements: 
+
+We have incurred significant
+losses since the inception of our business. Since our inception, we have been dependent on funding from private lenders and investors
+to conduct operations. As of September 30, 2019, we had an accumulated deficit of (6,818,368). As of September 30, 2019, we
+had total current assets of 140,710 and total current liabilities of 248,597 or negative working capital of 107,887. As of December 31,
+2018, we had total current assets of 73,576 and total current liabilities of 231,496 or negative working capital of 157,920. The decrease
+in the amount of negative working capital has been primarily attributable to the increase in cash from previous non-paying clubs. 
+
+We will continue to evaluate
+possible acquisitions of or investments in businesses, products and technologies that are complementary to ours. These may require the
+use of cash, which would require us to seek financing. We may sell equity or debt securities or seek credit facilities to fund acquisition-related
+or other business costs. Sales of equity or convertible debt securities would result in additional dilution to our stockholders. We may
+also need to raise additional funds in order to support more rapid expansion, develop new or enhanced services or products, respond to
+competitive pressures, or take advantage of unanticipated opportunities. Our future liquidity and capital requirements will depend upon
+numerous factors, including the success of our adult entertainment trademark licensing business. 
+
+5 
+
+ITEM 3. QUANTITATIVE
+AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Not applicable. 
+
+ITEM 4. CONTROLS
+AND PROCEDURES. 
+
+(a) Evaluation
+of Disclosure Controls and Procedures 
+
+Based on management s
+evaluation (with the participation of our Chief Executive Officer (CEO) and Chief Financial Officer), as of September 30, 2019, the
+end of the period covered by this report, our CEO and Chief Financial Officer have concluded that our disclosure of controls and procedures
+(as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange
+Act )), are not effective to provide reasonable assurance that information required to be disclosed by us in reports that we file
+or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange
+Commission rules and forms and is accumulated and communicated to management, including our principal executive officer and principal
+financial officer, as appropriate to allow timely decisions regarding required disclosure. 
+
+Management concluded that
+our disclosure controls and procedures were not effective as of September 30, 2019 because of the deficiencies in our internal control
+over financial reporting relating to the effectiveness and timeliness of our financial statement review process, including policies and
+procedures governing our financial statement close process, and control in the preparation, documentation, and review of journal entries
+and account reconciliations 
+
+A deficiency in internal
+control over financial reporting exists when the design or operation of a control does not allow management or employees, in the
+normal course of performing their assigned functions, to prevent or detect misstatements on a timely basis. A material weakness is a
+deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable
+possibility that a material misstatement of the company's annual or interim financial statements will not be prevented or detected
+on a timely basis. The control deficiencies as of September 30, 2019, and subsequent reports should be considered material
+weaknesses in our internal control over financial reporting. 
+
+As set forth below, management
+has taken or will take steps to remediate the control deficiencies identified above. Notwithstanding the control deficiencies described
+above, we have performed additional analyses and other procedures to enable management to conclude that our condensed consolidated financial
+statements included in this Form 10-Q fairly present, in all material respects, our financial condition and results of operations
+as of and for the nine-month period ended September 30, 2019. 
+
+Management's Remediation Plan 
+
+In response to the deficiencies
+discussed above, we plan to continue efforts already underway to improve internal control over financial reporting, which include creating
+formal policies and procedures governing our financial statement close process, and control in the preparation, documentation, and review
+of journal entries and account reconciliations. 
+
+Management and our Board of
+Directors will continue to monitor these remedial measures and the effectiveness of our internal controls and procedures. Other than as
+described above, there were no changes in our internal control over financial reporting during the quarter ended September 30, 2019
+that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+6 
+
+PART II - OTHER INFORMATION 
+
+ITEM 1. LEGAL
+PROCEEDINGS. 
+
+On April 3, 2016, 50
+individuals purporting to be professional models and/or actresses collectively, the Plaintiffs filed a civil suit in the
+United States District Court for the Southern District of New York against the Company, I.M. Operating, LLC, The Executive Club,
+LLC, and Robert M. Gans, collectively the Defendants alleging that images of Plaintiffs were used without their consent
+for commercial purposes on websites and social media outlets to promote gentlemen s clubs operated by the Defendants or licensees
+of the Defendants (the Lawsuit ). The Lawsuit further alleged that the unauthorized use of these images created, among other
+things, the false impression that these individuals either worked at, or endorsed, one or more of such clubs. The Lawsuit asserted causes
+of action under Section 43 of the Lanham Act, 28 U.S.C. 1125(a)(1), premised on a theory of false endorsement and/or association;
+New York Civil Rights Law 50-51; New York s Deceptive Trade Practices Act, New York General Business Law 349;
+as well as various common law torts, namely defamation, negligence, conversion, unjust enrichment and quantum meruit. The Lawsuit sought
+unspecified compensatory damages, punitive damages, as well as attorneys fees and costs. The Lawsuit also sought an injunction
+permanently enjoining the use of the individuals images to promote, via any medium, any of the clubs. On April 20, 2017, as
+a result of the claims asserted in the Lawsuit, the Company filed a third-party complaint (the Third-Party Complaint against
+certain licensees, namely CG Consulting, LLC; Anthony Quaranta; High Five Management Group, Inc.; Club 2000 Eastern Avenue, Inc.;
+SCMD, LLC; David Baucom; Manhattan Fashion L.L.C.; Stone Park Entertainment, Inc.; Silver Bourbon, Inc.; Tampa Food 
+Entertainment, Inc.; Fuun House Productions, L.L.C.; Norm A Properties, LLC; Southeast Show Clubs, LLC; Michael Tomkovich; Palm Spring
+Grill LLC; Houston KP LLC; and Star Light Events LLC (collectively, Third-Party Defendants asserting causes of action for
+breach of contract, breach of warranty, contractual indemnification, common law indemnification, contribution and breach of contract for
+failure to procure insurance. The Company maintained in the Third-Party Complaint, among other things, that pursuant to the Third-Party
+Defendants respective license agreements, each of the Third-Party Defendants are expressly obligated to indemnify, defend and hold
+the Company harmless in connection with the conduct giving rise to the claims asserted by Plaintiffs in the Lawsuit. Third-Party Defendants
+Club 2000 Eastern Avenue, Inc., Fuun House Productions, L.L.C., and Norm A Properties, LLC (collectively the Defaulting Third-Party
+Defendants failed to respond to the Third-Party Complaint. 
+
+On January 5, 2017, the
+Court issued an Order granting in part, and denying in part, Defendants motion to dismiss the Complaint. The Court dismissed Plaintiffs 
+claims sounding in negligence, conversion, unjust enrichment and quantum meruit. The remaining claims were not dismissed at that time.
+On August 4, 2018, the Court dismissed Plaintiffs claims against Defendants, including the Company, with prejudice, at Plaintiffs 
+request following settlement with Defendants. During 2018, the Company paid 1,310,000 to Plaintiffs in connection with the settlement.
+Between August 4, 2018 and October 9, 2018, the Court dismissed with prejudice the Company s claims against the Third-Party
+Defendants, other than the Defaulting Third-Party Defendants, at the Company s request following settlement with those Third-Party
+Defendants. The total amount of money paid to the Company by the settling Third-Party Defendants, and the Company s insurance carrier,
+is 505,660, which includes 325,660 paid during the nine months ended September 30, 2018. Scores has obtained Default Orders against
+Fuun House Productions, L.L.C. and Norm A Properties, LLC. The value of the Company s claims against Fuun House Productions, L.L.C.
+and Norm A Properties, LLC are all that remain to be determined in the action. The Company became aware during the week of December 17,
+2018 that Fuun House Productions, L.L.C. has filed for bankruptcy protection. 
+
+On January 3, 2017, the
+Company, together with its subsidiary SLC, filed an action against CJ NYC Inc. in the United States District Court for the Southern District
+of New York. Defendant utilizes the Scores name and trademark in connection with its ownership and operation of an adult
+entertainment club in Woodside, New York. In this action the Company sought damages for breach of contract in the amount of 85,000 and
+the issuance of a preliminary and permanent injunction prohibiting the defendant from using the Scores name and trademark
+with respect to the Woodside, New York club and all websites and social media sites controlled by Defendant. The defendant failed to appear
+and on February 27, 2017, the Company filed a motion for judgment by default. The court heard the Company motion on April 5,
+2017, and on May 25, 2017, the court granted the Company's motion for a Judgment by default, granting a permanent injunction and
+awarding damages in the amount of 85,000 to SLC and 14,333 in damages and 530 in costs to the Company. All signage has been removed
+and the Company is attempting to collect on the default judgment, but it believes that Defendant no longer has any assets, leaving the
+Company unable to collect on the default judgment. 
+
+7 
+
+On January 31, 2017,
+the Company, together with its subsidiary SLC, filed an action against Funn House Productions LLC in the United States District Court
+for the Southern District of New York. Defendant utilizes the Scores name and trademark in connection with its ownership
+and operation of an adult entertainment club in New Haven, Connecticut. In this action the Company sought damages for breach of contract
+in the amount of 45,000 and the issuance of a preliminary and permanent injunction prohibiting the defendant from using the Scores 
+name and trademark with respect to the New Haven, Connecticut club and all websites and social media sites controlled by Defendant. The
+Defendant failed to appear and on February 28, 2017, the Court granted Plaintiffs motion for a Judgment by default, granting
+a permanent injunction and awarding damages in the amount of 60,000. The parties negotiated a settlement agreement, which included a
+payment schedule, but then Defendant did not sign the proposed settlement agreement. The Company is attempting to collect on the default
+judgment, but it believes that Defendant no longer has any assets, leaving the Company unable to collect on the default judgment. 
+
+On July 25, 2017, plaintiff
+Dislenia Munoz, who formerly performed as an adult entertainer at Scores New York, owned in its entirety by I.M. Operating LLC, commenced
+a putative class action lawsuit against the Company, IMO, Robert Gans and Mark Yackow in the Supreme Court of the State of New York,
+County of New York. Plaintiff alleged that she and other similarly situated entertainers at Scores New York were misclassified as independent
+contractors, that they should have been classified as employees, and as a result, the Defendants violated, among other things, applicable
+state wage and hour laws. The Lawsuit sought unspecified compensatory damages, liquidated damages, as well as attorneys fees and
+costs. On June 22, 2018, Plaintiff (1) amended her complaint in the Lawsuit to excise her class allegations, and (2) discontinued
+the Lawsuit, without prejudice. Plaintiff has brought her claims in the Lawsuit in another forum against the Defendants, other than the
+Company, which is no longer a subject of Plaintiff s claims. 
+
+On October 8, 2018, the
+Company was served with a Summons and Complaint in the action entitled Luisa Santos de Oliveira v. Scores Holding Company, Inc.;
+Club Azure, LLC; Robert Gans; Mark S. Yackow; Howard Rosenbluth, Docket No. 1:18-cv-06769-GBD, in the United States District Court
+of the Southern District. Plaintiff claims that the Defendants violated the minimum wage and overtime provisions of the Fair Labor Standards
+Act FLSA ); violated the New York Minimum Wage Act and the overtime provisions of the New York State Labor Law NYLL );
+violated the Spread of Hours Wage Order of the New York Commissioner of Labor; violated the Notice and Recordkeeping requirements of the
+NYLL; violated the wage statement provisions of the NYLL; recovery of equipment costs in violation of the FLSA and NYLL; and unlawful
+deductions from tips in violation of the NYLL. Plaintiff brought this action as a class action and seeks certification of this action
+as a collective action on behalf of herself and all other similarly situated employees and former employees of Defendants. We are still
+in the discovery phase of the litigation. A court conference was recently adjourned from March 26, 2020 to May 28, 2020
+because of COVID 19. 
+
+The Company has submitted
+an Answer to Plaintiff s claims and the case is currently in the discovery phase. The Company, along with the Co-defendants, intends
+to vigorously defend itself against the claims asserted against it in this lawsuit. The likelihood of an unfavorable outcome is remote
+because the Company s records show, inter alia, that the Plaintiff never worked more than 25 hours per week. 
+
+On October 10, 2018,
+the Company together with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against SCMD, LLC. the
+former licensee of SCORES Baltimore, said license having been terminated effective October 1, 2018. The civil action seeks damages
+for unpaid royalties in an amount of at least 170,000. The action is pending. Defendant removed the case to the US District Court for
+the Southern District of New York, 1-18-cv-11364-PGG. Plaintiff then filed an amended complaint in federal court. Defendant has filed
+a request for leave to file a motion to dismiss. On January 6, 2020 the Company submitted opposition thereto along with a cross-motion
+to amend the complaint. Defendant filed its reply on January 17, 2020. The parties await the Court s decision. 
+
+On September 14, 2018,
+the Company together with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against New 4125 LLC and
+Mike Taraska, the licensee of SCORES Phoenix, for unpaid royalties in the amount of 47,500. The action is pending. 
+
+8 
+
+On April 22, 2018, the
+Company together with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against 1715 Northside Drive, Inc.,
+the former licensee of SCORES Atlanta. The action was settled and paid in full during the 3rd quarter 2018. 
+
+On May 4, 2018, we together
+with our subsidiary SLC filed a civil action in Supreme Court of New York, New York County against Bonkers Space Coast Inc. and Ken Fees,
+the former licensee of the SCORES Green Bay, for unpaid royalties in the amount of 80,000. The Defendants have not appeared and Plaintiffs
+have filed a motion for judgment by default. A motion for default judgement was granted and judgement was entered on November 26,
+2019. The Company has found real property owned by the Defendant and we are in the process of attaching same. We filed an exemplified
+copy of the default judgment with the State Court in Wisconsin and await the Court s response so that we can attach defendant Ken
+Fees real property. 
+
+On April 20, 2018, the
+Company together with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against The Cadillac Lounge
+LLC and Dick Shappy, the former licensee of SCORES Rhode Island for unpaid royalty fees. The action was settled for 50,000 and has been
+paid in full during the 2nd quarter 2018. 
+
+On April 25, 2018, the
+Company together with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against South East Show Clubs
+LLC and Michael Tomkovich, the license of SCORES Jacksonville and SCORES Savannah, for unpaid royalties in the amount of 60,000. The
+action was settled and has been paid in full during the 4th quarter of 2018. 
+
+On August 3, 2018, we
+together with our subsidiary SLC filed a civil action in Supreme Court of New York, New York County against Silver Bourbon, Inc,
+the licensee of SCORES New Orleans, for unpaid royalties in the amount of 145,500. Defendant was served on September 19, 2018 and
+the parties are in the process of negotiating a settlement agreement. 
+
+On July 13, 2018, the
+Company together with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against Manhattan Fashions
+LLC, the licensee of SCORES Harvey for unpaid royalties in the amount of 84,000. Defendant was served on August 3, 2018 and the
+action is pending. A final notice of default was mailed on October 12, 2018 and was granted. The parties are in the process of negotiating
+a settlement agreement. 
+
+On September 5, 2019,
+the Company together with its subsidiary SLC filed a civil action in Supreme Court of New York, New York County against Scores Alabama.
+A cease and desist letter was sent. The Company finally entered into a license agreement as of March 5, 2020 with Cheetah Club, LLC
+for a club located in Huntsville, Alabama. 
+
+On July 15, 2019, plaintiff Jeremy Green, a former
+consultant to Swan Media Group, Inc SMG ), commenced an action in U.S. District Court, Southern District of New York against
+Scores Holding Co., Inc., Scores Media Group LLC, Scores Digital Gaming LLC SDG and individual defendants Robert Gans
+and Charilaos Yioves seeking to recover from all defendants under various theories of breach of contract, unjust enrichment, promissory
+estoppels, fraudulent inducement and breach of implied duty of good faith and fair dealing. 
+
+By Order dated March 18, 2020 the Court dismissed
+all the causes of action except for the breach of contract claim pertaining to Greene s consultancy agreement with SMG and the unjust
+enrichment claim relating to SDG. The parties have exchanged documents and information relating to the remaining cause of action. Depositions
+were held in early November, 2021. As a result certain additional documents have been requested by plaintiff s counsel and are currently
+being assembled for submission. If the case is not disposed on motion, pre-trial documents are scheduled to be exchanged in the near future. 
+
+In
+2020 Jessica Hall filed an EEOC against the Company. In 2021, the case Jessica Hall v. Scores Holding Company, Inc., et al was filed in
+Federal Court, Southern District. Scores Holding Company was not properly served with the Complaint. There is a pending motion
+for default judgment, which we plan to oppose. Plaintiff claims that she worked at a gentlemen s club known as Scores
+NY where she, inter alia , was discriminated and retaliated against in violation of both Federal and State law. The
+likelihood of success on the merits is slim to none because Scores Holding Company, as simply the owner of the Scores brand
+and trademarks, did not own Scores NY or employ, manage or otherwise control Plaintiff s employment. 
+
+In July 2018, the Company
+entered into a confidential settlement agreement (the Settlement Agreement in the Voronina litigation, and in August 2018,
+the Court entered an order dismissing the plaintiff s claims against the Defendants with prejudice. Metropolitan, loaned the Company
+an aggregate of 770,000 to enable the Company to make the payments called for by the Agreement. 
+
+As previously reported, in
+February 2017, the Company entered into settlement agreements (each, a Royalty Settlement Agreement with Star Light,
+Swan, IMO and Robert M. Gans. Robert M. Gans is the owner of a majority of the equity of each of aforementioned Licensees. Pursuant
+to the Royalty Settlement Agreements, the Company forgave the repayment of a certain portion of unpaid, past-due royalties in return for
+the respective Licensees agreements to pay the remainder (the Royalty Settlement Amount of the unpaid royalties,
+plus interest, to the Company. The Royalty Settlement Amount for each Licensee was represented by a promissory note, and Robert M. Gans
+guaranteed the payment of each Licensee s obligations under the Settlement Agreement. 
+
+The Licensees did not remain
+current with respect to their obligations under the Royalty Settlement Agreements, and the Company did not call upon Robert M. Gans to
+honor his guarantees. The past due amounts under the Royalty Settlement Agreements aggregated 382,259 (the Aggregate Royalty Amount as of December 1, 2018. As of such date, the Company, the Licensees, Metropolitan and Robert M. Gans entered into a Settlement and
+Offset Agreement (the Offset Agreement pursuant to which the Aggregate Royalty Amount was offset against the Voronina Amount,
+thereby reducing the amount owed by the Company to Metropolitan to 408,546 (the Net Voronina Amount ). The Net Voronina
+Amount is payable pursuant to a promissory note (the Voronina Note ), which bears simple interest at the rate of 4 per annum,
+in 86 consecutive monthly installments of 5,000, and a final installment of 1,370, with the initial installment due and payable on January 1,
+2022 (or the first business day thereafter). The Company may prepay the Voronina Note at any time, in whole or in part without premium
+or penalty. The Offset Agreement also provides for the immediate termination of the Royalty Settlement Agreements and the related promissory
+notes and guarantees. 
+
+9 
+
+There are no other material
+legal proceedings pending to which the Company or any of its property is subject, nor to the Company's knowledge are any such proceedings
+threatened. 
+
+ITEM 1A. RISK
+FACTORS. 
+
+Not applicable. 
+
+ITEM 2. UNREGISTERED
+SALES OF EQUITY SECURITIES AND USE OF PROCEEDS. 
+
+None. 
+
+ITEM 3. DEFAULTS
+UPON SENIOR SECURITIES. 
+
+None. 
+
+ITEM 4. MINE
+SAFETY DISCLOSURE. 
+
+Not applicable. 
+
+ITEM 5. 
+OTHER INFORMATION. 
+
+None. 
+
+ITEM 6. EXHIBITS. 
+
+Exhibit 
+ No. 
+ 
+ Description 
+ 
+ 31.1 
+ 
+ Certification
+ of Chief Executive Officer pursuant to Section 302 of the Sarbanes - Oxley Act of 2002. 
+ 
+ 31.2 
+ 
+ Certification
+ of Chief Financial Officer pursuant to Section 302 of the Sarbanes - Oxley Act of 2002. 
+ 
+ 32.1 
+ 
+ Certification
+ of Chief Executive Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes - Oxley
+ Act of 2002. 
+ 
+ 32.2 
+ 
+ Certification
+ of Chief Financial Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes - Oxley
+ Act of 2002. 
+ 
+ 101.INS 
+ 
+ XBRL
+ Instance Document 
+ 
+ 101.SCH 
+ 
+ XBRL
+ Taxonomy Schema Document 
+ 
+ 101.CAL 
+ 
+ XBRL
+ Taxonomy Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ XBRL
+ Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ XBRL
+ Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL
+ Taxonomy Extension Presentation Linkbase Document 
+
+Filed herewith. 
+
+Furnished herewith. 
+
+10 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+SCORES HOLDING COMPANY, INC. 
+
+Date: January 4,
+ 2022 
+ By: 
+ /s/ Robert M. Gans 
+
+Robert M. Gans 
+
+Chief Executive Officer and Director 
+
+(Principal Executive Officer) 
+
+Date: January 4, 2022 
+ By: 
+ /s/ Howard Rosenbluth 
+
+Howard Rosenbluth 
+
+Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+11 
+
+<EX-31.1>
+ 2
+ tm2134215d1_ex31-1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 
+
+I, Robert M. Gans, certify that: 
+
+1. I have reviewed this Form 10-Q of Scores Holding Company, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to
+state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for,
+the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to
+be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented
+in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financing reporting
+that occurred during the registrant s most recent fiscal quarter (the registrant s fourth quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial
+reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board
+of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report
+financial information; and 
+
+(b) Any fraud, whether or not material, that involved management or other employees who have a significant
+role in the registrant s internal control over financial reporting. 
+
+Date: January 4, 2022 
+
+/s/ Robert M. Gans 
+
+Robert M. Gans 
+
+Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ tm2134215d1_ex31-2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+I, Howard Rosenbluth, certify that: 
+
+1. I have reviewed this Form 10-Q of Scores Holding Company, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to
+state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for,
+the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to
+be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented
+in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financing reporting
+that occurred during the registrant s most recent fiscal quarter (the registrant s fourth quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial
+reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board
+of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report
+financial information; and 
+
+(b) Any fraud, whether or not material, that involved management or other employees who have a significant role in the registrant s internal 
+ control over financial reporting. 
+
+Date: January 4, 2022 
+
+/s/ Howard Rosenbluth 
+
+Howard Rosenbluth 
+
+Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ tm2134215d1_ex32-1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT
+TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+In connection with this Quarterly Report of Scores
+Company Holding, Inc. (the Company on Form 10-Q for the period ended September 30, 2019, as filed with the
+Securities and Exchange Commission on the date hereof (the Report ), I, Robert M. Gans, Chief Executive Officer of the
+Company, certify to the best of my knowledge, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that: 
+
+1. The
+Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. The
+information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the
+Company 
+
+Date: January 4, 2022 
+
+/s/ Robert M. Gans 
+
+Robert M. Gans 
+
+Chief Executive Officer (Principal Executive Officer) 
+
+A signed original of this written statement, or
+other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version
+of this written statement, has been provided to Scores Holding Company, Inc., and will be retained by Scores Holding Company, Inc.,
+and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ tm2134215d1_ex32-2.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2 
+
+CERTIFICATION OF 
+
+CHIEF FINANCIAL OFFICER 
+
+PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+In connection with this Quarterly Report of Scores
+Holding Company, Inc. (the Company on Form 10-Q for the period ended September 30, 2019, as filed with the
+Securities and Exchange Commission on the date hereof (the Report ), I, Howard Rosenbluth, Chief Financial Officer of
+the Company, certify to the best of my knowledge, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of
+the Sarbanes-Oxley Act of 2002, that: 
+
+1. The
+Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. The
+information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the
+Company. 
+
+Date: January 4, 2022 
+
+/s/ Howard Rosenbluth 
+
+Howard Rosenbluth 
+
+Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+A signed original of this written statement, or
+other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version
+of this written statement, has been provided to Scores Holding Company, Inc., and will be retained by Scores Holding Company, Inc.,
+and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ scrh-20190930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ scrh-20190930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ scrh-20190930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ scrh-20190930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ scrh-20190930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ scrh-20190930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

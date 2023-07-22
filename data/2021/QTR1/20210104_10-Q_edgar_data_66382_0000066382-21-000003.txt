@@ -1,0 +1,1007 @@
+<Header>
+<FileStats>
+    <FileName>20210104_10-Q_edgar_data_66382_0000066382-21-000003.txt</FileName>
+    <GrossFileSize>9650211</GrossFileSize>
+    <NetFileSize>100311</NetFileSize>
+    <NonText_DocumentType_Chars>2330105</NonText_DocumentType_Chars>
+    <HTML_Chars>3021496</HTML_Chars>
+    <XBRL_Chars>2112556</XBRL_Chars>
+    <XML_Chars>1931065</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000066382-21-000003.hdr.sgml : 20210104
+<ACCEPTANCE-DATETIME>20210104160030
+ACCESSION NUMBER:		0000066382-21-000003
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		94
+CONFORMED PERIOD OF REPORT:	20201128
+FILED AS OF DATE:		20210104
+DATE AS OF CHANGE:		20210104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HERMAN MILLER INC
+		CENTRAL INDEX KEY:			0000066382
+		STANDARD INDUSTRIAL CLASSIFICATION:	OFFICE FURNITURE [2520]
+		IRS NUMBER:				380837640
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			0529
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15141
+		FILM NUMBER:		21501745
+
+	BUSINESS ADDRESS:	
+		STREET 1:		855 E MAIN AVE
+		STREET 2:		PO BOX 302
+		CITY:			ZEELAND
+		STATE:			MI
+		ZIP:			49464-0302
+		BUSINESS PHONE:		6166543000
+
+	MAIL ADDRESS:	
+		STREET 1:		8500 BYRON RD
+		CITY:			ZEELAND
+		STATE:			MI
+		ZIP:			49464
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MILLER HERMAN INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MILLER HERMAN FURNITURE CO
+		DATE OF NAME CHANGE:	19690610
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MICHIGAN STAR FURNITURE CO
+		DATE OF NAME CHANGE:	19671116
+
+</SEC-Header>
+</Header>
+
+ 0000066382-21-000003.txt : 20210104
+
+10-Q
+ 1
+ mlhr-20201128.htm
+ 10-Q
+
+mlhr-20201128 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ __________________________________________ 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission file number: 
+ __________________________________________ 
+
+(Exact name of registrant as specified in its charter) 
+ __________________________________________ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ 
+ , 
+ (Address of principal executive offices and zip code) 
+ ) 
+ (Registrant's telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports); and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ 
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). x No o 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ x Accelerated filer o Non-accelerated filer o Smaller reporting company Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No x 
+ 
+ As of December 31, 2020, Herman Miller, Inc. had shares of common stock outstanding. 
+
+Herman Miller, Inc. 
+ Form 10-Q 
+ Table of Contents 
+ Page No. Part I Financial Information Item 1 Financial Statements (Unaudited) Condensed Consolidated Statements of Comprehensive Income Three and Six Months Ended November 28, 2020 and November 30, 2019 3 
+ Condensed Consolidated Balance Sheets November 28, 2020 and May 30, 2020 4 
+ Condensed Consolidated Statements of Cash Flows Six Months Ended November 28, 2020 and November 30, 2019 5 
+ Condensed Consolidated Statements of Stockholders' Equity Six Months Ended November 28, 2020 and November 30, 2019 6 
+ Notes to Condensed Consolidated Financial Statements Note 1 - Basis of Presentation 
+ 8 
+ Note 2 - Recently Issued Accounting Standards 
+ 8 
+ Note 3 - Revenue from Contracts with Customers 
+ 9 
+ Note 4 - Leases 
+ 10 
+ Note 5 - Acquisitions 
+ 11 
+ Note 6 - Inventories, net 
+ 13 
+ Note 7 - Goodwill and Indefinite-Lived Intangibles 
+ 14 
+ Note 8 - Employee Benefit Plans 
+ 15 
+ Note 9 - Earnings Per Share 
+ 15 
+ Note 10 - Stock-Based Compensation 
+ 15 
+ Note 11 - Income Taxes 
+ 15 
+ Note 12 - Fair Value Measurements 
+ 16 
+ Note 13 - Commitments and Contingencies 
+ 20 
+ Note 14 - Short-Term Borrowings and Long-Term Debt 
+ 21 
+ Note 15 - Accumulated Other Comprehensive Loss 
+ 21 
+ Note 16 - Operating Segments 
+ 22 
+ Note 17 - Restructuring Expense 
+ 23 
+ Note 18 - Variable Interest Entities 
+ 24 
+ Item 2 Management's Discussion and Analysis of Financial Condition and Results of Operations 25 
+ Item 3 Quantitative and Qualitative Disclosures about Market Risk 39 
+ Item 4 Controls and Procedures 39 
+ Part II Other Information Item 1 Legal Proceedings 41 
+ Item 1A Risk Factors 41 
+ Item 2 Unregistered Sales of Equity Securities and Use of Proceeds 41 
+ Item 3 Defaults upon Senior Securities 41 
+ Item 4 Mine Safety Disclosures 41 
+ Item 5 Other Information 41 
+ Item 6 Exhibits 41 
+ Signatures 43 
+
+PART I - FINANCIAL INFORMATION 
+ 
+ Item 1: Financial Statements 
+ 
+ Herman Miller, Inc. 
+ Condensed Consolidated Statements of Comprehensive Income 
+ (Dollars in millions, except share data) Three Months Ended Six Months Ended (Unaudited) November 28, 2020 November 30, 2019 November 28, 2020 November 30, 2019 Net sales Cost of sales Gross margin Operating expenses: Selling, general and administrative Restructuring expense, net Design and research Total operating expenses Operating earnings Gain on consolidation of equity method investment Interest expense Interest and other investment income Other (income) expense, net ) ) Earnings before income taxes and equity income Income tax expense Equity income from nonconsolidated affiliates, net of tax Net earnings Net earnings (loss) attributable to redeemable noncontrolling interests ) Net earnings attributable to Herman Miller, Inc. Earnings per share basic Earnings per share diluted Other comprehensive (loss) income, net of tax: Foreign currency translation adjustments Pension and post-retirement liability adjustments Unrealized gains (losses) on interest rate swap agreement ) Unrealized holding loss on available for sale securities ) Other comprehensive income, net of tax Comprehensive income Comprehensive income (loss) attributable to redeemable noncontrolling interests ) Comprehensive income attributable to Herman Miller, Inc. 
+ See accompanying notes to Condensed Consolidated Financial Statements. 
+ Herman Miller, Inc. and Subsidiaries 3 
+
+Herman Miller, Inc. 
+ Condensed Consolidated Balance Sheets 
+ (Dollars in millions, except per share data) (Unaudited) November 28, 2020 May 30, 2020 ASSETS Current Assets: Cash and cash equivalents Short-term investments Accounts receivable, net of allowances of and 
+ Unbilled accounts receivable Inventories, net Prepaid expenses Other current assets Total current assets Property and equipment, at cost Less accumulated depreciation ) ) Net property and equipment Right-of-use assets Goodwill Indefinite-lived intangibles Other amortizable intangibles, net of accumulated amortization of and 
+ Other noncurrent assets Total Assets LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS STOCKHOLDERS' EQUITY Current Liabilities: Accounts payable Short-term borrowings and current portion of long-term debt Accrued compensation and benefits Accrued warranty Customer deposits Other accrued liabilities Total current liabilities Long-term debt Pension and post-retirement benefits Lease liabilities Other liabilities Total Liabilities Redeemable noncontrolling interests Stockholders' Equity: Preferred stock, par value shares authorized, issued) 
+ Common stock, par value shares authorized, and shares issued and outstanding in fiscal 2021 and 2020, respectively) 
+ Additional paid-in capital Retained earnings Accumulated other comprehensive loss ) ) Deferred compensation plan ) ) Total Stockholders' Equity Total Liabilities, Redeemable Noncontrolling Interests, and Stockholders' Equity 
+ See accompanying notes to Condensed Consolidated Financial Statements. 
+ 4 Form 10-Q 
+
+Herman Miller, Inc. 
+ Condensed Consolidated Statements of Cash Flows 
+ (Dollars in millions) Six Months Ended (Unaudited) November 28, 2020 November 30, 2019 Cash Flows from Operating Activities: Net earnings Adjustments to reconcile net earnings to net cash provided by operating activities: Depreciation and amortization Stock-based compensation Gain on consolidation of equity method investment ) Restructuring expense Decrease in current assets Increase (decrease) in current liabilities ) Increase in non-current liabilities Other, net Net Cash Provided by Operating Activities Cash Flows from Investing Activities: Proceeds from sale of property and dealers Capital expenditures ) ) Acquisitions, net of cash received ) Other, net ) ) Net Cash Used in Investing Activities ) ) Cash Flows from Financing Activities: Repayments of credit facility ) Dividends paid ) ) Common stock issued Common stock repurchased and retired ) ) Purchase of redeemable noncontrolling interests ) Other, net ) ) Net Cash Used in Financing Activities ) ) Effect of Exchange Rate Changes on Cash and Cash Equivalents ) Net (Decrease) Increase in Cash and Cash Equivalents ) Cash and Cash Equivalents, Beginning of Period Cash and Cash Equivalents, End of Period 
+ See accompanying notes to Condensed Consolidated Financial Statements. 
+ Herman Miller, Inc. and Subsidiaries 5 
+
+Herman Miller, Inc. 
+ Condensed Consolidated Statements of Stockholders' Equity 
+ Six Months Ended November 28, 2020 (Dollars in millions, except share data) Common Stock Additional Paid-in Capital Retained Earnings Accumulated Other Comprehensive Loss Deferred Compensation Plan Herman Miller, Inc. Stockholders' Equity Noncontrolling Interests Total Stockholders' Equity (Unaudited) Shares Amount May 30, 2020 ) ) Net earnings Other comprehensive income, net of tax Stock-based compensation expense Exercise of stock options Restricted and performance stock units released Employee stock purchase plan issuances Repurchase and retirement of common stock ) ) ) ) Directors' fees August 29, 2020 ) ) Net earnings Other comprehensive income, net of tax Stock-based compensation expense Exercise of stock options Restricted and performance stock units released Employee stock purchase plan issuances Repurchase and retirement of common stock ) Dividends declared per share) 
+ ) ) ) November 28, 2020 ) ) 
+ 
+ 6 Form 10-Q 
+
+Six Months Ended November 30, 2019 Common Stock Additional Paid-in Capital Retained Earnings Accumulated Other Comprehensive Loss Deferred Compensation Plan Herman Miller, Inc. Stockholders' Equity Noncontrolling Interests Total Stockholders' Equity Shares Amount June 1, 2019 ) ) Net earnings ) Other comprehensive loss, net of tax ) ) ) Stock-based compensation expense Exercise of stock options Restricted and performance stock units released Employee stock purchase plan issuances Repurchase and retirement of common stock ) ) ) ) Deferred compensation plan Dividends declared per share) 
+ ) ) ) Redemption value adjustment ) ) August 31, 2019 ) ) Net earnings Other comprehensive income, net of tax Stock-based compensation expense Exercise of stock options Restricted and performance stock units released Employee stock purchase plan issuances Repurchase and retirement of common stock ) ) ) ) Dividends declared per share) 
+ ) ) ) November 30, 2019 ) ) 
+ See accompanying notes to Condensed Consolidated Financial Statements. 
+ 
+ Herman Miller, Inc. and Subsidiaries 7 
+
+Notes to Condensed Consolidated Financial Statements 
+ (Dollars in millions, except share data) 
+ (unaudited) 
+
+1. 
+
+2. 
+ 
+ 8 Form 10-Q 
+
+3. 
+ Multiple performance obligations Product revenue Service revenue Other Total 
+ 
+ Effective in the first quarter of fiscal 2021, the Company has revised its product categories in the table below to consist of Workplace, Performance Seating, Lifestyle and Other. The change in these product categories reflects how the Company internally reports and evaluates products when making operational decisions. Prior year results disclosed in the table below have been revised to reflect these changes. 
+ 
+ The Workplace category includes products centered on creating highly functional and productive settings for both groups and individuals. This category focuses on the development of products, beyond seating, that define boundaries, support work and enable productivity. 
+ 
+ The Performance Seating category includes products centered on seating ergonomics, productivity and function across an evolving and diverse range of settings. This category focuses on the development of ergonomic seating solutions for specific use cases requiring more than basic utility. 
+ 
+ The Lifestyle category includes products focused on bringing spaces to life through beautiful yet functional products. This category focuses on the development of products that support a way of living, in thoughtful yet elevated ways. The products in this category help create emotive and visually appealing spaces via a portfolio that offers diversity in aesthetics, price and performance. 
+
+Herman Miller, Inc. and Subsidiaries 9 
+
+Performance Seating Lifestyle Other Total North America Contract International Contract: Workplace Performance Seating Lifestyle Other Total International Contract Retail: Workplace Performance Seating Lifestyle Other Total Retail Total 
+ 
+ Refer to Note 16 of the Condensed Consolidated Financial Statements for further information related to our reportable segments. 
+ 
+ Contract Balances 
+ Customers may make payments before the satisfaction of the Company's performance obligation and recognition of revenue. These payments represent contract liabilities and are included within the caption Customer deposits in the Condensed Consolidated Balance Sheets. During the three and six months ended November 28, 2020, the Company recognized Net sales of million and million related to customer deposits that were included in the balance sheet as of August 29, 2020 and May 30, 2020, respectively. 
+
+4. 
+ Short-term lease costs Variable lease costs Total 
+ Not included in the table above for the three and six months ended November 28, 2020 are variable lease costs of million and million, respectively, for raw material purchases under certain supply arrangements that the Company has determined to meet the definition of a lease. This compares to purchases of million and million for the three and six months ended November 30, 2019, respectively. 
+ 
+ 10 Form 10-Q 
+
+million in the Consolidated Statements of Comprehensive Income in the fourth quarter of fiscal 2020 which is the primary driver of lower operating lease cost in the three and six months ended November 28, 2020 compared to the prior year. 
+ 
+ At November 28, 2020, the Company had no financing leases. 
+ 2022 2023 2024 2025 Thereafter Total lease payments Less interest Present value of lease liabilities 
+ Lease payments exclude million of legally binding minimum lease payments for leases signed but not yet commenced. 
+ 
+ The long-term portion of the lease liabilities included in the amounts above is million and the remainder of the lease liabilities are included in "Other accrued liabilities" in the Condensed Consolidated Balance Sheets. 
+ 
+ At November 28, 2020, the weighted average remaining lease term and weighted average discount rate for operating leases were years and , respectively. 
+ 
+ Supplemental cash flow and other information related to leases are provided in the table below: 
+ Three Months Ended Six Months Ended (In millions) November 28, 2020 November 30, 2019 November 28, 2020 November 30, 2019 Operating cash flows used for operating leases Right-of-use assets obtained in exchange for new liabilities 
+
+5. 
+ of the outstanding equity of Nine United Denmark A/S, d/b/a HAY and subsequently renamed to HAY ApS ("HAY ), a Copenhagen, Denmark-based, design leader in furniture and ancillary furnishings for residential and contract markets in Europe and Asia. The Company acquired its ownership interest in HAY for approximately million in cash. The Company also acquired the rights to the HAY brand in North America under a long-term license agreement for approximately million in cash. 
+ 
+ On December 2, 2019, the Company obtained a controlling financial interest in HAY through the purchase of an additional ownership interest. This acquisition allows the Company to further promote growth and development of HAY's ancillary product lines and continue to support product innovation and sales growth. The Company previously accounted for its ownership interest in HAY as an equity method investment, but upon increasing its ownership to , the Company consolidated the operations of HAY. Total consideration paid for an additional 34 ownership interest of HAY was million, exclusive of HAY cash on hand. The Company funded the acquisition with cash and cash equivalents. 
+ 
+ The previously mentioned HAY long-term licensing agreement was deemed to be a contractual preexisting relationship. As a result of the business combination, the Company recorded this arrangement at its December 2, 2019 fair value, 
+ Herman Miller, Inc. and Subsidiaries 11 
+
+million and a net gain of approximately million, which was recorded within Gain on consolidation of equity method investments" within the Condensed Consolidated Statements of Comprehensive Income during the three months ended May 30, 2020. The goodwill was recorded within the Company s Retail segment. 
+ 
+ The Company is a party to options, that if exercised, would require it to purchase the remaining of the equity in HAY, at fair market value. This remaining redeemable noncontrolling interest in HAY is classified outside of permanent equity in the Consolidated Balance Sheets and is carried at the current estimated redemption amount. 
+ 
+ The allocation of the purchase price was finalized during the first quarter of fiscal 2021. The following table presents the allocation of purchase price related to acquired tangible assets: 
+ (In millions) Cash Working capital, net of cash and inventory step-up Net property and equipment Other assets Other liabilities ) Net assets acquired 
+ 
+ The purchase of the additional equity interest in HAY was considered to be an acquisition achieved in stages, whereby the previously held equity interest was remeasured as of the acquisition date. The Company considered multiple factors in determining the fair value of the previously held equity method investment, including the price negotiated with the selling shareholder for the 34 equity interest in HAY, an income valuation model (discounted cash flow) and current trading multiples for comparable companies. Based on this analysis, the Company recognized an immaterial non-taxable gain on the remeasurement of the previously held equity method investment of million in the third quarter of fiscal 2020. The net gain has been recognized in Gain on consolidation of equity method investments" within the Condensed Consolidated Statements of Comprehensive Income during the three months ended May 30, 2020. 
+ 
+ The following table summarizes the acquired identified intangible assets, valuation method employed, useful lives and fair value, as determined by the Company at the acquisition date: 
+ (In millions) Valuation Method Useful Life (years) Fair Value Inventory Step-up Comparative Sales Approach Backlog Multi-Period Excess Earnings Deferred Revenue Adjusted Fulfillment Cost Method ) Tradename Relief from Royalty Indefinite Product Development Relief from Royalty Customer Relationships Multi-Period Excess Earnings Total 
+ 
+ Goodwill related to the acquisition was recorded within the International Contract segment for million and the Retail segment for million. Subsequent to the acquisition, the goodwill recorded to the Retail segment was fully impaired in the fourth quarter of fiscal 2020 based on the results of the Company's annual goodwill impairment assessment. 
+ 
+ naughtone 
+ On October 25, 2019 Acquisition Date ), the Company purchased the remaining equity voting interest in naughtone (Holdings) Limited and naughtone Manufacturing Ltd. (together naughtone ). naughtone is an upscale, contemporary furniture manufacturer based in Harrogate, North Yorkshire, UK. The completion of the acquisition allows the Company to further promote growth and development of naughtone's ancillary product lines, and continue to support product innovation and sales growth. The Company previously accounted for its ownership interest in naughtone as an equity method investment. Upon increasing its ownership to 100 on the Acquisition Date, the 
+ 12 Form 10-Q 
+
+million, exclusive of naughtone cash on hand. The Company funded the acquisition with cash and cash equivalents. The allocation of the purchase price was finalized during the fourth quarter of fiscal 2020. 
+ 
+ The following table presents the allocation of purchase price related to acquired tangible assets: 
+ (In millions) Cash Working capital, net of cash and inventory step-up Net property and equipment Net assets acquired 
+ 
+ The purchase of the remaining equity interest in naughtone was considered to be an acquisition achieved in stages, whereby the previously held equity interest was remeasured as of the Acquisition Date. The Company considered multiple factors in determining the fair value of the previously held equity method investment, including the price negotiated with the selling shareholder for the 47.5 equity interest in naughtone, an income valuation model (discounted cash flow) and current trading multiples for comparable companies. Based on this analysis, the Company recognized a non-taxable gain of approximately million on the remeasurement of the previously held equity method investment of million. The net gain has been recognized in Gain on consolidation of equity method investments" within the Condensed Consolidated Statements of Comprehensive Income during the three and six months ended November 30, 2019. 
+ 
+ The following table summarizes the acquired identified intangible assets, valuation method employed, useful lives and fair value, as determined by the Company at the acquisition date: 
+ (In millions) Valuation Method Useful Life (years) Fair Value Inventory Step-up Comparative Sales Approach Backlog Multi-Period Excess Earnings Tradename Relief from Royalty Indefinite Customer Relationships Multi-Period Excess Earnings Total 
+ Goodwill related to the acquisition was recorded within the North America Contract and International Contract segments for million and million, respectively. 
+ 
+ Pro Forma Results of Operations 
+ The results of naughtone and HAY s operations have been included in the Consolidated Financial Statements beginning on October 25, 2019 and December 2, 2019 respectively. The following table provides pro forma results of operations for the three and six months ended November 30, 2019, as if naughtone and HAY had been acquired as of June 2, 2019. The pro forma results include certain purchase accounting adjustments such as the estimated change in depreciation and amortization expense on the acquired tangible and intangible assets. Pro forma results do not include any anticipated cost savings from the planned integration of these acquisitions. Accordingly, such amounts are not necessarily indicative of the results that would have occurred if the acquisitions had occurred on the dates indicated or that may result in the future. 
+ Three Months Ended Six Months Ended (In millions) November 30, 2019 November 30, 2019 Net sales Net earnings attributable to Herman Miller, Inc. 
+
+Herman Miller, Inc. and Subsidiaries 13 
+
+6. 
+ Raw materials Total 
+
+7. 
+ Foreign currency translation adjustments November 28, 2020 
+ 
+ Goodwill is tested for impairment at the reporting unit level annually, or more frequently, when events or changes in circumstances indicate that the fair value of a reporting unit has more likely than not declined below its carrying value. When testing goodwill for impairment, the Company may first assess qualitative factors. If an initial qualitative assessment identifies that it is more likely than not that the carrying value of a reporting unit exceeds its estimated fair value, additional quantitative testing is performed. The Company may also elect to bypass the qualitative testing and proceed directly to the quantitative testing. If the quantitative testing indicates that goodwill is impaired, the carrying value of goodwill is written down to fair value. 
+ 
+ Each of the reporting units were reviewed for impairment using a quantitative assessment as of March 31, 2020, our annual testing date. In performing the quantitative impairment test, the Company determined that the fair value of the North America and International reporting units exceeded the carrying amount and, as such, these reporting units were not impaired. The assessment of the Retail and Maharam reporting units indicated that the carrying value of these reporting units exceeded their fair values, and goodwill impairment charges of million and million, respectively, were recorded in the fourth quarter of fiscal 2020 resulting in no goodwill remaining in either the Retail or Maharam reporting units. Accumulated goodwill impairment losses were million as of November 28, 2020 and May 30, 2020. 
+ 
+ The fair value of the Company's International reporting unit, which includes million of goodwill as of May 30, 2020, exceeded its carrying value by . Due to the level that the reporting unit fair value exceeded the carrying amount and the results of the sensitivity analysis, the Company may need to record an impairment charge if the operating results of its International reporting unit were to decline in future periods. 
+ 
+ Intangible assets with indefinite useful lives are not subject to amortization and are evaluated annually for impairment, or more frequently, when events or changes in circumstances indicate that the fair value of an intangible asset may not be recoverable. 
+ 
+ In fiscal 2020, the Company performed quantitative assessments in testing indefinite-lived intangible assets for impairment, which resulted in the carrying values of the DWR, Maharam, HAY and naughtone trade names exceeding their fair values by million, and impairment charges of this amount were recognized during the fourth quarter of fiscal 2020. If the residual cash flows related to these trade names were to decline in future periods, the Company may need to record an additional impairment charge. 
+ 
+ 14 Form 10-Q 
+
+8. 
+ Expected return on plan assets ) ) ) ) Net amortization loss Net periodic benefit cost 
+
+9. 
+ Denominators : 
+ Denominator for basic EPS, weighted-average common shares outstanding Potentially dilutive shares resulting from stock plans Denominator for diluted EPS Antidilutive equity awards not included in weighted-average common shares - diluted 
+
+10. 
+ Related income tax effect 
+
+Herman Miller, Inc. and Subsidiaries 15 
+
+11. 
+ and , respectively, for the three month periods ended November 28, 2020 and November 30, 2019. The same period in the prior year included a non-taxable gain on consolidation of an equity method investment which is the primary driver of the year over year increase in the effective tax rate. For the three months ended November 28, 2020, the effective tax rate is higher than the United States federal statutory rate due to United States state income taxes and the mix of earnings in tax jurisdictions that had rates that were higher than the United States federal statutory rate. For the three months ended November 30, 2019, the effective tax rate was lower than the United States federal statutory rate mainly as a result from the impact of a non-taxable gain on consolidation of an equity method investment. 
+ 
+ The effective tax rates were and , respectively, for the six month periods ended November 28, 2020 and November 30, 2019. The same period in the prior year included a non-taxable gain on consolidation of an equity method investment which is the primary driver of the year over year increase in the effective tax rate. For the six months ended November 28, 2020, the effective tax rate is higher than the United States federal statutory rate due to United States state income taxes and the mix of earnings in tax jurisdictions that had rates that were higher than the United States federal statutory rate. For the six months ended November 30, 2019, the effective tax rate was lower than the United States federal statutory rate mainly due to the non-taxed nature of the gain on consolidation of an equity method investment. 
+ 
+ The Company recognizes interest and penalties related to uncertain tax benefits through income tax expense in its Condensed Consolidated Statements of Comprehensive Income. Interest and penalties recognized in the Company's Condensed Consolidated Statements of Comprehensive Income were negligible for the three and six months ended November 28, 2020 and November 30, 2019. 
+ 
+ Liability for uncertain tax positions, current 
+ 
+ The Company is subject to periodic audits by domestic and foreign tax authorities. Currently, the Company is undergoing routine periodic audits in both domestic and foreign tax jurisdictions. It is reasonably possible that the amounts of unrecognized tax benefits could change in the next twelve months because of the audits. Tax payments related to these audits, if any, are not expected to be material to the Company's Condensed Consolidated Statements of Comprehensive Income. 
+ 
+ For the majority of tax jurisdictions, the Company is no longer subject to state, local, or non-United States income tax examinations by tax authorities for fiscal years before 2016. 
+
+12. 
+ 
+ Fair value 
+ 
+ 16 Form 10-Q 
+
+Mutual funds - equity Foreign currency forward contracts Deferred compensation plan Total Financial Liabilities Foreign currency forward contracts Total 
+ 
+ The following describes the methods the Company uses to estimate the fair value of financial assets and liabilities recorded in other comprehensive income, which have not significantly changed in the current period: 
+ 
+ Mutual funds-fixed income The Company's fixed-income securities primarily include fixed income mutual funds and government obligations. These investments are recorded at fair value using quoted prices for similar securities. 
+ 
+ Interest rate swap agreements The value of the Company's interest rate swap agreements is determined using a market approach based on rates obtained from active markets. The interest rate swap agreements are designated as cash flow hedging instruments. 
+
+Herman Miller, Inc. and Subsidiaries 17 
+
+Total Financial Liabilities Interest rate swap agreement Total 
+ 
+ Mutual funds - equity Total 
+
+Derivative Instruments and Hedging Activities 
+ 18 Form 10-Q 
+
+January 3, 2018 January 3, 2028 June 2017 Interest Rate Swap January 3, 2018 January 3, 2028 
+ 
+ The swaps above effectively converted indebtedness anticipated to be borrowed on the Company's revolving line of credit up to the notional amounts from a LIBOR-based floating interest rate plus applicable margin to an effective fixed interest rate plus applicable margin under the agreements as of the forward start date. 
+ 
+ As of November 28, 2020, the fair value of the Company s two outstanding interest rate swap agreements was a liability of million. The liability fair value was recorded within "Other liabilities" within the Condensed Consolidated Balance Sheets. 
+ 
+ The following table summarizes the effects of the interest rate swap agreements for the three and six months ended: 
+ Three Months Ended Six Months Ended (In millions) November 28, 2020 November 30, 2019 November 28, 2020 November 30, 2019 Gain (loss) recognized in Other comprehensive loss (effective portion) ) (Loss) gain reclassified from Accumulated other comprehensive loss into earnings ) ) 
+ 
+ There were gains or losses recognized in earnings for hedge ineffectiveness for the three and six month periods ended November 28, 2020 and November 30, 2019, respectively. The amount of loss expected to be reclassified from Accumulated other comprehensive loss into earnings during the next twelve months is million, and net of tax is million. 
+ 
+ Redeemable Noncontrolling Interests 
+ Net income attributable to redeemable noncontrolling interests Distributions to redeemable noncontrolling interests ) Cumulative translation adjustments attributable to redeemable noncontrolling interests Foreign currency translation adjustments Ending Balance 
+ 
+ During August 2019, the Company acquired all of the remaining redeemable noncontrolling equity interests in the Company's subsidiary, Herman Miller Consumer Holdings, Inc. for million. 
+
+Herman Miller, Inc. and Subsidiaries 19 
+
+DWR right-of-use assets 
+ Not included in the above is goodwill related to the Retail and Maharam reporting units, as these were fully written off with a resulting impairment charge of million in the fourth quarter of fiscal 2020. 
+
+13. 
+ for the majority of products sold; however, this varies depending on the product classification. The Company does not sell or otherwise issue warranties or warranty extensions as stand-alone products. Reserves have been established for various costs associated with the Company's warranty program. General warranty reserves are based on historical claims experience and other currently available information and are periodically adjusted for business levels and other factors. Specific reserves are established once an issue is identified with the amounts for such reserves based on the estimated cost of correction. The Company provides an assurance-type warranty that ensures that products will function as intended. As such, the Company's estimated warranty obligation is accounted for as a liability and is recorded within current and long-term liabilities within the Condensed Consolidated Balance Sheets. 
+ 
+ Changes in the warranty reserve for the stated periods were as follows: 
+ Accrual for warranty matters Settlements and adjustments ) ) ) ) Accrual Balance ending 
+ 
+ Guarantees 
+ The Company is periodically required to provide performance bonds to do business with certain customers. These arrangements are common in the industry and generally have terms ranging between and . The bonds are required to provide assurance to customers that the products and services they have purchased will be installed and/or provided properly and without damage to their facilities. The bonds are provided by various bonding agencies. However, the Company is ultimately liable for claims that may occur against them. As of November 28, 2020, the Company had a maximum financial exposure related to performance bonds totaling approximately million. The Company has no history of claims, nor is it aware of circumstances that would require it to pay, under any of these arrangements. The Company also believes that the resolution of any claims that might arise in the future, either individually or in the aggregate, would not materially affect the Company's Consolidated Financial Statements. Accordingly, liability has been recorded in respect to these bonds as of either November 28, 2020 or May 30, 2020. 
+ 
+ The Company has entered into standby letter of credit arrangements for purposes of protecting various insurance companies and lessors against default on insurance premium and lease payments. As of November 28, 2020, the Company had a maximum financial exposure from these standby letters of credit totaling approximately million, all of which is considered usage against the Company's revolving line of credit. The Company has no history of claims, nor is it aware of circumstances that would require it to perform under any of these arrangements and believes that the resolution of any claims that might arise in the future, either individually or in the aggregate, would not materially 
+ 20 Form 10-Q 
+
+liability has been recorded in respect to these arrangements as of November 28, 2020 and May 30, 2020. 
+ 
+ Contingencies 
+ The Company is also involved in legal proceedings and litigation arising in the ordinary course of business. In the opinion of management, the outcome of such proceedings and litigation currently pending will not have a material adverse effect, if any, on the Company's Consolidated Financial Statements. 
+
+14. 
+ Debt securities, 4.95 , due May 20, 2030 Syndicated revolving line of credit, due August 2024 Supplier financing program Total debt Less: Current debt ) ) Long-term debt 
+ 
+ As of May 30, 2020, the Company's syndicated revolving line of credit provided the Company with up to million in revolving variable interest borrowing capacity and included an "accordion feature" allowing the Company to increase, at its option and subject to the approval of the participating banks, the aggregate borrowing capacity of the facility by up to million. Outstanding borrowings bear interest at rates based on the prime rate, federal funds rate, LIBOR or negotiated rates as outlined in the agreement. Interest is payable periodically throughout the period if borrowings are outstanding. 
+ 
+ In June 2020, the Company repaid the million draw on its syndicated revolving line of credit that was taken as a precautionary measure in March 2020 to provide additional near-term liquidity given the uncertainty related to COVID-19. 
+ 
+ Less: Borrowings under the syndicated revolving line of credit Less: Outstanding letters of credit Available borrowings under the syndicated revolving line of credit 
+
+Supplier Financing Program 
+ The Company has an agreement with a third-party financial institution that allows certain participating suppliers the ability to finance payment obligations from the Company. Under this program, participating suppliers may finance payment obligations of the Company, prior to their scheduled due dates, at a discounted price to the third-party financial institution. 
+ 
+ The Company has lengthened the payment terms for certain suppliers that have chosen to participate in the program. As a result, certain amounts due to suppliers have payment terms that are longer than standard industry practice and as such, these amounts have been excluded from the caption Accounts payable in the Condensed Consolidated Balance Sheets as the amounts have been accounted for by the Company as current debt, within the caption Short-term borrowings and current portion of long-term debt . 
+
+Herman Miller, Inc. and Subsidiaries 21 
+
+15.) ) ) ) Other comprehensive income (loss), net of tax before reclassifications ) Reclassification from accumulated other comprehensive loss - Other, net ) Tax benefit ) ) Net reclassifications ) Net current period other comprehensive income (loss) ) Balance at November 28, 2020 ) ) ) ) Balance at June 1, 2019 ) ) ) ) Other comprehensive income (loss), net of tax before reclassifications ) ) Reclassification from accumulated other comprehensive loss - Other, net Tax benefit ) ) Net reclassifications Net current period other comprehensive income (loss) ) Balance at November 30, 2019 ) ) ) ) 
+
+16. 
+
+22 Form 10-Q 
+
+International Contract Retail Total Operating Earnings (Loss): North America Contract International Contract Retail ) ) Corporate ) ) ) ) Total 
+ 
+ International Contract Retail Corporate Total 
+
+17. 
+ million. To date, the Company recognized restructuring and impairment expenses of million, with a net credit of million recognized to-date in fiscal 2021 and the remainder in fiscal 2020, 2019 and 2018. These expenses related to the facilities consolidation plan, comprised primarily of an asset impairment recorded against an office building in the United Kingdom that was vacated and the consolidation of the Company's manufacturing facilities in China. No future restructuring costs related to the plan are expected as the plan is substantially complete. 
+ 
+ The office building and related assets in China were sold in the first quarter of fiscal 2021, resulting in a gain of approximately million. The office building and related assets in the United Kingdom were sold in the second quarter of fiscal 2021, resulting in a nominal gain. Both of these gains are included within "Restructuring expense" in the Condensed Consolidated Statements of Comprehensive Income. 
+ 
+ In the second quarter of fiscal 2020, the North America Contract segment initiated restructuring discussions with labor unions related to its Nemschoff operation in Wisconsin. The discussions were concluded in the third quarter of fiscal 2020 and as a result, the Company anticipates the total estimated costs related to the actions will be approximately million. These restructuring costs relate to potential partial outsourcing and in-sourcing strategies, long-lived asset impairments and employee-related cos ts. To date, the Company has recorded approximately million in pre-tax restructuring expense related to this plan, with a net credit of million recognized in fiscal 2021 and the remainder in fiscal 2020. The plan is expected to be completed in fiscal 2021. 
+ 
+ In the second quarter of fiscal 2020, the Company initiated a reorganization of the Global Sales and Product teams. The reor ganization activities occurred primarily in the North America business with additional costs incurred Internationally. To dat e, the Company has recorded a total of million in pre-tax restructuring expense related to this plan. The reorganiz ation is complete and no future costs related to this plan are expected. 
+ Herman Miller, Inc. and Subsidiaries 23 
+
+million related to the plan. No future restructuring costs related to the plan are expected as the plan is complete. 
+ 
+ Restructuring Costs ) ) Amounts Paid ) ) ) Other November 28, 2020 
+ This represents the gain on the sale of office building and related assets in China and the United Kingdom which were recorded as restructuring cost, however, do not impact the restructuring reserve. 
+ 
+ In the fourth quarter of fiscal 2020, the Company announced a restructuring pl an May 2020 restructuring plan") to substantially reduce expenses in response to the impact of the COVID-19 pandemic and related restrictions. These activities included voluntary and involuntary reductions in its North American and International workforces. Combined, these actions resulted in the elimination of approximately 400 full-time positions throughout the Company in various businesses and functions. As the result of these actions, the Company projects an annualized expense reduction of approximately million. To date, the Company incurred severance and related charges of million with million recognized in fiscal 2021 and the remainder in fiscal 2020. No material future restructuring costs related to the plan are expected as the plan is substantially complete and t he remaining amounts will be paid in fiscal 2021. 
+ 
+ Restructuring Costs Amounts Paid ) November 28, 2020 
+ The following is a summary of restructuring expenses by segment for the periods indicated: 
+ Three Months Ended Six Months Ended (In millions) November 28, 2020 November 30, 2019 November 28, 2020 November 30, 2019 North America Contract International Contract ) Total 
+
+18. 
+ million and million as of November 28, 2020 and May 30, 2020, respectively, and represents the Company s maximum exposure to loss. The Company is not deemed to be the primary beneficiary of the variable interest entity as the entity controls the activities that most significantly impact the entity s economic performance, including sales, marketing, and operations. 
+ 
+ 24 Form 10-Q 
+
+Item 2: Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ (Dollars in millions, except share data) 
+ 
+ The following is management's discussion and analysis of certain significant factors that affected the Company's financial condition, earnings and cash flows during the periods included in the accompanying Condensed Consolidated Financial Statements and should be read in conjunction with the Company's Annual Report on Form 10-K for the fiscal year ended May 30, 2020. References to Notes are to the footnotes included in the accompanying Condensed Consolidated Financial Statements. 
+ 
+ Business Overview 
+ The Company researches, designs, manufactures, sells, and distributes furnishings and accessories, for use in various environments including office, healthcare, educational, and residential settings, and provides related services that support companies all over the world. The Company's products are sold primarily through independent contract office furniture dealers as well as the following channels: owned contract office furniture dealers, direct customer sales, independent retailers, owned retail studios and stores, direct-mail catalogs and the Company's e-commerce platforms. The following is a summary of results for the three months ended November 28, 2020: 
+ 
+ Net sales were 626.3 million and orders were 629.7 million, representing a decrease of 7.1 and 6.7 , respectively, when compared to the same quarter of the prior year. The decrease in net sales was driven primarily by decreased sales volumes in the North America Contract segment, partially offset by increased demand within the Retail segment and the acquisitions of HAY and naughtone. On an organic basis, net sales were 573.5 million ) and orders were 572.2 million, representing a decrease of 14.9 ) and 15.2 , respectively, when compared to the same quarter of the prior year. 
+ 
+ Gross margin was 39.0 as compared to 37.9 for the same quarter of the prior year. The increase in gross margin was driven primarily by favorable channel and product sales mix partially offset by lower overhead leverage due to decreased volumes. 
+ 
+ Operating expenses decreased by 19.9 million or 10.3 as compared to the same quarter of the prior year. The decrease in operating expenses was driven primarily by lower compensation and benefit costs, lower marketing and selling costs, and lower travel costs. 
+ 
+ The effective tax rate was 23.5 compared to 14.3 for the same quarter of the prior year. The same period in the prior year included a non-taxable gain on consolidation of an equity method investment which is the primary driver of the year over year increase in the effective tax rate. 
+ 
+ Diluted earnings per share were 0.87, a 34.1 decrease as compared to the prior year. Excluding restructuring expenses and other special charges, adjusted diluted earnings per share were 0.89 ) , a 1.1 increase as compared to prior year adjusted diluted earnings per share. 
+ 
+ ) Non-GAAP measurements; see accompanying reconciliations and explanations. 
+ 
+ The following summary includes the Company's view on the economic environment in which it operates: 
+ 
+ The Company's Retail segment supports a range of furniture categories aimed at the home environment. Several of these categories, including Upholstery, Outdoor, Storage, and Accessories, saw a ramp-up in demand during the first quarter of fiscal 2021 and this continued into the second quarter of fiscal 2021. 
+ 
+ The disruption from the COVID-19 pandemic adversely impacted the results of our second quarter as industry order trends, as reported by the Business and Institutional Furniture Manufacturers Association ("BIFMA"), have highlighted near-term demand pressures from the slowdown in economic activity from the pandemic in 
+ Herman Miller, Inc. and Subsidiaries 25 
+
+our North America Contract segment. Our International Contract segment has also been impacted, though many of the markets internationally have shown signs of faster economic recovery. 
+ 
+ The Company is monitoring the resolution of various trade policy negotiations between the U.S. and key trading partners as well as the ongoing negotiations concerning the U.K. referendum to exit the European Union ("Brexit"). These negotiations create uncertainty in key markets, particularly the U.K., continental Europe and China, which, if unresolved in the near term, could negatively impact customer demand. 
+ 
+ The Company continues to navigate the impact of global tariffs. The Company believes, based upon existing circumstances, that pricing, strategic sourcing actions and profit optimization initiatives have fully offset the current level of tariffs imposed on imports from China. 
+ 
+ The Company's financial performance is sensitive to changes in certain input costs, including steel and steel component parts. The market price of steel in the second quarter of fiscal 2021 was lower than the same period of the prior year and favorably impacted consolidated results on a year-over-year basis. However, the price of steel increased towards the end of the quarter and has the potential to unfavorably impact consolidated gross margin in the second half of fiscal 2021. 
+ 
+ The remaining sections within Item 2 include additional analysis of the three and six months ended November 28, 2020, including discussion of significant variances compared to the prior year periods. 
+
+COVID-19 Update 
+ The Company continues to respond to the challenges brought about by the COVID-19 pandemic. Workplace restrictions are regionally applied based on the recommendations of local government and health authorities. While demand for the Company's products and services, particularly in the Contract channel of the business has been adversely impacted, our multi-channel go-to-market approach has enabled us to serve customers where, and how, they need to be served. In addition, the investments we ve made in people, technology, and products has positioned us well to capitalize on emerging opportunities as our customers' needs changed quickly at the onset of the COVID-19 crisis. This has allowed for our Retail business to take advantage of the unanticipated emerging work-from-home trend as consumers are focusing on their broader home environments. Despite this, the extent of the geographic spread and duration of this virus, the impact on our supply chain, future demand for our products, and related financial impact cannot be estimated at this time with any degree of certainty. 
+ 
+ Employee Safety and Health 
+ The health and well-being of employees remains top of mind. We are taking a regional approach to restrictions based on active COVID-19 case levels and local health authority recommendations. Contact tracing is active in all regions to help track and control the spread of the virus. We also continue to employ a variety of other safety measures including domestic and international travel restrictions, extensive cleaning protocols, temperature and health screenings, personal protective equipment, and visitor safety guidelines. 
+ 
+ Customer Focus 
+ The digital investments we ve made allowed us to pivot quickly and capitalize on a new set of opportunities when our customers purchasing behaviors changed. These investments include a reimagined Design Within Reach website, a Work from Home landing page on Herman Miller s website, a Work from Home online assessment tool, and new digital platforms that are creating greater efficiencies for contract and dealer audiences. Perhaps most notable for the quarter, our first Herman Miller retail seating concept stores opened in Los Angeles and New York City. In the early days, these stores have exceeded our expectations as we seek to educate customers about the health benefits of ergonomic seating. We are uniquely positioned to serve our customers through multiple channels with the most comprehensive portfolio of products in the industry. We are confident in our ability to partner with them to solve for the next generation workplace by providing authentic modern designs for their workplaces and their homes. 
+
+26 Form 10-Q 
+
+Manufacturing and Retail Operations 
+ Manufacturing facilities continue to operate at near-normal capacity with enhanced safety precautions. Nearly all retail studios and stores are open in some capacity; with some open to the public, some in limited capacity, and others by appointment only. All facilities operate within the context and subject to local guidance from government and health authorities and we will continue to adjust to ensure we are acting in accordance with these guidelines. 
+ 
+ Cost Reductions 
+ In fiscal 2020, the Company implemented a range of actions aimed at temporarily reducing costs and preserving liquidity. In fiscal 2021, the Company, together with its Board of Directors, made the decision to move forward with several restorative actions. This included eliminating the 10 reduction in compensation, the introduction of a modified bonus program and re-establishing a quarterly cash dividend program. In addition, the Company has elected to reinstate the previously suspended retirement plan contributions starting in the fourth quarter of fiscal 2021. The Company continues to tightly control operating expenses in the face of lingering economic uncertainty. 
+
+Reconciliation of Non-GAAP Financial Measures 
+ This report contains references to organic net sales and adjusted earnings per share - diluted, which are non-GAAP financial measures. Organic growth (decline) represents the change in net sales, excluding currency translation effects and the impact of acquisitions. Adjusted earnings per share represents reported diluted earnings per share excluding the impact from adjustments related to restructuring expenses and other special charges or gains, including related taxes. Restructuring expenses in the current period included actions involving facilities consolidation and optimization and targeted workforce reductions, while in the comparative period included actions involving facilities consolidation and optimization and costs associated with an early retirement program. 
+ 
+ The Company believes presenting organic net sales and adjusted earnings per share - diluted is useful for investors as it provides financial information on a more comparative basis for the periods presented by excluding items that are not representative of the ongoing operations of the Company. 
+ 
+ Organic net sales and adjusted earnings per share - diluted are not measurements of our financial performance under GAAP and should not be considered as alternatives to the related GAAP measurement. These non-GAAP measurements have limitations as analytical tools and should not be considered in isolation or as a substitute for analysis of our results as reported under GAAP. Our presentation of non-GAAP measures should not be construed as an indication that our future results will be unaffected by unusual or infrequent items. We compensate for these limitations by providing prominence of our GAAP results and using the non-GAAP financial measures only as a supplement. 
+ 
+ The following tables reconcile net sales to organic net sales for the periods ended as indicated below: 
+ Three Months Ended Three Months Ended November 28, 2020 November 30, 2019 North America International Retail Total North America International Retail Total Net sales, as reported 323.1 168.1 135.1 626.3 450.6 118.2 105.4 674.2 change from PY (28.3) 42.2 28.2 (7.1) Proforma Adjustments Acquisitions (3.5) (47.8) (51.3) Currency translation effects (1) 
+ (0.1) (1.4) (1.5) Net sales, organic 319.5 118.9 135.1 573.5 450.6 118.2 105.4 674.2 change from PY (29.1) 0.6 28.2 (14.9) 
+ 
+ Herman Miller, Inc. and Subsidiaries 27 
+
+Six Months Ended Six Months Ended November 28, 2020 November 30, 2019 North America International Retail Total North America International Retail Total Net sales, as reported 661.9 321.7 269.4 1,253.0 909.3 232.0 203.9 1,345.2 change from PY (27.2) 38.7 32.1 (6.9) Proforma Adjustments Acquisitions (10.6) (87.3) (97.9) Currency translation effects (1) 
+ 0.2 (0.3) (0.1) Net sales, organic 651.5 234.1 269.4 1,155.0 909.3 232.0 203.9 1,345.2 change from PY (28.4) 0.9 32.1 (14.1) (1) Currency translation effects represent the estimated net impact of translating current period sales and orders using the average exchange rates applicable to the comparable prior year period. 
+ 
+ The following table reconciles earnings per share - diluted to adjusted earnings per share - diluted for the three and six months ended: 
+ Three Months Ended Six Months Ended November 28, 2020 November 30, 2019 November 28, 2020 November 30, 2019 Earnings per share - diluted 0.87 1.32 2.10 2.14 Less: Gain on consolidation of equity method investment (0.51) (0.51) Add: Special charges, after tax 0.02 0.01 0.02 Add: Restructuring expenses, after tax 0.02 0.05 0.02 0.07 Adjusted earnings per share - diluted 0.89 0.88 2.13 1.72 Weighted average shares outstanding (used for calculating adjusted earnings per share) diluted 59,267,398 59,402,001 59,043,928 59,318,982 Note: The adjustments above are net of tax. For the three and six months ended November 28, 2020 and November 30, 2019, the tax impact of the adjustments were immaterial. 
+
+28 Form 10-Q 
+
+Analysis of Results for Three and Six Months 
+ The following table presents certain key highlights from the results of operations for the three and six months ended: 
+ Three Months Ended Six Months Ended (In millions, except per share data) November 28, 2020 November 30, 2019 Change November 28, 2020 November 30, 2019 Change Net sales 626.3 674.2 (7.1) 1,253.0 1,345.2 (6.9) Cost of sales 382.1 418.7 (8.7) 758.8 843.6 (10.1) Gross margin 244.2 255.5 (4.4) 494.2 501.6 (1.5) Operating expenses 173.2 193.1 (10.3) 327.8 379.0 (13.5) Operating earnings 71.0 62.4 13.8 166.4 122.6 35.7 Gain on consolidation of equity method investment 30.5 n/a 30.5 n/a Other expenses, net 2.2 2.6 (15.4) 3.7 4.7 (21.3) Earnings before income taxes and equity income 68.8 90.3 (23.8) 162.7 148.4 9.6 Income tax expense 16.2 12.9 25.6 36.9 25.2 46.4 Equity income from nonconsolidated affiliates, net of tax 0.2 1.2 (83.3) 0.4 3.4 (88.2) Net earnings 52.8 78.6 (32.8) 126.2 126.6 (0.3) Net earnings (loss) attributable to redeemable noncontrolling interests 1.5 n/a 2.0 (0.2) n/a Net earnings attributable to Herman Miller, Inc. 51.3 78.6 (34.7) 124.2 126.8 (2.1) Earnings per share diluted 0.87 1.32 (34.1) 2.10 2.14 (1.9) Orders 629.7 674.9 (6.7) 1,185.7 1,351.6 (12.3) Backlog 403.4 400.6 0.7 
+ 
+ The following table presents select components of the Company's Condensed Consolidated Statements of Comprehensive Income as a percentage of net sales, for the three and six months ended: 
+ Three Months Ended Six Months Ended November 28, 2020 November 30, 2019 November 28, 2020 November 30, 2019 Net sales 100.0 100.0 100.0 100.0 Cost of sales 61.0 62.1 60.6 62.7 Gross margin 39.0 37.9 39.4 37.3 Operating expenses 27.7 28.6 26.2 28.2 Operating earnings 11.3 9.3 13.3 9.1 Gain on consolidation of equity method investment 4.5 2.3 Other expenses, net 0.4 0.4 0.3 0.3 Earnings before income taxes and equity income 11.0 13.4 13.0 11.0 Income tax expense 2.6 1.9 2.9 1.9 Equity income from nonconsolidated affiliates, net of tax 0.2 0.3 Net earnings 8.4 11.7 10.1 9.4 Net earnings (loss) attributable to redeemable noncontrolling interests 0.2 0.2 Net earnings attributable to Herman Miller, Inc. 8.2 11.7 9.9 9.4 
+ 
+ Herman Miller, Inc. and Subsidiaries 29 
+
+Net Sales 
+ The following charts present graphically the primary drivers of the year-over-year change in net sales for the three and six months ended November 28, 2020. The amounts presented in the graphs are expressed in millions and have been rounded. 
+ 
+ Net sales decreased 47.9 million or 7.1 in the second quarter of fiscal 2021 compared to the second quarter of fiscal 2020. The following items contributed to the change: 
+ 
+ Increase of approximately 51 million due to the acquisitions of HAY and naughtone. 
+ Increased sales volumes within the Retail segment of approximately 28 million which were driven primarily by increased demand within the segment's e-commerce channel. 
+ Foreign currency translation had a positive impact on net sales of approximately 2 million. 
+ Decreased sales volumes within the North America Contract ("NAC") segment of approximately 129 million, primarily due to the impact of the outbreak of COVID-19. 
+ 
+ Net sales decreased 92.2 million or 6.9 in the first six months of fiscal 2021 compared to the first six months of fiscal 2020. The following items led to the change: 
+ 
+ Increase of approximately 98 million due to the acquisitions of HAY and naughtone. 
+ Increased sales volumes within the Retail segment of approximately 62 million which were driven primarily by increased demand within the segment's e-commerce channel. 
+ Incremental list price increases, net of price discounting, of approximately 9 million. 
+ Decreased sales volumes within the NAC segment of approximately 264 million, primarily due to the impact of the outbreak of COVID-19. 
+
+Gross Margin 
+ Gross margin was 39.0 in the second quarter of fiscal 2021 as compared to 37.9 in the second quarter of fiscal 2020. The following factors summarize the major drivers of the year-over-year change in gross margin percentage: 
+ 
+ Favorable channel and product sales mix combined with lower commodity costs increased gross margin by approximately 200 basis points. 
+ Lower overhead leverage decreased gross margin by approximately 90 basis points. 
+ 
+ Gross margin was 39.4 for the six month period ended November 28, 2020 as compared to 37.3 for the same period of the prior fiscal year. The following factors summarize the major drivers of the year-over-year change in gross margin percentage: 
+ 
+ Strong channel mix increased gross margin by approximately 150 basis points. 
+ 30 Form 10-Q 
+
+Product mix, material performance and ongoing profitability improvement efforts increased gross margin by approximately 50 basis points. 
+ Incremental list price increases, net of price discounting, increased gross margin by approximately 40 basis points. 
+ Lower overhead leverage decreased gross margin by approximately 30 basis points. 
+
+Operating Expenses 
+ The following charts present graphically the primary drivers of the year-over-year change in operating expenses for the three and six months ended November 28, 2020. The amounts presented in the graphs are expressed in millions and have been rounded. 
+
+Herman Miller, Inc. and Subsidiaries 31 
+
+Operating expenses decreased by 19.9 million or 10.3 in the second quarter of fiscal 2021 compared to the prior year period. The following factors contributed to the change: 
+ 
+ Lower marketing and selling costs of approximately 10 million primarily within the North America Contract and Retail segments. 
+ Compensation and benefit costs decreased approximately 7 million due to lower headcount associated with the reduction in workforce actions initiated in the fourth quarter of fiscal 2020 and the temporary suspension of certain employee benefits. 
+ Travel costs were approximately 3 million lower due to decreased travel as a result of COVID-19. 
+ Restructuring expenses and special charges decreased approximately 3 million. 
+ Lower studio costs of approximately 3 million driven by lower lease expense and staffing costs. 
+ Warranty costs decreased approximately 3 million. 
+ The acquisition of HAY and naughtone increased operating expenses by approximately 12 million. 
+ 
+ Operating expenses decreased by 51.2 million or 13.5 in the first six months of fiscal 2021 compared to the prior year period. The following factors contributed to the change: 
+ 
+ Lower marketing and selling costs of approximately 23 million primarily within the North America Contract and Retail segments. 
+ Compensation and benefit costs decreased approximately 23 million due primarily to lower headcount associated with the reduction in workforce actions initiated in the fourth quarter of fiscal 2020, as well as temporary wage reductions that were in effect during the first quarter of the year. 
+ Travel costs were approximately 9 million lower due to decreased travel as a result of COVID-19. 
+ Restructuring expenses and special charges decreased approximately 5 million. 
+ Lower studio costs of approximately 5 million driven by lower lease expense. 
+ Warranty costs decreased approximately 4 million. 
+ The acquisition of HAY and naughtone increased operating expenses by approximately 23 million. 
+
+Other Income/Expense 
+ During the three months ended November 28, 2020, net other expense was 2.2 million, a decrease of 0.4 million compared to the same period in the prior year. During the six months ended November 28, 2020, net other expense was 3.7 million, a decrease of 1.0 million compared to the same period in the prior year. 
+ 
+ Other income/expense in the three and six months ended November 30, 2019 reflected a pre-tax gain of 30.5 million related to the purchase accounting treatment of the initial equity-method investment in U.K.-based naughtone. The Company acquired the remaining shares of naughtone during the second quarter of fiscal 2020 and as a result, was required to adjust the value of the initial investment to fair value, resulting in a non-taxable gain. 
+
+Income Taxes 
+ See Note 11 of the Condensed Consolidated Financial Statements for additional information. 
+
+32 Form 10-Q 
+
+Operating Segment Results 
+ The business is comprised of various operating segments as defined by generally accepted accounting principles in the United States. These operating segments are determined on the basis of how the Company internally reports and evaluates financial information used to make operating decisions. The segments identified by the Company include North America Contract, International Contract, Retail, and Corporate. For descriptions of each segment, refer to Note 16 of the Condensed Consolidated Financial Statements. 
+ 
+ The charts below present the relative mix of Net sales and Operating earnings across each of the Company's segments during the three and six month periods ended November 28, 2020. This is followed by a discussion of the Company's results, by reportable segment. 
+
+Herman Miller, Inc. and Subsidiaries 33 
+
+North America Contract ("North America") 
+ Three Months Ended Six Months Ended (Dollars in millions) November 28, 2020 November 30, 2019 Change November 28, 2020 November 30, 2019 Change Net sales 323.1 450.6 (127.5) 661.9 909.3 (247.4) Gross margin 116.2 169.3 (53.1) 245.2 337.0 (91.8) Gross margin 36.0 37.6 (1.6) 37.0 37.1 (0.1) Operating earnings 35.6 62.5 (26.9) 87.4 125.4 (38.0) Operating earnings 11.0 13.9 (2.9) 13.2 13.8 (0.6) 
+ 
+ For the three month comparative period, net sales decreased 28.3 , or 29.1 ) on an organic basis, over the prior year period due to: 
+ 
+ Decreased sales volumes within the North America segment of approximately 129 million, primarily due to the outbreak of COVID-19; partially offset by 
+ Approximately 4 million due to the acquisition of naughtone. 
+ 
+ For the six month comparative period, net sales decreased 27.2 , or 28.4 ) on an organic basis, over the prior year period due to: 
+ 
+ Decreased sales volumes within the North America segment of approximately 264 million, primarily due to the outbreak of COVID-19; partially offset by 
+ Incremental list price increases, net of price discounting, of approximately 5 million; and 
+ Approximately 11 million due to the acquisition of naughtone. 
+ 
+ For the three month comparative period, operating earnings decreased 26.9 million, or 43.0 , over the prior year period due to: 
+ 
+ Decreased gross margin of 53.1 million due to decreased sales volumes and a decrease in gross margin percentage of 160 basis points. The decrease in gross margin percentage was due primarily to lower volume leverage due to the outbreak of COVID-19 described above, partially mitigated by improvements in material and labor performance; partially offset by 
+ Decreased operating expenses of 26.2 million driven primarily by lower marketing and selling expenses of approximately 8 million, lower compensation and benefit costs of approximately 6 million, lower warranty costs of approximately 3 million, lower restructuring costs of approximately 3 million, and lower travel costs of approximately 2 million. 
+ 
+ For the six month comparative period, operating earnings decreased 38.0 million, or 30.3 , over the prior year period due to: 
+ 
+ Decreased gross margin of 91.8 million due to decreased sales volumes; partially offset by 
+ Decreased operating expenses of 53.8 million driven primarily by lower marketing and selling expenses of approximately 20 million, lower compensation and benefit costs of approximately 13 million, lower travel costs of approximately 6 million, lower warranty costs of approximately 4 million, and lower restructuring costs of approximately 3 million. 
+ 
+ ) Non-GAAP measurements; see accompanying reconciliations and explanations. 
+
+34 Form 10-Q 
+
+International Contract ("International") 
+ Three Months Ended Six Months Ended (Dollars in millions) November 28, 2020 November 30, 2019 Change November 28, 2020 November 30, 2019 Change Net sales 168.1 118.2 49.9 321.7 232.0 89.7 Gross margin 60.7 40.3 20.4 115.7 80.1 35.6 Gross margin 36.1 34.1 2.0 36.0 34.5 1.4 Operating earnings 23.4 12.8 10.6 48.4 25.9 22.5 Operating earnings 13.9 10.8 3.1 15.0 11.2 3.8 
+ 
+ For the three month comparative period, net sales increased 42.2 , or 0.6 ) on an organic basis, over the prior year period due primarily to the acquisition of HAY and naughtone which increased sales by approximately 48 million. 
+ 
+ For the six month comparative period, net sales increased 38.7 , or 0.9 ) on an organic basis, over the prior year period due primarily to the acquisition of HAY and naughtone which increased sales by approximately 87 million. 
+ 
+ For the three month comparative period, operating earnings increased 10.6 million, or 82.8 , over the prior year period due to: 
+ 
+ Increased gross margin of 20.4 million due to the increase in sales explained above, as well as increased gross margin percentage of 200 basis points due primarily to changes in channel and product mix; partially offset by 
+ Increased operating expenses of 9.8 million driven primarily by the acquisition of HAY and naughtone. 
+ 
+ For the six month comparative period, operating earnings increased 22.5 million, or 86.9 , over the prior year period due to: 
+ 
+ Increased gross margin of 35.6 million due to the increase in sales explained above, and increased gross margin percentage of 140 basis points due primarily to changes in channel and product mix; partially offset by 
+ Increased operating expenses of 13.1 million, driven primarily by the acquisition of HAY and naughtone and partially offset by cost reduction actions. 
+ 
+ ) Non-GAAP measurements; see accompanying reconciliations and explanations. 
+ 
+ Retail 
+ Three Months Ended Six Months Ended (Dollars in millions) November 28, 2020 November 30, 2019 Change November 28, 2020 November 30, 2019 Change Net sales 135.1 105.4 29.7 269.4 203.9 65.5 Gross margin 67.3 45.9 21.4 133.3 84.5 48.8 Gross margin 49.8 43.5 6.3 49.5 41.4 8.1 Operating earnings 22.6 (0.9) 23.5 51.8 (4.9) 56.7 Operating earnings 16.7 (0.9) 17.6 19.2 (2.4) 21.6 
+ 
+ For the three month comparative period, net sales increased 28.2 , both on an as reported and organic ) basis, over the prior year period due to: 
+ 
+ Increased sales volumes of approximately 28 million which were driven primarily by increased demand within the segment's e-commerce channel; and 
+ Incremental list price increases, net of price discounting, of approximately 3 million. 
+
+Herman Miller, Inc. and Subsidiaries 35 
+
+For the six month comparative period, net sales increased 32.1 , both on an as reported and organic ) basis, over the prior year period due to: 
+ 
+ Increased sales volumes of approximately 62 million which were driven primarily by increased demand within the segment's e-commerce channel; and 
+ Incremental list price increases, net of price discounting, of approximately 6 million; offset by 
+ Lower freight revenue of approximately 2 million. 
+ 
+ For the three month comparative period, operating earnings increased 23.5 million over the prior year period due to: 
+ 
+ Increased gross margin of 21.4 million due to the increase in sales explained above, as well as increased gross margin percentage of 630 basis points due primarily to changes in channel and product mix and incremental list price increases, net of price discounting, partially offset by higher freight expenses; and 
+ Decreased operating expenses of 2.1 million driven primarily by lower studio costs. 
+ 
+ For the six month comparative period, operating earnings increased 56.7 million over the prior year period due to: 
+ 
+ Increased gross margin of 48.8 million due to the increase in sales explained above, as well as increased gross margin of 810 basis points due primarily to changes in channel and product mix and incremental list price increases, net of price discounting; and 
+ Decreased operating expenses of 7.9 million driven primarily by lower studio costs and lower marketing expenses. 
+ 
+ ) Non-GAAP measurements; see accompanying reconciliations and explanations. 
+ 
+ Corporate 
+ Corporate unallocated expenses totaled 10.6 million for the second quarter of fiscal 2021, a decrease of 1.4 million from the second quarter of fiscal 2020. The decrease was driven primarily by lower special charges in the current period. 
+ 
+ Corporate unallocated expenses totaled 21.2 million for the first six months of fiscal 2021, a decrease of 2.6 million from the same period of fiscal 2020. The decrease was driven primarily by lower compensation and benefit costs and lower special charges in the current period. 
+
+Liquidity and Capital Resources 
+ The table below summarizes the net change in cash and cash equivalents for the six months ended as indicated. 
+ 
+ (In millions) November 28, 2020 November 30, 2019 Cash provided by (used in): Operating activities 214.6 142.4 Investing activities (24.4) (82.1) Financing activities (276.9) (40.6) Effect of exchange rate changes 10.6 (1.9) Net change in cash and cash equivalents (76.1) 17.8 
+
+36 Form 10-Q 
+
+Cash Flows - Operating Activities 
+ Cash provided by operating activities for the six months ended November 28, 2020 was 214.6 million, as compared to 142.4 million in the same period of the prior year. The increase in cash generated from operations in the current year, compared to the prior year, was primarily due to: 
+ 
+ Prior year net earnings which included a non-taxable non-cash gain on consolidation of an equity method investment of 30.5 million; and 
+ An increase in current liabilities in the current period of 22.9 million, driven primarily by an increase in accounts payable. This compares to a decrease in current liabilities of 21.1 million in the prior year period. The decrease in the prior year period was driven primarily by a decrease in accrued liabilities; offset by 
+ A decrease in current assets in the current period of 2.3 million, driven by a decrease in inventory and prepaid expenses, offset by an increase in accounts receivable. This compares to a decrease in current assets of 16.5 million in the prior year period. 
+ 
+ Cash Flows - Investing Activities 
+ Cash used in investing activities for the six months ended November 28, 2020 was 24.4 million, as compared to 82.1 million in the same period of the prior year. The decrease in cash outflow in the current year, compared to the prior year, was primarily due to: 
+ 
+ Prior year cash outflow of 40.0 million for the purchase of naughtone; 
+ A decrease in capital expenditures of 14.2 million due to reduced spending as a result of COVID-19; and 
+ Proceeds from the sale of the Company's manufacturing facility in China and office facility in the United Kingdom in the current year of 11.4 million. 
+ 
+ At the end of the second quarter of fiscal 2021, there were outstanding commitments for capital purchases of 16.3 million. The Company plans to fund these commitments through a combination of cash on hand and cash flows from operations. The Company expects full-year capital purchases to be between 50.0 million and 60.0 million, which will be primarily related to investments in the Company's facilities and equipment. This com pares to full-year capital spending of 69.0 million in fiscal 2020. 
+ 
+ Cash Flows - Financing Activities 
+ Cash used in financing activities for the six months ended November 28, 2020 was 276.9 million, as compared to 40.6 million in the sa me period of the prior year. The increase in cash outflow in the current year, compared to the prior year, was primarily due to repayments of 265.0 million on the Company's credit facility in June 2020. 
+ 
+ Sources of Liquidity 
+ In addition to steps taken to protect its workforce and manage business operations, the Company has taken actions to safeguard its capital position in the current environment. The Company is closely managing spending levels, capital investments, and working capital, and has temporarily suspended open market share repurchase activity as part of managing cash flows. For more information on current cost reductions, refer to the COVID-19 Update section above. 
+ 
+ At the end of the second quarter of fiscal 2021, the Company had a well-positioned balance sheet and liquidity profile. In addition to cash flows from operating activities, the Company has access to liquidity through credit facilities, cash and cash equivalents, and short-term investments. These sources have been summarized below. For additional information, refer to Note 14 to the Condensed Consolidated Financial Statements. 
+ 
+ (In millions) November 28, 2020 May 30, 2020 Cash and cash equivalents 377.9 454.0 Marketable securities 7.2 7.0 Availability under syndicated revolving line of credit 265.2 0.6 Total liquidity 650.3 461.6 
+ 
+ Herman Miller, Inc. and Subsidiaries 37 
+
+Of the cash and cash equivalents noted above at the end of the second quarter of fiscal 2021, the Company had 176.4 million of cash and cash equivalents held outside the United States. In addition, the Company had marketable securities of 7.2 million held by one of its international wholly-owned subsidiaries. 
+ 
+ The Company s syndicated revolving line of credit, which expires on August 28, 2024, provides the Company with up to 500 million in revolving variable interest borrowing capacity and includes an "accordion feature" allowing the Company to increase, at its option and subject to the approval of the participating banks, the aggregate borrowing capacity of the facility by up to 250 million. Outstanding borrowings bear interest at rates based on the prime rate, federal funds rate, LIBOR or negotiated rates as outlined in the agreement. Interest is payable periodically throughout the period if borrowings are outstanding. 
+ 
+ As of November 28, 2020, the total debt outstanding related to borrowings under the syndicated revolving line of credit was 225.0 million with available borrowings against this facility of 265.2 million. 
+ 
+ The subsidiary holding the Company's marketable securities is taxed as a United States taxpayer at the Company's election. Consequently, for tax purposes, all United States tax impacts for this subsidiary have been recorded. The Company intends to repatriate 26.7 million in cash held in certain foreign jurisdictions over the next two years and as such has recorded a deferred tax liability related to foreign withholding taxes on these future dividends received in the U.S. from foreign subsidiaries of 1.8 million. A significant portion of this cash was previously taxed under the U.S. Tax Cut and Jobs Act (TCJA) one-time U.S. tax liability on undistributed foreign earnings. The Company intends to remain indefinitely reinvested in the remaining undistributed earnings outside the U.S. 
+ 
+ The Company believes that its financial resources will allow it to manage the impact of COVID-19 on business operations for the foreseeable future which could include materially reduced revenue and profits. The Company will continue to evaluate its financial position in light of future developments, particularly those relating to COVID-19. 
+
+Contractual Obligations 
+ Contractual obligations associated with ongoing business and financing activities will require cash payments in future periods. A table summarizing the amounts and estimated timing of these future cash payments as of May 30, 2020 was provided in the Company's annual report on Form 10-K for the year ended May 30, 2020. There have been no material changes in such obligations since that date. 
+ 
+ Guarantees 
+ See Note 13 to the Condensed Consolidated Financial Statements. 
+ 
+ Variable Interest Entities 
+ See Note 18 to the Condensed Consolidated Financial Statements. 
+ 
+ Contingencies 
+ See Note 13 to the Condensed Consolidated Financial Statements. 
+ 
+ Critical Accounting Policies 
+ 
+ The Company strives to report financial results clearly and understandably. The Company follows accounting principles generally accepted in the United States in preparing its consolidated financial statements, which require certain estimates and judgments that affect the financial position and results of operations for the Company. The Company continually reviews the accounting policies and financial information disclosures. A summary of the more significant accounting policies that require the use of estimates and judgments in preparing the financial statements is provided in the Company's annual report on Form 10-K for the year ended May 30, 2020. 
+ 
+ New Accounting Standards 
+ See Note 2 to the Condensed Consolidated Financial Statements. 
+ 
+ 38 Form 10-Q 
+
+Safe Harbor Provisions 
+ Certain statements in this filing are not historical facts but are forward-looking statements as defined under Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act, as amended, that are based on management s beliefs, assumptions, current expectations, estimates, and projections about the office furniture industry, the economy, and the Company itself. Words like anticipates, believes, confident, estimates, expects, forecasts, likely, plans, projects, and should, variations of such words, and similar expressions identify such forward-looking statements. These statements do not guarantee future performance and involve certain risks, uncertainties, and assumptions that are difficult to predict with regard to timing, extent, likelihood, and degree of occurrence. These risks include, without limitation, the success of our growth strategy, employment and general economic conditions, the pace of economic growth in the U.S., and in our International markets, the potential impact of changes in U.S. tax law, the increase in white collar employment, the willingness of customers to undertake capital expenditures, the types of products purchased by customers, competitive-pricing pressures, the availability and pricing of raw materials, our reliance on a limited number of suppliers, our ability to expand globally given the risks associated with regulatory and legal compliance challenges and accompanying currency fluctuations, the ability to increase prices to absorb the additional costs of raw materials, the financial strength of our dealers and the financial strength of our customers, our ability to locate new DWR, HAY, and Herman Miller retail stores and studios, negotiate favorable lease terms for new and existing locations and the implementation of our studio portfolio transformation, our ability to attract and retain key executives and other qualified employees, our ability to continue to make product innovations, the success of newly-introduced products, our ability to serve all of our markets, possible acquisitions, divestitures or alliances, the pace and level of government procurement, the outcome of pending litigation or governmental audits or investigations, political risk in the markets we serve, natural disasters, public health crises, disease outbreaks, and other risks identified in our filings with the Securities and Exchange Commission. Therefore, actual results and outcomes may materially differ from what we express or forecast. Furthermore, Herman Miller, Inc., undertakes no obligation to update, amend or clarify forward-looking statements. 
+
+Item 3: Quantitative and Qualitative Disclosures About Market Risk 
+ The information concerning quantitative and qualitative disclosures about market risk contained in the Company s Annual Report on Form 10-K for its fiscal year ended May 30, 2020 has not changed significantly. The nature of market risks from interest rates and commodity prices has not changed materially during the first six months of fiscal 2021. 
+ 
+ Foreign Exchange Risk 
+ The Company primarily manufactures its products in the United States, United Kingdom, China and India. It also sources completed products and product components from outside the United States. The Company's completed products are sold in numerous countries around the world. Sales in foreign countries as well as certain expenses related to those sales are transacted in currencies other than the Company's reporting currency, the U.S. dollar. Accordingly, production costs and profit margins related to these sales are affected by the currency exchange relationship between the countries where the sales take place and the countries where the products are sourced or manufactured. These currency exchange relationships can also impact the Company's competitive positions within these markets. 
+ 
+ In the normal course of business, the Company enters into contracts denominated in foreign currencies. The principal foreign currencies in which the Company conducts its business are the British pound sterling, euro, Canadian dollar, Japanese yen, Mexican peso, Hong Kong dollar, Chinese renminbi, and the Danish krone. Changes in the fair value of such contracts are reported in earnings in the period the value of the contract changes. The net gain or loss upon settlement and the change in fair value of outstanding contracts is recorded as a component of Other (income) expense, net. 
+
+Herman Miller, Inc. and Subsidiaries 39 
+
+Item 4: Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Under the supervision and with the participation of management, including the Company's Chief Executive Officer and Chief Financial Officer, management has evaluated the effectiveness of the Company's disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) as of November 28, 2020, and the Company's Chief Executive Officer and Chief Financial Officer have concluded that, as of that date, the Company's disclosure controls and procedures are effective. 
+ 
+ Changes in Internal Control Over Financial Reporting 
+ There were no changes in the Company's internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) during the quarterly period ended November 28, 2020, that have materially affected, or are reasonably likely to materially affect, the Company's internal control over financial reporting. 
+ 
+ 40 Form 10-Q 
+
+PART II - OTHER INFORMATION 
+ 
+ Item 1: Legal Proceedings 
+ Referred to in Note 13 of the Condensed Consolidated Financial Statements. 
+
+Item 1A: Risk Factors 
+ There have been no material changes in the Company's risk factors from those set forth in the Company's Annual Report on Form 10-K for the year ended May 30, 2020. 
+
+Item 2: Unregistered Sales of Equity Securities and Use of Proceeds 
+ Issuer Purchases of Equity Securities 
+ The following is a summary of share repurchase activity during the quarter ended November 28, 2020. 
+ Period (a) Total Number of Shares (or Units) Purchased (b) Average price Paid per Share or Unit (c) Total Number of Shares (or Units) Purchased as Part of Publicly Announced Plans or Programs (d) Maximum Number (or Approximate Dollar Value) of Shares (or Units) that may yet be Purchased Under the Plans or Programs (in millions) 8/30/20 - 9/26/20 632 29.16 632 236,769,598 9/27/20 - 10/24/20 236,769,598 10/25/20 - 11/28/20 566 33.01 566 236,750,879 Total 1,198 1,198 
+ 
+ The Company repurchased shares under previously announced plans authorized by the Board of Directors. No repurchase plans expired or were terminated during the second quarter of fiscal 2021, nor do any plans exist under which the Company does not intend to make further purchases. The Board has the authority to terminate any further repurchases. During the period covered by this report, the Company did not sell any of its equity securities that were not registered under the Securities Act of 1933. 
+
+Item 3: Defaults upon Senior Securities 
+ None 
+
+Item 4: Mine Safety Disclosures 
+ Not applicable 
+
+Item 5: Other Information 
+ None 
+
+Item 6: Exhibits 
+ The following exhibits (listed by number corresponding to the Exhibit table as Item 601 in Regulation S-K) are filed with this Report: 
+ 
+ Exhibit Number Document 
+ 31.1 Certificate of the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ Herman Miller, Inc. and Subsidiaries 41 
+
+31.2 Certificate of the Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.1 Certificate of the Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.2 Certificate of the Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 101.INS The instance document does not appear in the interactive data file because its XBRL tags are embedded within the inline XBRL document. 
+ 
+ 101.SCH XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.LAB XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 104 Cover Page Interactive Data File (embedded within the Inline XBRL Document) 
+
+42 Form 10-Q 
+
+Signatures 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereto duly authorized. 
+
+HERMAN MILLER, INC. 
+
+January 4, 2021 /s/ Andrea R. Owen Andrea R. Owen President and Chief Executive Officer (Duly Authorized Signatory for Registrant) January 4, 2021 /s/ Jeffrey M. Stutz Jeffrey M. Stutz Chief Financial Officer (Duly Authorized Signatory for Registrant) 
+
+Herman Miller, Inc. and Subsidiaries 43 
+
+<EX-31.1>
+ 2
+ hmi10q_11282020ex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ 
+ CERTIFICATE OF THE CHIEF EXECUTIVE OFFICER 
+ OF HERMAN MILLER, INC. (THE REGISTRANT 
+ 
+ I, Andrea R. Owen, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q for the period ended November 28, 2020, of Herman Miller, Inc 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date January 4, 2021 
+ 
+ s Andrea R. Owen 
+ Andrea R. Owen 
+ President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ hmi10q_11282020ex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ 
+ CERTIFICATE OF THE CHIEF FINANCIAL OFFICER 
+ OF HERMAN MILLER, INC. (THE REGISTRANT 
+ 
+ I, Jeffrey M. Stutz, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q for the period ended November 28, 2020, of Herman Miller, Inc 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date January 4, 2021 
+ 
+ s Jeffrey M. Stutz 
+ Jeffrey M. Stutz 
+ Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ hmi10q_11282020ex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ CERTIFICATE OF THE CHIEF EXECUTIVE OFFICER 
+ OF HERMAN MILLER, INC. (THE COMPANY 
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ I, Andrea R. Owen, President and Chief Executive Officer of the company, certify to the best of my knowledge and belief pursuant to Section 906 of Sarbanes-Oxley Act of 2002 that 
+ 
+ (1) The quarterly report on Form 10-Q for the period ended November 28, 2020, which this statement accompanies, fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ (2) The information contained in this quarterly report on Form 10-Q for the quarterly period ended November 28, 2020, fairly presents, in all material respects, the financial condition and results of operations of the company 
+
+Dated January 4, 2021 
+ 
+ s Andrea R. Owen 
+ Andrea R. Owen 
+ President and Chief Executive Officer 
+ 
+ The signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement required by Section 906, has been provided to Herman Miller, Inc. and will be retained by Herman Miller, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ hmi10q_11282020ex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ 
+ CERTIFICATE OF THE CHIEF FINANCIAL OFFICER 
+ OF HERMAN MILLER, INC. (THE COMPANY 
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ I, Jeffrey M. Stutz, Chief Financial Officer of the company, certify to the best of my knowledge and belief pursuant to Section 906 of Sarbanes-Oxley Act of 2002 that 
+ 
+ (1) The quarterly report on Form 10-Q for the period ended November 28, 2020, which this statement accompanies, fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ (2) The information contained in this quarterly report on Form 10-Q for the quarterly period ended November 28, 2020, fairly presents, in all material respects, the financial condition and results of operations of the company. 
+
+Dated January 4, 2021 
+ 
+ s Jeffrey M. Stutz 
+ Jeffrey M. Stutz 
+ Chief Financial Officer 
+ 
+ The signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement required by Section 906, has been provided to Herman Miller, Inc. and will be retained by Herman Miller, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ mlhr-20201128.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ mlhr-20201128_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ mlhr-20201128_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ mlhr-20201128_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ mlhr-20201128_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,2096 @@
+<Header>
+<FileStats>
+    <FileName>20220407_10-Q_edgar_data_23217_0001564590-22-013862.txt</FileName>
+    <GrossFileSize>21571988</GrossFileSize>
+    <NetFileSize>138293</NetFileSize>
+    <NonText_DocumentType_Chars>1330621</NonText_DocumentType_Chars>
+    <HTML_Chars>8699781</HTML_Chars>
+    <XBRL_Chars>2477062</XBRL_Chars>
+    <XML_Chars>8485049</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001564590-22-013862.hdr.sgml : 20220407
+<ACCEPTANCE-DATETIME>20220407163215
+ACCESSION NUMBER:		0001564590-22-013862
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		81
+CONFORMED PERIOD OF REPORT:	20220227
+FILED AS OF DATE:		20220407
+DATE AS OF CHANGE:		20220407
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONAGRA BRANDS INC.
+		CENTRAL INDEX KEY:			0000023217
+		STANDARD INDUSTRIAL CLASSIFICATION:	FOOD & KINDRED PRODUCTS [2000]
+		IRS NUMBER:				470248710
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0530
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07275
+		FILM NUMBER:		22814292
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 W. MERCHANDISE MART PLAZA
+		STREET 2:		SUITE 1300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+		BUSINESS PHONE:		312-549-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		222 W. MERCHANDISE MART PLAZA
+		STREET 2:		SUITE 1300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONAGRA FOODS INC /DE/
+		DATE OF NAME CHANGE:	20001006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONAGRA INC /DE/
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEBRASKA CONSOLIDATED MILLS CO
+		DATE OF NAME CHANGE:	19721201
+
+</SEC-Header>
+</Header>
+
+ 0001564590-22-013862.txt : 20220407
+
+10-Q
+ 1
+ cag-10q_20220227.htm
+ 10-Q
+
+cag-10q_20220227.htm
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ 
+ FORM 
+ 
+ (Mark One) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended 
+ OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+F or the transition period from to 
+ Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+ incorporation or organization) 
+
+(I.R.S. Employer 
+ Identification No.) 
+
+, 
+ , 
+
+(Address of principal executive offices) 
+
+(Zip Code) 
+
+(Registrant's telephone number, including area code) 
+ N/A 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which registered 
+
+I ndicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ Number of shares outstanding of issuer's common stock as of February 27, 2022 was . 
+
+Table of Contents 
+
+PART I. FINANCIAL INFORMATION 
+
+1 
+
+Item 1 
+
+Financial Statements 
+
+1 
+
+Unaudited Condensed Consolidated Statements of Earnings for the Thirteen and Thirty-Nine Weeks Ended February 27, 2022 and February 28, 2021 
+
+1 
+
+Unaudited Condensed Consolidated Statements of Comprehensive Income for the Thirteen and Thirty-Nine Weeks Ended February 27, 2022 and February 28, 2021 
+
+2 
+
+Unaudited Condensed Consolidated Balance Sheets as of February 27, 2022 and May 30, 2021 
+
+3 
+
+Unaudited Condensed Consolidated Statements of Cash Flows for the Thirty-Nine Weeks Ended February 27, 2022 and February 28, 2021 
+
+4 
+
+Notes to Unaudited Condensed Consolidated Financial Statements 
+
+5 
+
+Item 2 
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+27 
+
+Item 3 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+38 
+
+Item 4 
+
+Controls and Procedures 
+
+39 
+
+PART II. OTHER INFORMATION 
+
+40 
+
+Item 1 
+
+Legal Proceedings 
+
+40 
+
+Item 1A 
+
+Risk Factors 
+
+40 
+
+Item 6 
+
+Exhibits 
+
+41 
+
+Signatures 
+
+42 
+
+Exhibit 31.1 
+
+Exhibit 31.2 
+
+Exhibit 32 
+
+Exhibit 101 
+ Exhibit 104 
+
+PART I FINANCIAL INFORMATION 
+ ITEM 1. FINANCIAL STATEMENTS 
+ Conagra Brands, Inc. and Subsidiaries 
+ Condensed Consolidated Statements of Earnings 
+ (in millions except per share amounts) 
+ (unaudited) 
+
+Thirteen Weeks Ended 
+
+Thirty-Nine Weeks Ended 
+
+February 27, 
+ 2022 
+
+February 28, 
+ 2021 
+
+February 27, 
+ 2022 
+
+February 28, 
+ 2021 
+
+Net sales 
+
+Costs and expenses: 
+
+Cost of goods sold 
+
+Selling, general and administrative expenses 
+
+Pension and postretirement non-service income 
+
+Interest expense, net 
+
+Income before income taxes and equity method investment earnings 
+
+Income tax expense 
+
+Equity method investment earnings 
+
+Net income 
+
+Less: Net income attributable to noncontrolling interests 
+
+Net income attributable to Conagra Brands, Inc. 
+
+Earnings per share basic 
+
+Net income attributable to Conagra Brands, Inc. common stockholders 
+
+Earnings per share diluted 
+
+Net income attributable to Conagra Brands, Inc. common stockholders 
+
+See Notes to the Condensed Consolidated Financial Statements. 
+ 1 
+
+Conagra Brands, Inc. and Subsidiaries 
+ Condensed Consolidated Statements of Comprehensive Income 
+ (in millions) 
+ (unaudited) 
+
+Thirteen Weeks Ended 
+
+February 27, 2022 
+
+February 28, 2021 
+
+Pre-Tax 
+ Amount 
+
+Tax 
+ (Expense) 
+ Benefit 
+
+After- 
+ Tax 
+ Amount 
+
+Pre-Tax 
+ Amount 
+
+Tax 
+ (Expense) 
+ Benefit 
+
+After- 
+ Tax 
+ Amount 
+
+Net income 
+
+Other comprehensive income: 
+
+Derivative adjustments: 
+
+Unrealized derivative adjustments 
+
+Reclassification for derivative adjustments included in net income 
+
+Unrealized currency translation gains 
+
+Pension and post-employment benefit obligations: 
+
+Reclassification for pension and post-employment benefit obligations included in net income 
+
+Comprehensive income 
+
+Comprehensive income attributable to noncontrolling interests 
+
+Comprehensive income attributable to Conagra Brands, Inc. 
+
+Thirty-Nine Weeks Ended 
+
+February 27, 2022 
+
+February 28, 2021 
+
+Pre-Tax 
+ Amount 
+
+Tax 
+ (Expense) 
+ Benefit 
+
+After- 
+ Tax 
+ Amount 
+
+Pre-Tax 
+ Amount 
+
+Tax 
+ (Expense) 
+ Benefit 
+
+After- 
+ Tax 
+ Amount 
+
+Net income 
+
+Other comprehensive income: 
+
+Derivative adjustments: 
+
+Unrealized derivative adjustments 
+
+Reclassification for derivative adjustments included in net income 
+
+Unrealized currency translation gains (losses) 
+
+Pension and post-employment benefit obligations: 
+
+Unrealized pension and post-employment benefit obligations 
+
+Reclassification for pension and post-employment benefit obligations included in net income 
+
+Comprehensive income 
+
+Comprehensive income (loss) attributable to noncontrolling interests 
+
+Comprehensive income attributable to Conagra Brands, Inc. 
+
+See Notes to the Condensed Consolidated Financial Statements. 
+ 2 
+
+Conagra Brands, Inc. and Subsidiaries 
+ Condensed Consolidated Balance Sheets 
+ (in millions except share data) 
+ (unaudited) 
+
+February 27, 
+ 2022 
+
+May 30, 
+ 2021 
+
+ASSETS 
+
+Current assets 
+
+Cash and cash equivalents 
+
+Receivables, less allowance for doubtful accounts of and 
+
+Inventories 
+
+Prepaid expenses and other current assets 
+
+Current assets held for sale 
+
+Total current assets 
+
+Property, plant and equipment 
+
+Less accumulated depreciation 
+
+Property, plant and equipment, net 
+
+Goodwill 
+
+Brands, trademarks and other intangibles, net 
+
+Other assets 
+
+Noncurrent assets held for sale 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+Current liabilities 
+
+Notes payable 
+
+Current installments of long-term debt 
+
+Accounts payable 
+
+Accrued payroll 
+
+Other accrued liabilities 
+
+Current liabilities held for sale 
+
+Total current liabilities 
+
+Senior long-term debt, excluding current installments 
+
+Other noncurrent liabilities 
+
+Noncurrent liabilities held for sale 
+
+Total liabilities 
+
+Common stockholders' equity 
+
+Common stock of par value, authorized shares 
+ issued 
+
+Additional paid-in capital 
+
+Retained earnings 
+
+Accumulated other comprehensive income (loss) 
+
+Less treasury stock, at cost, and common shares 
+
+Total Conagra Brands, Inc. common stockholders' equity 
+
+Noncontrolling interests 
+
+Total stockholders' equity 
+
+See Notes to the Condensed Consolidated Financial Statements. 
+
+3 
+
+Conagra Brands, Inc. and Subsidiaries 
+ Condensed Consolidated Statements of Cash Flows 
+ (in millions) 
+ (unaudited) 
+
+Thirty-Nine Weeks Ended 
+
+February 27, 
+ 2022 
+
+February 28, 
+ 2021 
+
+Cash flows from operating activities: 
+
+Net income 
+
+Adjustments to reconcile net income to net cash flows from operating activities: 
+
+Depreciation and amortization 
+
+Asset impairment charges 
+
+Loss on extinguishment of debt 
+
+Gain on divestiture 
+
+Equity method investment earnings in excess of distributions 
+
+Stock-settled share-based payments expense 
+
+Contributions to pension plans 
+
+Pension benefit 
+
+Other items 
+
+Change in operating assets and liabilities excluding effects of business acquisitions and dispositions: 
+
+Receivables 
+
+Inventories 
+
+Deferred income taxes and income taxes payable, net 
+
+Prepaid expenses and other current assets 
+
+Accounts payable 
+
+Accrued payroll 
+
+Other accrued liabilities 
+
+Deferred employer payroll taxes 
+
+Net cash flows from operating activities 
+
+Cash flows from investing activities: 
+
+Additions to property, plant and equipment 
+
+Sale of property, plant and equipment 
+
+Purchase of marketable securities 
+
+Sale of marketable securities 
+
+Proceeds from divestitures 
+
+Other items 
+
+Net cash flows from investing activities 
+
+Cash flows from financing activities: 
+
+Issuance of short-term borrowings, maturities greater than 90 days 
+
+Repayment of short-term borrowings, maturities greater than 90 days 
+
+Net (repayment) issuance of other short-term borrowings 
+
+Issuance of long-term debt 
+
+Repayment of long-term debt 
+
+Debt issuance costs 
+
+Repurchase of Conagra Brands, Inc. common shares 
+
+Payment of intangible asset financing arrangement 
+
+Cash dividends paid 
+
+Exercise of stock options and issuance of other stock awards, including tax withholdings 
+
+Other items 
+
+Net cash flows from financing activities 
+
+Effect of exchange rate changes on cash and cash equivalents and restricted cash 
+
+Net change in cash and cash equivalents and restricted cash 
+
+Cash and cash equivalents and restricted cash at beginning of period 
+
+Cash and cash equivalents and restricted cash at end of period 
+
+See Notes to the Condensed Consolidated Financial Statements. 
+ 4 
+
+Conagra Brands, Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements 
+ (columnar dollars in millions except per share amounts) 
+
+Derivative adjustments, net of reclassification adjustments 
+
+Pension and postretirement benefit obligations, net of reclassification adjustments 
+
+Accumulated other comprehensive income (loss) 
+
+5 
+
+Interest expense, net 
+
+Cash flow hedges 
+
+Equity method investment earnings 
+
+Total before tax 
+
+Income tax expense 
+
+Net of tax 
+
+Pension and postretirement liabilities: 
+
+Net actuarial gain 
+
+Pension and postretirement non-service income 
+
+Total before tax 
+
+Income tax expense 
+
+Net of tax 
+
+Thirty-Nine Weeks Ended 
+
+Affected Line Item in the Condensed Consolidated 
+ Statement of Earnings 1 
+
+February 27, 2022 
+
+February 28, 2021 
+
+Net derivative adjustment, net of tax: 
+
+Cash flow hedges 
+
+Interest expense, net 
+
+Cash flow hedges 
+
+Selling, general and administrative expenses 
+
+Cash flow hedges 
+
+Equity method investment earnings 
+
+Total before tax 
+
+Income tax expense 
+
+Net of tax 
+
+Pension and postretirement liabilities: 
+
+Net prior service cost 
+
+Pension and postretirement non-service income 
+
+Net actuarial gain 
+
+Pension and postretirement non-service income 
+
+Total before tax 
+
+Income tax expense 
+
+Net of tax 
+
+1 Amounts in parentheses indicate income recognized in the Condensed Consolidated Statements of Earnings. 
+ million . The business results were previously reported primarily within our Refrigerated & Frozen segment, and to a lesser extent within our International and Foodservice segments . 
+ 6 
+ 
+ million . The business results were previously reported primarily within our Grocery & Snacks segment, and to a lesser extent within our International and Foodservice segments . We recognized a gain on the sale of million in the third quarter of fiscal 2021, included within selling, general and administrative ("SG&A") expenses. 
+ During the second quarter of fiscal 2021, we completed the sale of our H.K. Anderson business for net proceeds of million and recognized a gain on the sale of million, included within SG&A expenses . The business results were previously reported primarily within our Grocery & Snacks segment, and to a lesser extent within our Foodservice segment . 
+ Other Assets Held for Sale 
+ During the second quarter of fiscal 2022, we initiated a plan to sell businesses with operating results included within our Grocery & Snacks, Refrigerated & Frozen, and Foodservice segments. The assets and liabilities have been reclassified as assets and liabilities held for sale within our Condensed Consolidated Balance Sheets for all periods presented and are expected to be sold within twelve months of initiating our plan. In connection with this activity, we recognized an impairment charge of million within SG&A expenses in the second quarter of fiscal 2022. During the third quarter of fiscal 2022, we recognized a further impairment charge of million within SG&A expenses. 
+ In addition, we actively market certain other assets from time to time. These assets have been reclassified as assets held for sale within our Condensed Consolidated Balance Sheets for periods prior to the disposal of the individual asset groups. 
+
+Noncurrent assets (including goodwill of 34.6 million at May 30, 2021) 
+
+Current liabilities 
+
+Noncurrent liabilities 
+
+million of charges million of cash charges and million of non-cash charges) for actions identified to date under the Pinnacle Integration Restructuring Plan. The Board and/or our senior management have authorized incurrence of these charges. In the third quarter and first three quarters of fiscal 2022, we recognized charges of million and million, respectively, in connection with the Pinnacle Integration Restructuring Plan. In the third quarter and first three quarters of fiscal 2021, we recognized charges of million and million, respectively, in connection with the Pinnacle Integration Restructuring Plan. We expect to incur costs related to the Pinnacle Integration Restructuring Plan over a multi-year period. 
+ 7 
+
+Other cost of goods sold 
+
+Total cost of goods sold 
+
+Severance and related costs 
+
+Asset impairment (net of gains on disposal) 
+
+Accelerated depreciation 
+
+Contract/lease termination 
+
+Consulting/professional fees 
+
+Other selling, general and administrative expenses 
+
+Total selling, general and administrative expenses 
+
+Consolidated total 
+
+During the third quarter of fiscal 2022, we recognized the following pre-tax expenses for the Pinnacle Integration Restructuring Plan: 
+
+Refrigerated & Frozen 
+
+Corporate 
+
+Total 
+
+Other cost of goods sold 
+
+Total cost of goods sold 
+
+Severance and related costs 
+
+Asset gains on disposal (net of impairment) 
+
+Contract/lease termination 
+
+Consulting/professional fees 
+
+Other selling, general and administrative expenses 
+
+Total selling, general and administrative expenses 
+
+Consolidated total 
+
+Included in the above results are million of charges that have resulted or will result in cash outflows and a non-cash net benefit of million. 
+
+Total cost of goods sold 
+
+Severance and related costs 
+
+Asset gains on disposal (net of impairment) 
+
+Contract/lease termination 
+
+Consulting/professional fees 
+
+Other selling, general and administrative expenses 
+
+Total selling, general and administrative expenses 
+
+Consolidated total 
+
+Included in the above results are million of charges that have resulted or will result in cash outflows and a net non-cash benefit of million. 
+ 8 
+
+Other cost of goods sold 
+
+Total cost of goods sold 
+
+Severance and related costs 
+
+Asset impairment (net of gains on disposal) 
+
+Accelerated depreciation 
+
+Contract/lease termination 
+
+Consulting/professional fees 
+
+Other selling, general and administrative expenses 
+
+Total selling, general and administrative expenses 
+
+Consolidated total 
+
+Included in the above results are million of charges that have resulted or will result in cash outflows and million in non-cash charges. 
+
+Contract/lease termination 
+
+Consulting/professional fees 
+
+Other costs 
+
+Total 
+
+Conagra Restructuring Plan 
+ In fiscal 2019, senior management initiated a restructuring plan for costs incurred in connection with actions taken to improve SG&A expense effectiveness and efficiencies and to optimize our supply chain network (the "Conagra Restructuring Plan"). Although we remain unable to make good faith estimates relating to the entire Conagra Restructuring Plan, we are reporting on actions initiated through the end of the third quarter of fiscal 2022, including the estimated amounts or range of amounts for each major type of costs expected to be incurred, and the charges that have resulted or will result in cash outflows. As of February 27, 2022, we have approved the incurrence of million million of cash charges and million of non-cash charges) for several projects associated with the Conagra Restructuring Plan. As of February 27, 2022, we have incurred or expect to incur million of charges million of cash charges and million of non-cash charges) for actions identified to date under the Conagra Restructuring Plan. In the third quarter and first three quarters of fiscal 2022, we recognized charges of million and million, respectively, in connection with the Conagra Restructuring Plan. In the third quarter and first three quarters of fiscal 2021, we recognized charges of million and million, respectively, in connection with the Conagra Restructuring Plan. We expect to incur costs related to the Conagra Restructuring Plan over a multi-year period. 
+ 9 
+
+Other cost of goods sold 
+
+Total cost of goods sold 
+
+Severance and related costs 
+
+Asset impairment (net of gains on disposal) 
+
+Contract/lease termination 
+
+Consulting/professional fees 
+
+Other selling, general and administrative expenses 
+
+Total selling, general and administrative expenses 
+
+Total 
+
+Pension and postretirement non-service income 
+
+Consolidated total 
+
+Other cost of goods sold 
+
+Total cost of goods sold 
+
+Severance and related costs 
+
+Asset impairment (net of gains on disposal) 
+
+Other selling, general and administrative expenses 
+
+Total selling, general and administrative expenses 
+
+Total 
+
+Included in the above results are million in charges that have resulted or will result in cash outflows and million in non-cash charges. 
+
+Other cost of goods sold 
+
+Total cost of goods sold 
+
+Severance and related costs 
+
+Asset impairment (net of gains on disposal) 
+
+Contract/lease termination 
+
+Other selling, general and administrative expenses 
+
+Total selling, general and administrative expenses 
+
+Total 
+
+10 
+ 
+ million in charges that have resulted or will result in cash outflows and million in non-cash charges. 
+
+Other cost of goods sold 
+
+Total cost of goods sold 
+
+Severance and related costs 
+
+Asset impairment (net of gains on disposal) 
+
+Contract/lease termination 
+
+Other selling, general and administrative expenses 
+
+Total selling, general and administrative expenses 
+
+Total 
+
+Pension and postretirement non-service income 
+
+Consolidated total 
+
+Included in the above results are million of charges that have resulted or will result in cash outflows and million in non-cash charges. 
+
+Contract/lease termination 
+
+Other costs 
+
+Total 
+
+million aggregate principal amount of senior notes due August 11, 2023. 
+ During the fourth quarter of fiscal 2021, we repaid the remaining outstanding million aggregate principal amount of our subordinated notes on their maturity date of March 1, 2021. 
+ During the third quarter of fiscal 2021, we redeemed million aggregate principal amount of our senior notes due January 25, 2023, prior to maturity, resulting in a loss of million within SG&A expenses as a cost of early extinguishment of debt. 
+ During the second quarter of fiscal 2021, we issued billion aggregate principal amount of senior notes due November 1, 2027 (the "2027 Senior Notes"). We also redeemed the entire outstanding billion aggregate principal amount of our senior notes prior to their maturity date of October 22, 2021, resulting in a net loss of million within SG&A expenses as a cost of early extinguishment of debt. This redemption was primarily funded using the net proceeds from the issuance of the 2027 Senior Notes. 
+ During the second quarter of fiscal 2021, we also repaid the entire outstanding million aggregate principal amount of our floating rate notes on their maturity date of October 9, 2020. 
+ During the first quarter of fiscal 2021, we repaid the remaining outstanding million aggregate principal amount of our senior notes on their maturity date of August 15, 2020. 
+ 11 
+ 
+ billion (subject to increase to a maximum aggregate principal amount of billion with the consent of the lenders). The Revolving Credit Facility matures on July 11, 2024 and is unsecured. The term of the Revolving Credit Facility may be extended for additional one-year or two-year periods from the then-applicable maturity date on an annual basis. As of February 27, 2022, there were outstanding borrowings under the Revolving Credit Facility. 
+ In the first quarter of fiscal 2022, we entered into an amendment to the Revolving Credit Facility (the "Amended Revolving Credit Facility"). The Amended Revolving Credit Facility generally requires our ratio of earnings before interest, taxes, depreciation and amortization ("EBITDA") to interest expense not to be less than to 1.0 and our ratio of funded debt to EBITDA not to exceed to 1.0, with each ratio to be calculated on a rolling four-quarter basis. As of February 27, 2022, we were in compliance with all financial covenants under the Amended Revolving Credit Facility. 
+
+Short-term debt 
+
+Interest income 
+
+Interest capitalized 
+
+Currency translation 
+
+Balance as of February 27, 2022 
+
+Amortizing intangible assets 
+
+Customer relationships and intellectual property 
+
+421.2 
+
+377.3 
+
+Amortizing intangible assets carry a remaining weighted average life of approximately years. Amortization expense was million and million for the third quarter and first three quarters of fiscal 2022, respectively, and million and million for the third quarter and first three quarters of fiscal 2021, respectively. Based on amortizing assets recognized in our Condensed Consolidated Balance Sheet as of February 27, 2022, amortization expense is estimated to average million for each of the next five years. 
+ 12 
+ 
+ months. We may enter into longer-term economic hedges on particular commodities, if deemed appropriate. As of February 27, 2022, we had economically hedged certain portions of our anticipated consumption of commodity inputs using derivative instruments with expiration dates through November 2022. 
+ In order to reduce exposures related to changes in foreign currency exchange rates, we enter into forward exchange, option, or swap contracts from time to time for transactions denominated in a currency other than the applicable functional currency. This includes, but is not limited to, hedging against foreign currency risk in purchasing inventory and capital equipment, sales of finished goods, and future settlement of foreign-denominated assets and liabilities. As of February 27, 2022, we had economically hedged certain portions of our foreign currency risk in anticipated transactions using derivative instruments with expiration dates through November 2022. 
+ From time to time, we may use derivative instruments, including interest rate swaps, to reduce risk related to changes in interest rates. This includes, but is not limited to, hedging against increasing interest rates prior to the issuance of long-term debt and hedging the fair value of our senior long-term debt. 
+ Derivatives Designated as Cash Flow Hedges 
+ During the first quarter of fiscal 2019, we entered into deal-contingent forward starting interest rate swap contracts to hedge a portion of the interest rate risk related to our issuance of long-term debt to help finance the acquisition of Pinnacle. We settled these contracts during the second quarter of fiscal 2019 and deferred a million gain in accumulated other comprehensive income that is being amortized as a reduction of interest expense over the lives of the related debt instruments. The unamortized amount at February 27, 2022, was million. 
+ Economic Hedges of Forecasted Cash Flows 
+ Many of our derivatives do not qualify for, and we do not currently designate certain commodity or foreign currency derivatives to achieve, hedge accounting treatment. We reflect realized and unrealized gains and losses from derivatives used to economically hedge anticipated commodity consumption and to mitigate foreign currency cash flow risk in earnings immediately within general corporate expense (within cost of goods sold). The gains and losses are reclassified to segment operating results in the period in which the underlying item being economically hedged is recognized in cost of goods sold. In the event that management determines a particular derivative entered into as an economic hedge of a forecasted commodity purchase has ceased to function as an economic hedge, we cease recognizing further gains and losses on such derivatives in corporate expense and begin recognizing such gains and losses within segment operating results immediately. 
+ Economic Hedges of Fair Values Foreign Currency Exchange Rate Risk 
+ We may use options and cross currency swaps to economically hedge the fair value of certain monetary assets and liabilities (including intercompany balances) denominated in a currency other than the functional currency. These derivatives are marked-to-market with gains and losses immediately recognized in SG&A expenses. These substantially offset the foreign currency transaction gains or losses recognized as values of the monetary assets or liabilities being economically hedged change. 
+ All derivative instruments are recognized on our balance sheets at fair value (refer to Note 14 for additional information related to fair value measurements). The fair value of derivative assets is recognized within prepaid expenses and other current assets, while the fair value of derivative liabilities is recognized within other accrued liabilities. In accordance with U.S. GAAP, we offset certain derivative asset and liability balances, as well as certain amounts representing rights to reclaim cash collateral and obligations to return cash collateral, where master netting agreements provide for legal right of setoff. At February 27, 2022 and May 30, 2021, amounts representing an obligation to return cash collateral of million and million, respectively, were included in prepaid expenses and other current assets in our Condensed Consolidated Balance Sheets. 
+
+Other accrued liabilities 
+
+13 
+ 
+ million to total derivative assets and million to total derivative liabilities where legal right of setoff existed: 
+
+Derivative Assets 
+
+Derivative Liabilities 
+
+Balance Sheet 
+ Location 
+
+Fair Value 
+
+Balance Sheet 
+ Location 
+
+Fair Value 
+
+Commodity contracts 
+
+Prepaid expenses and other 
+ current assets 
+
+Other accrued liabilities 
+
+Foreign exchange contracts 
+
+Prepaid expenses and other 
+ current assets 
+
+Other accrued liabilities 
+
+Total derivatives not designated as hedging instruments 
+
+The following table presents our derivative assets and liabilities at May 30, 2021, on a gross basis, prior to the setoff of million to total derivative assets and million to total derivative liabilities where legal right of setoff existed: 
+
+Derivative Assets 
+
+Derivative Liabilities 
+
+Balance Sheet 
+ Location 
+
+Fair Value 
+
+Balance Sheet 
+ Location 
+
+Fair Value 
+
+Commodity contracts 
+
+Prepaid expenses and other 
+ current assets 
+
+Other accrued liabilities 
+
+Foreign exchange contracts 
+
+Prepaid expenses and other 
+ current assets 
+
+Other accrued liabilities 
+
+Total derivatives not designated as hedging instruments 
+
+Foreign exchange contracts 
+
+Cost of goods sold 
+
+Total gains from derivative instruments not designated as hedging instruments 
+
+Location in Condensed Consolidated 
+
+Gains (Losses) Recognized on Derivatives in Condensed Consolidated Statements of Earnings for the 
+ Thirty-nine Weeks Ended 
+
+Derivatives Not Designated as Hedging Instruments 
+
+Statements of Earnings of Gains (Losses) 
+ Recognized on Derivatives 
+
+February 27, 
+ 2022 
+
+February 28, 
+ 2021 
+
+Commodity contracts 
+
+Cost of goods sold 
+
+Foreign exchange contracts 
+
+Cost of goods sold 
+
+Total gains from derivative instruments not designated as hedging instruments 
+
+As of February 27, 2022, our open commodity contracts had a notional value (defined as notional quantity times market value per notional quantity unit) of million and million for purchase and sales contracts, respectively. As of May 30, 2021, our open commodity contracts had a notional value of million and million for purchase and sales contracts, respectively. The notional amount of our foreign currency forward contracts as of February 27, 2022 and May 30, 2021 was million and million, respectively. 
+ We enter into certain commodity, interest rate, and foreign exchange derivatives with a diversified group of counterparties. We continually monitor our positions and the credit ratings of the counterparties involved and limit the amount of credit exposure to any one party. These transactions may expose us to potential losses due to the risk of nonperformance by these counterparties. We have not incurred a material loss due to nonperformance in any period presented and do not expect to incur any such material loss. We also enter into futures and options transactions through various regulated exchanges. 
+ 14 
+ 
+ million. million and million, respectively. For the third quarter and first three quarters of fiscal 2021, we recognized total stock-based compensation expense of million and million, respectively. In the first three quarters of fiscal 2022, we granted million restricted stock units at a weighted average grant date price of and million performance shares at a weighted average grant date price of . 
+ Performance shares are granted to selected executives and other key employees with vesting contingent upon meeting various Company-wide performance goals. The performance goals for the three-year performance periods ending in fiscal 2022 (the "2022 performance period") and fiscal 2024 (the "2024 performance period") are based on our diluted earnings per share ("EPS") compound annual growth rate ("CAGR"), subject to certain adjustments, measured over the defined performance periods. The performance goal for one-third of the target number of performance shares for the three-year performance period ending in fiscal 2023 (the "2023 performance period") is based on our fiscal 2021 diluted EPS CAGR, subject to certain adjustments. The performance goal for the final two-thirds of the target number of performance shares granted for the 2023 performance period is based on our diluted EPS CAGR, subject to certain adjustments, measured over the two-year period ending in fiscal 2023. For each of the 2022 performance period, 2023 performance period, and 2024 performance period, the awards actually earned will range from to two hundred percent of the targeted number of performance shares for such performance period. Dividend equivalents are paid on the portion of performance shares actually earned at our regular dividend rate in additional shares of common stock. 
+ Awards, if earned, will be paid in shares of our common stock. Subject to limited exceptions set forth in our performance share plan, any shares earned will be distributed after the end of the performance period, and generally only if the participant continues to be employed with the Company through the date of distribution. For awards where performance against the performance target has not been certified, the value of the performance shares is adjusted based upon the market price of our common stock and current forecasted performance against the performance targets at the end of each reporting period and amortized as compensation expense over the vesting period. Forfeitures are accounted for as they occur. 
+
+Weighted average shares outstanding: 
+
+Basic weighted average shares outstanding 
+
+Add: Dilutive effect of stock options, restricted stock unit awards, and other dilutive securities 
+
+Diluted weighted average shares outstanding 
+
+For the third quarter and first three quarters of fiscal 2022, there were million and million stock options outstanding, respectively, that were excluded from the computation of diluted weighted average shares because the effect was antidilutive. For the third quarter and first three quarters of fiscal 2021, there were million and million stock options outstanding, respectively, that were excluded from the calculation. 
+ 15 
+
+Work in process 
+
+Finished goods 
+
+Supplies and other 
+
+Total 
+
+million and million, respectively. In the first three quarters of fiscal 2022 and 2021, we recognized income tax expense of million and million, respectively. The effective tax rate (calculated as the ratio of income tax expense to pre-tax income, inclusive of equity method investment earnings) was and for the third quarter of fiscal 2022 and 2021, respectively. The effective tax rate for the first three quarters of fiscal 2022 and 2021 was and , respectively. 
+ The effective tax rate in the third quarter of fiscal 2022 reflected additional tax expense of million related to tax elections made in connection with filing our fiscal 2021 federal tax return. These elections are still under review with the Internal Revenue Service. These elections may result in increases to the tax basis in those assets and if successful would result in tax benefits being realized in future periods. The effective tax rate also reflected additional tax expense associated with non-deductible goodwill related to assets held for sale for which an impairment charge was recognized. 
+ The effective tax rate in the first three quarters of fiscal 2022 reflected the above-cited items, as well as a tax benefit resulting from state law changes, a benefit from statute lapses on state tax issues that were previously reserved, and a benefit from the settlement of tax issues that were previously reserved. 
+ The effective tax rate for the third quarter of fiscal 2021 reflected additional tax expense associated with non-deductible goodwill related to the divestiture of the Peter Pan peanut butter business. 
+ The effective tax rate for the first three quarters of fiscal 2021 reflected the above-cited item, as well as release of valuation allowance associated with the capital gains from the divestiture of the Peter Pan peanut butter business, a benefit from statute lapses on state tax issues that were previously reserved, and a benefit resulting from the regulations issued by the U.S. Treasury and Internal Revenue Service on certain provisions of the 2017 Tax Cuts and Jobs Act. 
+ The amount of gross unrecognized tax benefits for uncertain tax positions was million as of February 27, 2022 and million as of May 30, 2021. Included in these amounts were million and million, respectively, for tax positions for which the ultimate deductibility is highly certain but for which there is uncertainty about the timing of such deductibility. The amount as of February 27, 2022 includes the issue noted above that is still under review with the IRS. The gross unrecognized tax benefits excluded related liabilities for gross interest and penalties of million and million as of February 27, 2022 and May 30, 2021, respectively. 
+ The net amount of unrecognized tax benefits at February 27, 2022 and May 30, 2021 that, if recognized, would favorably impact the Company's effective tax rate was million and million, respectively. 
+ We estimate that it is reasonably possible that the amount of gross unrecognized tax benefits will decrease by up to million over the next twelve months due to various state audit settlements and the expiration of statutes of limitations. 
+ In the third quarter of fiscal 2022, it was determined that the current earnings of certain foreign subsidiaries were not indefinitely reinvested or that we could not remit to the U.S. parent in a tax-neutral transaction. Accordingly, we recorded a deferred tax liability of million on approximately million of earnings at February 27, 2022. The deferred tax liability relates to local withholding taxes that will be owed when this cash is distributed. The undistributed historic earnings in our foreign subsidiaries through May 30, 2021 are considered to be indefinitely reinvested or can be remitted in a tax-neutral transaction. Accordingly, we have not recorded a deferred tax liability related to these undistributed historic earnings. 
+ 16 
+ 
+ active suit in Illinois. The Illinois suit seeks class-wide relief for reimbursement of costs associated with the testing of lead levels in blood. We do not believe it is probable that we have incurred any liability with respect to the Illinois case, nor is it possible to estimate any potential exposure. 
+ In California, a number of cities and counties joined in a consolidated action seeking abatement of an alleged public nuisance in the form of lead-based paint potentially present on the interior of residences, regardless of its condition. On September 23, 2013, a trial of the California case concluded in the Superior Court of California for the County of Santa Clara, and on January 27, 2014, the court entered a judgment (the "Judgment") against ConAgra Grocery Products and other defendants ordering the creation of a California abatement fund in the amount of billion. Liability was joint and several. The Company appealed the Judgment, and on November 14, 2017 the California Court of Appeal for the Sixth Appellate District reversed in part, holding that the defendants were not liable to pay for abatement of homes built after 1950, but affirmed the Judgment as to homes built before 1951. The Court of Appeal remanded the case to the trial court with directions to recalculate the amount of the abatement fund estimated to be necessary to cover the cost of remediating pre-1951 homes, and to hold an evidentiary hearing regarding appointment of a suitable receiver. ConAgra Grocery Products and the other defendants petitioned the California Supreme Court for review of the decision, which we believe to be an unprecedented expansion of current California law. On February 14, 2018, the California Supreme Court denied the petition and declined to review the merits of the case, and the case was remanded to the trial court for further proceedings. ConAgra Grocery Products and the other defendants sought further review of certain issues from the Supreme Court of the United States, but on October 15, 2018, the Supreme Court declined to review the case. On September 4, 2018, the trial court recalculated its estimate of the amount needed to remediate pre-1951 homes in the plaintiff jurisdictions to be million. As of July 10, 2019, the parties reached an agreement in principle to resolve this matter, which agreement was approved by the trial court on July 24, 2019, and the action against ConAgra Grocery Products was dismissed with prejudice. Pursuant to the settlement, ConAgra Grocery Products will pay a total of million in installments to be paid annually from fiscal 2020 through fiscal 2026. As part of the settlement, ConAgra Grocery Products has provided a guarantee of up to million in the event co-defendant, NL Industries, Inc., defaults on its payment obligations. 
+ We have accrued million and million, within other accrued liabilities and other noncurrent liabilities, respectively, for this matter as of February 27, 2022. The extent of insurance coverage is uncertain and the Company's carriers are on notice however, any possible insurance recovery has not been considered for purposes of determining our liability. 
+ We are party to a number of putative class action lawsuits challenging various product claims made in the Company's product labeling. These matters include Briseno v. ConAgra Foods, Inc. in which it is alleged that the labeling for Wesson oils as 100 natural is false and misleading because the oils contain genetically modified plants and organisms. In February 2015, the U.S. District Court for the Central District of California granted class certification to permit plaintiffs to pursue state law claims. The Company appealed to the United States Court of Appeals for the Ninth Circuit, which affirmed class certification in January 2017. The Supreme Court of the United States declined to review the decision and the case was remanded to the trial court for further proceedings. On April 4, 2019, the trial court granted preliminary approval of a settlement in this matter. In the second quarter of fiscal 2020, a single objecting class member appealed the court's decision approving the settlement to the United States Court of Appeals for the Ninth Circuit. On June 1, 2021, the appellate court rejected the settlement and remanded to the trial court for further proceedings. On December 22, 2021, the trial court denied plaintiffs motion for final approval of the settlement. While we cannot predict with certainty the results of this or any other legal proceeding challenging our product claims, we do not expect these matters to have a material adverse effect on our financial condition, results of operations, or business. 
+ We are party to matters challenging the Company's wage and hour practices. These matters include a number of class actions consolidated under the caption Negrete v. ConAgra Foods, Inc., et al. , pending in the U.S. District Court for the Central District of California, in which the plaintiffs allege a pattern of violations of California and/or federal law at several current and former Company manufacturing facilities across the State of California. On June 21, 2021, the trial court granted preliminary approval of a settlement in 
+ 17 
+ 
+ million to the settlement fund as of February 18, 2022. 
+ We are party to a number of matters asserting product liability claims against the Company related to certain Pam and other cooking spray products. These lawsuits generally seek damages for personal injuries allegedly caused by defects in the design, manufacture, or safety warnings of the cooking spray products. We have put the Company's insurance carriers on notice. While we cannot predict with certainty the results of these or any other legal proceedings, we do not expect these matters to have a material adverse effect on our financial condition, results of operations, or business. 
+ The Company, its directors, and several of its executive officers are defendants in several class actions alleging violations of federal securities laws. The lawsuits assert that the Company's officers made material misstatements and omissions that caused the market to have an unrealistically positive assessment of the Company's financial prospects in light of the acquisition of Pinnacle, thus causing the Company's securities to be overvalued prior to the release of the Company's consolidated financial results on December 20, 2018 for the second quarter of fiscal year 2019. The first of these lawsuits, captioned West Palm Beach Firefighters' Pension Fund v. Conagra Brands, Inc., et al. , with which subsequent lawsuits alleging similar facts have been consolidated, was filed on February 22, 2019 in the U.S. District Court for the Northern District of Illinois. That consolidated lawsuit was dismissed with prejudice on December 23, 2020 for failure to state a claim. On January 22, 2021, the plaintiff filed a notice of appeal of the trial court's decision to the U.S. Court of Appeals for the Seventh Circuit. In addition, on May 9, 2019, a stockholder filed a derivative action on behalf of the Company against the Company's directors captioned Klein v. Arora, et al. in the U.S. District Court for the Northern District of Illinois asserting harm to the Company due to alleged breaches of fiduciary duty and mismanagement in connection with the Pinnacle acquisition. On July 9, 2019, September 20, 2019, and March 10, 2020, the Company received three separate demands from stockholders under Delaware law to inspect the Company's books and records related to the Board of Directors' review of the Pinnacle business, acquisition, and the Company's public statements related to them. On July 22, 2019 and August 6, 2019, respectively, two additional stockholder derivative lawsuits captioned Opperman v. Connolly, et al. and Dahl v. Connolly, et al. were filed in the U.S. District Court for the Northern District of Illinois asserting similar facts and claims as the Klein v. Arora, et al. matter. On October 21, 2019, the Company received an additional demand from a stockholder under Delaware law to appoint a special committee to investigate the conduct of certain officers and directors in connection with the Pinnacle acquisition and the Company's public statements. All remaining stockholder lawsuits and demands are currently stayed by agreement pending the final outcome of the West Palm Beach Firefighters' Pension Fund matter. We have put the Company's insurance carriers on notice of each of these securities and stockholder matters. While we cannot predict with certainty the results of these or any other legal proceedings, we do not expect these matters to have a material adverse effect on our financial condition, results of operations, or business. 
+ Environmental Matters 
+ Securities and Exchange Commission (the "SEC") regulations require us to disclose certain information about environmental proceedings if a governmental authority is a party to such proceedings and such proceedings involve potential monetary sanctions that we reasonably believe will exceed a stated threshold. Pursuant to the SEC regulations, the Company uses a threshold of million for purposes of determining whether disclosure of any such proceedings is required. 
+ In October 2019, the Minnesota Pollution Control Agency ("MPCA") initiated an odor complaint investigation at our Waseca, Minnesota vegetable processing facility. As a result of the investigation, the MPCA required implementation of a continuous monitoring system running from May 1 October 31 to monitor hydrogen sulfide emissions at the wastewater treatment facility. As a result of the monitoring data findings, the MPCA has alleged violations of Minnesota Ambient Air Quality Standards based on our hydrogen sulfide emissions during calendar years 2020 and 2021. The MPCA ' s current proposed penalty is million for 2020 and million for 2021, however, we are still in settlement negotiations with the MPCA to reduce the amount allegedly owed. To that end, Conagra is taking additional actions to improve wastewater treatment at the Waseca facility, which may be used to offset portions of the penalties ultimately agreed upon by the parties. 
+ We are a party to certain environmental proceedings relating to our acquisition of Beatrice in fiscal 1991. Such proceedings include proceedings related to businesses divested by Beatrice prior to our acquisition of Beatrice. The current environmental proceedings associated with Beatrice include litigation and administrative proceedings involving Beatrice's possible status as a potentially responsible party at approximately Superfund, proposed Superfund, or state-equivalent sites (the "Beatrice sites"). These sites involve locations previously owned or operated by predecessors of Beatrice that used or produced petroleum, pesticides, fertilizers, dyes, inks, solvents, polychlorinated biphenyls, acids, lead, sulfur, tannery wastes, and/or other contaminants. Reserves for these Beatrice environmental proceedings have been established based on our best estimate of the undiscounted remediation liabilities, which estimates include evaluation of investigatory studies, extent of required clean-up, the known volumetric contribution of Beatrice and other potentially responsible parties, and its experience in remediating sites. The accrual for Beatrice-related environmental matters totaled million million within other accrued liabilities and million within other noncurrent liabilities) as of February 27, 2022, a majority of which relates to the Superfund and state-equivalent sites referenced above. During the third quarter of fiscal 2017, a final Remedial Investigation/Feasibility Study was submitted for the Southwest Properties portion ("Operating Unit 
+ 18 
+ 
+ additional five-year period). Under the terms of the sublease agreement, Lamb Weston is required to make certain rental payments to the sublessor. We have guaranteed the sublessor Lamb Weston's performance and the payment of all amounts (including indemnification obligations) owed by Lamb Weston under the sublease agreement, up to a maximum of million. We believe the farmland associated with this sublease agreement is readily marketable for lease to other area farming operators. As such, we believe that any financial exposure to the Company, in the event that we were required to perform under the guarantee, would be largely mitigated. 
+ We also guarantee a lease resulting from an exited facility. As of February 27, 2022, the remaining term of this arrangement did not exceed and the maximum amount of future payments we have guaranteed was million. 
+ General 
+ After taking into account liabilities recognized for all of the foregoing matters, management believes the ultimate resolution of such matters should not have a material adverse effect on our financial condition, results of operations, or liquidity however, it is reasonably possible that a change of the estimates of any of the foregoing matters may occur in the future which could have a material adverse effect on our financial condition, results of operations, or liquidity. 
+ Costs of legal services associated with the foregoing matters are recognized in earnings as services are provided. 
+
+Interest cost 
+
+Expected return on plan assets 
+
+Amortization of prior service cost 
+
+Pension cost (benefit) Company plans 
+
+Pension cost (benefit) multi-employer plans 
+
+Total pension cost (benefit) 
+
+19 
+
+Interest cost 
+
+Amortization of prior service cost (benefit) 
+
+Recognized net actuarial gain 
+
+Total postretirement cost (benefit) 
+
+The Company uses a split discount rate (spot-rate approach) for the U.S. plans and certain foreign plans. The spot-rate approach applies separate discount rates for each projected benefit payment in the calculation of pension service and interest cost. 
+ The weighted-average discount rates for service and interest costs under the spot-rate approach used for pension cost in fiscal 2022 were and , respectively. 
+ During the third quarter and first three quarters of fiscal 2022, we contributed million and million, respectively, to our pension plans and contributed million and million, respectively, to our postretirement plans. Based upon the current funded status of the plans and the current interest rate environment, we anticipate making further contributions of approximately million to our pension plans during the remainder of fiscal 2022. We anticipate making further contributions of approximately million to our postretirement plans during the remainder of fiscal 2022. These estimates are based on ERISA guidelines, current tax laws, plan asset performance, and liability assumptions, which are subject to change. 
+ 20 
+
+Stock option and incentive plans 
+
+Currency translation adjustments 
+
+Repurchase of common shares 
+
+Derivative adjustments 
+
+Activities of noncontrolling interests 
+
+Pension and postretirement healthcare benefits 
+
+Dividends declared on common stock per share 
+
+Net income attributable to Conagra Brands, Inc. 
+
+Balance at August 29, 2021 
+
+Stock option and incentive plans 
+
+Currency translation adjustments 
+
+Derivative adjustments 
+
+Activities of noncontrolling interests 
+
+Pension and postretirement healthcare benefits 
+
+Dividends declared on common stock per share 
+
+Net income attributable to Conagra Brands, Inc. 
+
+Balance at November 28, 2021 
+
+Stock option and incentive plans 
+
+Currency translation adjustments 
+
+Derivative adjustments 
+
+Activities of noncontrolling interests 
+
+Pension and postretirement healthcare benefits 
+
+Dividends declared on common stock per share 
+
+Net income attributable to Conagra Brands, Inc. 
+
+Balance at February 27, 2022 
+
+21 
+
+Stock option and incentive plans 
+
+Adoption of ASU 2016-13 
+
+Currency translation adjustments 
+
+Derivative adjustments 
+
+Activities of noncontrolling interests 
+
+Pension and postretirement healthcare benefits 
+
+Dividends declared on common stock per share 
+
+Net income attributable to Conagra Brands, Inc. 
+
+Balance at August 30, 2020 
+
+Stock option and incentive plans 
+
+Currency translation adjustments 
+
+Derivative adjustments 
+
+Activities of noncontrolling interests 
+
+Pension and postretirement healthcare benefits 
+
+Dividends declared on common stock per share 
+
+Net income attributable to Conagra Brands, Inc. 
+
+Balance at November 29, 2020 
+
+Stock option and incentive plans 
+
+Currency translation adjustments 
+
+Repurchase of common shares 
+
+Derivative adjustments 
+
+Activities of noncontrolling interests 
+
+Pension and postretirement healthcare benefits 
+
+Dividends declared on common stock per share 
+
+Net income attributable to Conagra Brands, Inc. 
+
+Balance at February 28, 2021 
+
+22 
+
+Marketable securities 
+
+Deferred compensation assets 
+
+Available-for-sale debt securities 
+
+Total assets 
+
+Liabilities: 
+
+Derivative liabilities 
+
+Deferred compensation liabilities 
+
+Total liabilities 
+
+Marketable securities 
+
+Deferred compensation assets 
+
+Total assets 
+
+Liabilities: 
+
+Derivative liabilities 
+
+Deferred compensation liabilities 
+
+Total liabilities 
+
+Certain assets and liabilities, including long-lived assets, goodwill, asset retirement obligations, and equity investments are measured at fair value on a nonrecurring basis using Level 3 inputs. 
+ In the first three quarters of fiscal 2022, we recognized impairment charges totaling million in our Grocery & Snacks segment, million in our Refrigerated & Frozen segment, and million in our Foodservice segment. The impairments were measured based upon the estimated sales price of the disposal group (see Note 2). 
+ In the third quarter of fiscal 2021, we updated our cost estimates associated with certain asset retirement obligations at several manufacturing facilities largely due to recent experience of physically closing a wastewater lagoon. This change in estimate resulted in a non-cash increase to our long-lived assets in the amount of million and will result in additional depreciation in future periods generally ranging from 15- years. The fair value of our asset retirement obligations was measured using cost estimates to settle our future obligations (including an estimate of inflation) and discounted to present value using a credit-adjusted risk-free rate. 
+ In the first quarter of fiscal 2021, we recognized charges totaling million in our Grocery & Snacks segment for the impairment of certain long-lived assets. The impairment was measured based upon the estimated sales price of the assets and has been included in restructuring activities. 
+ The carrying amount of long-term debt (including current installments) was billion and billion as of February 27, 2022 and May 30, 2021, respectively. Based on current market rates, the fair value of this debt (level 2 liabilities) at February 27, 2022 and May 30, 2021, was estimated at billion and billion, respectively. 
+ 23 
+ 
+ reporting segments: Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice. 
+ The Grocery & Snacks reporting segment principally includes branded, shelf-stable food products sold in various retail channels in the United States. 
+ The Refrigerated & Frozen reporting segment principally includes branded, temperature-controlled food products sold in various retail channels in the United States. 
+ The International reporting segment principally includes branded food products, in various temperature states, sold in various retail and foodservice channels outside of the United States. 
+ The Foodservice reporting segment includes branded and customized food products, including meals, entrees, sauces and a variety of custom-manufactured culinary products packaged for sale to restaurants and other foodservice establishments primarily in the United States. 
+ We do not aggregate operating segments when determining our reporting segments. 
+ Operating profit for each of the segments is based on net sales less all identifiable operating expenses. 
+
+Refrigerated & Frozen 
+
+International 
+
+Foodservice 
+
+Total net sales 
+
+Operating profit 
+
+Grocery & Snacks 
+
+Refrigerated & Frozen 
+
+International 
+
+Foodservice 
+
+Total operating profit 
+
+Equity method investment earnings 
+
+General corporate expense 
+
+Pension and postretirement non-service income 
+
+Interest expense, net 
+
+Income tax expense 
+
+Net income 
+
+Less: Net income attributable to noncontrolling interests 
+
+Net income attributable to Conagra Brands, Inc. 
+
+24 
+
+Staples 
+
+Other shelf-stable 
+
+Refrigerated 
+
+Snacks 
+
+Foodservice 
+
+International 
+
+Total net sales 
+
+To be consistent with the manner in which we present certain disaggregated net sales information to investors, we have categorized certain net sales of our segments as "Staples", which includes all of our U.S. domestic retail refrigerated products and other shelf-stable grocery products. Management continues to regularly review financial results and make decisions about allocating resources based upon the four reporting segments outlined above. 
+ Presentation of Derivative Gains (Losses) from Economic Hedges of Forecasted Cash Flows in Segment Results 
+ Derivatives used to manage commodity price risk and foreign currency risk are not designated for hedge accounting treatment. We believe these derivatives provide economic hedges of certain forecasted transactions. As such, these derivatives are recognized at fair market value with realized and unrealized gains and losses recognized in general corporate expenses. The gains and losses are subsequently recognized in the operating results of the reporting segments in the period in which the underlying transaction being economically hedged is included in earnings. In the event that management determines a particular derivative entered into as an economic hedge of a forecasted commodity purchase has ceased to function as an economic hedge, we cease recognizing further gains and losses on such derivatives in corporate expense and begin recognizing such gains and losses within segment operating results, immediately. 
+
+Less: Net derivative gains (losses) allocated to reporting segments 
+
+Net derivative gains recognized in general corporate expenses 
+
+Net derivative gains (losses) allocated to Grocery & Snacks 
+
+Net derivative gains (losses) allocated to Refrigerated & Frozen 
+
+Net derivative gains (losses) allocated to International 
+
+Net derivative gains (losses) allocated to Foodservice 
+
+Net derivative gains (losses) included in segment operating profit 
+
+As of February 27, 2022, the cumulative amount of net derivative gains from economic hedges that had been recognized in general corporate expenses and not yet allocated to reporting segments was million. This amount reflected net gains of million incurred during the thirty-nine weeks ended February 27, 2022 and net losses of million incurred prior to fiscal 2022. Based on our forecasts of the timing of recognition of the underlying hedged items, we expect to reclassify to segment operating results gains of million in fiscal 2022 and gains of million in fiscal 2023 and thereafter. 
+ Assets by Segment 
+ The majority of our manufacturing assets are shared across multiple reporting segments. Output from these facilities used by each reporting segment can change over time. Also, working capital balances are not tracked by reporting segment. Therefore, it is impracticable to allocate those assets to the reporting segments, as well as disclose total assets by segment. Total depreciation expense was million and million for the third quarter and first three quarters of fiscal 2022, respectively. Total depreciation expense was million and million for the third quarter and first three quarters of fiscal 2021, respectively. 
+ 25 
+ 
+ million and million in the third quarter and first three quarters of fiscal 2022, respectively. Our foreign net sales during the third quarter and first three quarters of fiscal 2021 were approximately million and million, respectively. Our long-lived assets located outside of the United States are not significant. 
+ Our largest customer, Walmart, Inc. and its affiliates, accounted for approximately of consolidated net sales in both the third quarter and first three quarters of fiscal 2022, and and in the third quarter and first three quarters of 2021, respectively, primarily in the Grocery & Snacks and Refrigerated & Frozen segments. 
+ Walmart, Inc. and its affiliates accounted for approximately and of consolidated net receivables as of February 27, 2022 and May 30, 2021, respectively. The Kroger Co. and its affiliates accounted for approximately and of consolidated net receivables as of February 27, 2022 and May 30, 2021, respectively. 
+
+26 
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ FORWARD-LOOKING STATEMENTS 
+ The information contained in this report includes forward-looking statements within the meaning of the federal securities laws. Examples of forward-looking statements include statements regarding our expected future financial performance or position, results of operations, business strategy, plans and objectives of management for future operations, and other statements that are not historical facts. You can identify forward-looking statements by their use of forward-looking words, such as "may", "will", "anticipate", "expect", "believe", "estimate", "intend", "plan", "should", "seek", or comparable terms. 
+ Readers of this report should understand that these forward-looking statements are not guarantees of performance or results. Forward-looking statements provide our current expectations and beliefs concerning future events and are subject to risks, uncertainties, and factors relating to our business and operations, all of which are difficult to predict and could cause our actual results to differ materially from the expectations expressed in or implied by such forward-looking statements. These risks, uncertainties, and factors include, among other things: the risk that the cost savings and any other synergies from the acquisition of Pinnacle Foods, Inc. (the "Pinnacle acquisition") may not be fully realized or may take longer to realize than expected the risk that the Pinnacle acquisition may not be accretive within the expected timeframe or to the extent anticipated the risks that the Pinnacle acquisition and related integration will create disruption to the Company and its management and impede the achievement of business plans risks related to our ability to achieve the intended benefits of other recent acquisitions and divestitures risks associated with general economic and industry conditions risks associated with our ability to successfully execute our long-term value creation strategies risks related to our ability to deleverage on currently anticipated timelines, and to continue to access capital on acceptable terms or at all risks related to our ability to execute operating and restructuring plans and achieve targeted operating efficiencies from cost-saving initiatives, and to benefit from trade optimization programs risks related to the effectiveness of our hedging activities and ability to respond to volatility in commodities risks related to the Company's competitive environment and related market conditions risks related to our ability to respond to changing consumer preferences and the success of our innovation and marketing investments risks related to the ultimate impact of any product recalls and litigation, including litigation related to the lead paint and pigment matters, as well as any securities litigation, including securities class action lawsuits risk associated with actions of governments and regulatory bodies that affect our businesses, including the ultimate impact of new or revised regulations or interpretations risks related to the impact of the COVID-19 pandemic on our business, suppliers, consumers, customers, and employees risks related to our forecasts of consumer eat-at-home habits as the impacts of the COVID-19 pandemic abate risks related to the availability and prices of supply chain resources, including raw materials, packaging, and transportation, including any negative effects caused by changes in inflation rates, weather conditions, or health pandemics, or actual or threatened hostilities or war, or other geopolitical uncertainty disruptions or inefficiencies in our supply chain and/or operations, including from the COVID-19 pandemic risks related to disruptions in the global economy caused by the ongoing conflict between Russia and Ukraine risks associated with actions by our customers, including changes in distribution and purchasing terms risks and uncertainties associated with intangible assets, including any future goodwill or intangible assets impairment charges risks related to a material failure in or breach of our or our vendors' information technology systems the amount and timing of future dividends, which remain subject to Board approval and depend on market and other conditions and other risks described in our reports filed from time to time with the Securities and Exchange Commission (the "SEC"). We caution readers not to place undue reliance on any forward-looking statements included in this report, which speak only as of the date of this report. We undertake no responsibility to update these statements, except as required by law. 
+ The discussion that follows should be read together with the unaudited Condensed Consolidated Financial Statements and related notes contained in this report and with the financial statements, related notes, and Management's Discussion and Analysis of Financial Condition and Results of Operations contained in our Annual Report on Form 10-K for the fiscal year ended May 30, 2021 and subsequent filings with the SEC. Results for the third quarter of fiscal 2022 are not necessarily indicative of results that may be attained in the future. 
+ EXECUTIVE OVERVIEW 
+ Conagra Brands, Inc. (the "Company", "Conagra Brands", "we", "us", or "our"), headquartered in Chicago, is one of North America's leading branded food companies. Guided by an entrepreneurial spirit, the Company combines a rich heritage of making great food with a sharpened focus on innovation. The Company's portfolio is evolving to satisfy people's changing food preferences. Its iconic brands such as Birds Eye , Marie Callender's , Banquet , Healthy Choice , Slim Jim , Reddi-wip , and Vlasic as well as emerging brands, including Angie's BOOMCHICKAPOP , Duke's , Earth Balance , Gardein , and Frontera , offer choices for every occasion. 
+ 27 
+
+Fiscal 2022 Third Quarter Results 
+ In the third quarter of fiscal 2022, results reflected an increase in net sales, with organic (excludes the impacts of foreign exchange and divested businesses) increases in all of our segments, in each case compared to the third quarter of fiscal 2021. Overall gross profit decreased primarily as a result of input cost inflation, higher transportation costs, elevated supply chain operating costs due, in part, to disruptions in the availability of labor and certain materials, and lost profits from divested businesses, which were partially offset by higher organic net sales, supply chain realized productivity, cost synergies associated with the Pinnacle acquisition, and lower COVID-19 pandemic-related expenses. Overall segment operating profit decreased in our Grocery & Snacks, Refrigerated & Frozen, and Foodservice segments, which was partially offset by a slight increase in our International segment. Corporate expenses were lower primarily due to items impacting comparability, as discussed below. Selling, general and administrative ("SG&A") expenses were higher due to items impacting comparability, partially offset by lower advertising and promotion expenses. We recognized higher equity method investment earnings, lower interest expense, and higher income tax expense, in each case compared to the third quarter of fiscal 2021. Excluding items impacting comparability, our effective tax rate was slightly higher compared to the third quarter of fiscal 2021. 
+ Diluted earnings per share in the third quarter of fiscal 2022 were 0.45. Diluted earnings per share in the third quarter of fiscal 2021 were 0.58. Diluted earnings per share were affected by lower net income in the third quarter of fiscal 2022 compared to the third quarter of fiscal 2021. 
+ In the third quarter of fiscal 2022, we continued to experience higher than expected input cost inflation, including higher transportation and supply chain costs, that negatively impacted gross margins. We expect input cost inflation and transportation costs to remain elevated throughout the rest of fiscal 2022. Supply chain realized productivity and pricing actions are expected to mitigate some of the inflationary pressures. As our estimates of inflation for fiscal 2022 continue to change, it is impractical to quantify the impact at this time. 
+ Although we are a North American focused company with no operations in or direct exposure to Russia and Ukraine, we have experienced shortages in materials and increased costs for transportation, energy, and raw material due in part to the negative impact of the Russia-Ukraine military conflict on the global economy. To date, the conflict between Russia and Ukraine has not had a material impact on our business, financial condition, or result of operations. 
+ Items Impacting Comparability 
+ Segment presentation of gains and losses from derivatives used for economic hedging of anticipated commodity input costs and economic hedging of foreign currency exchange rate risks of anticipated transactions is discussed in the "Segment Review" below. 
+ Items of note impacting comparability for the third quarter of fiscal 2022 included the following: 
+
+charges totaling 30.9 million 28.2 million after-tax) related to the impairment of businesses held for sale, 
+
+tax expense of 25.0 million related to tax elections made in connection with filing our fiscal 2021 federal tax return, for which any associated tax benefits are still under review with the Internal Revenue Service, and 
+
+net charges totaling 10.7 million 8.2 million after-tax) in connection with our restructuring plans. 
+
+ Items of note impacting comparability for the third quarter of fiscal 2021 included the following: 
+
+a gain of 49.7 million 27.9 million after-tax) associated with the divestiture of a business, 
+
+charges totaling 24.4 million 18.3 million after-tax) related to the early extinguishment of debt, 
+
+net charges totaling 15.4 million 11.6 million after-tax) in connection with our restructuring plans, 
+
+consulting expenses of 5.3 million 4.0 million after-tax) primarily associated with securing tax benefits for a new production facility (the associated tax benefits will be recognized in future periods), and 
+
+charges totaling 4.3 million 3.2 million after-tax) related to a previous legal matter. 
+
+ Items of note impacting comparability for the first three quarters of fiscal 2022 included the following: 
+
+charges totaling 70.1 million 60.4 million after-tax) related to the impairment of businesses held for sale, 
+
+net charges totaling 38.9 million 29.4 million after-tax) in connection with our restructuring plans, 
+
+ 28 
+
+tax expense of 25.0 million related to certain tax elections made in connection with filing our fiscal 2021 federal tax return, for which any associated tax benefits are still under review with the IRS, 
+
+a gain of 14.6 million 11.0 million after-tax) related to a legal settlement, 
+
+an income tax benefit of 3.6 million related to the settlement of a tax matter that was previously reserved, and 
+
+a gain of 3.3 million 2.8 million after-tax) related to proceeds received from the sale of a legacy investment. 
+
+ Items of note impacting comparability for the first three quarters of fiscal 2021 included the following: 
+
+charges totaling 68.7 million 51.5 million after-tax) related to early extinguishment of debt, 
+
+net charges totaling 62.0 million 46.5 million after-tax) in connection with our restructuring plans, 
+
+a gain of 55.0 million 31.4 million after-tax) associated with the divestiture of certain businesses, 
+
+consulting expenses of 6.5 million 4.9 million after-tax) primarily associated with securing tax benefits for a new production facility (the associated tax benefits will be recognized in future periods), 
+
+an income tax benefit of 24.8 million related to a release of valuation allowance associated with the divestiture of the Peter Pan peanut butter business, and 
+
+an income tax benefit of 7.6 million related to certain final tax regulations on prior year federal tax matters. 
+
+ Divestitures 
+ During the fourth quarter of fiscal 2021, we completed the sale of our Egg Beaters business for net proceeds of 50.7 million. The results of operations of the divested Egg Beaters business were primarily included in our Refrigerated & Frozen segment, and to a lesser extent within our International and Foodservice segments, for the periods preceding the completion of the transaction. 
+ During the third quarter of fiscal 2021, we completed the sale of our Peter Pan peanut butter business for net proceeds of 101.5 million. The results of operations of the divested Peter Pan peanut butter business are primarily included in our Grocery & Snacks segment, and to a lesser extent within our International and Foodservice segments, for the periods preceding the completion of the transaction. 
+ Restructuring Plans 
+ In December 2018, our Board of Directors (the "Board") approved a restructuring and integration plan related to the ongoing integration of the operations of Pinnacle Foods, Inc. ("Pinnacle") (such plan the "Pinnacle Integration Restructuring Plan"), for the purpose of achieving significant cost synergies between the companies, as a result of which we expect to incur material charges for exit and disposal activities under U.S. generally accepted accounting principles. We expect to incur approximately 341.0 million of charges 277.7 million of cash charges and 63.3 million of non-cash charges) for actions identified to date under the Pinnacle Integration Restructuring Plan. The Board and/or our senior management have authorized incurrence of these charges. In the third quarter and first three quarters of fiscal 2022, we recognized charges of 0.2 million and 13.3 million, respectively, in connection with the Pinnacle Integration Restructuring Plan. In the third quarter and first three quarters of fiscal 2021, we recognized charges of 5.4 million and 24.2 million, respectively, in connection with the Pinnacle Integration Restructuring Plan. We expect to incur costs related to the Pinnacle Integration Restructuring Plan over a multi-year period. 
+ In fiscal 2019, senior management initiated a restructuring plan for costs incurred in connection with actions taken to improve SG&A expense effectiveness and efficiencies and to optimize our supply chain network (the "Conagra Restructuring Plan"). Although we remain unable to make good faith estimates relating to the entire Conagra Restructuring Plan, we are reporting on actions initiated through the end of the third quarter of fiscal 2022, including the estimated amounts or range of amounts for each major type of costs expected to be incurred, and the charges that have resulted or will result in cash outflows. As of February 27, 2022, we have approved the incurrence of 175.6 million 48.8 million of cash charges and 126.8 million of non-cash charges) for several projects associated with the Conagra Restructuring Plan. As of February 27, 2022, we have incurred or expect to incur 148.4 million of charges 44.6 million of cash charges and 103.8 million of non-cash charges) for actions identified to date under the Conagra Restructuring Plan. In the third quarter and first three quarters of fiscal 2022, we recognized charges of 10.5 million and 25.6 million, respectively, in connection with the Conagra Restructuring Plan. In the third quarter and first three quarters of fiscal 2021, we recognized charges of 10.0 million and 37.8 million, respectively, in connection with the Conagra Restructuring Plan. We expect to incur costs related to the Conagra Restructuring Plan over a multi-year period. 
+ 29 
+
+COVID 19 Pandemic 
+ We continue to monitor the impact of the COVID-19 pandemic on all aspects of our business. During the third quarter of fiscal 2022, we continued to experience elevated demand for our products in the retail segments versus pre-pandemic levels, but volumes were lower compared to the third quarter of fiscal 2021 primarily due to the elasticity impact from inflation-driven pricing actions. We experienced higher demand for our foodservice products across all of our major markets during the third quarter of fiscal 2022 compared to the third quarter of fiscal 2021 as consumer traffic in away-from-home food outlets continue to recover from the impacts of the pandemic. We incurred 10.8 million of supply chain costs associated with the COVID-19 pandemic during the third quarter of fiscal 2022, which was a decrease in comparison to the third quarter of fiscal 2021. 
+ As we continue into the fourth quarter of fiscal 2022, we generally expect retail demand levels to remain elevated versus pre-pandemic levels and we continue to expect foodservice demand levels to return to more historical norms. However, uncertainty still remains with the pandemic and such trends ultimately depend on the length and severity of the pandemic, inclusive of the introduction of new strains and variants of the virus infection rates in the markets where we do business the federal, state, and local government actions taken in response vaccine effectiveness and the macroeconomic environment. In the fourth quarter of fiscal 2022, we continue to expect to see inflationary headwinds but anticipate that gross margins will begin to benefit from sales price increases. We also continue to expect a decrease in costs related to the COVID-19 pandemic and a decrease in supply chain costs as we continue to recover our supply and service levels. However, we do not expect full realization of such benefits to occur in time to fully offset the higher costs overall in fiscal 2022. We will continue to evaluate the extent to which the COVID-19 pandemic will impact our business, consolidated results of operations, and financial condition. 
+ We have experienced some challenges in connection with the COVID-19 pandemic, including with respect to the supply of our ingredients, packaging, or other sourced materials. Despite these challenges, all of our production facilities remain open. We cannot predict the ultimate COVID-19 impact on our suppliers, distributors, and manufacturers. 
+ SEGMENT REVIEW 
+ We reflect our results of operations in four reporting segments: Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice. 
+ Grocery & Snacks 
+ The Grocery & Snacks reporting segment principally includes branded, shelf-stable food products sold in various retail channels in the United States. 
+ Refrigerated & Frozen 
+ The Refrigerated & Frozen reporting segment principally includes branded, temperature-controlled food products sold in various retail channels in the United States. 
+ International 
+ The International reporting segment principally includes branded food products, in various temperature states, sold in various retail and foodservice channels outside of the United States. 
+ Foodservice 
+ The Foodservice reporting segment includes branded and customized food products, including meals, entrees, sauces, and a variety of custom-manufactured culinary products that are packaged for sale to restaurants and other foodservice establishments primarily in the United States. 
+ Presentation of Derivative Gains (Losses) from Economic Hedges of Forecasted Cash Flows in Segment Results 
+ Derivatives used to manage commodity price risk and foreign currency risk are not designated for hedge accounting treatment. We believe these derivatives provide economic hedges of certain forecasted transactions. As such, these derivatives are recognized at fair market value with realized and unrealized gains and losses recognized in general corporate expenses. The gains and losses are subsequently recognized in the operating results of the reporting segments in the period in which the underlying transaction being economically hedged is included in earnings. In the event that management determines a particular derivative entered into as an economic hedge of a forecasted commodity purchase has ceased to function as an economic hedge, we cease recognizing further gains and losses on such derivatives in corporate expense and begin recognizing such gains and losses within segment operating results, immediately. See Note 15 "Business Segments and Related Information" , to the Condensed Consolidated Financial Statements contained in this report for further discussion. 
+ 30 
+
+Net Sales 
+
+Net Sales 
+
+in millions) 
+
+Thirteen Weeks Ended 
+
+Thirty-Nine Weeks Ended 
+
+Reporting Segment 
+
+February 27, 
+ 2022 
+
+February 28, 
+ 2021 
+
+Inc 
+ (Dec) 
+
+February 27, 
+ 2022 
+
+February 28, 
+ 2021 
+
+Inc 
+ (Dec) 
+
+Grocery & Snacks 
+
+1,199.0 
+
+1,129.5 
+
+6 
+
+3,538.6 
+
+3,543.6 
+
+Refrigerated & Frozen 
+
+1,238.6 
+
+1,203.1 
+
+3 
+
+3,626.3 
+
+3,581.7 
+
+1 
+
+International 
+
+241.2 
+
+240.9 
+
+740.0 
+
+709.7 
+
+4 
+
+Foodservice 
+
+234.9 
+
+197.6 
+
+19 
+
+721.0 
+
+610.2 
+
+18 
+
+Total 
+
+2,913.7 
+
+2,771.1 
+
+5 
+
+8,625.9 
+
+8,445.2 
+
+2 
+
+Net sales for the third quarter of fiscal 2022 in our Grocery & Snacks segment included a decrease in volumes of 2 , excluding the impact of divestitures, compared to the prior-year period. The decrease in volumes was primarily due to the elasticity impact from inflation-driven pricing actions. Price/mix increased 9 for the third quarter of fiscal 2022, excluding the impact of divestitures, when compared to the prior-year period due to favorability in inflation-driven pricing and favorable brand mix. The third quarter of fiscal 2021 included 8.8 million of net sales related to our Peter Pan peanut butter business, which was sold in the third quarter of fiscal 2021. 
+ Net sales for the first three quarters of fiscal 2022 in our Grocery & Snacks segment included a decrease in volumes of 3 , excluding the impact of divestitures, compared to the prior-year period. The decrease in volumes was primarily due to lapping the prior year's surge in at-home food consumption from the COVID-19 pandemic and replenishment of customer inventory levels in connection with the COVID-19 pandemic coupled with the elasticity impact from inflation-driven pricing actions. Price/mix increased 4 for the first three quarters of fiscal 2022, excluding the impact of divestitures, when compared to the prior-year period due to favorability in inflation-driven pricing, partially offset by a benefit in the prior-year period of 7.4 million related to a change in estimate associated with our fiscal 2020 fourth quarter trade accrual. The first three quarters of fiscal 2021 included 34.7 million of net sales related to our Peter Pan peanut butter business, which was sold in the third quarter of fiscal 2021. The first three quarters of fiscal 2021 also included 3.6 million of net sales related to our H.K. Anderson business, which was sold in the second quarter of fiscal 2021. 
+ Net sales for the third quarter of fiscal 2022 in our Refrigerated & Frozen segment reflected a decrease in volumes of 4 , excluding the impact of divestitures, compared to the prior-year period primarily due to the elasticity impact from inflation-driven pricing actions coupled with supply constraints. Price/mix increased by 8 for the third quarter of fiscal 2022, excluding the impact of divestitures, when compared to the prior-year period due to favorability in inflation-driven pricing and favorable brand mix. The third quarter of fiscal 2021 included 11.0 million of net sales related to our Egg Beaters business, which was sold in the fourth quarter of fiscal 2021. 
+ Net sales for the first three quarters of fiscal 2022 in our Refrigerated & Frozen segment reflected a decrease in volumes of 4 , excluding the impact of divestitures, compared to the prior-year period primarily due to lapping the prior year's surge in at-home food consumption from the COVID-19 pandemic and replenishment of inventory levels in connection with the COVID-19 pandemic coupled with the elasticity impact from inflation-driven pricing actions and supply constraints. Price/mix increased by 6 for the first three quarters of fiscal 2022, excluding the impact of divestitures, when compared to the prior-year period due to favorability in inflation-driven pricing and favorable brand mix, partially offset by a benefit in the prior-year period of 7.4 million related to a change in estimate associated with our fiscal 2020 fourth quarter trade accrual. The first three quarters of fiscal 2021 included 30.3 million of net sales related to our Egg Beaters business, which was sold in the fourth quarter of fiscal 2021. 
+ Net sales for the third quarter of fiscal 2022 in our International segment reflected a 7 decrease in volumes, a 1 decrease due to unfavorable foreign exchange rates, and an 8 increase in price/mix, excluding the impact of divestitures, in each case compared to the prior-year period. The decrease in volumes was driven by the elasticity impact from inflation-driven pricing actions. The increase in price/mix was primarily due to favorability in inflation-driven pricing and favorable product mix. 
+ Net sales for the first three quarters of fiscal 2022 in our International segment reflected a 6 decrease in volumes, a 3 increase due to favorable foreign exchange rates, and an 8 increase in price/mix, excluding the impact of divestitures, in each case compared to the prior-year period. The decrease in volumes was driven by lapping the prior year's surge in at-home food demand from the COVID-19 pandemic coupled with the elasticity impact from inflation-driven pricing actions. The increase in price/mix was primarily due to favorability in inflation-driven pricing and favorable product mix, partially offset by a benefit in the prior-year period of 2.8 million related to a change in estimate associated with our fiscal 2020 fourth quarter trade accrual. The first three quarters of fiscal 2021 included 1.4 million of net sales related to our Peter Pan peanut butter business. 
+ 31 
+
+N et sales for the third quarter of fiscal 2022 in our Foodservice segment reflected a n 11 in crease in volume s , excluding the impact of divestitures, compared to the prior-year period. The increase in volume reflected the continued recovery of away-from-home food outlets from the impacts of the COVID-19 pandemic , partially offset by the elasticity impact from inflation-driv en pricing actions . Price/mix , excluding the impact of divestitures, increased by 8 in the third quarter of fiscal 2022 compared to the prior-year period, reflecting inflation- driven pricing and favorable product mix . 
+ Net sales for the first three quarters of fiscal 2022 in our Foodservice segment reflected a 13 increase in volumes, excluding the impact of divestitures, compared to the prior-year period. The increase in volume reflected the continued recovery of away-from-home food outlets from the impacts of the COVID-19 pandemic, partially offset by the elasticity impact from inflation-driven pricing actions. Price/mix, excluding the impact of divestitures, increased by 5 in the first three quarters of fiscal 2022 compared to the prior-year period, reflecting inflation-driven pricing and favorable product mix. 
+ SG&A Expenses (includes general corporate expenses) 
+ SG&A expenses totaled 338.0 million for the third quarter of fiscal 2022, an increase of 28.3 million, as compared to the third quarter of fiscal 2021. SG&A expenses for the third quarter of fiscal 2022 reflected the following: 
+ Items impacting comparability of earnings 
+
+expenses of 30.9 million related to the impairment of businesses held for sale and 
+
+net charges of 5.1 million in connection with our restructuring plans. 
+
+ Other changes in expenses compared to the third quarter of fiscal 2021 
+
+a decrease in advertising and promotion expense of 8.4 million driven by lower broadcast media investments, 
+
+an increase in salary, wage, and fringe benefit expense of 7.1 million, 
+
+a decrease of 7.1 million in commission expense due to our transition away from certain third-party brokers, 
+
+a decrease in short-term incentive expense of 3.9 million due to the expectation of exceeding certain performance targets in the prior year, and 
+
+a decrease in share-based payment and deferred compensation expense of 3.7 million primarily due to market declines offset by an increase in our share price. 
+
+ SG&A expenses for the third quarter of fiscal 2021 included the following items impacting the comparability of earnings: 
+
+a gain of 49.7 million related to the divestiture of a business, 
+
+expenses of 24.4 million associated with the early extinguishment of debt, 
+
+net charges of 6.2 million in connection with our restructuring plans, 
+
+consulting expenses of 5.3 million primarily associated with securing tax benefits for a new production facility (the associated tax benefits will be recognized in future periods), and 
+
+expense of 4.3 million related to a previous legal matter. 
+
+ SG&A expenses totaled 993.5 million for the first three quarters of fiscal 2022, an increase of 25.8 million, as compared to the first three quarters of fiscal 2021. SG&A expenses for the first three quarters of fiscal 2022 reflected the following: 
+ Items impacting comparability of earnings 
+
+expense of 70.1 million related to the impairment of businesses held for sale, 
+
+net charges of 17.0 million in connection with our restructuring plans, 
+
+a net benefit of 14.6 related to a legal settlement, 
+
+a benefit of 3.3 million related to the sale of a legacy investment, 
+
+expenses of 2.2 million associated with costs incurred for planned divestitures, and 
+
+expenses of 1.7 million associated with consulting fees for certain tax matters. 
+
+ 32 
+
+Other changes in expenses compared to the first three quarters of fiscal 2021 
+
+a decrease in share-based payment and deferred compensation expense of 27.7 million due to market declines, a reduction of estimated level of achievement of certain performance targets, and a decrease in our share price, 
+
+an increase in salary, wage, and fringe benefit expense of 20.1 million, 
+
+an increase in advertising and promotion expense of 15.7 million driven primarily by higher eCommerce investments, 
+
+a decrease in short-term incentive expense of 13.0 million, due to the expectation of exceeding certain performance targets in the prior year, 
+
+an increase of 7.4 million in foreign currency transaction losses, primarily due to remeasuring certain intercompany notes payable, 
+
+an increase of 7.3 million in self-insurance expense due to favorable claim development in the prior year, 
+
+a decrease of 6.9 million in commission expense due to our transition away from certain third-party brokers, 
+
+an increase in information technology-related expenses of 5.9 million, 
+
+a decrease of 5.5 million in consulting and professional fees, and 
+
+an increase in travel and entertainment expense of 3.8 million. 
+
+ SG&A expenses for the first three quarters of fiscal 2021 included the following items impacting the comparability of earnings: 
+
+expenses of 68.7 million associated with the early extinguishment of debt, 
+
+a gain of 55.0 million related to the divestiture of certain businesses, 
+
+net charges of 32.9 million in connection with our restructuring plans, 
+
+consulting expenses of 6.5 million primarily associated with securing tax benefits for a new production facility (the associated tax benefits will be recognized in future periods), 
+
+expenses of 4.7 million associated with costs incurred for planned divestitures, and 
+
+a net expense of 2.3 million related to a previous legal matter. 
+
+ Segment Operating Profit (Earnings before general corporate expenses, pension and postretirement non-service income, interest expense, net, income taxes, and equity method investment earnings) 
+
+Operating Profit 
+
+in millions) 
+
+Thirteen Weeks Ended 
+
+Thirty-Nine Weeks Ended 
+
+Reporting Segment 
+
+February 27, 
+ 2022 
+
+February 28, 
+ 2021 
+
+Inc 
+ (Dec) 
+
+February 27, 
+ 2022 
+
+February 28, 
+ 2021 
+
+Inc 
+ (Dec) 
+
+Grocery & Snacks 
+
+231.5 
+
+290.0 
+
+(20 
+
+696.6 
+
+889.2 
+
+(22 
+
+Refrigerated & Frozen 
+
+158.0 
+
+214.6 
+
+(26 
+
+483.9 
+
+719.0 
+
+(33 
+
+International 
+
+29.9 
+
+27.8 
+
+7 
+
+101.1 
+
+105.8 
+
+(4 
+
+Foodservice 
+
+4.7 
+
+13.0 
+
+(64 
+
+38.8 
+
+61.0 
+
+(36 
+
+Operating profit in our Grocery & Snacks segment for the third quarter of fiscal 2022 reflected a decrease in gross profits of 6.4 million compared to the third quarter of fiscal 2021. The lower gross profit was driven by the impacts of input cost inflation, unfavorable fixed cost leverage, elevated supply chain operating costs due, in part, to disruptions in the availability of labor and certain materials, and a reduction in profit associated with the divestiture of our Peter Pan peanut butter business, partially offset by the net sales growth discussed above, benefits of supply chain realized productivity, cost synergies associated with the Pinnacle acquisition, and a decrease in COVID-19 pandemic-related costs. Pandemic-related costs included investments in employee safety protocols, bonuses paid to supply chain employees, and costs necessary to meet elevated levels of demand. Operating profit of the Grocery & Snacks segment was impacted by expense of 2.6 million and 4.2 million related to our restructuring plans in the third quarter of fiscal 2022 and 2021, respectively. The third quarter of fiscal 2022 included expense of 3.9 million related to the impairment of businesses held for sale. The third quarter of fiscal 2021 included a gain on the divestiture of our Peter Pan peanut butter business of 49.7 million. 
+ Operating profit in our Grocery & Snacks segment for the first three quarters of fiscal 2022 reflected a decrease in gross profits of 124.6 million compared to the first three quarters of fiscal 2021. The lower gross profit was driven by the impacts of input cost 
+ 33 
+
+inflation, higher inventory write-offs, unfavorable fixed cost leverage, elevated supply chain operating costs due, in part, to disruptions in the availability of labor and certain materials , and a reduction in profit associated with the divestitures of our H.K. Anderson and Peter Pan peanut butter businesses, partially offset by the benefits of supply chain realized productivity, cost synergies associated with the Pinnacle acquisition, and a decrease in COVID-19 pandemic-related costs . Operating profit of the Grocery & Snacks segment was impacted by expense of 8.7 million and 25.9 million related to our restructuring plans in the first three quarters of fiscal 2022 and 2021 , respectively. The first three quarters of fiscal 2022 included expense of 26.3 million related to the impairment of business es held for sale. The first three quarters of fiscal 2021 included gain s of 5 5.0 million related to the divestiture of business es . 
+ Operating profit in our Refrigerated & Frozen segment for the third quarter of fiscal 2022 reflected a decrease in gross profits of 56.0 million compared to the third quarter of fiscal 2021. The decrease was driven by the impacts of input cost inflation, unfavorable fixed cost leverage, elevated supply chain operating costs due, in part, to disruptions in the availability of labor and certain materials, and a reduction in profit associated with the divestiture of our Egg Beaters business, partially offset by the net sales growth discussed above, benefits of supply chain realized productivity, cost synergies associated with the Pinnacle acquisition, and a decrease in COVID-19 pandemic-related costs. Operating profit of the Refrigerated & Frozen segment was impacted by expense of 1.2 million and 7.0 million related to our restructuring plans in the third quarter of fiscal 2022 and 2021, respectively. The third quarter of fiscal 2022 also included expense of 16.9 million related to the impairment of businesses held for sale. Advertising and promotion expenses for the third quarter of fiscal 2022 decreased by 8.9 million compared to the third quarter of fiscal 2021. 
+ Operating profit in our Refrigerated & Frozen segment for the first three quarters of fiscal 2022 reflected a decrease in gross profits of 207.0 million compared to the first three quarters of fiscal 2021. The decrease was driven by the impacts of input cost inflation, unfavorable fixed cost leverage, elevated supply chain operating costs due, in part, to disruptions in the availability of labor and certain materials, higher inventory write-offs, and a reduction in profit associated with the divestiture of our Egg Beaters business, partially offset by the benefits of supply chain realized productivity, cost synergies associated with the Pinnacle acquisition, and a decrease in COVID-19 pandemic-related costs. Operating profit of the Refrigerated & Frozen segment was impacted by expense of 13.0 million and 19.9 million related to our restructuring plans in the first three quarters of fiscal 2022 and 2021, respectively. The first three quarters of fiscal 2022 included expense of 28.9 million related to the impairment of businesses held for sale. Advertising and promotion expenses for the first three quarters of fiscal 2022 increased by 9.5 million compared to the first three quarters of fiscal 2021. 
+ Operating profit in our International segment for the third quarter of fiscal 2022 reflected an increase in gross profits of 3.2 million when compared to the prior-year period due to the benefits of supply chain realized productivity, partially offset by the impacts of input cost inflation. 
+ Operating profit in our International segment for the first three quarters of fiscal 2022 reflected an increase in gross profits of 8.8 million when compared to the prior-year period due to the net sales growth discussed above and the benefits of supply chain realized productivity, partially offset by the impacts of input cost inflation. The increase in gross profit was more than offset by an increase in SG&A expenses of 13.5 million driven by higher advertising and promotion expenses and salary, wage, and fringe benefits. 
+ Operating profit in our Foodservice segment for the third quarter of fiscal 2022 reflected an increase in gross profits of 2.5 million compared to the third quarter of fiscal 2021. The increase in gross profit was driven by the net sales growth discussed above and the benefits of supply chain realized productivity, partially offset by the impacts of input cost inflation and elevated supply chain operating costs due, in part, to disruptions in the availability of labor and certain materials. The third quarter of fiscal 2022 included expense of 10.1 million related to the impairment of businesses held for sale. 
+ Operating profit in our Foodservice segment for the first three quarters of fiscal 2022 reflected a decrease in gross profits of 7.4 million compared to the first three quarters of fiscal 2021. The lower gross profit was driven by input cost inflation, elevated supply chain operating costs due, in part, to disruptions in the availability of labor and certain materials, and higher inventory write-offs, which more than offset the net sales growth discussed above and the benefits of supply chain realized productivity. The first three quarters of fiscal 2022 included expense of 14.9 million related to the impairment of businesses held for sale. 
+ Pension and Postretirement Non-service Income 
+ In the third quarter of fiscal 2022, pension and postretirement non-service income was 16.1 million, an increase of 2.4 million compared to the third quarter of fiscal 2021. In the first three quarters of fiscal 2022, pension and postretirement non-service income was 48.3 million, an increase of 7.1 million compared to the first three quarters of fiscal 2021. The third quarter and first three quarters of fiscal 2022 reflected lower interest costs and an increase in expected returns on plan assets. 
+ 34 
+
+Interest Expense, Net 
+ Net interest expense was 94.6 million and 100.6 million for the third quarter of fiscal 2022 and 2021, respectively. Net interest expense was 283.7 million and 322.0 million for the first three quarters of fiscal 2022 and 2021, respectively. The decrease was driven by a lower weighted average interest rate on outstanding debt. See Note 4, "Long-Term Debt and Revolving Credit Facility" , to the Condensed Consolidated Financial Statements contained in this report for further discussion. 
+ Income Taxes 
+ In the third quarter and first three quarters of fiscal 2022, we recognized income tax expense of 109.9 million and 263.8 million, respectively. The effective tax rate (calculated as the ratio of income tax expense to pre-tax income, inclusive of equity method investment earnings) was approximately 33.4 and 26.5 for the third quarter and first three quarters of fiscal 2022, respectively. In the third quarter and first three quarters of fiscal 2021, we recognized income tax expense of 101.6 million and 269.0 million, respectively. The effective tax rate was approximately 26.5 and 21.3 for the third quarter and first three quarters of fiscal 2021, respectively. See Note 10, "Income Taxes" , to the Condensed Consolidated Financial Statements contained in this report for a discussion on the change in effective tax rates. 
+ In fiscal 2021, we completed a restructuring of our ownership interest in the Ardent Mills joint venture, a milling business ("Ardent Mills"), that utilized a portion of our capital loss carryforward prior to its expiration. Also in fiscal 2021, we completed several other transactions related to retained assets in conjunction with the divestitures of the Peter Pan peanut butter and Egg Beaters businesses that we believe will utilize a portion of the remaining capital loss carryforward. These transactions were subject to elections made in connection with filing our fiscal 2021 federal tax return. These elections are still under review by the Internal Revenue Service. These elections may result in increases to the tax basis in those assets and if successful would result in tax benefits being realized in future periods. 
+ Equity Method Investment Earnings 
+ Equity method investment earnings were 48.1 million and 21.5 million for the third quarter of fiscal 2022 and 2021, respectively. Equity method investment earnings were 97.8 million and 51.0 million for the first three quarters of fiscal 2022 and 2021, respectively. Ardent Mills earnings for the third quarter and first three quarters of fiscal 2022 reflected favorable market conditions, including the joint venture s effective management through the recent volatility in the wheat markets. 
+ Earnings Per Share 
+ Diluted earnings per share in the third quarter of fiscal 2022 and 2021 were 0.45 and 0.58, respectively. Diluted earnings per share in the first three quarters of fiscal 2022 and 2021 were 1.51 and 2.02, respectively. The decrease in diluted earnings per share reflected lower net income. 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ Sources of Liquidity and Capital 
+ The primary objective of our financing strategy is to maintain a prudent capital structure that provides us flexibility to pursue our growth objectives. We use a combination of equity and short- and long-term debt. We use short-term debt principally to finance ongoing operations, including our seasonal requirements for working capital (accounts receivable, prepaid expenses and other current assets, and inventories, less accounts payable, accrued payroll, and other accrued liabilities). We are committed to maintaining solid investment grade credit ratings. 
+ Management believes that existing cash balances, cash flows from operations, existing credit facilities, our commercial paper program and access to capital markets will provide sufficient liquidity to meet our debt obligations, including any repayment of debt or refinancing of debt, working capital needs, planned capital expenditures, other contractual obligations, and payment of anticipated quarterly dividends for at least the next twelve months. 
+ Borrowing Facilities and Long-Term Debt 
+ At February 27, 2022, we had a revolving credit facility (the "Revolving Credit Facility") with a syndicate of financial institutions providing for a maximum aggregate principal amount outstanding at any one time of 1.6 billion (subject to increase to a maximum aggregate principal amount of 2.1 billion with the consent of the lenders). The Revolving Credit Facility matures on July 11, 2024 and is unsecured. The term of the Revolving Credit Facility may be extended for additional one-year or two-year periods from the then-applicable maturity date on an annual basis. In the first quarter of fiscal 2022, we entered into an amendment to the Revolving Credit Facility, which modified the ratio of funded debt to earnings before interest, taxes, depreciation, and amortization ("EBITDA") financial covenant to require a ratio of not greater than 4.5 to 1.0 on a rolling four-quarter basis. We have historically 
+ 35 
+
+used a credit facility principally as a back-up for our commercial paper program. As of February 27, 2022 , there were no outstanding borrowings under the Revolving Credit Facility. 
+ As of February 27, 2022, we had 361.0 million outstanding under our commercial paper program. The highest level of borrowings during the first three quarters of fiscal 2022 was 989.0 million. We had 705.7 million outstanding under our commercial paper program as of May 30, 2021. 
+ 
+ During the first quarter of fiscal 2022, we issued 500.0 million aggregate principal amount of 0.500 senior notes due August 11, 2023. The proceeds were primarily used to refinance commercial paper borrowings. 
+ For additional information about our long-term debt balances, refer to Note 4, " Long-Term Debt and Revolving Credit Facility" , to the Condensed Consolidated Financial Statements contained in this report and Note 4, "Long-Term Debt" , to the Consolidated Financial Statements contained in the Company's Annual Report on Form 10-K for the fiscal year ended May 30, 2021 . The weighted average coupon interest rate of long-term debt obligations outstanding as of February 27, 2022, was approximately 4.4 . 
+ We expect to maintain or have access to sufficient liquidity to retire or refinance long-term debt at maturity or otherwise, from operating cash flows, our commercial paper program, access to the capital markets, and our Revolving Credit Facility. We continuously evaluate opportunities to refinance our debt however, any refinancing is subject to market conditions and other factors, including financing options that may be available to us from time to time, and there can be no assurance that we will be able to successfully refinance any debt on commercially acceptable terms at all. 
+ As of the end of the third quarter of fiscal 2022, our senior long-term debt ratings were all investment grade. A significant downgrade in our credit ratings would not affect our ability to borrow amounts under the Revolving Credit Facility, although borrowing costs would increase. A downgrade of our short-term credit ratings would impact our ability to borrow under our commercial paper program by negatively impacting borrowing costs and causing shorter durations, as well as making access to commercial paper more difficult, or impossible. 
+ Our most restrictive debt agreement (the Revolving Credit Facility) generally requires our ratio of EBITDA to interest expense be not less than 3.0 to 1.0 and our ratio of funded debt to EBITDA not to exceed 4.5 to 1.0, with each ratio to be calculated on a rolling four-quarter basis. As of February 27, 2022, we were in compliance with these financial covenants. 
+ Equity and Dividends 
+ We repurchase shares of our common stock from time to time after considering market conditions and in accordance with repurchase limits authorized by our Board. Under the share repurchase authorization, we may repurchase our shares periodically over several years, depending on market conditions and other factors, and may do so in open market purchases or privately negotiated transactions. The share repurchase authorization has no expiration date. During the first quarter of fiscal 2022, we repurchased 1.5 million shares of our common stock under this authorization for an aggregate of 50.0 million. We did not repurchase any shares of common stock during the second or third quarters of fiscal 2022. The Company's total remaining share repurchase authorization as of February 27, 2022, was 1.07 billion. 
+ On March 2, 2022, the company paid a quarterly cash dividend on shares of its common stock of 0.3125 per share to stockholders of record as of close of business on January 31, 2022. 
+ Contractual Obligations 
+ As part of our ongoing operations, we enter into contractual arrangements that obligate us to make future cash payments. These obligations impact our liquidity and capital resource needs. In addition to principal and interest payments on our outstanding long-term debt and notes payable balances, discussed above, our contractual obligations primarily consist of leases payments, income taxes, pension and postretirement benefits, and unconditional purchase obligations. 
+ As of February 27, 2022, our finance and operating lease liabilities reported in our Condensed Consolidated Balance Sheet totaled 133.5 million and 249.5 million, respectively. We have entered into contracts that are or contain a lease that have not yet commenced with aggregate payments totaling 269.9 million, as of February 27, 2022. For additional information, refer to Note 15, "Leases" , to the Consolidated Financial Statements contained in the Company's Annual Report on Form 10-K for the fiscal year ended May 30, 2021 . 
+ 36 
+
+The liability for gross unrecognized tax benefits related to uncertain tax positions was 54.8 million as of February 27, 2022 . For additional information, refer to Note 10, " Income Taxes " , to the Condensed Consolidated Financial Statements contained in this report and Note 14, "Pre-Tax Income and Income Taxes" , to the Consolidated Financial Statements contained in the Company ' s Annual Report on Form 10-K for the fiscal year ended May 30, 2021 . 
+ As of May 30, 2021, we had an aggregate funded pension asset of 109.6 million and an aggregate unfunded postretirement benefit obligation totaling 78.2 million. We expect to make payments totaling approximately 12.3 million and 9.0 million in fiscal 2022 to fund our pension and postretirement plans, respectively. See Note 12 "Pension and Postretirement Benefits", to the Condensed Consolidated Financial Statements contained in this report and Note 18, "Pension and Postretirement Benefits" , to the Consolidated Financial Statements and "Critical Accounting Estimates Employment-Related Benefits" contained in the Company's Annual Report on Form 10-K for the fiscal year ended May 30, 2021 , for further discussion of our pension obligation and factors that could affect estimates of these obligations. 
+ As of February 27, 2022, our unconditional purchase obligations (i.e., obligations to transfer funds in the future for fixed or minimum quantities of goods or services at fixed or minimum prices, such as "take-or-pay" contracts) totaled approximately 2.24 billion. Approximately 1.55 billion of this balance is due in less than one year. Included in this amount are open purchase orders and other supply agreements totaling approximately 1.37 billion, which are generally settleable in the ordinary course of business. Some are not legally binding and/or may be cancellable. Warehousing service agreements totaling approximately 380 million make up a majority of our remaining unconditional purchase obligations, with various terms of up to 20 years. 
+ We expect to have sufficient cash flows from the above cited sources to meet the material cash requirements of these contractual obligations as they become settleable in the ordinary course of business. 
+ Capital Expenditures 
+ We continue to make investments in our business and operating facilities. Our estimate of capital expenditures for fiscal 2022 is approximately 485 million. 
+ Supplier Arrangements 
+ 
+ We offer certain suppliers access to a third-party service that allows them to view our scheduled payments online. The third-party service also allows suppliers to finance advances on our scheduled payments at the sole discretion of the supplier and the third party. We have no economic interest in these financing arrangements and no direct relationship with the suppliers, the third party, or any financial institutions concerning this service. All balances remain as obligations to our suppliers as stated in our supplier agreements and are reflected in accounts payable within our Condensed Consolidated Balance Sheets. The associated payments are included in net cash flows from operating activities within our Condensed Consolidated Statements of Cash Flows. As of February 27, 2022 and May 30, 2021, 291.9 million and 279.3 million, respectively, of our total accounts payable was payable to suppliers who utilize this third-party service. 
+ 
+ The program commenced at about the same time that we began an initiative to negotiate extended payment terms with our suppliers. Although difficult to predict, we generally expect the incremental cash flow benefits associated with these extended payment terms to increase at a slower rate in the future. A number of factors may impact our future payment terms , including our relative creditworthiness, overall market liquidity, and changes in interest rates and other general economic conditions. 
+ Cash Flows 
+ During the first three quarters of fiscal 2022, we used 0.5 million of cash, which was the net result of 752.6 million generated from operating activities, 342.9 million used in investing activities, 407.0 million used in financing activities, and a decrease of 3.2 million due to the effects of changes in foreign currency exchange rates. 
+ Cash generated from operating activities totaled 752.6 million and 1.07 billion in the first three quarters of fiscal 2022 and 2021, respectively. The decrease in operating cash flows for the first three quarters of fiscal 2022 compared to the first three quarters of fiscal 2021 was primarily driven by lower gross profits, which reflect the impact of realized input cost inflation and higher transportation costs. Working capital changes have been impacted by sales price increases in response to input cost inflation which have increased our receivables, offset by less inventory rebuilding in comparison to the prior year as we lap the initial surge in demand from the pandemic. In addition, there were decreased tax, interest, and pension contribution payments for the first three quarters of fiscal 2022 compared to fiscal 2021. Tax payments for the first quarter of fiscal 2021 included approximately 47.0 million of fourth quarter fiscal 2020 tax payments, which were deferred due to the extension of the deadline for certain federal cash tax payments. Operating cash flows in the first three quarters of fiscal 2021 benefited from the deferral of 33.9 million of employer payroll taxes 
+ 37 
+
+under the Coronavirus Aid, Relief, and Economic Security Act . Payments totaling 25.5 million of such amount s were made in the third quarter of fiscal 2022 and remaining payments will occur in the third quarter of fiscal 2023 . 
+ Cash used in investing activities totaled 342.9 million and 281.9 million in the first three quarters of fiscal 2022 and 2021, respectively. Net cash outflows from investing activities in the first three quarters of fiscal 2022 and 2021 consisted primarily of capital expenditures totaling 364.2 million and 396.7 million, respectively. Investing cash flows for the first three quarters of fiscal 2021 also included proceeds from divestitures totaling 112.2 million, mainly from the sale of our Peter Pan peanut butter and H.K. Anderson businesses. 
+ Cash used in financing activities totaled 407.0 million and 1.26 billion in the first three quarters of fiscal 2022 and 2021. Financing activities in the first three quarters of fiscal 2022 principally reflect net proceeds of 499.1 million from the issuance of 500.0 million aggregate principal amount of long-term debt, net short-term borrowing repayments of 344.6 million, cash dividends paid of 431.9 million, and common stock repurchases of 50.0 million. Financing activities in the first three quarters of fiscal 2021 principally reflect repayments of long-term debt of 2.31 billion, the issuance of long-term debt totaling 988.2 million, net short-term borrowings of 727.6 million, cash dividends paid of 341.7 million, and common stock repurchases of 298.1 million. 
+ Cash Held by International Subsidiaries 
+ The Company had cash and cash equivalents of 79.7 million at February 27, 2022 and 79.2 million at May 30, 2021, of which 71.2 million at February 27, 2022, and 72.4 million at May 30, 2021 was held in foreign countries. A deferred tax liability is provided for certain undistributed foreign earnings in fiscal 2022 that are not considered to be indefinitely reinvested or cannot be remitted in a tax-neutral transaction. Other undistributed foreign earnings are invested indefinitely and therefore we have not provided deferred taxes on those earnings. 
+ CRITICAL ACCOUNTING ESTIMATES 
+ Consistent with previous years, we will perform our annual impairment test on our indefinite-lived intangible assets and goodwill in the fourth quarter of fiscal 2022. We recognized impairment charges on several brands, primarily from the Pinnacle acquisition, in the fourth quarter of both fiscal 2021 and 2020. As a result of the impairment charges, these assets were written down to their respective fair values resulting in zero excess fair value over carrying amount. While most of these brands have had elevated sales demand as a result of the COVID-19 pandemic, some brands have also experienced deterioration in margins due to several factors, including recent input cost inflation. If expectations of future long-term growth rates and margins are not met or if management's future strategy changes on certain brands, there is a heightened risk of future impairment. Excluding impairments associated with businesses held for sale, no events occurred during the third quarter of fiscal 2022 that indicated it was more likely than not that our indefinite-lived intangible assets were impaired. 
+ For further discussion of our critical accounting estimates, please refer to the "Management's Discussion and Analysis of Financial Condition and Results of Operations" section in Part II, Item 7, of our Annual Report on Form 10-K for the fiscal year ended May 30, 2021. 
+ ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ The principal market risks affecting us are exposures to price fluctuations of commodity and energy inputs, interest rates, and foreign currencies. 
+ Other than the changes noted below, there have been no material changes in our market risk during the thirty-nine weeks ended February 27, 2022. For additional information, refer to the "Quantitative and Qualitative Disclosures About Market Risk" section in Part II, Item 7A of our Annual Report on Form 10-K for the fiscal year ended May 30, 2021. 
+ Commodity Market Risk 
+ We purchase commodity inputs such as wheat, corn, oats, soybean meal, soybean oil, meat, dairy products, nuts, sugar, natural gas, electricity, and packaging materials to be used in our operations. These commodities are subject to price fluctuations that may create price risk. We enter into commodity hedges to manage this price risk using physical forward contracts or derivative instruments. We have policies governing the hedging instruments our businesses may use. These policies include limiting the dollar risk exposure for each of our businesses. We also monitor the amount of associated counter-party credit risk for all non-exchange-traded transactions. 
+ 38 
+
+Interest Rate Risk 
+ We may use interest rate swaps to manage the effect of interest rate changes on the fair value of our existing debt as well as the forecasted interest payments for the anticipated issuance of debt. 
+ The carrying amount of long-term debt (including current installments) was 8.80 billion as of February 27, 2022. Based on current market rates, the fair value of this debt at February 27, 2022 was estimated at 9.54 billion. As of February 27, 2022, a 1 increase in the interest rates would decrease the fair value of our fixed rate debt by approximately 580.9 million, while a 1 decrease in interest rates would increase the fair value of our fixed rate debt by approximately 660.3 million. 
+ Foreign Currency Risk 
+ In order to reduce exposures for our processing activities related to changes in foreign currency exchange rates, we may enter into forward exchange or option contracts for transactions denominated in a currency other than the functional currency for certain of our operations. This activity primarily relates to economically hedging against foreign currency risk in purchasing inventory and capital equipment, sales of finished goods, and future settlement of foreign denominated assets and liabilities. 
+ Effect of Hypothetical 10 Fluctuation 
+ We changed the disclosure alternative for reporting our commodity and foreign exchange derivatives (inclusive of commodity and foreign exchange swaps, futures, forwards, and options) in the second quarter of fiscal 2022 from a value-at-risk ("VaR") model to a hypothetical sensitivity analysis. The change in the methodology was made to simplify and enhance the information presented about the sensitivities of our derivative positions. 
+ The potential gain or loss on the fair value of our outstanding commodity and foreign exchange contracts, assuming a hypothetical 10 fluctuation in commodity prices and foreign currency exchange rates, would have been (in millions): 
+
+Fair Value Impact 
+
+In Millions 
+
+February 27, 2022 
+
+February 28, 2021 
+
+Energy commodities 
+
+1.3 
+
+3.1 
+
+Agriculture commodities 
+
+3.9 
+
+1.5 
+
+Foreign exchange 
+
+8.8 
+
+10.7 
+
+It should be noted that any change in the fair value of our derivative contracts, real or hypothetical, would be significantly offset by an inverse change in the value of the underlying hedged items. In relation to foreign currency contracts, this hypothetical calculation assumes that each exchange rate would change in the same direction relative to the U.S. dollar. 
+ ITEM 4. CONTROLS AND PROCEDURES 
+ Disclosure Controls and Procedures 
+ The Company's management carried out an evaluation, with the participation of the Company's Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company's disclosure controls and procedures as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended, as of February 27, 2022. Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that, as of the end of the period covered by this report, the Company's disclosure controls and procedures were effective. 
+ Internal Control Over Financial Reporting 
+ The Company's management, with the participation of the Company's Chief Executive Officer and Chief Financial Officer, evaluated any change in the Company's internal control over financial reporting that occurred during the quarter covered by this report and determined that there was no change in our internal control over financial reporting during the quarter covered by this report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ 39 
+
+PART II OTHER INFORMATION 
+ ITEM 1. LEGAL PROCEEDINGS 
+ For additional information on legal proceedings, please refer to Note 16, "Contingencies," to the financial statements contained in our Annual Report on Form 10-K for the year ended May 30, 2021 and Note 11, "Contingencies," to the Condensed Consolidated Financial Statements contained in this Quarterly Report on Form 10-Q. 
+ 
+ ITEM 1A. RISK FACTORS 
+ The disclosure below supplements risk factors previously disclosed in our Annual Report on Form 10-K for the fiscal year ended May 30, 2021. These risks and uncertainties, along with those previously disclosed, could materially adversely affect our business or financial results. 
+ 
+ Our business, financial condition and results of operations could be adversely affected by disruptions in the global economy caused by the ongoing conflict between Russia and Ukraine. 
+ 
+ The global economy has been negatively impacted by the military conflict between Russia and Ukraine. Furthermore, governments in the U.S., United Kingdom, and European Union have each imposed export controls on certain products and financial and economic sanctions on certain industry sectors and parties in Russia. Although we have no operations in Russia or Ukraine, we have experienced shortages in materials and increased costs for transportation, energy, and raw material due in part to the negative impact of the Russia-Ukraine military conflict on the global economy. Further escalation of geopolitical tensions related to the military conflict, including increased trade barriers or restrictions on global trade, could result in, among other things, cyberattacks, supply disruptions, lower consumer demand, and changes to foreign exchange rates and financial markets, any of which may adversely affect our business and supply chain. In addition, the effects of the ongoing conflict could heighten many of our known risks described in Part I, Item 1A, "Risk Factors" in our Annual Report on Form 10-K for the year ended May 30, 2021, filed with the SEC on July 23, 2021. 
+
+40 
+
+ITEM 6. EXHIBITS 
+ All documents referenced below were filed pursuant to the Securities Exchange Act of 1934, as amended, by Conagra Brands, Inc. (file number 001-07275), unless otherwise noted. 
+
+EXHIBIT 
+
+DESCRIPTION 
+
+3.1 
+
+Amended and Restated Certificate of Incorporation of Conagra Brands, Inc., incorporated herein by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed with the SEC on November 10, 2016 
+
+3.2 
+
+Amended and Restated Bylaws of Conagra Brands, Inc., incorporated herein by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed with the SEC on July 28, 2020 
+
+31.1 
+
+Section 302 Certificate of Chief Executive Officer 
+
+31.2 
+
+Section 302 Certificate of Chief Financial Officer 
+
+32 
+
+Section 906 Certificates 
+
+101 
+
+The following materials from Conagra Brands' Quarterly Report on Form 10-Q for the quarter ended February 27, 2022, formatted in Inline XBRL (eXtensible Business Reporting Language): (i) the Condensed Consolidated Statements of Earnings, (ii) the Condensed Consolidated Statements of Comprehensive Income, (iii) the Condensed Consolidated Balance Sheets, (iv) the Condensed Consolidated Statements of Cash Flows, (v) Notes to Condensed Consolidated Financial Statements, and (vi) document and entity information. 
+
+104 
+
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+
+41 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+CONAGRA BRANDS, INC. 
+
+By: 
+ 
+ /s/ DAVID S. MARBERGER 
+
+David S. Marberger 
+
+Executive Vice President and Chief Financial Officer 
+
+By: 
+ 
+ /s/ ROBERT G. WISE 
+
+Robert G. Wise 
+
+Senior Vice President and Corporate Controller 
+
+Dated this 7th day of April, 2022. 
+ 42 
+
+<EX-31.1>
+ 2
+ cag-ex311_7.htm
+ EX-31.1
+
+cag-ex311_7.htm
+
+Exhibit 31.1 
+ CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER 
+ I, Sean M. Connolly, certify that: 
+
+1. 
+ 
+ I have reviewed this quarterly report on Form 10-Q for the quarter ended February 27, 2022 of Conagra Brands, Inc.; 
+
+2. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations, and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ 
+ The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ 
+ Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. 
+ 
+ The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: April 7, 2022 
+
+/s/ SEAN M. CONNOLLY 
+
+Sean M. Connolly 
+
+Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ cag-ex312_8.htm
+ EX-31.2
+
+cag-ex312_8.htm
+
+Exhibit 31.2 
+ CERTIFICATION OF THE CHIEF FINANCIAL OFFICER 
+ I, David S. Marberger, certify that: 
+
+1. 
+ 
+ I have reviewed this quarterly report on Form 10-Q for the quarter ended February 27, 2022 of Conagra Brands, Inc.; 
+
+2. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations, and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ 
+ The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ 
+ Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. 
+ 
+ The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: April 7, 2022 
+
+/s/ DAVID S. MARBERGER 
+
+David S. Marberger 
+
+Executive Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ cag-ex32_6.htm
+ EX-32
+
+cag-ex32_6.htm
+
+Exhibit 32 
+ CERTIFICATION 
+ Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ I, Sean M. Connolly, Chief Executive Officer of Conagra Brands, Inc., certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to my knowledge that Conagra Brands, Inc.'s Quarterly Report on Form 10-Q for the quarter ended February 27, 2022 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and that the information contained in such Quarterly Report fairly presents, in all material respects, the financial condition and results of operations of Conagra Brands, Inc. as of and for the periods presented. 
+
+April 7, 2022 
+
+/s/ SEAN M. CONNOLLY 
+
+Sean M. Connolly 
+
+Chief Executive Officer 
+
+I, David S. Marberger, Executive Vice President and Chief Financial Officer of Conagra Brands, Inc., certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to my knowledge that Conagra Brands, Inc.'s Quarterly Report on Form 10-Q for the quarter ended February 27, 2022 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and that the information contained in such Quarterly Report fairly presents, in all material respects, the financial condition and results of operations of Conagra Brands, Inc. as of and for the periods presented. 
+
+April 7, 2022 
+
+/s/ DAVID S. MARBERGER 
+
+David S. Marberger 
+
+Executive Vice President and Chief Financial Officer 
+
+A signed original of this written statement required by Section 906 has been provided to Conagra Brands, Inc. and will be retained by Conagra Brands, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32>
+
+<EX-101.SCH>
+ 5
+ cag-20220227.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ cag-20220227_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ cag-20220227_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ cag-20220227_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ cag-20220227_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

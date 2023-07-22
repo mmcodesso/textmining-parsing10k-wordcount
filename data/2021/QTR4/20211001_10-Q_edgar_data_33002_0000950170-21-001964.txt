@@ -1,0 +1,1594 @@
+<Header>
+<FileStats>
+    <FileName>20211001_10-Q_edgar_data_33002_0000950170-21-001964.txt</FileName>
+    <GrossFileSize>8016721</GrossFileSize>
+    <NetFileSize>90597</NetFileSize>
+    <NonText_DocumentType_Chars>953077</NonText_DocumentType_Chars>
+    <HTML_Chars>3451464</HTML_Chars>
+    <XBRL_Chars>1226173</XBRL_Chars>
+    <XML_Chars>2084636</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950170-21-001964.hdr.sgml : 20211001
+<ACCEPTANCE-DATETIME>20211001114016
+ACCESSION NUMBER:		0000950170-21-001964
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		80
+CONFORMED PERIOD OF REPORT:	20210831
+FILED AS OF DATE:		20211001
+DATE AS OF CHANGE:		20211001
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENNIS, INC.
+		CENTRAL INDEX KEY:			0000033002
+		STANDARD INDUSTRIAL CLASSIFICATION:	MANIFOLD BUSINESS FORMS [2761]
+		IRS NUMBER:				750256410
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05807
+		FILM NUMBER:		211297777
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2441 PRESIDENTIAL PARKWAY
+		CITY:			MIDLOTHIAN
+		STATE:			TX
+		ZIP:			76065
+		BUSINESS PHONE:		9727759801
+
+	MAIL ADDRESS:	
+		STREET 1:		2441 PRESIDENTIAL PARKWAY
+		CITY:			MIDLOTHIAN
+		STATE:			TX
+		ZIP:			76065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENNIS BUSINESS FORMS INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENNIS TAG & SALESBOOK CO
+		DATE OF NAME CHANGE:	19700805
+
+</SEC-Header>
+</Header>
+
+ 0000950170-21-001964.txt : 20211001
+
+10-Q
+ 1
+ ebf-20210831.htm
+ 10-Q
+
+10-Q 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ (Mark One) 
+ 	 Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ For the Quarterly Period Ended 
+ OR 
+ 	 Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ For the Transition Period from to 
+ Commission File Number 
+
+(Exact Name of Registrant as Specified in Its Charter) 
+
+(State or Other Jurisdiction of Incorporation or Organization) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+., , 
+
+(Address of Principal Executive Offices) 
+ 
+ (Zip code) 
+
+Registrant s Telephone Number, Including Area Code: 
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ Name of each exchange on which registered 
+
+Indicate by check mark whether the Registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Date File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ As of September 24, 2021, there were shares of the Registrant s common stock outstanding. 
+
+ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ TABLE OF CONTENTS 
+
+PART I: FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+ 
+ 3 
+
+Unaudited Consolidated Balance Sheets at August 31, 2021 and February 28, 2021 
+ 
+ 3 
+
+Unaudited Consolidated Statements of Operations for the three and six months ended August 31, 2021 and August 31, 2020 
+ 
+ 5 
+
+Unaudited Consolidated Statements of Comprehensive Income for the three and six months ended August 31, 2021 and August 31, 2020 
+ 
+ 6 
+
+Unaudited Consolidated Statements of Changes in Shareholders Equity for the three and six months ended August 31, 2021 and August 31, 2020 
+ 
+ 7 
+
+U naudited Consolidated Statements of Cash Flows for the six months ended August 31, 2021 and August 31, 2020 
+ 
+ 8 
+
+Notes to Unaudited Consolidated Financial Statements 
+ 
+ 9 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 20 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 28 
+
+Item 4. Controls and Procedures 
+ 
+ 28 
+
+PART II: OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 
+ 29 
+
+Item 1A. Risk Factors 
+ 
+ 29 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ 29 
+
+Item 3. Defaults Upon Senior Securities 
+ 
+ 29 
+
+Item 4. Mine Safety Disclosures 
+ 
+ 29 
+
+Item 5. Other Information 
+ 
+ 29 
+
+Item 6. Exhibits 
+ 
+ 30 
+
+SIGNATURES 
+ 
+ 31 
+
+PART I. FINANCI AL INFORMATION 
+ Item 1. FINANC IAL STATEMENTS 
+ ENNIS, INC. AND SUBSIDIARIES 
+ U NAUDITED CONSOLIDATED BALANCE SHEETS 
+ (in thousands 
+
+August 31, 
+
+February 28, 
+
+2021 
+
+2021 
+
+Assets 
+
+Current assets 
+
+Cash and cash equivalents 
+
+Accounts receivable, net of allowance for doubtful receivables of at August 31, 2021 and at February 28, 2021 
+
+Prepaid expenses 
+
+Inventories 
+
+Assets held for sale 
+
+Total current assets 
+
+Property, plant and equipment 
+
+Plant, machinery and equipment 
+
+Land and buildings 
+
+Computer equipment and software 
+
+Other 
+
+Total property, plant and equipment 
+
+Less accumulated depreciation 
+
+Net property, plant and equipment 
+
+Operating lease right-of-use assets 
+
+Goodwill 
+
+Intangible assets, net 
+
+Other assets 
+
+Total assets 
+
+See accompanying notes to consolidated financial statements. 
+ 
+ 3 
+
+ENNIS, INC. AND SUBSIDIARIES 
+ UNAUDITED CONSOLIDATED BALANCE SHEETS-Continued 
+ (in thousands, except for par value and share amounts 
+
+August 31, 
+
+February 28, 
+
+2021 
+
+2021 
+
+Liabilities and Shareholders Equity 
+
+Current liabilities 
+
+Accounts payable 
+
+Accrued expenses 
+
+Current portion of operating lease liabilities 
+
+Total current liabilities 
+
+Liability for pension benefits 
+
+Deferred income taxes 
+
+Operating lease liabilities, net of current portion 
+
+Other liabilities 
+
+Total liabilities 
+
+Commitments and contingencies 
+
+Shareholders equity 
+
+Preferred stock par value, authorized shares; issued 
+
+Common stock par value, authorized shares; issued shares at August 31, 2021 and February 28, 2021 
+
+Additional paid-in capital 
+
+Retained earnings 
+
+Accumulated other comprehensive income (loss): 
+
+Minimum pension liability, net of taxes 
+
+() 
+
+() 
+
+Total accumulated other comprehensive income (loss) 
+
+() 
+
+() 
+
+Treasury stock 
+
+() 
+
+() 
+
+Total shareholders equity 
+
+Total liabilities and shareholders' equity 
+
+See accompanying notes to consolidated financial statements. 
+ 
+ 4 
+
+ENNIS, INC. AND SUBSIDIARIES 
+ U NAUDITED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ in thousands, except share and per share amounts 
+
+Three months ended 
+ 
+ Six months ended 
+
+August 31, 
+ 
+ August 31, 
+
+2021 
+ 
+ 2020 
+ 
+ 2021 
+ 
+ 2020 
+
+Net sales 
+
+Cost of goods sold 
+
+Gross profit margin 
+
+Selling, general and administrative 
+
+(Gain) loss from disposal of assets 
+
+Income from operations 
+
+Other expense 
+
+Interest expense 
+
+Other, net 
+
+Total other expense 
+
+Earnings before income taxes 
+
+Income tax expense 
+
+Net earnings 
+
+Weighted average common shares outstanding 
+
+Basic 
+
+Diluted 
+
+Earnings per share 
+
+Basic 
+
+Diluted 
+
+Cash dividends per share 
+
+See accompanying notes to consolidated financial statements. 
+ 
+ 5 
+
+ENNIS, INC. AND SUBSIDIARIES 
+ U NAUDITED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ in thousands 
+
+Three months ended 
+
+Six months ended 
+
+August 31, 
+
+August 31, 
+
+2021 
+
+2020 
+
+2021 
+
+2020 
+
+Net earnings 
+
+Adjustment to pension, net of taxes 
+
+Comprehensive income 
+
+See accompanying notes to consolidated financial statements. 
+ 
+ 6 
+
+ENNIS, INC. AND SUBSIDIARIES 
+ U NAUDITED CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS EQUITY 
+ (in thousands, except share and per share amounts) 
+
+Accumulated 
+
+Additional 
+
+Other 
+
+Common Stock 
+ 
+ Paid-in 
+ 
+ Retained 
+ 
+ Comprehensive 
+ 
+ Treasury Stock 
+
+Shares 
+ 
+ Amount 
+ 
+ Capital 
+ 
+ Earnings 
+ 
+ Income (Loss) 
+ 
+ Shares 
+ 
+ Amount 
+ 
+ Total 
+
+Balance May 31, 2021 
+
+Net earnings 
+
+Adjustment to pension, net of deferred tax of 
+
+Dividends paid per share) 
+
+Stock based compensation 
+
+Exercise of stock options and restricted stock 
+
+Balance August 31, 2021 
+
+Balance February 28, 2021 
+
+Net earnings 
+
+Adjustment to pension, net of deferred tax of 
+
+Dividends paid per share) 
+
+Stock based compensation 
+
+Exercise of stock options and restricted stock 
+
+Balance August 31, 2021 
+
+Balance May 31, 2020 
+
+Net earnings 
+
+Adjustment to pension, net of deferred tax of 
+
+Dividends paid per share) 
+
+Stock based compensation 
+
+Exercise of stock options and restricted stock 
+
+Common stock repurchases 
+
+Balance August 31, 2020 
+
+Balance February 29, 2020 
+
+Net earnings 
+
+Adjustment to pension, net of deferred tax of 
+
+Dividends paid per share) 
+
+Stock based compensation 
+
+Exercise of stock options and restricted stock 
+
+Common stock repurchases 
+
+Balance August 31, 2020 
+
+See accompanying notes to consolidated financial statements. 
+ 
+ 7 
+
+ENNIS, INC. AND SUBSIDIARIES 
+ U NAUDITED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (in thousands) 
+
+Six months ended 
+
+August 31, 
+
+2021 
+
+2020 
+
+Cash flows from operating activities: 
+
+Net earnings 
+
+Adjustments to reconcile net earnings to net cash provided by operating activities: 
+
+Depreciation 
+
+Amortization of intangible assets 
+
+Gain from disposal of assets 
+
+() 
+
+() 
+
+Bad debt expense, net of recoveries 
+
+Stock based compensation 
+
+Net pension expense 
+
+Changes in operating assets and liabilities, net of the effects of acquisitions: 
+
+Accounts receivable 
+
+Prepaid expenses and income taxes 
+
+() 
+
+() 
+
+Inventories 
+
+() 
+
+Other assets 
+
+() 
+
+Accounts payable and accrued expenses 
+
+() 
+
+Other liabilities 
+
+() 
+
+() 
+
+Net cash provided by operating activities 
+
+Cash flows from investing activities: 
+
+Capital expenditures 
+
+() 
+
+() 
+
+Purchase of businesses, net of cash acquired 
+
+() 
+
+Proceeds from disposal of plant and property 
+
+Net cash used in investing activities 
+
+() 
+
+() 
+
+Cash flows from financing activities: 
+
+Dividends paid 
+
+() 
+
+() 
+
+Common stock repurchases 
+
+() 
+
+Net cash used in financing activities 
+
+() 
+
+() 
+
+Net change in cash 
+
+Cash at beginning of period 
+
+Cash at end of period 
+
+See accompanying notes to consolidated financial statements. 
+ 
+ 8 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+
+recognized over time and for which it demonstrates that the invoiced amount corresponds directly with the value to the customer for the performance completed to date. The Company does not disaggregate revenue and operates in one sales category consisting of commercial printed product revenue, which is reported as net sales on the consolidated statements of operations. The Company does not have material contract assets and contract liabilities as of August 31, 2021. Significant Judgments Generally, the Company s contracts with customers are comprised of a written quote and customer purchase order or statement of work, and governed by the Company s trade terms and conditions. In certain instances, it may be further supplemented by separate pricing agreements and customer incentive arrangements, which typically only affect the contract s transaction price. Contracts do not contain a significant financing component as payment terms on invoiced amounts are typically between to , based on the Company s credit assessment of individual customers, as well as industry expectations. Product returns are not significant. From time to time, the Company may offer incentives to its customers considered to be variable consideration including volume-based rebates or early payment discounts. Customer incentives considered to be variable consideration are recorded as a reduction to revenue as part of the transaction price at contract inception when there is a basis to reasonably estimate the amount of the incentive and only to the extent that it is probable that a significant reversal of any incremental revenue will not occur. Customer incentives are allocated entirely to the single performance obligation of transferring printed product to the customer. For customers with terms of FOB shipping point, the Company accounts for shipping and handling activities performed after the control of the printed product has been transferred to the customer as a fulfillment cost. The Company accrues for the costs of shipping and handling activities if revenue is recognized before contractually agreed shipping and handling activities occur. The Company s contracts with customers are generally short-term in nature. Accordingly, the Company does not disclose the value of unsatisfied performance obligations nor the timing of revenue recognition. 
+
+Bad debt expense, net of recoveries 
+
+Accounts written off 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Balance at end of period 
+
+10 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ and of its inventories valued at the lower of last-in first-out LIFO for the periods ended August 31, 2021 and February 28, 2021, respectively, the Company values its inventories at the lower of first-in, first-out FIFO cost or net realizable value. The Company regularly reviews inventories on hand, using specific aging categories, and writes down the carrying value of its inventories for excess and potentially obsolete inventories based on historical usage and estimated future usage. In assessing the ultimate realization of its inventories, the Company is required to make judgments as to future demand requirements. As actual future demand or market conditions may vary from those projected by the Company, adjustments to inventories may be required. 
+
+Work-in-process 
+
+Finished goods 
+
+of the assets acquired and liabilities assumed at their acquisition date fair values. Management utilizes valuation techniques appropriate for the asset or liability being measured in determining these fair values. Any excess of the purchase price over amounts allocated to assets acquired, including identifiable intangible assets and liabilities assumed, is recorded as goodwill. Where amounts allocated to assets acquired and liabilities assumed is greater than the purchase price, a bargain purchase gain is recognized. Acquisition-related costs are expensed as incurred. On December 31, 2020, the Company acquired the assets of Infoseal LLC Infoseal ), which is based in Roanoke, Virginia, for million in cash plus the assumption of trade payables, subject to certain adjustments. Since the acquisition, the Company has incurred approximately million of costs (including legal and accounting fees) related to the acquisition. Goodwill of million recognized as a part of the acquisition is deductible for tax purposes. The Company also recorded intangible assets with definite lives of approximately million in connection with the transaction. The acquisition of Infoseal, which prior to the acquisition generated approximately million in sales for its fiscal year ended December 31, 2020, creates additional capabilities within our pressure seal and tax form products. 
+
+Inventories 
+
+Right-of-use asset 
+
+Property, plant equipment 
+
+Goodwill and intangibles 
+
+Accounts payable and accrued liabilities 
+
+() 
+
+Operating lease liability 
+
+() 
+
+On June 1, 2021, the Company acquired the assets and business from AmeriPrint Corporation AmeriPrint ), which is based in Harvard, Illinois, for million in cash plus the assumption of trade payables, subject to certain adjustments. Goodwill of million recognized as a part of the acquisition is deductible for tax purposes. The Company also recorded intangible assets with definite lives of approximately million in connection with the transaction. The acquisition of AmeriPrint which prior to the acquisition generated approximately million in sales for its fiscal year ended December 31, 2020, brings added capabilities and expertise to our expanding product offering including barcoding and variable imaging. 
+
+Inventories 
+
+Property, plant equipment 
+
+Goodwill and intangibles 
+
+Accounts payable and accrued liabilities 
+
+() 
+
+The results of operations for Infoseal and AmeriPrint are included in the Company s consolidated financial statements from the date of acquisition. 
+
+Pro forma net earnings 
+
+Pro forma earnings per share - diluted 
+
+years, with certain leases including renewal options to the leases for additional periods at the Company s discretion. At lease inception, all renewal options reasonably certain to be exercised are considered when determining the lease term. The Company currently does not have leases that include options to purchase or provisions that would automatically transfer ownership of the leased property to the Company. Operating lease expense is recognized on a straight-line basis over the lease term, and variable lease payments are expensed as incurred. The Company had variable lease costs for the six months ended August 31, 2021 and August 31, 2020. The Company determines whether a contract is or contains a lease at the inception of the contract. A contract will be deemed to be or contain a lease if the contract conveys the right to control and direct the use of identified property, plant, or equipment for a period of time in exchange for consideration. The Company generally must also have the right to obtain substantially all of the economic benefits from the use of the property, plant, and equipment. Operating lease assets and liabilities are recognized at the lease commencement date based on the present value of lease payments over the lease term. To determine the present value of lease payments not yet paid, the Company estimates incremental borrowing rates based on the BBB Corporate Bond Rate at lease commencement date as rates are not implicitly stated in most leases. 
+
+Supplemental cash flow information related to leases was as follows: 
+
+Cash paid for amounts included in the measurement of lease liabilities 
+
+Operating cash flows from operating leases 
+
+Right-of-use assets obtained in exchange for lease obligations 
+
+Operating leases 
+
+Weighted Average Remaining Lease Terms 
+
+Operating leases 
+ 
+ Years 
+
+Weighted Average Discount Rate 
+
+Operating leases 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+2027 
+
+Thereafter 
+
+Total future minimum lease payments 
+
+Less imputed interest 
+
+Present value of lease liabilities 
+
+selection of comparable publicly traded companies, the discount rate applied to future earnings reflecting a weighted average cost of capital, and earnings growth assumptions. A discounted cash flow analysis requires management to make various assumptions about future sales, operating margins, capital expenditures, working capital, and growth rates. If the evaluation results in the fair value of the goodwill for the reporting unit being lower than the carrying value, an impairment charge is recorded. Definite-lived intangible assets are amortized over their estimated useful lives and tested for impairment if events or changes in circumstances indicate that the asset may be impaired. 
+
+Customer lists 
+
+Non-compete 
+
+Patent 
+
+Total 
+
+As of February 28, 2021 
+
+Amortized intangible assets 
+
+Trademarks and trade names 
+
+Customer lists 
+
+Non-compete 
+
+Patent 
+
+Total 
+
+Aggregate amortization expense for the six months ended August 31, 2021 and August 31, 2020 was million and million, respectively. 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+Goodwill acquired 
+
+Balance as of February 28, 2021 
+
+Goodwill acquired 
+
+Balance as of August 31, 2021 
+
+During fiscal year 2021, million was added to goodwill related to the acquisition of Infoseal. 
+
+ 14 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+
+Taxes other than income 
+
+Accrued legal and professional fees 
+
+Accrued interest 
+
+Accrued utilities 
+
+Accrued acquisition related obligations 
+
+Income taxes payable 
+
+Other accrued expenses 
+
+(the Credit Facility ). The Credit Facility provides the Company and its subsidiaries with up to million in revolving credit, as well as a million sublimit for the issuance of letters of credit and a million sublimit for swing-line loans. Under the Credit Facility, the Company or any of its subsidiaries can request up to three increases in the aggregate commitments in an aggregate amount not to exceed million. Under the Credit Facility: :1.00, (ii) the Company s fixed charge coverage ratio may not be less than :1.00, and (iii) the Company may make dividends or distributions to shareholders so long as (A) no event of default has occurred and is continuing and (B) the Company s net leverage ratio both before and after giving effect to any such dividend or distribution is equal to or less than :1.00. All calculations are made based on U.S. Generally Accepted Accounting Principles existing at the time the Credit Facility was entered into. As of August 31, 2021, the Company was in compliance with all terms and conditions of the Credit Facility. The Credit Facility bears interest at to . The Company had no outstanding long-term debt under the revolving credit line as of August 31, 2021. The rate is determined by the Company s fixed charge coverage ratio of total funded debt to earnings before interest, taxes, depreciation and amortization EBITDA ). As of August 31, 2021, the Company had million outstanding under standby letters of credit arrangements, leaving approximately million in available borrowing capacity. The Credit Facility is secured by substantially all of the Company s assets (other than real property), as well as all capital securities of each of the Company s subsidiaries. The Company is considering the nonrenewal of the credit facility or renewing with a smaller line of credit limit 
+
+ million in the aggregate. Under the repurchase program, purchases may be made from time to time in the open market or through privately negotiated transactions depending on market conditions, share price, trading volume and other factors. Such purchases, if any, will be made in accordance with applicable insider trading and other securities laws and regulations. These repurchases may be commenced or suspended at any time or from time to time without prior notice. During the six months ended August 31, 2021, the Company did t repurchase any shares of common stock under the program. Since the program s inception in October 2008, there have been common shares repurchased at an average price of per share. As of August 31, 2021, million remained available to repurchase shares of the Company s common stock under the program. 
+
+ had shares of unissued common stock reserved under the Old Plan for issuance as of May 31, 2021. The Old Plan expired June 30, 2021 and all remaining unused shares expired. Subject to the affirmative vote of the shareholders, the Board adopted the 2021 Long-Term Incentive Plan of Ennis, Inc. (the New Plan on April 16, 2021 authorizing shares of common stock for awards. The New Plan was approved by the shareholders at the Annual Meeting on July 15, 2021 by a majority vote. The New Plan expires June 30, 2031 and all unissued stock will expire on that date. The exercise price of each stock option granted under either plan equals a referenced price of the Company s common stock as reported on the New York Stock Exchange on the date of grant, and an option s maximum term is . Stock options and restricted stock may be granted at different times during the year and vest ratably over various periods, from grant date up to . RSUs can be either time vested or vested based upon the attainment of certain performance metrics over a certain time period. Performance conditions generally are tied to attainment of certain financial targets such as return on invested capital, EBITDA or other similar measures. Awards granted under the Old Plan generally have a performance or vesting period of from the date of grant. RSUs are eligible to receive tandem dividend equivalent rights that will allow the award holder to receive dividends at the same time other shareholders receive dividends. The Company uses treasury stock to satisfy option exercises and restricted stock awards. The Company recognizes compensation expense based on the grant date fair value of the award for stock options, restricted stock grants and RSUs on a straight-line basis over the requisite service period. The estimated number of shares to be achieved for performance based RSUs is updated each reporting period. For the three months ended August 31, 2021 and August 31, 2020, the Company included in selling, general and administrative expenses, compensation expense related to share-based compensation of million and million, respectively. For the six months ended August 31, 2021 and August 31, 2020, the Company included in se lling, general and administrative expenses, compensation expense related to share-based compensation of million and million , respectively. Stock Options The Company had outstanding vested or unvested stock options at any time during the six months ended August 31, 2021 and August 31, 2020. stock options were granted during the six months ended August 31, 2021 and August 31, 2020. Restricted Stock shares were granted under the New Plan: 
+
+Weighted 
+
+Average 
+
+Number of 
+
+Grant Date 
+
+Shares 
+
+Fair Value 
+
+Outstanding at March 1, 2021 
+
+Granted 
+
+Terminated 
+
+Vested 
+ 
+ () 
+
+Outstanding at August 31, 2021 
+
+As of Au gust 31, 2021, the total remaining unrecognized compensation cost related to unvested restricted stock granted under the Old Plan was approximately million. The weighted average remaining requisite service period of the unvested restricted stock awards was years . Restricted Stock Units During the six months ended August 31, 2021, performance-based RSUs and time-based RSUs were granted under the Old Plan. The fair value of the time-based RSUs was estimated based on the fair market value of the Company s stock on the date of grant of per unit. The fair value of the performance-based RSUs, using a Monte Carlo valuation model was per unit. The performance measures include a threshold, target and maximum performance level providing the grantees an opportunity to receive more or less shares than targeted depending on actual financial performance. The award will be based on the Company s return on equity, EBITDA and adjusted for the Company s Relative Shareholder Return as measured against a defined peer group. 
+
+Terminated 
+
+Vested 
+
+Outstanding at August 31, 2021 
+
+As of August 31, 2021, the total remaining unrecognized compensation cost of time-based RSUs was approximatel y million over a weighted average remaining requisite service period of years. The total remaining unrecognized compensation of performance-based RSUs was approximately million over a weighted average remaining requisite service period of years. 
+
+ of the Company s aggregate employees. Benefits are based on years of service and the employee s average compensation for the highest five compensation years preceding retirement or termination. 
+
+Interest cost 
+
+Expected return on plan assets 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Amortization of: 
+
+Unrecognized net loss 
+
+Net periodic benefit cost 
+
+The Company is required to make contributions to the Pension Plan. These contributions are required under the minimum funding requirements of the Employee Retirement Income Security Act of 1974 ERISA ). Due to the enactment of the Highway and Transportation Funding Act (HATFA) in August 2014, plan sponsors can calculate the discount rate used to measure the Pension Plan liability using a -year average of interest rates plus or minus a corridor. The Company s minimum required contribution to the Pension Plan is for the Pension Plan year ending February 28, 2022. Assuming a stable funding status, the Company would expect to make a cash contribution to the Pension Plan of between million and million per year. However, changes in actual investment returns or in discount rates could change this amount significantly. At August 31, 2021, we had an unfunded pension liability recorded on our balance sheet of million. Management estimates the future lump-sum payments will exceed the settlement threshold resulting in a probable pension settlement charge of approximately million. The settlement charges are non-cash charges that accelerate the recognition of unrecognized pension benefit costs, that would have been incurred in subsequent periods, when lump sum payments exceed a threshold of service and interest cost for the period. 
+
+ 17 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+
+Effect of dilutive RSUs 
+
+Diluted weighted average common shares outstanding 
+
+Earnings per share 
+
+Net earnings - basic 
+
+Net earnings - diluted 
+
+Cash dividends 
+
+The Company treats unvested share-based payment awards that contain non-forfeitable rights to dividends or dividend equivalents (whether paid or unpaid) as participating securities, which are included in the computation of earnings per share. Our unvested restricted shares participate on an equal basis with common shares; therefore, there is difference in undistributed earnings allocated to each participating security. Accordingly, the presentation above is prepared on a combined basis. options were outstanding for the six months ended August 31, 2021 and August 31, 2020. 
+
+. At August 31, 2021, cash balances included million that was not federally insured because it represented amounts in individual accounts above the federally insured limit for each such account. This at-risk amount is subject to fluctuation on a daily basis. While management does not believe there is significant risk with respect to such deposits, no assurance can be made that the Company will not experience losses on the Company s deposits. 
+
+ million and million, respectively. During the six months ended August 31, 2021, total lease payments made to, and sales made to, the related party were approximately million and million, respectively. 
+
+ levels. Due to reduced demand for our products during the pandemic, particularly in our transactional forms, the Company has reduced its workforce by employees, ceased operating in of its owned under-utilized facilities and exited facilities with expiring leases. While economic activity has picked up significantly, the Company will continue to monitor projected sales and proactively adjust costs as necessary depending on the impact of surges in the Delta variant to the COVID-19 pandemic. The Company believes the cost cutting measures it has previously implemented will not materially impact its ability to service the increased customer demand as economic conditions continue to improve. As a recent indicator, according to the Bureau of Labor Statistics BLS total nonfarm payroll employment rose by 235,000 in August, and the unemployment rate declined by percentage point to percent. So far this year, monthly job growth has averaged 586,000. In August, notable job gains occurred in professional and business services, transportation and warehousing, private education, manufacturing, and other services. Employment in retail trade declined over the month. 
+
+the Board declared a quarterly dividend on the Company's common stock of 25.0 cents per share, which will be paid on to shareholders of record as of . The expected payout for this dividend is approximately million. 
+ 19 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ Item 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ Cautionary Note Regarding Forward-Looking Statements 
+ 
+ The following Management s Discussion and Analysis of Financial Condition and Results of Operations should be read together with the unaudited consolidated financial statements and related notes of Ennis, Inc. (collectively with its subsidiaries, the Company , Registrant , Ennis , or we , us , or our ), included in Part 1, Item 1 of this report, and with the audited consolidated financial statements and the related notes of the Company included in our Annual Report on Form 10-K for the fiscal year ended February 28, 2021. 
+ 
+ All of the statements in this report, other than historical facts, are forward-looking statements, including, without limitation, the statements made in this Management s Discussion and Analysis of Financial Condition and Results of Operations. As a general matter, forward-looking statements are those focused upon anticipated events or trends, expectations, and beliefs relating to matters that are not historical in nature. The words could, should, feel, anticipate, aim, preliminary, expect, believe, estimate, intend, intent, plan, will, foresee, project, forecast, or the negative thereof or variations thereon, and similar expressions identify forward-looking statements. 
+ 
+ The Private Securities Litigation Reform Act of 1995 provides a safe harbor for these forward-looking statements. In order to comply with the terms of the safe harbor, the Company notes that forward-looking statements are subject to known and unknown risks, uncertainties and other factors relating to its operations and business environment, all of which are difficult to predict and many of which are beyond the control of the Company. These known and unknown risks, uncertainties and other factors could cause actual results to differ materially from those matters expressed in, anticipated by or implied by such forward-looking statements. 
+ 
+ These statements reflect the current views and assumptions of management with respect to future events. The Company does not undertake, and hereby disclaims, any duty to update these forward-looking statements, even though its situation and circumstances may change in the future. Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date of this report. The inclusion of any statement in this report does not constitute an admission by the Company or any other person that the events or circumstances described in such statement are material. 
+ 
+ We believe these forward-looking statements are based upon reasonable assumptions. All such statements involve risks and uncertainties, and as a result, actual results could differ materially from those projected, anticipated or implied by these statements. Such forward-looking statements involve known and unknown risks, including but not limited to: general economic, business and labor conditions and the potential impact on our operations; our ability to implement our strategic initiatives and control our operational costs; dependence on a limited number of key suppliers; our ability to recover the rising cost of raw materials and other costs (i.e., energy, freight, labor, benefit costs, etc.) in markets that are highly price competitive and volatile; uninsured losses, including those from natural disasters, catastrophes, pandemics, theft or sabotage; the impact of the novel coronavirus (COVID-19) pandemic or future pandemics on the U.S. and local economies, our business operations, our workforce, our supply chain and our customer base; our ability to timely or adequately respond to technological changes in the industry; the impact of the Internet and other electronic media on the demand for forms and printed materials; the impact of foreign competition, tariffs, trade regulations and import restrictions; customer credit risk; competitors pricing strategies; a decline in business volume and profitability could result in an impairment in our reported goodwill negatively impacting our operational results; our ability to retain key management personnel; our ability to identify, manage or integrate acquisitions; and changes in government regulations including measures intended to minimize the impact of COVID-19. In addition to the factors indicated above, you should carefully consider the risks described in and incorporated by reference herein and in the risk factors in our Annual Report on Form 10-K for the fiscal year ended February 28, 2021 before making an investment in our common stock. 
+ Overview 
+ Ennis, Inc. (formerly Ennis Business Forms, Inc.) (collectively with its subsidiaries, the Company, Registrant, Ennis, or we, us, or our was organized under the laws of Texas in 1909. We and our subsidiaries print and manufacture a broad line of business forms and other business products. We distribute business products and forms throughout the United States primarily through independent distributors. This distributor channel encompasses independent print distributors, commercial printers, direct mail, fulfillment companies, payroll and accounts payable software companies, and advertising agencies, among others. We also sell products to our competitors, from time to time, to satisfy their customers needs. 
+ For a discussion regarding the impact of the ongoing novel coronavirus (COVID-19) pandemic on our business, please see Business Challenges COVID-19 Pandemi c and Results of Operations, below. 
+ 20 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ Business Overview 
+ Our management believes we are the largest provider of business forms, pressure-seal forms, labels, tags, envelopes, and presentation folders to independent distributors in the United States. 
+ We are in the business of manufacturing, designing, and selling business forms and other printed business products primarily to distributors located in the United States. We operate 57 manufacturing plants throughout the United States in 20 strategically located states as one reportable segment. Approximately 92 of the business products we manufacture are custom and semi-custom products, constructed in a wide variety of sizes, colors, number of parts, and quantities on an individual job basis, depending upon the customers specifications. 
+ The products we sell include snap sets, continuous forms, laser cut sheets, tags, labels, envelopes, integrated products, jumbo rolls and pressure sensitive products in short, medium and long runs under the following labels: Ennis , Royal Business Forms , Block Graphics , Specialized Printed Forms , 360 Custom Labels SM , ColorWorx , Enfusion , Uncompromised Check Solutions , VersaSeal , Ad Concepts SM , FormSource Limited SM , Star Award Ribbon Company , Witt Printing , B D Litho , Genforms , PrintGraphics , Calibrated Forms , PrintXcel , Printegra , Falcon Business Forms SM , Forms Manufacturers SM , Mutual Graphics , TRI-C Business Forms SM , Major Business Systems SM , Independent Printing SM , Hoosier Data Forms , Hayes Graphics , Wright Business Graphics SM , Wright 360 SM , Integrated Print Graphics SM , the Flesh Company SM , Impressions Direct SM , Ace Forms SM , and AmeriPrint SM . We also sell the Adams McClure brand (which provides Point of Purchase advertising for large franchise and fast food chains as well as kitting and fulfillment); the Admore , Folder Express , and Independent Folders brands (which provide presentation folders and document folders); Ennis Tag Label SM (which provides custom printed, high performance labels and custom and stock tags); Allen-Bailey Tag Label SM , Atlas Tag Label , Kay Toledo Tag , and Special Service Partners (SSP) (which provides custom and stock tags and labels); Trade Envelopes , Block Graphics , Wisco , and National Imprint Corporation (which provide custom and imprinted envelopes) and Northstar and General Financial Supply (which provide financial and security documents); Infoseal SM and PrintXcel (which provide custom and stock pressure seal documents). We sell predominantly through independent distributors, as well as to many of our competitors. Northstar Computer Forms, Inc., one of our wholly-owned subsidiaries, also sells direct to a small number of customers, generally large banking organizations (where a distributor is not acceptable or available to the end-user). Adams McClure, LP, a wholly-owned subsidiary, also sells direct to a small number of customers, where sales are generally through advertising agencies. 
+ The printing industry generally sells its products either predominantly to end users, a market dominated by a few large manufacturers, such as R.R. Donnelley and Sons, Staples, Inc., Standard Register Co. (a subsidiary of Taylor Corporation), and Cenveo, Inc., or, like the Company, through a variety of independent distributors and distributor groups. While it is not possible, because of the lack of adequate public statistical information, to determine the Company s share of the total business products market, management believes the Company is the largest producer of business forms, pressure-seal forms, labels, tags, envelopes, and presentation folders in the United States distributing primarily through independent distributors. 
+ There are a number of competitors that operate in this segment, ranging in size from single employee-owned operations to multi-plant organizations. We believe our strategic locations and buying power permit us to compete on a favorable basis within the distributor market on competitive factors, such as service, quality, and price. 
+ Distribution of business forms and other business products throughout the United States is primarily done through independent distributors, including business forms distributors, resellers, direct mail, commercial printers, payroll and accounts payable software companies, and advertising agencies. 
+ Raw materials principally consist of a wide variety of weights, widths, colors, sizes, and qualities of paper for business products purchased primarily from one major supplier at favorable prices based on the volume of business. 
+ Business products usage in the printing industry is generally not seasonal. General economic conditions and contraction of the traditional business forms industry are the predominant factors in quarterly volume fluctuations. 
+ 
+ Recent Acquisitions 
+ We have completed a number of acquisitions in recent years. In the prior year on December 31, 2020, we acquired the assets of Infoseal LLC Infoseal in Roanoke, Virginia. The acquisition of Infoseal, which prior to the acquisition generated approximately 19.2 million in sales for its fiscal year ended December 31, 2020, creates additional capabilities and expertise to our product offering including our existing VersaSeal pressure seal product line. 
+ 21 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ On June 1, 2021, we acquired the assets and business of AmeriPrint in Harvard, Illinois. The acquisition of Ameriprint, which prior to the acquisition generated approximately 6.5 million in sales for its fiscal year ended December 31, 2020, brings added capabilities and expertise to our expanding product offering including barcoding and variable imaging. 
+ Our Business Challenges 
+ Our industry is currently experiencing consolidation of traditional supply channels, product obsolescence, paper supplier capacity adjustments, and increased pricing and potential supply allocations due to demand/supply curve imbalance. Technology advances have made electronic distribution of documents, internet hosting, digital printing and print-on-demand valid, cost-effective alternatives to traditional custom-printed documents and customer communications. Improved equipment has become more accessible to our competitors due to the continued low interest rate environment. We face highly competitive conditions throughout our supply chain in an already over-supplied, price-competitive print industry. The challenges of our business include the following: 
+ COVID-19 Pandemic The global spread of the novel strain of COVID-19 has significantly impacted health and economic conditions throughout the United States and the world, including the markets in which we operate. The U.S. economy continues to be significantly impacted by the COVID-19 pandemic and parts of the economy have started to re-open as vaccinations become more prevalent, but remain subject to ongoing surges and local shutdowns, creating a very fluid economic environment. Current governmental statistics have indicated an increase in economic activity that had previously been curtailed due to the COVID-19 pandemic and efforts to contain it. These statistics provide evidence that various sectors continue to improve, while others have not, which we believe was reflected in our sequential sales increase and improvements in our gross profit margin and operational margin during the first quarter. While the impacts of the pandemic have been significant, our results of operations were within our forecasted parameters for the period ended August 31, 2021. 
+ The following is a summary of our recent and anticipated actions in response to COVID-19 and its impact on our business. 
+ Cash/Liquidity: 
+
+We believe our strong liquidity position will help us mitigate the ongoing adverse impacts of COVID-19. On August 31, 2021, we had 82.1 million in cash, in addition to 99.4 million available under our credit facility, if needed. During the period, our cash position increased by 6.9 million and our working capital position increased by 8.4 million from February 28, 2021. In addition, our liquidity and debt ratios have remained stable throughout the pandemic with our current ratio (calculated by dividing our current assets by our current liabilities) of 4.0 at August 31, 2021 and 4.20 at February 28, 2021, and our quick ratio (calculated by dividing our current assets less inventories by our current liabilities) of 3.01 at August 31, 2021 and 3.29 at February 28, 2021. Our net debt to equity ratio (after application of cash) -.05 at August 31, 2021 and -.04 at February 28, 2021. 
+ 
+ Receivable and Inventory Management : 
+
+We continue to closely monitor and manage our outstanding trade receivables and inventories. During the current quarter, our days sales in our receivables decreased from 39 days to 35 days, while our days sales of inventory increased from 34 to 37 days. The Company continues to monitor incoming orders and is adjusting its raw material purchases accordingly. 
+ 
+ Supply Chain: 
+
+To date, COVID-19 has not materially impacted, nor do we currently expect it to materially impact, the supply chain for the products we sell. Most of our products are sourced domestically from suppliers deemed essential by the government, and therefore currently remain in operation. However, if one or more of our major suppliers are negatively impacted by the COVID-19 pandemic, through plant closures, deteriorating financial condition, or otherwise, it could adversely affect our operational results and financial condition. 
+ 
+ Cost Savings: 
+
+COVID-19 has severely impacted global economic activity, including the printing industry in the United States. In response to the sales impact of the COVID-19 pandemic, we made modifications to our cost structure by reducing employee cost, ceasing operations at an under-utilized facility, as well as exiting two facilities with expiring leases and moving production to our other facilities. We are in the process of consolidating three underperforming manufacturing facilities into existing 
+ 22 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ locations with excess capacity to reduce future costs and improve our operational efficiency. We will continue to monitor incoming order volume so that we can proactively adjust our costs accordingly. We believe the modifications to our cost structure in response to the sales impact of the COVID-19 pandemic will not materially impact our ability to service increased customer demand as economic conditions improve. During the six months ended August 31, 2021, our gross profit margin improved to 29.4 from the prior year s period of 27.9 and our operating margin improved to 10.8 from the prior year s period of 8.4 . 
+ 
+ Capital Expenditures: 
+
+We continue to make capital expenditures for operational maintenance purposes, as may be required. Additionally, we will carefully review and make new capital expenditures for equipment to the extent such expenditures make economic sense by improving our operations and not jeopardizing our strong liquidity position. 
+ 
+ There continue to be many uncertainties regarding the impact of the COVID-19 pandemic, including the scope of scientific and health issues. We continue to closely monitor the impact of the COVID-19 pandemic, including emerging variants, on all aspects of our business, including how it is affecting our employees, customers, supply chain and distribution network. The overall magnitude of the impact of the pandemic on our operating and financial results remains uncertain and will largely depend on the duration of the pandemic and the measures implemented in response, as well as the effect on our customers and suppliers. Given these factors, we are unable to reliably forecast the ultimate impact of COVID-19 on our business, including due to factors discussed under the caption Risk Factors in Item 1A of our Annual Report on Form 10-K for the fiscal year ended February 28, 2021. For further information, please see Cautionary Note Regarding Forward Looking Statements, above and Risk Factors contained within our Annual Report on Form 10-K for the fiscal year ended February 28, 2021. 
+ Transformation of our portfolio of products While traditional business documents are essential in order to conduct business, many are being replaced through the use of cheaper paper grades or imported paper, or devalued with advances in digital technologies, causing steady declines in demand for a portion of our current product line. In addition, the impact of COVID-19 on the speed of this transformation is unknown, but it is expected to accelerate the decline for some of our products. Transforming our product offerings in order to continue to provide innovative, valuable solutions through lower labor and fixed charges to our customers on a proactive basis will require us to make investments in new and existing technology and to develop key strategic business relationships, such as print-on-demand services and product offerings that assist customers in their transition to digital business environments. In addition, we will continue to look for new market opportunities and niches through acquisitions, such as the addition of our envelope offerings, tag offerings, folder offerings, healthcare wristbands, specialty packaging, direct mail, pressure seal products, secure document solutions, innovative in-mold label offerings and long-run integrated products with high color web printing, which provide us with an opportunity for growth and differentiate us from our competition. The ability to make investments in new and existing technology and/or to acquire new market opportunities through acquisitions is dependent on the Company s liquidity and operational results. While currently the pandemic has not materially impacted our liquidity and it is not currently expected to, a protracted delay in the economy recovering could have a negative impact on our continued ability to make the aforementioned investments or to consummate acquisitions. 
+ Production capacity and price competition within our industry Changes in the value of the U.S. dollar can have an impact on the pricing and supply of paper. The weakening of the U.S. dollar will usually result in the dissipation of any pricing advantage that foreign imports have over domestic suppliers, which typically results in lower levels of imported papers and an increase in domestic exports. With increased pricing power, domestic paper producers can better control the supply of paper by eliminating capacity or changing the products produced on their large paper machines. The strengthening of the U.S. dollar usually has the opposite effect: more cheap imported paper; less domestic exports; and lower pricing power in the hands of domestic paper producers. Domestic paper suppliers typically seek to balance supply and demand, including by (if possible) taking capacity out of the market, whether by taking production off-line or switching production to alternative paper products. Generally, if mills are running at high capacity, suppliers are able to raise prices. 
+ Paper production declined last year due to the pandemic and, as the economy improved, increased demand initially was satisfied with existing inventory at the paper mills. While paper mills now are operating at a very high capacity, they are basically producing to fill orders rather than stock inventory, which is contributing to the tight market in some grades of paper. Paper prices have also increased due to global logistics issues that have delayed and reduced imports that have typically filled gaps in domestic supply. While the availability of paper in the North American market is very low, our strong vendor relationship with our paper supplier allows us to meet customer demand for their business product needs. We have been adjusting our pricing to cover paper inflation during the year, but the impact of inflation with most of our other vendors, as well as the labor market, has had a slight impact on gross profit margin. We 
+ 23 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ anticipate additional pricing adjustments to cover all aspects of our supply chain and our labor force to maintain our gross profit margins at their historical levels. As such, pricing during the second half of fiscal 2022 is currently expected to increase. 
+ As the economy has improved, demand has increased in 2021 for coated and uncoated freesheet papers which has reduced the excess inventory in the market along with the reduction in supply from the closing of several paper mills. Regardless of these factors, many of which are cyclical, we continue to believe paper pricing will remain in a range which will not unfavorably impact our margins over the long term. Additionally, the possibility of paper shortages in the market is not a major concern due to our primary material supplier s commitment to the Company. Consistent with our historical practice, we intend to continue to focus on effectively managing and controlling our product costs through the use of forecasting, production and costing models, as well as working closely with our domestic suppliers to manage our procurement and logistics costs, in order to minimize effects on our operational results. In addition, we will continue to look for ways to reduce and leverage our fixed costs as we consolidate plants where leases expire and sell unused real estate where we have the opportunity to relocate the business to another facility. 
+ Continued consolidation of our customers Our customers are distributors, many of which are consolidating or are being acquired by competitors. We continue to maintain a majority of the business we have had with our customers historically, but it is possible that these consolidations and acquisitions, which we expect to continue in the future, ultimately will impact our margins and sales. 
+ Critical Accounting Policies and Estimates 
+ In preparing our consolidated financial statements, we are required to make estimates and assumptions that affect the disclosures and reported amounts of assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. We evaluate our estimates and judgments on an ongoing basis, including those related to allowance for doubtful receivables, inventory valuations, property, plant and equipment, intangible assets, pension plan obligations, accrued liabilities and income taxes. We base our estimates and judgments on historical experience and on various other factors that we believe to be reasonable under the circumstances. Actual results may differ materially from these estimates under different assumptions or conditions. We believe our accounting policies related to the aforementioned items are the most critical due to their effect on our more significant estimates and judgments used in preparation of our consolidated financial statements. For additional information, reference is made to the Critical Accounting Policies and Estimates section of our Annual Report on Form 10-K for the fiscal year ended February 28, 2021. 
+ Results of Operations 
+ The discussion that follows provides information which we believe is relevant to an understanding of our results of operations and financial condition. The discussion and analysis should be read in conjunction with the accompanying consolidated financial statements and notes thereto, which are incorporated herein by reference. The operating results of the Company for the three and six months ended August 31, 2021 and the comparative period for 2020 are set forth in the unaudited consolidated financial information included in the tables below. 
+ Consolidated Summary 
+
+Unaudited Consolidated Statements of 
+ 
+ Three Months Ended August 31, 
+
+Six Months Ended August 31, 
+
+Operations - Data in thousands 
+ 
+ 2021 
+
+2020 
+
+2021 
+
+2020 
+
+Net sales 
+
+100,451 
+
+100.0 
+
+86,612 
+
+100.0 
+
+197,381 
+
+100.0 
+
+175,608 
+
+100.0 
+
+Cost of goods sold 
+
+71,550 
+
+71.2 
+
+61,457 
+
+71.0 
+
+139,294 
+
+70.6 
+
+126,546 
+
+72.1 
+
+Gross profit margin 
+
+28,901 
+
+28.8 
+
+25,155 
+
+29.0 
+
+58,087 
+
+29.4 
+
+49,062 
+
+27.9 
+
+Selling, general and administrative 
+
+18,095 
+
+18.0 
+
+16,535 
+
+19.1 
+
+37,010 
+
+18.8 
+
+34,658 
+
+19.7 
+
+(Gain) loss from disposal of assets 
+
+1 
+
+(300) 
+
+(0.4) 
+
+(276) 
+
+(0.1) 
+
+(412) 
+
+(0.2) 
+
+Income from operations 
+
+10,805 
+
+10.8 
+
+8,920 
+
+10.3 
+
+21,353 
+
+10.8 
+
+14,816 
+
+8.4 
+
+Other income (expense) 
+
+(148) 
+
+(0.1) 
+
+(243) 
+
+(0.3) 
+
+(262) 
+
+(0.1) 
+
+(484) 
+
+(0.3) 
+
+Earnings before income taxes 
+
+10,657 
+
+10.6 
+
+8,677 
+
+10.0 
+
+21,091 
+
+10.7 
+
+14,332 
+
+8.1 
+
+Provision for income taxes 
+
+3,197 
+
+3.2 
+
+2,256 
+
+2.6 
+
+6,327 
+
+3.2 
+
+3,726 
+
+2.1 
+
+Net earnings 
+
+7,460 
+
+7.4 
+
+6,421 
+
+7.4 
+
+14,764 
+
+7.5 
+
+10,606 
+
+6.0 
+
+24 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ Three months ended August 31, 2021 compared to three months ended August 31, 2020 
+ Net Sales. Our net sales were 100.5 million for the quarter ended August 31, 2021, compared to 86.6 million for the same quarter in the prior year, an increase of 13.9 million, or 16.0 . Our net sales increased on a sequential quarter basis as well, 3.5 million or 3.6 from 96.9 million for the quarter ended May 31, 2021 to 100.5 million for the current quarter. While our revenues continue to be impacted by the COVID-19 pandemic, some of our customers are seeing sales return to normalized levels. Infoseal, our acquisition in January of last fiscal year and AmeriPrint, our acquisition from June 1, 2021, added 6.7 million in sales for the current quarter. 
+ Cost of Goods Sold and Gross Profit Margin. Our cost of goods sold increased 10.1 million, or 16.4 , from 61.5 million for the three months ended August 31, 2020 to 71.6 million for the three months ended August 31, 2021. Our gross profit margin was 28.9 million for the quarter ended August 31, 2021 compared to 25.2 million for the same quarter in the prior year. Our second quarter gross profit margin percentage slightly decreased from 29.0 in 2020 to 28.8 in 2021 due primarily to higher inflationary factors. 
+ Selling, general, and administrative expense. For the three months ended August 31, 2021, our selling, general, and administrative SG A expenses were 18.1 million compared to 16.5 million for the three months ended August 31, 2020, an increase of 1.6 million, or 9.4 . As a percentage of net sales, SG A expenses for the current quarter were 18.0 and 19.1 for the three months ended August 31, 2021 and August 31, 2020, respectively. Our acquisition of Infoseal and AmeriPrint impacted our SG A expenses by approximately 0.7 million. As part of our on-going corporate strategy, we continue to look for ways to reduce and more fully leverage our SG A expenses. 
+ Gain from disposal of assets. The 0.3 million net gain from disposal of assets during the prior year quarter is primarily attributed to the sale of underutilized land and buildings. Remaining product from these facilities was transitioned to another Company facility. 
+ Income from operations. Primarily due to factors described above, our income from operations for the three months ended August 31, 2021 was 10.8 million, or 10.8 of net sales, as compared to 8.9 million, or 10.3 of net sales, for the three months ended August 31, 2020 and increased on a sequential quarter basis as well from 10.5 million for the quarter ended May 31, 2021. 
+ Other expense. Other expense was 0.1 million for the three months ended August 31, 2021 compared to expense of 0.2 million for the three months ended August 31, 2020. This decrease was primarily due to a decrease in our pension expense of 0.1 million over the comparable quarter. 
+ Provision for income taxes. Our effective tax rate was 30.0 for the three months ended August 31, 2021 as compared to 26.0 for the three months ended August 31, 2020. The primary reason for the increase in the effective tax rate is permanent non-deductible expense resulting from probable distributions this year from our deferred compensation plan which was terminated last fiscal year. 
+ Net earnings. Net earnings, due to the factors above, were 7.5 million for the three months ended August 31, 2021 as compared to 6.4 million for the comparable quarter in the prior year, an increase of 1.0 million. Net earnings per diluted share for the three months ended August 31, 2021 was 0.29, compared to 0.25 for the same quarter in the prior year. Our acquisition of Infoseal and AmeriPrint added 0.02 to our diluted earnings per share. 
+ 25 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ Six months ended August 31, 2021 compared to six months ended August 31, 2020 
+ Net Sales. Our net sales were 197.4 million for the six-month period ended August 31, 2021, compared to 175.6 million for same period last year, or an increase of 12.4 . While our revenues continue to be impacted by the COVID-19 pandemic, some of our customers are seeing sales return to normalized levels. Infoseal, our acquisition in January of last fiscal year and AmeriPrint our acquisition in June 1, 2021, added 11.9 million in sales during the six months ended August 31, 2021. 
+ Cost of Goods Sold and Gross Profit Margin. Our cost of goods sold was 139.3 million for the six months ended August 31, 2021, compared to 126.5 million for the same period last year, a increase of 12.8 million, or 10.1 . Our margin was 58.1 million for the six-month period ended August 31, 2021, or 29.4 . In response to the sales impact of the COVID-19 pandemic, we made modifications to our cost structure by reducing employee cost, ceasing operations at an under-utilized facility, as well as exiting two facilities with expiring leases and moving production to our other facilities. These modifications to our cost structure resulted in improvements to our gross profit margin from 27.9 for the same six-month period last year. 
+ Selling, general, and administrative expense. Our SG A expenses were 37.0 million for the six months ended August 31, 2021, compared to 34.7 million for the same period last year, or an increase of 6.8 . As a percentage of sales, the SG A expenses were 18.8 and 19.7 for the six months ended August 31, 2021 and August 31, 2020, respectively. As part of our ongoing corporate strategy, we continue to look for ways to reduce and more fully leverage our SG A expenses. During the period, the Board approved a change to our Long-Term Incentive Equity Awards program to a three-year performance period from a one-year performance period. A bridge award of restricted stock was granted during the transition and resulted in the recognition of an additional 0.8 million in restricted stock expense. Our acquisition of Infoseal and AmeriPrint impacted our SG A expenses by approximately 1.3 million. 
+ Gain from disposal of assets. The 0.3 million net gain from disposal of assets during the six months ended August 31, 2021 is primarily attributed to the sale of a previously held-for-sale facility that had transferred its operations to another facility. The 0.4 million net gain from disposal of assets during the six months ended August 31, 2020 is primarily attributed to the sale of manufacturing underutilized equipment, land and buildings. 
+ Income from operations. Our income from continuing operations for the six months ended August 31, 2021 was 21.4 million, or 10.8 of sales, as compared to 14.8 million, or 8.4 of sales, for the six months ended August 31, 2020. 
+ Other expense. Other expense for the six months ended August 31, 2021 was 0.3 million as compared to 0.5 million expense for the six months ended August 31, 2020. This decrease was primarily due to the decrease in pension expense for the current fiscal year. 
+ Provision for income taxes. Our effective tax rate was 30.0 for the six months ended August 31, 2021 as compared to 26.0 for the six months ended August 31, 2020. The primary reason for the increase in the effective tax rate is permanent non-deductible expense resulting from probable distributions this year from our deferred compensation plan which was terminated last fiscal year. 
+ Net earnings. Net earnings were 14.8 million for the six months ended August 31, 2021 as compared to 10.6 million for the comparable period last year, an increase of 4.2 million. Net earnings per diluted share for the six months ended August 31, 2021 was 0.57, compared to 0.41 for the same six-month period last year. Our acquisition of Infoseal and AmeriPrint added 0.04 to our diluted earnings per share. 
+ Liquidity and Capital Resources 
+ We rely on our cash flows generated from operations and the borrowing capacity under our credit facility extended pursuant to our Second Amended and Restated Credit Agreement, as amended from time to time (the Credit Facility ), to meet cash requirements of our business. The primary cash requirements of our business are payments to vendors in the normal course of business, capital expenditures, debt repayments and related interest payments, contributions to our noncontributory defined benefit retirement plan, which covers approximately 12 of our aggregate employees (the Pension Plan ), and the payment of dividends to our shareholders. We expect to generate sufficient cash flows from operations, supplemented by our Credit Facility as necessary, to cover our operating and capital requirements for the foreseeable future. 
+
+August 31, 
+
+February 28, 
+
+(Dollars in thousands) 
+ 
+ 2021 
+
+2021 
+
+Working capital 
+
+121,426 
+
+113,022 
+
+Cash 
+
+82,101 
+
+75,190 
+
+26 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+
+Working Capital. Our working capital increased 8.4 million or 7.4 , from 113.0 million at February 28, 2021 to 121.4 million at August 31, 2021. Our current ratio, calculated by dividing our current assets by our current liabilities, decreased from 4.2 to 1.0 at February 28, 2021 to 4.0 to 1.0 at August 31, 2021. The increase in working capital primarily reflects the increase in cash and inventory partially offset by the increase in our accounts payable. 
+
+Six months ended August 31, 
+
+(Dollars in thousands) 
+ 
+ 2021 
+
+2020 
+
+Net cash provided by operating activities 
+
+24,507 
+
+28,154 
+
+Net cash used in investing activities 
+
+(5,205) 
+
+(353) 
+
+Net cash used in financing activities 
+
+(12,391) 
+
+(12,153) 
+
+Cash flows from operating activities. Cash provided by operating activities decreased from 28.2 million for the six months ended August 31, 2020 to 24.5 million for the six months ended August 31, 2021. Our decreased operational cash flows in comparison to the comparable period in the prior year was primarily the result of a 8.5 million increase in our accounts receivable and a 7.5 million increase in our inventories. These increases were offset by a 4.2 million increase in our operational earnings, in addition to a 7.2 million increase in our accounts payable and accrued expenses. 
+ 
+ Cash flows from investing activities. Cash used in investing activities increased from 0.4 million cash used to 5.2 million used for the six months ended August 31, 2020 and August 31, 2021, respectively. This was primarily due to the 3.9 million cost to acquire businesses and additional capital expenditures during the six months ended August 31, 2021 as compared to the six months ended August 31, 2020. 
+ 
+ Cash flows from financing activities. We used 0.2 million less cash from financing activities during the six months ended August 31, 2021 compared to the same period in the prior year. The decrease in cash used during the six months ended August 31, 2021 compared to the six months ended August 31, 2020 resulted from no common stock being repurchased under our stock repurchase program in the current period compared to 0.4 million to repurchase our common stock during the six months ended August 31, 2020. 
+ 
+ Credit Facility. The Company s Credit Facility, pursuant to which a credit facility has been extended to the Company until November 11, 2021, provides the Company and its subsidiaries with up to 100.0 million in revolving credit, as well as a 20.0 million sublimit for the issuance of letters of credit and a 15.0 million sublimit for swing-line loans. Under the Credit Facility, the Company or any of its subsidiaries can request up to three increases in the aggregate commitments in an aggregate amount not to exceed 50.0 million. The terms and conditions of the Credit Facility impose certain restrictions on our ability to incur additional debt, make capital expenditures, acquisitions and asset dispositions, as well as impose other customary covenants, such as requiring that our fixed charge coverage ratio not be less than 1.25:1.00 and our total leverage ratio not exceed 3.00:1.00. The Company may make dividends or distributions to shareholders so long as (i) no event of default has occurred and is continuing and (ii) the Company s net leverage ratio both before and after giving effect to any such dividend or distribution is equal to or less than 2.50:1.00. All calculations are made based on U.S. Generally Accepted Accounting Principles existing at the time the Credit Facility was entered into. As of August 31, 2021, the Company was in compliance with all terms and conditions of the Credit Facility. 
+ 
+ The Credit Facility bears interest at the LIBOR rate plus a spread ranging from 1.85 to 2.5 . The rate is determined by our fixed charge coverage ratio of total funded debt to earnings before interest, taxes, depreciation and amortization EBITDA ). As of August 31, 2021, the Company had no outstanding debt, and the Company had 0.6 million outstanding under standby letters of credit arrangements, leaving approximately 99.4 million available in borrowing capacity under the Credit Facility. The Credit Facility is secured by substantially all of our assets (other than real property), as well as all capital securities of each of our subsidiaries. 
+ 
+ It is anticipated that our cash and funds from operating cash flows will be sufficient to fund anticipated future expenditures. We are considering the nonrenewal of the facility or renewing with a smaller line of credit limit during the third quarter. 
+ 27 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ Pension Plan We are required to make contributions to our Pension Plan. These contributions are required under the minimum funding requirements of the Employee Retirement Income Security Act of 1974 ERISA ). Due to the enactment of the Highway and Transportation Funding Act (HATFA) in August 2014, which effectively raises the discount rates mandated for determining the value of a plan s benefit liability and annual cost of accruals, our minimum required contribution to the Pension Plan is zero for the Pension Plan year ending February 28, 2022. Assuming a stable funding status, we would expect that our future contributions to be between 1.0 million and 3.0 million per year. However, changes in actual investment returns or in discount rates could change this amount significantly. There was no contribution required or made to our Pension Plan in fiscal year 2021. As our Pension Plan assets are invested in marketable securities, fluctuations in market values could potentially impact our funding status, associated liabilities recorded and future required minimum contributions. At August 31, 2021, we had an unfunded pension liability recorded on our balance sheet of 6.3 million. 
+ Inventories We believe our inventory levels are sufficient to satisfy our customer demands and we anticipate having adequate sources of raw materials to meet future business requirements. We have long-term contracts in effect with paper suppliers that govern prices, but do not require minimum purchase commitments. Certain of our rebate programs do, however, require minimum purchase volumes. Management anticipates meeting the required volumes or to be able to get the required volumes temporarily waived given the COVID-19 pandemic. 
+ Capital Expenditures We expect our capital requirements for our current fiscal year, exclusive of capital required for possible acquisitions, will be within our historical levels of between 3.0 million and 5.0 million. For the quarter, we have spent approximately 2.1 million on capital expenditures. We expect to fund these expenditures through existing cash flows. 
+ Contractual Obligations There have been no significant changes in our contractual obligations since February 28, 2021 that have, or are reasonably likely to have, a material impact on our results of operations or financial condition. 
+ Item 3. QUANTITATIVE AND QUALITA TIVE DISCLOSURES ABOUT MARKET RISK 
+ Market Risk 
+ Interest Rates 
+ From time to time, we are exposed to interest rate risk on short-term and long-term financial instruments carrying variable interest rates. We may from time to time utilize interest rate swaps to manage overall borrowing costs and reduce exposure to adverse fluctuations in interest rates. We do not use derivative instruments for trading purposes. While we had no variable rate financial instruments outstanding at August 31, 2021 given no outstanding debt under the Credit Facility, we will be exposed to interest rate risk if we borrow under the Credit Facility in the future. 
+ 
+ This market risk discussion contains forward-looking statements. Actual results may differ materially from this discussion based upon general market conditions and changes in domestic and global financial markets. 
+ Item 4. CONTROLS AND PROCEDURES 
+ Evaluation of Disclosure Controls and Procedures. A review and evaluation were carried out under the supervision and with the participation of our management, including our Chief Executive Officer and our Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as such term is defined in Rule 13a-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act )) as of the end of the period covered by this Quarterly Report on Form 10-Q, pursuant to Exchange Act Rules 13a-15 and 15d-15. Based upon that review and evaluation, the Chief Executive Officer and the Chief Financial Officer have concluded that our disclosure controls and procedures as of August 31, 2021 are effective to ensure that information required to be disclosed by us in the reports filed or submitted by us under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange Commission s rules and forms and include controls and procedures designed to ensure that information required to be disclosed by us in such reports is accumulated and communicated to our management, including our principal executive and financial officers as appropriate to allow timely decisions regarding required disclosure. Due to the inherent limitations of control systems, not all misstatements may be detected. Those inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple errors or mistakes. 
+ 28 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ Additionally, controls could be circumvented by the individual acts of some persons or by collusion of two or more people. Our controls and procedures can only provide reasonable, not absolute, assurance that the above objectives have been met. 
+ There have been no changes in our internal control over financial reporting (as defined in Rule 13a 15(f) or Rule 15d 15(f) of the Exchange Act) that occurred during the six months ended August 31, 2021 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ PART II. OTHER INFORMATION 
+ Item 1. Legal Proceedings 
+ 
+ There are no material pending proceedings, other than ordinary routine litigation incidental to the business, to which the Company or any of its subsidiaries is a party or of which any of their property is subject. 
+ 
+ Item 1A. Ri sk Factors 
+ 
+ There have been no material changes in our Risk Factors as previously discussed in our Annual Report on Form 10-K for the year ended February 28, 2021. 
+ 
+ Item 2. Unregistered Sales of Equi ty Securities and Use of Proceeds 
+ 
+ In October 2008, the Board authorized the repurchase of the Company s outstanding common stock through a stock repurchase program, which authorized amount is currently up to 40.0 million in the aggregate. Under the repurchase program, purchases may be made from time to time in the open market or through privately negotiated transactions depending on market conditions, share price, trading volume and other factors. Such purchases, if any, will be made in accordance with applicable insider trading rules and other securities laws and regulations. These repurchases may be commenced or suspended at any time or from time to time without prior notice. 
+ 
+ During the six months ended August 31, 2021, the Company did not repurchase any shares of common stock under the program. As of August 31, 2021, 9.9 million remained available to repurchase shares of the Company s common stock under the program. 
+ 
+ Items 3, 4 and 5 are not appl icable and have been omitted 
+ 
+ 29 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ Item 6. Exhibits 
+ 
+ The following exhibits are filed as part of this report. 
+
+Exhibit Number 
+ 
+ Description 
+
+Exhibit 3.1(a) 
+ 
+ Restated Articles of Incorporation, as amended through June 23, 1983 with attached amendments dated June 20, 1985, July 31, 1985, June 16, 1988 and November 4, 1998, incorporated herein by reference to Exhibit 3.1(a) to the Registrant s Form 10-Q filed on October 6, 2017 (File No. 001-05807). 
+
+Exhibit 3.1(b) 
+ 
+ Amendment to Articles of Incorporation, dated June 17, 2004, incorporated herein by reference to Exhibit 3.1(b) to the Registrant s Annual Report on Form 10-K for the fiscal year ended February 28, 2007 filed on May 9, 2007 (File No. 001-05807). 
+
+Exhibit 3.2 
+ 
+ Fourth Amended and Restated Bylaws of Ennis, Inc., dated July 10, 2017, incorporated herein by reference to Exhibit 3.1 to the Registrant s Current Report on Form 8-K filed on July 10, 2017 (File No. 001-05807). 
+
+Exhibit 31.1 
+ 
+ Certification Pursuant to Rule 13a-14(a) of Chief Executive Officer. 
+
+Exhibit 31.2 
+ 
+ Certification Pursuant to Rule 13a-14(a) of Chief Financial Officer. 
+
+Exhibit 32.1 
+ 
+ Section 1350 Certification of Chief Executive Officer. 
+
+Exhibit 32.2 
+ 
+ Section 1350 Certification of Chief Financial Officer. 
+
+Exhibit 101 
+ 
+ The following information from Ennis, Inc. s Quarterly Report on Form 10-Q for the quarter ended August 31, 2021, filed on October 1, 2021, formatted in Inline XBRL: (i) Consolidated Balance Sheets, (ii) Consolidated Statements of Operations, (iii) Consolidated Statements of Comprehensive Income, (iv) Consolidated Statements of Changes in Shareholders Equity, (v) Consolidated Statements of Cash Flows, and (vi) the Notes to Consolidated Financial Statements, tagged as blocks of text and in detail. 
+
+Exhibit 104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+
+Filed herewith 
+ 	Furnished herewith 
+ 30 
+ 
+ ENNIS, INC. AND SUBSIDIARIES 
+ FORM 10-Q 
+ FOR THE PERIOD ENDED AUGUST 31, 2021 
+ 
+ SIGNAT URES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+ENNIS, INC. 
+
+Date: October 1, 2021 
+ 
+ /s/ Keith S. Walters 
+
+Keith S. Walters 
+
+Chairman, Chief Executive Officer and President 
+
+Date: October 1, 2021 
+ 
+ /s/ Vera Burnett 
+
+Vera Burnett 
+
+Chief Financial Officer, Treasurer and 
+
+Principal Financial and Accounting Officer 
+
+31 
+
+<EX-31.1>
+ 2
+ ebf-20210831ex31_1.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 
+ RULE 13a-14(a) CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ I, Keith S. Walters, Chief Executive Officer of Ennis, Inc., certify that: 
+ 1. I have reviewed this quarterly report on Form 10-Q of Ennis, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+/s/ Keith S. Walters 
+
+Keith S. Walters 
+
+Chief Executive Officer 
+
+October 1, 2021 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ebf-20210831ex31_2.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2 
+ RULE 13a-14(a) CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ I, Vera Burnett, Chief Financial Officer of Ennis, Inc., certify that: 
+ 1. I have reviewed this quarterly report on Form 10-Q of Ennis, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+/s/ Vera Burnett 
+
+Vera Burnett 
+
+Chief Financial Officer 
+
+October 1, 2021 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ebf-20210831ex32_1.htm
+ EX-32.1
+
+EX-32.1 
+
+EXHIBIT 32.1 
+ SECTION 1350 CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ I, Keith S. Walters, Chairman of the Board and Chief Executive Officer of Ennis, Inc. (the Company ), certify, that pursuant to Section 1350 of Chapter 63 of Title 18 of the United States Code: 
+ (1) The Quarterly Report on Form 10-Q of the Company for the period ended August 31, 2021, as filed with the Securities Exchange Commission on the date hereof (the Report fully complies with the requirements of Section 13(a) of the Securities Exchange Act of 1934, as amended; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition, and results of operations of the Company as of the dates and for the periods expressed in the Report. 
+
+/s/ Keith S. Walters 
+
+Keith S. Walters 
+
+Chairman of the Board and 
+
+Chief Executive Officer 
+
+Date: October 1, 2021 
+
+The foregoing Certification is being furnished solely pursuant to 18 U.S.C. Section 1350; it is not being filed for purposes of Section 18 of the Securities Exchange Act, and is not to be incorporated by reference into any filing of the Company, whether made before or after the date hereof, regardless of any general incorporation languages in such filing. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ebf-20210831ex32_2.htm
+ EX-32.2
+
+EX-32.2 
+
+EXHIBIT 32.2 
+ SECTION 1350 CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ I, Vera Burnett, Chief Financial Officer of Ennis, Inc. (the Company ), certify, that pursuant to Section 1350 of Chapter 63 of Title 18 of the United States Code: 
+ (1) The Quarterly Report on Form 10-Q of the Company for the period ended August 31, 2021, as filed with the Securities Exchange Commission on the date hereof (the Report fully complies with the requirements of Section 13(a) of the Securities Exchange Act of 1934, as amended; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition, and results of operations of the Company as of the dates and for the periods expressed in the Report. 
+
+/s/ Vera Burnett 
+
+Vera Burnett 
+
+Chief Financial Officer 
+
+Date: October 1, 2021 
+
+The foregoing Certification is being furnished solely pursuant to 18 U.S.C. Section 1350; it is not being filed for purposes of Section 18 of the Securities Exchange Act, and is not to be incorporated by reference into any filing of the Company, whether made before or after the date hereof, regardless of any general incorporation languages in such filing. 
+
+</EX-32.2>
+
+<EX-101.PRE>
+ 6
+ ebf-20210831_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-101.LAB>
+ 7
+ ebf-20210831_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.SCH>
+ 8
+ ebf-20210831.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.DEF>
+ 9
+ ebf-20210831_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.CAL>
+ 10
+ ebf-20210831_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+

@@ -1,0 +1,1522 @@
+<Header>
+<FileStats>
+    <FileName>20220701_10-K_edgar_data_1579717_0001683168-22-004746.txt</FileName>
+    <GrossFileSize>2021896</GrossFileSize>
+    <NetFileSize>53523</NetFileSize>
+    <NonText_DocumentType_Chars>449052</NonText_DocumentType_Chars>
+    <HTML_Chars>454952</HTML_Chars>
+    <XBRL_Chars>420751</XBRL_Chars>
+    <XML_Chars>593581</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-22-004746.hdr.sgml : 20220701
+<ACCEPTANCE-DATETIME>20220701132708
+ACCESSION NUMBER:		0001683168-22-004746
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		46
+CONFORMED PERIOD OF REPORT:	20210531
+FILED AS OF DATE:		20220701
+DATE AS OF CHANGE:		20220701
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Perk International Inc.
+		CENTRAL INDEX KEY:			0001579717
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING AGENCIES [7311]
+		IRS NUMBER:				462622704
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56184
+		FILM NUMBER:		221060664
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2375 EAST CAMELBACK ROAD, SUITE 600
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+		BUSINESS PHONE:		602-358-7505
+
+	MAIL ADDRESS:	
+		STREET 1:		2375 EAST CAMELBACK ROAD, SUITE 600
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+
+</SEC-Header>
+</Header>
+
+ 0001683168-22-004746.txt : 20220701
+
+10-K
+ 1
+ perk_i10k-053121.htm
+ FORM 10-K
+
+Table of Contents 
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended , 2021 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ____________
+to ____________ 
+
+Commission file number 
+
+(Exact Name of Registrant as Specified in its Charter) 
+
+(State or Other Jurisdiction of 
+Incorporation or Organization) 
+ 
+ (I.R.S. Employer 
+Identification No.) 
+
+, , , 
+
+(Address of Principal Executive Offices) 
+ 
+ (Zip Code) 
+
+Registrant s telephone number, including
+area code: 
+
+Securities registered pursuant to Section 12(b)
+of the Act: None. 
+
+Securities registered pursuant to Section 12(g)
+of the Act: 
+
+Common Stock, .001 par value 
+
+ Title of Class 
+
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes 
+
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+See the definitions of large accelerated filer, accelerated filer, smaller reporting company 
+and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. 
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+As of June 17, 2022, the registrant had shares of common
+stock issued and outstanding. market value has been computed based upon the fact that no active trading market has been established
+as of June 17, 2022. 
+
+TABLE OF CONTENTS 
+
+Page 
+ 
+ PART I 
+
+Item 1. 
+ 
+ Business 
+ 
+ 3 
+
+Item 1A. 
+ 
+ Risk Factors 
+ 
+ 4 
+
+Item 2. 
+ 
+ Property 
+ 
+ 4 
+
+Item 3. 
+ 
+ Legal Proceedings 
+ 
+ 4 
+
+Item 4. 
+ 
+ Mine Safety Disclosures 
+ 
+ 4 
+
+PART II 
+
+Item 5. 
+ 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 5 
+
+Item 6. 
+ 
+ [Reserved] 
+ 
+ 5 
+
+Item 7. 
+ 
+ Management s Discussion and Analysis of Financial Condition and Results of Operation 
+ 
+ 5 
+
+Item 7A. 
+ 
+ Quantitative and Qualitative Disclosure About Market Risk 
+ 
+ 6 
+
+Item 8. 
+ 
+ Financial Statements and Supplementary Data 
+ 
+ 7 
+
+Item 9. 
+ 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 20 
+
+Item 9A. 
+ 
+ Controls and Procedures 
+ 
+ 20 
+
+Item 9B. 
+ 
+ Other Information 
+ 
+ 21 
+
+PART III 
+
+Item 10. 
+ 
+ Directors, Executive Officers and Corporate Governance 
+ 
+ 22 
+
+Item 11. 
+ 
+ Executive Compensation 
+ 
+ 22 
+
+Item 12. 
+ 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 23 
+
+Item 13. 
+ 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 
+ 23 
+
+Item 14. 
+ 
+ Principal Accountant Fees and Services 
+ 
+ 24 
+
+PART IV 
+
+Item 15. 
+ 
+ Exhibits, and Financial Statement Schedules 
+ 
+ 25 
+
+Item 16 
+ 
+ Form 10-K Summary 
+ 
+ 25 
+
+Signatures 
+ 
+ 26 
+
+2 
+
+PART I 
+
+ITEM 1. DESCRIPTION OF BUSINESS 
+
+FORWARD-LOOKING STATEMENTS 
+
+Unless the context indicates otherwise, as used
+in this Annual Report, the terms Perk we, us, our, our company and
+ our business refer, to Perk International, Inc. Certain statements, other than purely historical information, including
+estimates, projections, statements relating to our business plans, objectives, and expected operating results, and the assumptions upon
+which those statements are based, are forward-looking statements. These forward-looking statements generally are identified
+by the words believes, project, expects, anticipates, estimates, 
+ intends, strategy, plan, may, will, would, will
+be, will continue, will likely result, and similar expressions. Forward-looking statements are based
+on current expectations and assumptions that are subject to risks and uncertainties which may cause actual results to differ materially
+from the forward-looking statements. Our ability to predict results or the actual effect of future plans or strategies is inherently uncertain.
+Factors which could have a material adverse effect on our operations and future prospects include, but are not limited to: changes in
+economic conditions, legislative/regulatory changes, availability of capital, interest rates, competition, and generally accepted accounting
+principles. These risks and uncertainties should also be considered in evaluating forward-looking statements and undue reliance should
+not be placed on such statements. 
+
+Corporate History 
+
+On April 10, 2013, Articles of Incorporation were
+filed for Perk International Inc., with the Nevada Secretary of State. 
+
+On April 10, 2013, the Initial List of Officers,
+Directors, and Resident Agent of Perk International, Inc. was filed with the Nevada Secretary of State, naming Andrew Gaudet as Director,
+Chairman, President and CFO, and Leon Golden as Director, CFO and Secretary. 
+
+On February 6, 2015, Andrew Gaudet resigned his
+office of Vice President with Perk International, Inc. As a result, Mr. Gaudet no longer holds any officer position with Perk International
+Inc. 
+
+On February 22, 2019, Marcus Southworth became,
+President, Secretary, Treasurer and Director of Perk International Inc. 
+
+On April 27, 2020, Certification and Notice of
+Termination of Registration Under Section 12(g) of The Securities Exchange Act of 1934 of Duty to File Reports Under Sections 13 and 15
+(d) of the Securities Exchange Act of 1934. 
+
+On April 30, 2020 Marcus resigned from, President,
+Secretary, Treasurer and Director of Perk International Inc. Mr. Southworth no longer holds any officer position with Perk International
+Inc. 
+
+On April 30, 2020, Nelson Grist became the sole
+director of Perk International Inc. 
+
+We are a shell company under Rule
+405 of Regulation C of the Securities Act. A shell company is a company with either no or nominal operations or assets,
+or assets consisting solely of cash and cash equivalents. As a result, our investors are not allowed to rely on Rule 144 of the Securities
+Act for a period of twelve month from the date that we cease to be a shell company. Because investors may not be able to rely on an exemption
+for the resale of their shares other than Rule 144, and there is no guarantee that we will cease to be a shell company, they may not be
+able to re-sell our shares in the future and could lose their entire investment as a result. 
+
+Business Overview 
+
+General 
+
+Perk International, Inc. is an acquisition, sales
+management company for early stage, high growth businesses and technologies in the health care industry. The Company has developed specific
+criteria and standards that must be met by each acquisition candidate. Once identified, the Company will have access to highly seasoned
+and well-trained team of industry professionals to perform thorough due diligence on the potential acquisition partner. Following
+successful due diligence, Perk International, Inc. We will be able to consult with M A advisors to structure and present an attractive
+proposal to the selling entity. 
+
+3 
+
+Perk International, Inc., now feels very comfortable
+in entering the rapidly growing health care market. It is estimated that Holistic and other natural and organic ingredients are believed
+to provide many medical benefits. It has been reported that Holistic and Natural Ingredients may be able to treat hundreds of medical
+issues. 
+
+OUR
+OBJECTIVE 
+
+It is the objective of Perk International, Inc.
+to control every aspect of the natural and organic farming industry from growth to extraction and distribution. This will enable us to
+avoid risking stagnant or contaminated biomass because of third party extraction labs being at full capacity. 
+
+Perk International, Inc., has designed its future into a 3-stage rollout: 
+
+1. 
+ Grow and distribute high grade, certified natural and organic ingredients. 
+
+2. 
+ Own or invest in facilities to manufacturer skincare and supplements 
+
+3. 
+ Provide international wholesale distribution of natural and organic health care products and acquire and open Med Spa s through the United States and the World. 
+
+To reach this objective we have hand-picked a
+team of industry professionals from experience 
+
+Our ultimate objective is to achieve exceptional
+multiples in growth, valuation and revenue to Perk International, Inc. and its shareholders. 
+
+ITEM 1A. RISK FACTORS 
+
+We are a smaller reporting company as defined
+by Rule 12b-2 of the Securities Exchange Act of 1934 and, as such, are not required to provide the information under this Item. 
+
+ITEM 2. PROPERTIES 
+
+We do not own any property. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+There are no material claims, actions, suits,
+proceedings, or investigations that are currently pending or, to the Company s knowledge, threatened by or against the Company or
+respecting its operations or assets, or by or against any of the Company s officers, directors, or affiliates. 
+
+ITEM 4. MINE SAFETY DISCLOSURE 
+
+None. 
+
+4 
+
+PART II 
+
+ITEM 5. MARKET FOR COMMON EQUITY AND RELATED
+STOCKHOLDER MATTERS 
+
+Market Information 
+
+We are currently listed under the symbol PRKI 
+on the Pink Open Market (f/k/a OTC Pink) published by OTC Markets Group, Inc. OTC Pink ), where an established public trading
+market for our common stock does not yet exist. 
+
+At June 3, 2022 there were approximately 25 holders
+of record of our common stock, although we believe that there are other persons who are beneficial owners of our common stock held in
+street name. The transfer agent and registrar for our common stock is VStock Transfer, 18
+Lafayette Pl, Woodmere, NY 11598. Their telephone number is (212) 828-8436. 
+
+Dividend Policy 
+
+We have never paid or declared any dividends on our common stock and
+do not anticipate paying cash dividends in the foreseeable future. 
+
+Recent Issuance of Unregistered Securities 
+
+None. 
+
+Securities Authorized for Issuance Under Equity
+Compensation Plans 
+
+None. 
+
+ITEM 6. [Reserved] 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULT OF OPERATIONS 
+
+The following discussion should be read in conjunction
+with our d financial statements, including the notes thereto, appearing elsewhere in this annual report. The following discussion contains
+forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially
+from those discussed in the forward- looking statements. Factors that could cause or contribute to such differences include,
+but are not limited to those discussed below and elsewhere in this Annual Report. Our audited financial statements are stated in United
+States Dollars and are prepared in accordance with United States Generally Accepted Accounting Principles. 
+
+Results of Operations 
+
+Year Ended May 31, 2021 Compared to the
+Year Ended May 31, 2020 
+
+Revenue 
+
+During the years ended May 31, 2021 and 2020 we
+did not generate any revenue. 
+
+General and Administrative Expenses 
+
+ For the year ended May 31, 2021, we had
+ 20,744 in general and administrative expenses compared to 3,791 for the year ended May 31, 2020, an increase of 16,953 or 447.1 .
+Our primary expenses in 2021 was for transfer agent, filing fees, investor relation expense and other office expense. 
+
+Professional Fees 
+
+ For the year ended May 31, 2021, we had 36,920
+in professional fees compared to 0 for the year ended May 31, 2020, an increase of 36,920. Professional fees consist of legal, audit
+and accounting fee, all of which increased in the current year. 
+
+5 
+
+Other Income/Expense 
+
+ For the year ended May 31, 2021, we had total
+other income of 425,705, compared to an expense of 13,050 for the year ended May 31, 2020. In the current year we had interest expense
+of 7,902 and a gain on extinguishment of debt of 433,607. In the prior period we had interest expense of 13,050. 
+
+Net Income (Loss) 
+
+ For the year ended May 31, 2021, we had net income
+of 368,041 compared to a net loss of 16,841 for the year ended May 31, 2020. We had net income in the current year due to the gain on
+extinguishment of debt. 
+
+Liquidity and Capital Resources 
+
+Cash Flows from Operating Activities 
+
+ For the year ended May 31, 2021, we used 30,679
+of cash in operating activities compared to 1,550 for the year ended May 31, 2020. Use of cash increased with increased expenses as discussed
+above. 
+
+Cash Flows from Financing Activities 
+
+For the year ended May 31, 2021, net cash provided
+by financing activities was 59,613. For the year ended May 31, 2020, net cash provided by financing activities was 1,550. 
+
+The ability of the Company to continue as a going
+concern is dependent on the Company s ability to raise additional capital and implement its business plan. Since its inception,
+the Company has been funded by related parties through capital investment and borrowing of funds. 
+
+Going Concern 
+
+We have not attained profitable operations and
+are dependent upon obtaining financing to pursue any extensive activities. For these reasons, our auditors stated in their report on our
+audited financial statements that they have substantial doubt that we will be able to continue as a going concern without further financing. 
+
+The Company has not yet established an ongoing
+source of revenues sufficient to cover its operating costs for the next fiscal year and allow it to continue as a going concern. The ability
+of the Company to continue as a going concern is dependent on the Company obtaining adequate capital to fund operating losses until it
+becomes profitable. 
+
+Critical Accounting Policies 
+
+Refer to Note 2 of our financial statements contained
+elsewhere in this Form 10-K for a summary of our critical accounting policies and recently adopting and issued accounting standards. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES
+ABOUT MARKET RISK 
+
+We are a smaller reporting company as defined
+by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+
+6 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+INDEX TO FINANCIAL STATEMENTS 
+
+Report of Independent Registered
+ Public Accounting Firm (PCAOB ID 
+ 8 
+
+Report of Independent Registered Public
+ Accounting Firm (PCAOB ID 
+ 9 
+
+Balance Sheets as of May 31, 2021 and 2020 
+ 10 
+
+Statements of Operations for the Years ended May 31, 2021 and 2020 
+ 11 
+
+Statement of Changes in Stockholders Deficit for the Years ended May 31, 2021 and 2020 
+ 12 
+
+Statements of Cash Flows for the Years ended May 31, 2021 and 2020 
+ 13 
+
+Notes to Financial Statements 
+ 14 
+
+7 
+
+Report of Independent Registered Public Accounting
+Firm 
+
+To the Shareholders and Board of Directors
+of Perk International, Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheet
+of Perk International, Inc. (the Company as on May 31, 2021, the related statement of operations, changes in stockholders 
+deficit and cash flows, for the year then ended, and the related notes (collectively referred to as the financial statements ).
+In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of May 31,
+2021, and the results of its operations and its cash flows for the year then ended, in conformity with accounting principles generally
+accepted in the United States of America. 
+
+Substantial Doubt about the Company Ability
+to Continue as a Going Concern 
+
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 3 of the financial statements, the Company has
+an accumulated deficit of 1,174,883 and working capital deficit of 123,755 as of May 31, 2021. These conditions raise substantial doubt
+about the Company s ability to continue as a going concern. Management s plans in regard to this uncertainty are also described
+in the Note 3 to the financial statements. The financial statements do not include any adjustments that 
+
+ might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on these financial statements based on our audit. We are
+a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required
+to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations
+of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audit included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of financial statement. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matter 
+
+The Critical Audit Matter communicated below is
+a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the
+audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective or complex judgments. We determined that there are no critical audit matters. 
+
+/s/ AJSH Co LLP 
+
+We have served as the Company s auditor since 2022. 
+
+July 1, 2022 
+
+8 
+
+Report of Independent Registered Public Accounting
+Firm 
+
+To the shareholders and the board of directors
+of Perk International, Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets
+of Perk International, Inc. (the Company as of May 31, 2020 and 2019, the related statements of operations, stockholders'
+equity (deficit), and cash flows for the years then ended, and the related notes (collectively referred to as the financial statements ).
+In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of May 31,
+2020 and 2019, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles
+generally accepted in the United States. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audit in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal
+control over financial reporting. Accordingly, we express no such opinion. Our audit included performing procedures to assess the risks
+of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks.
+Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit
+also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall
+presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+Substantial Doubt about the Company's Ability
+to Continue as a Going Concern 
+
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements, the Company's
+significant operating losses raise substantial doubt about its ability to continue as a going concern. The financial statements do not
+include any adjustments that might result from the outcome of this uncertainty. 
+
+/s/ BF Borgers CPA PC 
+
+We have served as the Company's auditor since
+2020 
+
+July 14, 2020 
+
+9 
+
+PERK INTERNATIONAL INC. 
+
+ BALANCE SHEETS 
+
+May 31, 2021 
+ May 31, 2020 
+ 
+ ASSETS 
+
+Current Assets: 
+
+Cash 
+
+Total Assets 
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+
+Current Liabilities: 
+
+Accounts payable 
+
+Accrued interest 
+
+Due to related parties 
+
+Loans payable 
+
+Notes payable 
+
+Total Current Liabilities 
+
+Total Liabilities 
+
+Commitments and contingencies 
+
+Stockholders' Deficit: 
+
+Common Stock, par value , and shares authorized, respectively; and shares issued and outstanding, respectively 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total Stockholders' Deficit 
+
+Total Liabilities and Stockholders' Deficit 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+10 
+
+PERK INTERNATIONAL INC. 
+
+ STATEMENTS OF OPERATIONS 
+
+For the Years Ended May 31, 
+
+2021 
+ 2020 
+ 
+ Operating Expenses: 
+
+General and administrative 
+
+Professional fees 
+
+Total operating expenses 
+
+Loss from operations 
+
+Other income (expense): 
+
+Interest expense 
+
+Gain on extinguishment of debt 
+
+Total other income (expense) 
+
+Net income (loss) before provision for income tax 
+
+Provision for income tax 
+
+Net Income (Loss) 
+
+Income (loss) per share, basic and diluted 
+
+Weighted average common shares outstanding, basic and diluted 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+11 
+
+PERK INTERNATIONAL INC. 
+
+ STATEMENT OF STOCKHOLDERS DEFICIT 
+
+ FOR THE YEARS ENDED MAY 31, 2021 AND 2020 
+
+Common Stock 
+ Additional Paid-in 
+ Accumulated 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Total 
+ 
+ Balance, May 31, 2019 
+
+Net Loss 
+
+Balance, May 31, 2020 
+
+Net income 
+
+Balance, May 31, 2021 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+12 
+
+PERK INTERNATIONAL INC. 
+
+ STATEMENTS OF CASH FLOWS 
+
+For the Years Ended May 31, 
+
+2021 
+ 2020 
+ 
+ Cash flows from operating activities: 
+
+Net Income (Loss) 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Gain on extinguishment of debt 
+
+Changes in operating assets and liabilities: 
+
+Accounts payable 
+
+Accrued interest 
+
+Net cash used in operating activities 
+
+Cash flows from investing activities: 
+
+Cash flows from financing activities: 
+
+Cash advances from a related party 
+
+Proceeds from loan payable 
+
+Net cash provided by financing activities 
+
+Net increase in cash 
+
+Cash, beginning of year 
+
+Cash, end of year 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for taxes 
+
+Cash paid for interest 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+13 
+
+PERK INTERNATIONAL INC. 
+
+ NOTES TO FINANCIAL STATEMENTS 
+
+ MAY 31, 2021 
+
+cash equivalents for the years ended May
+31, 2021 or 2020. 
+
+and
+a working capital deficit of as of May 31,
+2021. The Company has an accumulated deficit of and a working capital deficit of as of May 31, 2020. The Company
+will engage in limited activities without incurring significant liabilities that must be satisfied in cash until a source of funding
+is secured. The Company will offer noncash consideration and seek equity lines as a means of financing its operations. If the
+Company is unable to obtain revenue producing contracts or financing or if the revenue or financing it does obtain is insufficient
+to cover any operating losses it may incur, it may substantially curtail or terminate its operations or seek other business
+opportunities through strategic alliances, acquisitions or other arrangements that may dilute the interests of existing
+stockholders. 
+
+have been written off as time barred debt per the applicable statute of limitations and are included in other income 
+gain on extinguishment of debt. 
+
+and , respectively. 
+
+As of May 31, 2021 and 2020, the Company owes
+ and , respectively, to a third party for a loan that was received during the quarter ended February 28, 2015. 
+
+As of May 31, 2021 and 2020, the Company owes
+ and , respectively, to a third party for a loan that was received during the quarter ended February 28, 2015. 
+
+During the year ended May 31, 2021, all
+of the above loans have been written off as time barred debt per the applicable statute of limitations and are included in other income
+ gain on extinguishment of debt. 
+
+loan from Securities Compliance Group, Ltd. The note is unsecured, bears interest at 25 and was due upon the final order of dismissal
+of the custodianship. On October 20, 2022, the note was assigned to Kim Southworth. As of May 31, 2021 and 2020, there is and
+ of interest accrued on this loan, respectively. The 11,953 of accrued interest pertains to the period from July 2018 through
+December 2020. This note is in default. 
+
+On May 2, 2019, the Company executed a promissory
+note with Kim Southworth in the amount of .
+The loan is due either on demand or within five years and carries an interest rate of 6 , compounded annually. As of May 31, 2021 and
+2020, there is 
+ and 
+ of interest accrued on this loan, respectively. 
+
+On December 16, 2020, the Company received a 
+loan from GPL Ventures, LLC. The note is unsecured, bears interest at 10 and matures on December 16, 2021. As of May 31, 2021, there
+is of interest accrued on this loan. 
+
+On March 17, 2021, the Company received a
+ 
+loan from GPL Ventures, LLC. The note is unsecured, bears interest at 10 and matures on March 17, 2022. As of May 31, 2021 and
+2020, there is 1,000 of which is related to processing fees) and 
+of interest accrued on this loan, respectively. 
+
+On May 11, 2021, the Company received a 
+loan from GPL Ventures, LLC. The note is unsecured, bears interest at 10 and matures on May 11, 2022. As of May 31, 2021, there is 
+of interest accrued on this loan. 
+
+was written off as time barred debt per the applicable statute of limitations and are included in other income 
+gain on extinguishment of debt. 
+
+As of May 31, 2021 and 2020, the Company owed
+the CEO and for cash advances to the Company. The advances were used to pay for certain operating expenses. They are unsecured,
+non-interest bearing and due on demand. 
+
+Related Party Accruals 
+
+Less: valuation allowance 
+
+Net deferred tax asset 
+
+The income tax provision differs from the amount
+of income tax determined by applying the U.S. federal income tax rate to pretax income from continuing operations for the period ended
+May 31, due to the following: 
+
+Related Party Accruals 
+
+Other nondeductible expenses 
+
+Less valuation allowance 
+
+Income tax provision 
+
+At May 31, 2021, the Company had net operating
+loss carry forwards of approximately that may be offset against future taxable income. NOLs from tax years up to 2017 can be carried
+forward twenty years. Under the CARES Act, the Company carry forward NOLs indefinitely for NOLs generated in a tax year beginning after
+2017, that remain after they are carried back to tax years in the five-year carryback period. No tax benefit has been reported in the
+May 31, 2021 financial statements since the potential tax benefit is offset by a valuation allowance of the same amount. 
+
+Due to the change in ownership provisions of the
+Tax Reform Act of 1986, net operating loss carry forwards for Federal Income tax reporting purposes are subject to annual limitations.
+Should a change in ownership occur, net operating loss carry forwards may be limited as to use in future years. With few exceptions, the
+Company is no longer subject to U.S. federal, state and local income tax examinations by tax authorities for years before 2016. 
+
+Accrued interest 
+
+Due to related parties 
+
+Loans payable 
+
+Notes payable 
+
+Total current liabilities 
+
+Common stock 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total stockholders' deficit 
+
+Total liabilities and stockholders' equity 
+
+For the Year Ended May 31, 2020 
+
+As Reported 
+ Adjustment 
+ As Restated 
+ 
+ Operating Expenses: 
+
+General and administration expenses 
+
+Total operating expense 
+
+Loss from operations 
+
+Other expense: 
+
+Interest expense 
+
+Total other expense 
+
+Net Loss 
+
+Net loss per share 
+
+Weighted average shares outstanding basic and diluted 
+
+19 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+AND FINANCIAL DISCLOSURE 
+
+Effective May 21, 2022, the Company dismissed
+BF Borgers CPA, PC as the Company s independent registered public accounting firm and appointed AJSH Co, LLP as the Company s
+independent registered public accounting firm. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Management s Report Disclosure
+Controls and Procedures 
+
+During the fourth quarter of the year ended May
+31, 2021, we carried out an evaluation, under the supervision and with the participation of our management, including our principal executive
+officer and principal financial officer, of the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)). Based upon that evaluation, our principal executive officer and principal financial officer concluded that,
+as of the end of the period covered in this report, our disclosure controls and procedures were not effective to ensure that information
+required to be disclosed in reports filed under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and
+reported within the required time periods specified in the Commission s rules and forms and is accumulated and communicated to our
+management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding
+required disclosure. 
+
+Our principal executive officer and principal
+financial officer, do not expect that our disclosure controls and procedures or our internal controls will prevent all error or fraud.
+A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives
+of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints and the
+benefits of controls must be considered relative to their costs. Due to the inherent limitations in all control systems, no evaluation
+of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. 
+
+To address the material weaknesses, we performed
+additional analysis and other post-closing procedures in an effort to ensure our financial statements included in this annual report have
+been prepared in accordance with generally accepted accounting principles. In addition, we engaged accounting consultants to assist
+in the preparation of our financial statements. Accordingly, management believes that the financial statements included in this report
+fairly present in all material respects our financial condition, results of operations and cash flows for the periods presented. 
+
+Management s Report on Internal Control
+over Financial Reporting 
+
+Internal control over financial reporting (as
+defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) is a process designed by, or under the supervision of, our principal
+executive and principal financial officers, and effected by our board of directors, management and other personnel, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles. The management is responsible for establishing and maintaining adequate internal control
+over our financial reporting. Under the supervision and with the participation of our management, including our principal executive officer
+and principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting using
+the Internal Control Integrated Framework (2013) developed by the Committee of Sponsoring Organizations of the
+Treadway Commission. Based on this evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that our internal
+control over financial reporting were not effective as of May 31, 2021. 
+
+We are aware of the following material weaknesses
+in internal control that could adversely affect the Company s ability to record, process, summarize and report financial data: 
+
+Due to our size and limited resources, we currently do not employ the appropriate accounting personnel to ensure (a) we maintain proper segregation of duties, (b) that all transactions are entered timely and accurately, and (c) we properly account for complex or unusual transactions 
+
+Due to our size and scope of operations, we currently do not have an independent audit committee in place 
+
+Due to our size and limited resources, we have not properly documented a complete assessment of the effectiveness of the design and operation of our internal control over financial reporting. 
+
+20 
+
+Inherent limitations on effectiveness of
+controls 
+
+Internal control over financial reporting has
+inherent limitations, which include but is not limited to the use of independent professionals for advice and guidance, interpretation
+of existing and/or changing rules and principles, segregation of management duties, scale of organization, and personnel factors. Internal
+control over financial reporting is a process, which involves human diligence and compliance and is subject to lapses in judgment and
+breakdowns resulting from human failures. Internal control over financial reporting also can be circumvented by collusion or improper
+management override. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements
+on a timely basis, however these inherent limitations are known features of the financial reporting process and it is possible to design
+into the process safeguards to reduce, though not eliminate, this risk. Therefore, even those systems determined to be effective can provide
+only reasonable assurance with respect to financial statement preparation and presentation. Projections of any evaluation of effectiveness
+to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate. 
+
+Changes in Internal Control over Financial
+Reporting 
+
+There have been no changes in our internal controls
+over financial reporting that occurred during the fourth quarter of the year ended May 31, 2021, that have materially or are reasonably
+likely to materially affect, our internal controls over financial reporting. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None 
+
+21 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS;
+COMPLIANCE WITH SECTION 16(A) OF THE EXCHANGE ACT 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Nelson Grist 
+ 
+ 54 
+ 
+ President, Chief Executive Officer, CFO, Treas, Sec. and Member of Board of Directors (Principal Executive, Financial and Accounting Officer) 
+
+Nelson Grist 
+
+Mr. Grist is a highly accomplished, result-driven
+Entrepreneur with more than 29 years of business experience, including extensive work in raising capital (equity and debt), marketing
+and corporate finance. Mr. Grist is well versed in Securities Exchange Commission SEC rules and regulations. In addition,
+Mr. Grist has demonstrated the ability to streamline business operations that drive growth and increase efficiency and bottom-line profits.
+Mr. Grist has strong qualifications in developing and implementing financial controls and processes in addition to productivity improvements
+and change management. 
+
+Mr. Grist currently serves as the Chief Executive
+Officer and member of the Board of Directors of Perk International, Inc. He has held these positions since July 2020. Additionally, Mr.
+Grist has served as Chief Executive Officer and member of the Board of Directors of For the Earth Corp since 2008. For the Earth Corp
+markets and sells Natural and Organic Household Cleaners. Mr. Grist currently serves as the Chief Executive Officer and President
+of XGAURD360 Corporation. He has held these positions since October 2019. XGAURD360 Corporation provides sanitization services
+for high school athletic teams. 
+
+Mr. Grist built the foundation of his career at
+the HJ Heinz Company from 1991 to 2000. Mr. Grist began his career at HJ Heinz Company as a Sales Representative and was eventually promoted
+to National Sales Manager. Mr. Grist implemented several innovative programs that resulted in significant increased sales throughout his
+assigned territory. Further, Mr. Grist added several cost-cutting measures to the marketing of Heinz products that contributed to the
+increased profitability of the overall company. 
+
+Mr. Grist also served as a Senior Business Manager
+for Daymon Worldwide. Mr. Grist was charged with developing new product lines for marketing clients. Mr. Grist also developed marketing
+plans for clients to increase strategic growth. 
+
+Mr. Grist has a demonstrated track record of driving
+profitable growth, collaborating with cross-functional operations, finance, R D, culinary, and brand management teams. Mr. Grist has
+strong analytical and financial acumen. Mr. Grist is well versed in creation and execution of aggressive business plans, budget and strategy. 
+
+Mr. Grist obtained his Bachelor of Business Administration
+in Marketing from the State University of New York in Plattsburgh, New York. 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+The following tables set forth certain information
+about compensation paid, earned or accrued for services by our Executive Officers for the years ended May 31, 2021 and 2020: 
+
+Name and Principal Position 
+ Fiscal Years 
+ Salary ) 
+ Bonus ) 
+ Stock Awards ) 
+ Option Awards ) 
+ Non-Equity Incentive Plan Compensation ) 
+ All Other Compensation ) 
+ All Other Compensation ) 
+ Total ) 
+ 
+ Nelson Grist 
+ 2021 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ 
+ CEO 
+ 2020 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+
+22 
+
+Nelson Grist compensation will be Zero (0) until funding has been secured.
+Once funding has been secured the compensation will be a base salary of 70,000 per year. 
+
+We do not have an audit or compensation committee comprised of independent
+directors as our Company qualifies for an exemption from these requirements. Indeed, we do not have any audit or compensation committee.
+These functions are performed by our Board of Directors as a whole. 
+
+There are no annuity, pension or retirement benefits
+proposed to be paid to the officer or director or employees in the event of retirement at normal retirement date pursuant to any presently
+existing plan provided or contributed to by the company or any of its subsidiaries, if any. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+AND RELATED STOCKHOLDER MATTERS 
+
+The following table sets forth, as of April
+15, 2022, information regarding the beneficial ownership of each class of our voting securities by: (i) our officers and directors; (ii)
+all of our officers and directors as a group; and (iii) each person known by us to beneficially own 5 or more of any class of our outstanding
+voting securities. Generally, a person is deemed to be a beneficial owner of a security if that person has or shares the
+power to dispose or to direct the disposition of such security. A person is also deemed to be a beneficial owner of any securities of
+which the person has the right to acquire beneficial ownership within 60 days. 
+
+Address 
+ Amount and Nature of Beneficial Ownership 
+ Percent of class 
+ 
+ Directors and Officers 
+ 
+ Common Stock 
+
+Nelson Grist - CEO 
+ 4114 Nth 28 th Street Phoenix, AZ 85016 
+ 125,000,000 
+ 55.02 
+ 
+ All directors and executive officers as a group (1 person) 
+ 
+ 125,000,000 
+ 55.02 
+ 
+ Matt O Brien 
+ 244 Berry St Shelburne ON L9V 3E1 Canada 
+ 35,000,000 
+ 15.4 
+ 
+ Robert J. Oswald 
+ 1099 Mesa Crescent Mississauga ON L5H 4B3 Canada 
+ 35,000,000 
+ 15.4 
+ 
+ All other persons (2 persons) 
+ 
+ 70,000,000 
+ 30.8 
+
+ITEM 13. CERTAIN RELATIONSHIPS, RELATED TRANSACTIONS AND DIRECTOR
+INDEPENDENCE 
+
+Director Independence 
+
+For purposes of determining director independence,
+we have applied the definitions set out in NASDAQ Rule 5605(a)(2). The OTCBB on which shares of Common Stock are quoted does not have
+any director independence requirements. The NASDAQ definition of Independent Officer means a person other than an Executive
+Officer or employee of the Company or any other individual having a relationship which, in the opinion of the Company's Board of Directors,
+would interfere with the exercise of independent judgment in carrying out the responsibilities of a director. 
+
+23 
+
+Related Party Transactions 
+
+As of May 31, 2021 and 2020, the Company owed
+the CEO 9,163 and 1,550 for cash advances to the Company. The advances were used to pay for certain operating expenses. They are unsecured,
+non-interest bearing and due on demand. 
+
+Other than the foregoing, neither the director
+nor executive officer of the Company, nor any person who owned of record or was known to own beneficially more than 5 of the Company s
+outstanding shares of its Common Stock, nor any associate or affiliate of such persons or companies, has any material interest, direct
+or indirect, in any transaction that has occurred during the past fiscal year, or in any proposed transaction, which has materially affected
+or will affect the Company. 
+
+With regard to any future related party transaction,
+we plan to fully disclose any and all related party transactions in the following manor: 
+
+Disclosing such transactions in reports where required; 
+
+Disclosing in any and all filings with the SEC, where required; 
+
+Obtaining disinterested directors consent; and 
+
+Obtaining shareholder consent where required. 
+
+Review, Approval or Ratification of Transactions with Related
+Persons 
+
+We are a smaller reporting company as defined
+by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+The following table presents the fees
+for professional audit services rendered by BF Borgers CPA PC, a professional corporation for the audit of the Company s annual
+financial statements during the fiscal years ended May 31, 2021 and 2020 and fees billed for other services rendered during those periods.
+All services reflected in the following fee table for 2021 and 2020 were pre-approved, respectively, in accordance with the policy of
+the Board. 
+
+May 31, 2021 
+ May 31, 2020 
+ 
+ Audit fees 
+ 21,600 
+ 0 
+ 
+ Audit-related fees 
+ 0 
+ 0 
+ 
+ Tax fees 
+ 0 
+ 0 
+ 
+ All other fees 
+ 0 
+ 0 
+ 
+ Total Fees 
+ 21,600 
+ 0 
+
+All of the professional services
+rendered by principal accountants for the audit of our annual financial statements that are normally provided by the accountant in connection
+with statutory and regulatory filings or engagements for last two fiscal years were approved by our board of directors. 
+
+Audit Fees 
+
+Consist of fees billed for
+professional services rendered for the audit of our financial statements and review of interim financial statements included in quarterly
+reports and services that are normally provided by the principal accountants in connection with statutory and regulatory filings or engagements. 
+
+24 
+
+Audit Related Fees 
+
+Consist of fees billed for
+assurance and related services that are reasonably related to the performance of the audit or review of our financial statements and are
+not reported under Audit Fees . 
+
+Tax Fees 
+
+Consist of fees billed for
+professional services for tax compliance, tax advice and tax planning. These services include preparation of federal and state income
+tax returns for the year ended May 31, 2021. 
+
+All Other Fees 
+
+Consist of fees for product
+and services other than the services reported above. 
+
+In its capacity, the Board pre-approves
+all audit (including audit-related) and permitted non-audit services to be performed by the independent auditors. The Board will annually
+approve the scope and fee estimates for the year-end audit to be performed by the Company s independent auditors for the fiscal
+year. With respect to other permitted services, the Board pre-approves specific engagements, projects and categories of services on a
+fiscal year basis, subject to individual project and annual maximums. To date, the Company has not engaged its auditors to perform any
+non-audit related services. 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+The following exhibits are filed as part
+of this Annual Report. 
+
+Exhibit Number 
+ 
+ Description 
+ 
+ 31.1 
+ 
+ Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 ) 
+ 
+ 32.1 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 ) 
+ 
+ 101.INS 
+ 
+ Inline XBRL Instance Document. 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document. 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document. 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document. 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Label Linkbase Document. 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document. 
+ 
+ 104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+
+Item 16. FORM OF 10-K SUMMARY 
+
+None. 
+
+25 
+
+SIGNATURES 
+
+In accordance with the requirements of the Exchange Act, the registrant
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Perk International, Inc. 
+
+Dated: July 1, 2022 
+
+By: /s/ Nelson Grist 
+
+Nelson Grist, Chief Executive Officer 
+
+26 
+
+<EX-31.1>
+ 2
+ perk_ex3101.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. ss 1350, AS ADOPTED PURSUANT TO 
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Nelson Grist, certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of Perk International Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a- 15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+ Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. 
+ I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: July 1, 2022 
+
+/s/ Nelson Grist 
+
+Nelson Grist 
+
+Chief Executive Officer 
+
+(Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ perk_ex3201.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Nelson Grist, hereby certify, pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ the Annual Report on Form 10-K of Perk International, Inc. for the year ended May 31, 2021 (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of Perk International, Inc. 
+
+Dated: July 1, 2022 
+
+/s/ Nelson Grist 
+
+Nelson Grist 
+
+President, Chief Executive Officer, Chief Financial 
+
+Officer, Treasurer and Director 
+
+(Principal Executive Officer, Principal Financial 
+
+Officer and Principal Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 4
+ prki-20210531.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ prki-20210531_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ prki-20210531_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ prki-20210531_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

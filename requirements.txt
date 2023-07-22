@@ -1,0 +1,4 @@
+pandas==1.4.4
+spacy==3.5.4
+SQLAlchemy==1.4.32
+textacy==0.12.0
