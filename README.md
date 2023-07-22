@@ -18,7 +18,7 @@ Also, you need to have the `en_core_web_sm` Spacy model, which can be installed 
 python -m spacy download en_core_web_sm
 ```
 
-The SQLite database `database.sqlite` should be present at the root directory. The text data is expected to be found under a directory structure `./data/*/*/*`.
+The SQLite database `database.sqlite` should be present at the root directory. The text data is expected to be found under a directory structure `./data/YEAR/QUARTER/FILE.txt`.
 
 ## Installation
 
