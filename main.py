@@ -22,8 +22,12 @@ def return_forms(datadir = "./data/*/*/*"):
 
     #Remove the processed files
     print('Removing the processed files')
-    processed_files = pd.read_sql('SELECT accession_number FROM form_data', con=engine)
-    processed_files = set(processed_files['accession_number'].tolist())
+    try:
+        processed_files = pd.read_sql('SELECT accession_number FROM form_data', con=engine)
+        processed_files = set(processed_files['accession_number'].tolist())
+    except:
+        processed_files = {}
+
     forms = [file.replace('\\','/') for file in forms if file.split('_')[5].split('.')[0] not in processed_files]
     return forms
 
@@ -126,6 +130,10 @@ def get_form_multi(files_to_extract,max_workers = 8):
         for file ,doc_number in zip(files_to_extract, range(0,total_queue)):
             executor.submit(get_form_data, file,doc_number,total_queue)
 
+#export SQL to CSV
+def export_sql_to_csv():
+    df = pd.read_sql('SELECT * FROM form_data', con=engine)
+    df.to_csv('data.csv', index=False)
 
 #Load the dictionary
 innovation_dictionary = load_dictionary('./dictionaries/Innovation.txt')
@@ -142,3 +150,6 @@ if __name__ == "__main__":
 
     #Process the files
     get_form_multi(forms,max_workers = 8)
+
+    #Export the data to CSV
+    export_sql_to_csv()
